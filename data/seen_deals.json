@@ -2455,5 +2455,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-08-17T15:36:18+00:00",
     "first_alerted_at": "2026-09-14T19:42:01.683007+00:00"
+  },
+  "a8930e0d1465aa9e": {
+    "title": "5 Free LLM API Providers You Can Use in 2026 - kdnuggets.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tTnZpb2RLWEZ1VjBkc1RycEVwUC1neW5GeWkwa1VYWVJNU0ZzLXZPcTh3d3k4Vm1ONkpQTHE1R0VYOWhwdHhuU3ZDdmpERXVPWDU0VUdPM1B5T1kxVXhETE52eGVMbHRHYkRxVW1rS1lOczN2dm5nam9R?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-04T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T20:15:58.628924+00:00"
   }
 }
