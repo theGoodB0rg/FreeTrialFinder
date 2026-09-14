@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# State & env files
+.env
+data/seen_deals.json.tmp
+# Notice: data/seen_deals.json is preserved in git for GitHub Actions deduplication cache

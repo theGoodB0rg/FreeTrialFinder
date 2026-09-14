@@ -1,0 +1,2396 @@
+{
+  "089c6f5128baf07f": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://build.nvidia.com/settings/api-keys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686332+00:00",
+    "first_alerted_at": "2026-09-14T19:15:05.203118+00:00"
+  },
+  "32f3a6e7ce6d33af": {
+    "title": "ModelScope Free API / Developer Tier",
+    "url": "https://modelscope.cn/my/myaccesstoken\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686453+00:00",
+    "first_alerted_at": "2026-09-14T19:15:05.674414+00:00"
+  },
+  "509cbd081059ed1d": {
+    "title": "Cloudflare Workers AI Free API / Developer Tier",
+    "url": "https://dash.cloudflare.com/profile/api-tokens\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686486+00:00",
+    "first_alerted_at": "2026-09-14T19:15:06.305179+00:00"
+  },
+  "c52edec5a70ca76b": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://aistudio.google.com/app/apikey\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686515+00:00",
+    "first_alerted_at": "2026-09-14T19:15:06.853746+00:00"
+  },
+  "04ef902959dd79f6": {
+    "title": "LLM7.io Free API / Developer Tier",
+    "url": "https://token.llm7.io\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686540+00:00",
+    "first_alerted_at": "2026-09-14T19:15:07.610250+00:00"
+  },
+  "e79379cd5c9c06cd": {
+    "title": "Ollama Cloud Free API / Developer Tier",
+    "url": "https://ollama.com/settings/keys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686562+00:00",
+    "first_alerted_at": "2026-09-14T19:15:08.130071+00:00"
+  },
+  "72f06e8bbcf810fe": {
+    "title": "GitHub Models Free API / Developer Tier",
+    "url": "https://github.com/marketplace/models\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686583+00:00",
+    "first_alerted_at": "2026-09-14T19:15:08.622460+00:00"
+  },
+  "434604d20ff651ff": {
+    "title": "Mistral AI Free API / Developer Tier",
+    "url": "https://console.mistral.ai/api-keys\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686602+00:00",
+    "first_alerted_at": "2026-09-14T19:15:09.102271+00:00"
+  },
+  "98b9deb08e040976": {
+    "title": "Kilo Code Free API / Developer Tier",
+    "url": "https://app.kilo.ai/profile\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686628+00:00",
+    "first_alerted_at": "2026-09-14T19:15:09.582577+00:00"
+  },
+  "584ed0b65cc84571": {
+    "title": "OVHcloud AI Endpoints Free API / Developer Tier",
+    "url": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686648+00:00",
+    "first_alerted_at": "2026-09-14T19:15:10.091697+00:00"
+  },
+  "1be452ceaff5f0e4": {
+    "title": "OpenCode Zen Free API / Developer Tier",
+    "url": "https://opencode.ai/auth\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686669+00:00",
+    "first_alerted_at": "2026-09-14T19:15:10.552883+00:00"
+  },
+  "90e6fa0735b06505": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://console.groq.com/keys\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686687+00:00",
+    "first_alerted_at": "2026-09-14T19:15:11.034196+00:00"
+  },
+  "06f7762aa6346ac8": {
+    "title": "Cohere Free API / Developer Tier",
+    "url": "https://dashboard.cohere.com/api-keys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686705+00:00",
+    "first_alerted_at": "2026-09-14T19:15:11.496233+00:00"
+  },
+  "55e84493545b941d": {
+    "title": "Aion Labs Free API / Developer Tier",
+    "url": "https://www.aionlabs.ai/app/api-keys/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686723+00:00",
+    "first_alerted_at": "2026-09-14T19:15:12.026748+00:00"
+  },
+  "2b5dd47482a13107": {
+    "title": "Z AI Zhipu AI Free API / Developer Tier",
+    "url": "https://open.bigmodel.cn/usercenter/apikeys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686741+00:00",
+    "first_alerted_at": "2026-09-14T19:15:12.500096+00:00"
+  },
+  "d20bfdf01468ef08": {
+    "title": "Hugging Face Free API / Developer Tier",
+    "url": "https://huggingface.co/settings/tokens\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686765+00:00",
+    "first_alerted_at": "2026-09-14T19:15:12.999362+00:00"
+  },
+  "2b315a230a78060c": {
+    "title": "Cerebras Free API / Developer Tier",
+    "url": "https://cloud.cerebras.ai/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686782+00:00",
+    "first_alerted_at": "2026-09-14T19:15:13.512595+00:00"
+  },
+  "6a0b20b0fb0d9f3e": {
+    "title": "Agnes AI Free API / Developer Tier",
+    "url": "https://platform.agnes-ai.com/settings/apiKeys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686807+00:00",
+    "first_alerted_at": "2026-09-14T19:15:13.981200+00:00"
+  },
+  "ce770015d12bc885": {
+    "title": "Alibaba Cloud Model Studio Free API / Developer Tier",
+    "url": "https://bailian.console.alibabacloud.com/?apiKey=1\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686827+00:00",
+    "first_alerted_at": "2026-09-14T19:15:14.441832+00:00"
+  },
+  "b18f49867b19062a": {
+    "title": "SambaNova Free API / Developer Tier",
+    "url": "https://cloud.sambanova.ai/apis\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686850+00:00",
+    "first_alerted_at": "2026-09-14T19:15:14.934466+00:00"
+  },
+  "a9713044f5f18080": {
+    "title": "SiliconFlow Free API / Developer Tier",
+    "url": "https://cloud.siliconflow.cn/account/ak\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686869+00:00",
+    "first_alerted_at": "2026-09-14T19:15:15.405789+00:00"
+  },
+  "b7dae17f226d0c40": {
+    "title": "xAI Free API / Developer Tier",
+    "url": "https://console.x.ai\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686901+00:00",
+    "first_alerted_at": "2026-09-14T19:15:15.875414+00:00"
+  },
+  "8273726a4343bc35": {
+    "title": "Chutes.ai Free API / Developer Tier",
+    "url": "https://chutes.ai/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686922+00:00",
+    "first_alerted_at": "2026-09-14T19:15:16.337989+00:00"
+  },
+  "7be98fe029b29605": {
+    "title": "Glhf.chat Free API / Developer Tier",
+    "url": "https://glhf.chat/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686942+00:00",
+    "first_alerted_at": "2026-09-14T19:15:16.826184+00:00"
+  },
+  "75d77bcf4c6c7424": {
+    "title": "Grok xAI Free API / Developer Tier",
+    "url": "https://console.x.ai/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686962+00:00",
+    "first_alerted_at": "2026-09-14T19:15:17.301699+00:00"
+  },
+  "fd0dcce2fb8552f9": {
+    "title": "AI21 Labs Free API / Developer Tier",
+    "url": "https://studio.ai21.com/account/api-key\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686981+00:00",
+    "first_alerted_at": "2026-09-14T19:15:17.788961+00:00"
+  },
+  "4fc0bfd9174872bf": {
+    "title": "DeepSeek Free API / Developer Tier",
+    "url": "https://platform.deepseek.com/api_keys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.686998+00:00",
+    "first_alerted_at": "2026-09-14T19:15:18.263512+00:00"
+  },
+  "fd70f5d7b459a923": {
+    "title": "Nscale Free API / Developer Tier",
+    "url": "https://console.nscale.com/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687030+00:00",
+    "first_alerted_at": "2026-09-14T19:15:18.751414+00:00"
+  },
+  "d7c34d7daaa80852": {
+    "title": "Nebius Free API / Developer Tier",
+    "url": "https://studio.nebius.com/settings/api-keys\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687049+00:00",
+    "first_alerted_at": "2026-09-14T19:15:19.224689+00:00"
+  },
+  "d0572448ed9b644c": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://openrouter.ai/workspaces/default/keys\"",
+    "provider": "OpenRouter",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687075+00:00",
+    "first_alerted_at": "2026-09-14T19:15:19.684262+00:00"
+  },
+  "4025fac3c73d96fd": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://integrate.api.nvidia.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687098+00:00",
+    "first_alerted_at": "2026-09-14T19:15:20.149389+00:00"
+  },
+  "43419bc5893abb42": {
+    "title": "ModelScope Free API / Developer Tier",
+    "url": "https://api-inference.modelscope.cn/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687119+00:00",
+    "first_alerted_at": "2026-09-14T19:15:20.662361+00:00"
+  },
+  "46fd445db7f4f777": {
+    "title": "Cloudflare Workers AI Free API / Developer Tier",
+    "url": "https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run`",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687137+00:00",
+    "first_alerted_at": "2026-09-14T19:15:21.190070+00:00"
+  },
+  "23254d6d3c173dca": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://openrouter.ai/api/v1`",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687296+00:00",
+    "first_alerted_at": "2026-09-14T19:15:21.673466+00:00"
+  },
+  "c73fa86ea6150192": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://generativelanguage.googleapis.com/v1beta`",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687316+00:00",
+    "first_alerted_at": "2026-09-14T19:15:22.276351+00:00"
+  },
+  "76c4eca44d5b5cfc": {
+    "title": "LLM7.io Free API / Developer Tier",
+    "url": "https://api.llm7.io/v1`",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687334+00:00",
+    "first_alerted_at": "2026-09-14T19:15:22.744097+00:00"
+  },
+  "c72dc3a56a77f680": {
+    "title": "Ollama Cloud Free API / Developer Tier",
+    "url": "https://ollama.com/api`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687355+00:00",
+    "first_alerted_at": "2026-09-14T19:15:23.206556+00:00"
+  },
+  "6ce9bee92ae17294": {
+    "title": "GitHub Models Free API / Developer Tier",
+    "url": "https://models.github.ai/inference`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687373+00:00",
+    "first_alerted_at": "2026-09-14T19:15:23.685613+00:00"
+  },
+  "24fccd295ab26856": {
+    "title": "Mistral AI Free API / Developer Tier",
+    "url": "https://api.mistral.ai/v1`",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687390+00:00",
+    "first_alerted_at": "2026-09-14T19:15:24.164783+00:00"
+  },
+  "61736dea052fe006": {
+    "title": "Kilo Code Free API / Developer Tier",
+    "url": "https://api.kilo.ai/api/gateway`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687409+00:00",
+    "first_alerted_at": "2026-09-14T19:15:24.630282+00:00"
+  },
+  "900759ad0a84a7ab": {
+    "title": "OVHcloud AI Endpoints Free API / Developer Tier",
+    "url": "https://oai.endpoints.kepler.ai.cloud.ovh.net/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687426+00:00",
+    "first_alerted_at": "2026-09-14T19:15:25.111385+00:00"
+  },
+  "d15ce959bcd6b842": {
+    "title": "OpenCode Zen Free API / Developer Tier",
+    "url": "https://opencode.ai/zen/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687444+00:00",
+    "first_alerted_at": "2026-09-14T19:15:25.589647+00:00"
+  },
+  "d41290ec51708a78": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://api.groq.com/openai/v1`",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687462+00:00",
+    "first_alerted_at": "2026-09-14T19:15:26.072382+00:00"
+  },
+  "01ec51bd1a31767e": {
+    "title": "Cohere Free API / Developer Tier",
+    "url": "https://api.cohere.com/v2`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687478+00:00",
+    "first_alerted_at": "2026-09-14T19:15:26.552422+00:00"
+  },
+  "5a7ecafe31410d5f": {
+    "title": "Aion Labs Free API / Developer Tier",
+    "url": "https://api.aionlabs.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687494+00:00",
+    "first_alerted_at": "2026-09-14T19:15:27.019477+00:00"
+  },
+  "64fe8917e76bb968": {
+    "title": "Z AI Zhipu AI Free API / Developer Tier",
+    "url": "https://open.bigmodel.cn/api/paas/v4`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687511+00:00",
+    "first_alerted_at": "2026-09-14T19:15:27.507789+00:00"
+  },
+  "1a19ae729d94fb5a": {
+    "title": "Hugging Face Free API / Developer Tier",
+    "url": "https://router.huggingface.co/v1`",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687529+00:00",
+    "first_alerted_at": "2026-09-14T19:15:27.970358+00:00"
+  },
+  "56fca78ad5cda904": {
+    "title": "Cerebras Free API / Developer Tier",
+    "url": "https://api.cerebras.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687545+00:00",
+    "first_alerted_at": "2026-09-14T19:15:28.442991+00:00"
+  },
+  "bf4a08655db09e4e": {
+    "title": "Agnes AI Free API / Developer Tier",
+    "url": "https://apihub.agnes-ai.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687566+00:00",
+    "first_alerted_at": "2026-09-14T19:15:29.179866+00:00"
+  },
+  "e63ad5f951c2f554": {
+    "title": "Alibaba Cloud Model Studio Free API / Developer Tier",
+    "url": "https://dashscope-intl.aliyuncs.com/compatible-mode/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687582+00:00",
+    "first_alerted_at": "2026-09-14T19:15:29.659745+00:00"
+  },
+  "e0adcd2ed4f7108f": {
+    "title": "SambaNova Free API / Developer Tier",
+    "url": "https://api.sambanova.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687603+00:00",
+    "first_alerted_at": "2026-09-14T19:15:30.204599+00:00"
+  },
+  "961bfd7f0b806f33": {
+    "title": "SiliconFlow Free API / Developer Tier",
+    "url": "https://api.siliconflow.cn/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687623+00:00",
+    "first_alerted_at": "2026-09-14T19:15:30.700630+00:00"
+  },
+  "5d75d196fe34eb9e": {
+    "title": "xAI Free API / Developer Tier",
+    "url": "https://api.x.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687639+00:00",
+    "first_alerted_at": "2026-09-14T19:15:31.237348+00:00"
+  },
+  "98794cbc0c0ea063": {
+    "title": "Chutes.ai Free API / Developer Tier",
+    "url": "https://api.chutes.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687657+00:00",
+    "first_alerted_at": "2026-09-14T19:15:31.813493+00:00"
+  },
+  "9585136bf8e47931": {
+    "title": "Glhf.chat Free API / Developer Tier",
+    "url": "https://glhf.chat/api/openai/v1`",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687674+00:00",
+    "first_alerted_at": "2026-09-14T19:15:32.355454+00:00"
+  },
+  "2d572707bd7ac115": {
+    "title": "Grok xAI Free API / Developer Tier",
+    "url": "https://api.x.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687691+00:00",
+    "first_alerted_at": "2026-09-14T19:15:32.850225+00:00"
+  },
+  "39d85ad611bcfb0b": {
+    "title": "AI21 Labs Free API / Developer Tier",
+    "url": "https://api.ai21.com/studio/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687704+00:00",
+    "first_alerted_at": "2026-09-14T19:15:33.315880+00:00"
+  },
+  "62b6baa793807094": {
+    "title": "DeepSeek Free API / Developer Tier",
+    "url": "https://api.deepseek.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687720+00:00",
+    "first_alerted_at": "2026-09-14T19:15:33.826120+00:00"
+  },
+  "a432b9a62f3e19ad": {
+    "title": "Nscale Free API / Developer Tier",
+    "url": "https://inference.api.nscale.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687736+00:00",
+    "first_alerted_at": "2026-09-14T19:15:34.320095+00:00"
+  },
+  "1cde54f03a91b51b": {
+    "title": "Nebius Free API / Developer Tier",
+    "url": "https://api.studio.nebius.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687752+00:00",
+    "first_alerted_at": "2026-09-14T19:15:34.854129+00:00"
+  },
+  "4b4fbbeab18513a1": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-2/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687781+00:00",
+    "first_alerted_at": "2026-09-14T19:15:35.608950+00:00"
+  },
+  "6b3700b182eacab8": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687806+00:00",
+    "first_alerted_at": "2026-09-14T19:15:36.116986+00:00"
+  },
+  "b0828c2909bc18f9": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/poolside-laguna-xs-2-1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687826+00:00",
+    "first_alerted_at": "2026-09-14T19:15:36.603114+00:00"
+  },
+  "5d3e5dbc3fa5a0fe": {
+    "title": "ModelScope Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/minimax-minimax-m2-5/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687843+00:00",
+    "first_alerted_at": "2026-09-14T19:15:37.097369+00:00"
+  },
+  "6170453da290afad": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/qwen-qwen3-5-35b-a3b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687862+00:00",
+    "first_alerted_at": "2026-09-14T19:15:37.611760+00:00"
+  },
+  "a107e244ed3b3bcd": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/qwen-qwen3-5-27b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687879+00:00",
+    "first_alerted_at": "2026-09-14T19:15:38.118524+00:00"
+  },
+  "dd261406902b2d65": {
+    "title": "Cloudflare Workers AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/mistral-mistral-7b-instruct-v0-1/\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687910+00:00",
+    "first_alerted_at": "2026-09-14T19:15:38.600495+00:00"
+  },
+  "cf7d80c171e7b095": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/qwen-qwen1-5-7b-chat/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687932+00:00",
+    "first_alerted_at": "2026-09-14T19:15:39.108707+00:00"
+  },
+  "74482e9ece11bf59": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-meta-llama-3-3-70b-instruct-fp8-fast/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687955+00:00",
+    "first_alerted_at": "2026-09-14T19:15:39.596515+00:00"
+  },
+  "11d2774b1a576ed0": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3-ultra-550b-a55b/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687975+00:00",
+    "first_alerted_at": "2026-09-14T19:15:40.079905+00:00"
+  },
+  "af3da112c4a93417": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/poolside-laguna-s-2.1/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.687994+00:00",
+    "first_alerted_at": "2026-09-14T19:15:40.551853+00:00"
+  },
+  "09f8a14db6cbfae4": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-fin/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688012+00:00",
+    "first_alerted_at": "2026-09-14T19:15:41.126253+00:00"
+  },
+  "03790486cbc54137": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-7-flash/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688030+00:00",
+    "first_alerted_at": "2026-09-14T19:15:41.631904+00:00"
+  },
+  "a10742c4992faad4": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-6-flash/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688048+00:00",
+    "first_alerted_at": "2026-09-14T19:15:42.110973+00:00"
+  },
+  "6c1408ec6879375e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-5-flash/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688065+00:00",
+    "first_alerted_at": "2026-09-14T19:15:42.600080+00:00"
+  },
+  "dc9bd2d20ce048d4": {
+    "title": "LLM7.io Free API / Developer Tier",
+    "url": "https://freellm.net/models/llm7-io/gpt-oss-20b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688080+00:00",
+    "first_alerted_at": "2026-09-14T19:15:43.106154+00:00"
+  },
+  "0dc156f8fe3c93b5": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/llm7-io/mistral-nemo-instruct-2407/\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688098+00:00",
+    "first_alerted_at": "2026-09-14T19:15:43.577796+00:00"
+  },
+  "84c5b4404075f225": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/llm7-io/minimax-m2-7/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688117+00:00",
+    "first_alerted_at": "2026-09-14T19:15:44.060421+00:00"
+  },
+  "ceac5a6cf9c3cbba": {
+    "title": "Ollama Cloud Free API / Developer Tier",
+    "url": "https://freellm.net/models/ollama-cloud/deepseek-v4-pro/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688133+00:00",
+    "first_alerted_at": "2026-09-14T19:15:44.522960+00:00"
+  },
+  "ba57038f63535678": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ollama-cloud/deepseek-v4-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688152+00:00",
+    "first_alerted_at": "2026-09-14T19:15:45.140994+00:00"
+  },
+  "c9709674a4de1a8a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ollama-cloud/minimax-m3/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688168+00:00",
+    "first_alerted_at": "2026-09-14T19:15:45.604431+00:00"
+  },
+  "d2a352eb8aa37342": {
+    "title": "GitHub Models Free API / Developer Tier",
+    "url": "https://freellm.net/models/github-models/phi-4/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688184+00:00",
+    "first_alerted_at": "2026-09-14T19:15:46.060283+00:00"
+  },
+  "e3a69027effc3aff": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/github-models/mistral-large-2411/\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688204+00:00",
+    "first_alerted_at": "2026-09-14T19:15:46.529095+00:00"
+  },
+  "7613fc843851c813": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/github-models/ai21-jamba-1-5-large/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688223+00:00",
+    "first_alerted_at": "2026-09-14T19:15:47.031574+00:00"
+  },
+  "3a99b18dff614e14": {
+    "title": "Mistral AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/mistral-ai/open-mistral-7b/\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688241+00:00",
+    "first_alerted_at": "2026-09-14T19:15:47.491840+00:00"
+  },
+  "407c5003e703a8fe": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/mistral-ai/open-mixtral-8x7b/\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688261+00:00",
+    "first_alerted_at": "2026-09-14T19:15:47.998593+00:00"
+  },
+  "f7f643ba8bffa693": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/mistral-ai/mistral-medium-3-5-128b/\"",
+    "provider": "Mistral",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688284+00:00",
+    "first_alerted_at": "2026-09-14T19:15:48.522769+00:00"
+  },
+  "15dd17069019b06f": {
+    "title": "Kilo Code Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/nvidia-nemotron-3-ultra-550b-a55b-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688300+00:00",
+    "first_alerted_at": "2026-09-14T19:15:49.060264+00:00"
+  },
+  "199329beb99ec52e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/stepfun-step-3-7-flash-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688318+00:00",
+    "first_alerted_at": "2026-09-14T19:15:49.873654+00:00"
+  },
+  "6f13eb4517d1aa11": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/nvidia-nemotron-3-super-120b-a12b-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688337+00:00",
+    "first_alerted_at": "2026-09-14T19:15:50.420536+00:00"
+  },
+  "4ad7efd8fde5be6f": {
+    "title": "OVHcloud AI Endpoints Free API / Developer Tier",
+    "url": "https://freellm.net/models/ovhcloud-ai-endpoints/qwen3-5-397b-a17b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688354+00:00",
+    "first_alerted_at": "2026-09-14T19:15:50.886099+00:00"
+  },
+  "482c8ac741198ce8": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ovhcloud-ai-endpoints/meta-llama-3-3-70b-instruct/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688374+00:00",
+    "first_alerted_at": "2026-09-14T19:15:51.363267+00:00"
+  },
+  "5eece35bfbbf657c": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ovhcloud-ai-endpoints/qwen3-6-27b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688393+00:00",
+    "first_alerted_at": "2026-09-14T19:15:51.852981+00:00"
+  },
+  "09d6f59843362827": {
+    "title": "OpenCode Zen Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/big-pickle/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688411+00:00",
+    "first_alerted_at": "2026-09-14T19:15:52.315317+00:00"
+  },
+  "db9f4869792840be": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/deepseek-v4-flash-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688429+00:00",
+    "first_alerted_at": "2026-09-14T19:15:52.796791+00:00"
+  },
+  "cff4897610602783": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/mimo-v2-5-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688446+00:00",
+    "first_alerted_at": "2026-09-14T19:15:53.277512+00:00"
+  },
+  "fcdca2b5a160b669": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/moonshotai-kimi-k2-instruct/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688461+00:00",
+    "first_alerted_at": "2026-09-14T19:15:53.769390+00:00"
+  },
+  "c8f327409769cd58": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/moonshotai-kimi-k2-instruct-0905/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688479+00:00",
+    "first_alerted_at": "2026-09-14T19:15:54.256781+00:00"
+  },
+  "8383d6ed8d465296": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/groq-compound/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688497+00:00",
+    "first_alerted_at": "2026-09-14T19:15:54.716565+00:00"
+  },
+  "ed3c0b9c210b0b36": {
+    "title": "Cohere Free API / Developer Tier",
+    "url": "https://freellm.net/models/cohere/command-a-218b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688515+00:00",
+    "first_alerted_at": "2026-09-14T19:15:55.198142+00:00"
+  },
+  "8cf4686a1ce890d1": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cohere/command-a-111b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688532+00:00",
+    "first_alerted_at": "2026-09-14T19:15:55.633262+00:00"
+  },
+  "3e98db4611ce8077": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cohere/command-r/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688550+00:00",
+    "first_alerted_at": "2026-09-14T19:15:56.057009+00:00"
+  },
+  "0fb0319be9176dd7": {
+    "title": "Aion Labs Free API / Developer Tier",
+    "url": "https://freellm.net/models/aion-labs/aion-labs-aion-2-0/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688566+00:00",
+    "first_alerted_at": "2026-09-14T19:15:56.515607+00:00"
+  },
+  "95a7db196b19c8dc": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/aion-labs/aion-labs-aion-rp-llama-3-1-8b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688586+00:00",
+    "first_alerted_at": "2026-09-14T19:15:56.941129+00:00"
+  },
+  "fd044d0106c39c5e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/aion-labs/aion-labs-aion-3-0/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688603+00:00",
+    "first_alerted_at": "2026-09-14T19:15:57.378646+00:00"
+  },
+  "b321d81e92cf210a": {
+    "title": "Z AI Zhipu AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-7-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688626+00:00",
+    "first_alerted_at": "2026-09-14T19:15:57.827282+00:00"
+  },
+  "2fd0a4f0a57db34f": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-5-flash-retirement-announced/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688644+00:00",
+    "first_alerted_at": "2026-09-14T19:15:58.274994+00:00"
+  },
+  "c3902faca897f01f": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-6v-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688661+00:00",
+    "first_alerted_at": "2026-09-14T19:15:58.703487+00:00"
+  },
+  "ef3ff7d5900dafdd": {
+    "title": "Hugging Face Free API / Developer Tier",
+    "url": "https://freellm.net/models/hugging-face/meta-llama-3-1-8b-instruct/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688679+00:00",
+    "first_alerted_at": "2026-09-14T19:15:59.136840+00:00"
+  },
+  "1b985d0c8e11056d": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/hugging-face/gemma-3-4b-it/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688696+00:00",
+    "first_alerted_at": "2026-09-14T19:15:59.566238+00:00"
+  },
+  "c8d430200c822fe4": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/hugging-face/qwen2-5-coder-7b-instruct/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688712+00:00",
+    "first_alerted_at": "2026-09-14T19:16:00.000453+00:00"
+  },
+  "e82bd0796ee05d4f": {
+    "title": "Cerebras Free API / Developer Tier",
+    "url": "https://freellm.net/models/cerebras/llama3-1-70b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688728+00:00",
+    "first_alerted_at": "2026-09-14T19:16:00.448802+00:00"
+  },
+  "63d9f661fbcbecb0": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cerebras/zai-glm-4-7-deprecated-aug-2026/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688745+00:00",
+    "first_alerted_at": "2026-09-14T19:16:00.877309+00:00"
+  },
+  "a9fceda8049cb927": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cerebras/zai-glm-4-7/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688761+00:00",
+    "first_alerted_at": "2026-09-14T19:16:01.306393+00:00"
+  },
+  "1f405fcbf23ef0cc": {
+    "title": "Cline Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/deepseek-deepseek-v4-flash/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688781+00:00",
+    "first_alerted_at": "2026-09-14T19:16:01.735551+00:00"
+  },
+  "dac0c02e43d1d67d": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/poolside-laguna-s-2-1/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688797+00:00",
+    "first_alerted_at": "2026-09-14T19:16:02.169181+00:00"
+  },
+  "e4ff513814b56936": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/z-ai-glm-5-3-flash/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688816+00:00",
+    "first_alerted_at": "2026-09-14T19:16:02.609020+00:00"
+  },
+  "c238dc16e713aabc": {
+    "title": "Agnes AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-1.5-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688832+00:00",
+    "first_alerted_at": "2026-09-14T19:16:03.056199+00:00"
+  },
+  "898162c86930d66f": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-2.0-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688848+00:00",
+    "first_alerted_at": "2026-09-14T19:16:03.489017+00:00"
+  },
+  "1c252ae1b41d4637": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-image-2.0-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688865+00:00",
+    "first_alerted_at": "2026-09-14T19:16:03.949610+00:00"
+  },
+  "5f0f9af9e475438b": {
+    "title": "Alibaba Cloud Model Studio Free API / Developer Tier",
+    "url": "https://freellm.net/models/alibaba-cloud-model-studio/qwen3-max/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688882+00:00",
+    "first_alerted_at": "2026-09-14T19:16:04.381010+00:00"
+  },
+  "a732b16da8ae100a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/alibaba-cloud-model-studio/qwen3-plus/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688910+00:00",
+    "first_alerted_at": "2026-09-14T19:16:04.806568+00:00"
+  },
+  "9df9cc7d992a557e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/alibaba-cloud-model-studio/qwen3-vl-plus/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688929+00:00",
+    "first_alerted_at": "2026-09-14T19:16:05.292751+00:00"
+  },
+  "109bce7b28ca0b17": {
+    "title": "SambaNova Free API / Developer Tier",
+    "url": "https://freellm.net/models/sambanova/deepseek-v3-1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688945+00:00",
+    "first_alerted_at": "2026-09-14T19:16:05.725718+00:00"
+  },
+  "7a38b613a04f28b1": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/sambanova/deepseek-v3-2-preview/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688966+00:00",
+    "first_alerted_at": "2026-09-14T19:16:06.186963+00:00"
+  },
+  "5ff374daf4716c8c": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/sambanova/minimax-m2-7/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.688986+00:00",
+    "first_alerted_at": "2026-09-14T19:16:06.614763+00:00"
+  },
+  "e0e77b7698c49490": {
+    "title": "SiliconFlow Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/abbreviation/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689001+00:00",
+    "first_alerted_at": "2026-09-14T19:16:07.045152+00:00"
+  },
+  "3f48e175df1646d2": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/deepseek-ai-deepseek-r1-distill-qwen-7b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689019+00:00",
+    "first_alerted_at": "2026-09-14T19:16:07.477038+00:00"
+  },
+  "9a953aed0ebab44e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/deepseek-ai-deepseek-ocr/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689038+00:00",
+    "first_alerted_at": "2026-09-14T19:16:07.984144+00:00"
+  },
+  "b9884f0fa1fd7db1": {
+    "title": "xAI Free API / Developer Tier",
+    "url": "https://freellm.net/models/xai/grok-4-3/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689055+00:00",
+    "first_alerted_at": "2026-09-14T19:16:08.418210+00:00"
+  },
+  "978daa42f6d6fa41": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/xai/grok-4-1-fast/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689078+00:00",
+    "first_alerted_at": "2026-09-14T19:16:08.848874+00:00"
+  },
+  "187a8d98894b25b4": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/xai/grok-3-mini/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689095+00:00",
+    "first_alerted_at": "2026-09-14T19:16:09.283804+00:00"
+  },
+  "4298ee02966ebc66": {
+    "title": "Chutes.ai Free API / Developer Tier",
+    "url": "https://freellm.net/models/chutes-ai/deepseek-ai-deepseek-r1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689114+00:00",
+    "first_alerted_at": "2026-09-14T19:16:09.718423+00:00"
+  },
+  "dfe61b7a204a248a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/chutes-ai/meta-llama-meta-llama-3-1-70b-instruct/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689134+00:00",
+    "first_alerted_at": "2026-09-14T19:16:10.175267+00:00"
+  },
+  "e1c89f4b97be9175": {
+    "title": "Glhf.chat Free API / Developer Tier",
+    "url": "https://freellm.net/models/glhf-chat/meta-llama-meta-llama-3-1-70b-instruct-2/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689151+00:00",
+    "first_alerted_at": "2026-09-14T19:16:10.613028+00:00"
+  },
+  "210780bfb68346f3": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/glhf-chat/mistralai-mixtral-8x7b-instruct-v0-1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689169+00:00",
+    "first_alerted_at": "2026-09-14T19:16:11.060332+00:00"
+  },
+  "11a6be3d171747bb": {
+    "title": "Grok xAI Free API / Developer Tier",
+    "url": "https://freellm.net/models/grok-(xai)/grok-2/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689186+00:00",
+    "first_alerted_at": "2026-09-14T19:16:11.498932+00:00"
+  },
+  "f6725260604930c1": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/grok-(xai)/grok-2-mini/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689203+00:00",
+    "first_alerted_at": "2026-09-14T19:16:12.107060+00:00"
+  },
+  "1362a2d5e38698a6": {
+    "title": "AI21 Labs Free API / Developer Tier",
+    "url": "https://freellm.net/models/ai21-labs/jamba-large-1-7/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689219+00:00",
+    "first_alerted_at": "2026-09-14T19:16:12.856584+00:00"
+  },
+  "52abda1037dafe0b": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ai21-labs/jamba-mini-2/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689239+00:00",
+    "first_alerted_at": "2026-09-14T19:16:13.285782+00:00"
+  },
+  "64d7468d359efb37": {
+    "title": "DeepSeek Free API / Developer Tier",
+    "url": "https://freellm.net/models/deepseek/deepseek-chat-v3-2/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689257+00:00",
+    "first_alerted_at": "2026-09-14T19:16:13.723977+00:00"
+  },
+  "901f11278705ea09": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/deepseek/deepseek-reasoner-r1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689275+00:00",
+    "first_alerted_at": "2026-09-14T19:16:14.160673+00:00"
+  },
+  "11754d463e6b5d69": {
+    "title": "Nscale Free API / Developer Tier",
+    "url": "https://freellm.net/models/nscale/llama-3-3-70b-instruct/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689291+00:00",
+    "first_alerted_at": "2026-09-14T19:16:14.587651+00:00"
+  },
+  "f8bad3355a9c806e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nscale/deepseek-r1-distill-llama-70b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689310+00:00",
+    "first_alerted_at": "2026-09-14T19:16:15.042432+00:00"
+  },
+  "15a48e7e86b0c01b": {
+    "title": "Nebius Free API / Developer Tier",
+    "url": "https://freellm.net/models/nebius/qwen3-235b-a22b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689326+00:00",
+    "first_alerted_at": "2026-09-14T19:16:15.472366+00:00"
+  },
+  "7e750413070d3b12": {
+    "title": "<a href=\"https://ollama.com\" target=\"_blank\" rel=\"noopener\">Ollama</a> Free API / Developer Tier",
+    "url": "https://ollama.com\"",
+    "provider": "OpenAI",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-14T19:14:57.689352+00:00",
+    "first_alerted_at": "2026-09-14T19:16:15.911217+00:00"
+  },
+  "2a7e5f790d4c5d46": {
+    "title": "<a href=\"https://lmstudio.ai\" target=\"_blank\" rel=\"noopener\">LM Studio</a> Free API / Developer Tier",
+    "url": "https://lmstudio.ai\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689371+00:00",
+    "first_alerted_at": "2026-09-14T19:16:16.345572+00:00"
+  },
+  "d756cefbb9be8a66": {
+    "title": "<a href=\"https://github.com/ggerganov/llama.cpp\" target=\"_blank\" rel=\"noopener\">llama.cpp</a> Free API / Developer Tier",
+    "url": "https://github.com/ggerganov/llama.cpp\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689395+00:00",
+    "first_alerted_at": "2026-09-14T19:16:16.774051+00:00"
+  },
+  "2f367563842c1406": {
+    "title": "<a href=\"https://gpt4all.io\" target=\"_blank\" rel=\"noopener\">GPT4All</a> Free API / Developer Tier",
+    "url": "https://gpt4all.io\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689414+00:00",
+    "first_alerted_at": "2026-09-14T19:16:17.222981+00:00"
+  },
+  "9a7000ca15acfd6a": {
+    "title": "<a href=\"https://jan.ai\" target=\"_blank\" rel=\"noopener\">Jan.ai</a> Free API / Developer Tier",
+    "url": "https://jan.ai\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689434+00:00",
+    "first_alerted_at": "2026-09-14T19:16:17.648514+00:00"
+  },
+  "099478121e5ff754": {
+    "title": "<a href=\"https://github.com/LostRuins/koboldcpp\" target=\"_blank\" rel=\"noopener\">KoboldCpp</a> Free API / Developer Tier",
+    "url": "https://github.com/LostRuins/koboldcpp\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689453+00:00",
+    "first_alerted_at": "2026-09-14T19:16:18.098654+00:00"
+  },
+  "505d342057563ef7": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nvidia-nemotron-3-ultra-550b-a55b/\" target=\"_blank\" rel=\"noopener\">NVIDIA: Nemotron 3 Ultra free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3-ultra-550b-a55b/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689480+00:00",
+    "first_alerted_at": "2026-09-14T19:16:18.532516+00:00"
+  },
+  "e8a376f1adc7f136": {
+    "title": "<a href=\"https://freellm.net/models/nvidia-nim/z-ai-glm-5-2/\" target=\"_blank\" rel=\"noopener\">z-ai/glm-5.2</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-2/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689497+00:00",
+    "first_alerted_at": "2026-09-14T19:16:18.981407+00:00"
+  },
+  "6856814688e144f5": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/poolside-laguna-s-2.1/\" target=\"_blank\" rel=\"noopener\">Poolside: Laguna S 2.1 free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/poolside-laguna-s-2.1/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689513+00:00",
+    "first_alerted_at": "2026-09-14T19:16:19.418146+00:00"
+  },
+  "63fe59b4bf1c991d": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-fin/\" target=\"_blank\" rel=\"noopener\">inclusionAI: Ling 3.0 Flash Fin free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-fin/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689530+00:00",
+    "first_alerted_at": "2026-09-14T19:16:19.855587+00:00"
+  },
+  "7c119551c4e5bf68": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/poolside-laguna-m-1/\" target=\"_blank\" rel=\"noopener\">Poolside: Laguna M.1 free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/poolside-laguna-m-1/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689549+00:00",
+    "first_alerted_at": "2026-09-14T19:16:20.303461+00:00"
+  },
+  "1a7c1a428dc70dc9": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nvidia-nemotron-3.5-lightning/\" target=\"_blank\" rel=\"noopener\">NVIDIA: Nemotron 3.5 Lightning free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3.5-lightning/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689573+00:00",
+    "first_alerted_at": "2026-09-14T19:16:20.742552+00:00"
+  },
+  "846260a5cc8eb08b": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/dots-studio-dots-3-note-preview/\" target=\"_blank\" rel=\"noopener\">Dots Studio: Dots3-Note Preview free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/dots-studio-dots-3-note-preview/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689595+00:00",
+    "first_alerted_at": "2026-09-14T19:16:21.180356+00:00"
+  },
+  "27d3fd03490df602": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/thinkingmachines-inkling-small/\" target=\"_blank\" rel=\"noopener\">Thinking Machines: Inkling Small free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/thinkingmachines-inkling-small/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689615+00:00",
+    "first_alerted_at": "2026-09-14T19:16:21.617502+00:00"
+  },
+  "05d33ab3e64458a8": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/thinkingmachines-inkling/\" target=\"_blank\" rel=\"noopener\">Thinking Machines: Inkling free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/thinkingmachines-inkling/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689634+00:00",
+    "first_alerted_at": "2026-09-14T19:16:22.057017+00:00"
+  },
+  "27497c3bd9daa9c8": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nvidia-nemotron-3-super-120b-a12b/\" target=\"_blank\" rel=\"noopener\">NVIDIA: Nemotron 3 Super free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3-super-120b-a12b/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:57.689656+00:00",
+    "first_alerted_at": "2026-09-14T19:16:22.488274+00:00"
+  },
+  "c52d82df046c4ce7": {
+    "title": "Qwen Code Free API / Developer Tier",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.032878+00:00",
+    "first_alerted_at": "2026-09-14T19:16:22.962005+00:00"
+  },
+  "e518d93ec794a9bc": {
+    "title": "Rovo Dev CLI Free API / Developer Tier",
+    "url": "https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.032959+00:00",
+    "first_alerted_at": "2026-09-14T19:16:23.455989+00:00"
+  },
+  "709cbad8e1e54e86": {
+    "title": "Gemini CLI Free API / Developer Tier",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.032989+00:00",
+    "first_alerted_at": "2026-09-14T19:16:23.936159+00:00"
+  },
+  "5f1b2b5ed009073d": {
+    "title": "Cursor Free API / Developer Tier",
+    "url": "https://cursor.com/",
+    "provider": "OpenAI",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033013+00:00",
+    "first_alerted_at": "2026-09-14T19:16:24.421983+00:00"
+  },
+  "a0c18bc8ff4d0ecd": {
+    "title": "Kilo Code Free API / Developer Tier",
+    "url": "https://kilocode.ai/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033037+00:00",
+    "first_alerted_at": "2026-09-14T19:16:24.862331+00:00"
+  },
+  "8c93d51b659bcfd7": {
+    "title": "Warp Free API / Developer Tier",
+    "url": "https://warp.dev/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033057+00:00",
+    "first_alerted_at": "2026-09-14T19:16:25.294579+00:00"
+  },
+  "7d9ae32a8e4a9cae": {
+    "title": "Trae Free API / Developer Tier",
+    "url": "https://trae.ai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033076+00:00",
+    "first_alerted_at": "2026-09-14T19:16:25.776444+00:00"
+  },
+  "b905d00e2815b297": {
+    "title": "Amazon Q Developer Free API / Developer Tier",
+    "url": "https://aws.amazon.com/q/developer/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033095+00:00",
+    "first_alerted_at": "2026-09-14T19:16:26.290985+00:00"
+  },
+  "00a978ddf8239008": {
+    "title": "GitHub Copilot Free API / Developer Tier",
+    "url": "https://github.com/features/copilot/plans",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033115+00:00",
+    "first_alerted_at": "2026-09-14T19:16:26.727202+00:00"
+  },
+  "15cd21876d17b068": {
+    "title": "Windsurf Free API / Developer Tier",
+    "url": "https://windsurf.com/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033134+00:00",
+    "first_alerted_at": "2026-09-14T19:16:27.195222+00:00"
+  },
+  "d3c4f342e28e18dc": {
+    "title": "Jules Free API / Developer Tier",
+    "url": "https://jules.google/",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033154+00:00",
+    "first_alerted_at": "2026-09-14T19:16:27.672318+00:00"
+  },
+  "168893c4eda5e35c": {
+    "title": "AWS Kiro Free API / Developer Tier",
+    "url": "https://kiro.dev/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:14:58.033174+00:00",
+    "first_alerted_at": "2026-09-14T19:16:28.162790+00:00"
+  },
+  "950b10352f81dc55": {
+    "title": "Qoder Free API / Developer Tier",
+    "url": "https://qoder.com/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-14T19:14:58.033191+00:00",
+    "first_alerted_at": "2026-09-14T19:16:28.638154+00:00"
+  },
+  "932b48f201b89f56": {
+    "title": "Show HN: Makefaster.dev",
+    "url": "https://makefaster.dev",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-13T18:24:29+00:00",
+    "first_alerted_at": "2026-09-14T19:16:29.103347+00:00"
+  },
+  "447b58542f4bf4b6": {
+    "title": "Ask HN: Have LLMs demonstrated the ability to earn money by themselves?",
+    "url": "https://news.ycombinator.com/item?id=49686365",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-13T17:30:19+00:00",
+    "first_alerted_at": "2026-09-14T19:16:29.540335+00:00"
+  },
+  "09dc4b29fc0bbc15": {
+    "title": "Ask HN: What default model do you use and why?",
+    "url": "https://news.ycombinator.com/item?id=49672966",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-12T14:58:44+00:00",
+    "first_alerted_at": "2026-09-14T19:16:29.964821+00:00"
+  },
+  "3ff64f9ca1f3564d": {
+    "title": "Show HN: Cadenya – An Agent Runtime",
+    "url": "https://www.cadenya.com/",
+    "provider": "OpenAI",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-10T22:52:18+00:00",
+    "first_alerted_at": "2026-09-14T19:16:30.389596+00:00"
+  },
+  "00d71d1f9f947d04": {
+    "title": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
+    "url": "https://www.uprouter.online/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-10T10:00:54+00:00",
+    "first_alerted_at": "2026-09-14T19:16:30.842057+00:00"
+  },
+  "23acd74af5816d3e": {
+    "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+    "url": "https://news.ycombinator.com/item?id=49552616",
+    "provider": "General AI",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-03T16:24:13+00:00",
+    "first_alerted_at": "2026-09-14T19:16:31.378574+00:00"
+  },
+  "16f6260ab5baf50b": {
+    "title": "Show HN: Ardent, a code-first agent for non-engineering work",
+    "url": "https://ardent.ai/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-03T15:01:24+00:00",
+    "first_alerted_at": "2026-09-14T19:16:31.827007+00:00"
+  },
+  "60418c71f1a71106": {
+    "title": "Show HN: Orthogonal – One integration for agents to discover and pay for APIs",
+    "url": "https://www.orthogonal.com/",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-01T15:56:23+00:00",
+    "first_alerted_at": "2026-09-14T19:16:32.275629+00:00"
+  },
+  "7485f47fc49ec236": {
+    "title": "Show HN: A C Compiler written with help of Claude",
+    "url": "https://github.com/Javier-Barrio/myCC/tree/main",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-12T16:06:11+00:00",
+    "first_alerted_at": "2026-09-14T19:16:32.702363+00:00"
+  },
+  "089ecd13e7366332": {
+    "title": "Show HN: Keychron macOS Battery Life and Controls",
+    "url": "https://github.com/bkovacev/keychron-macos",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-11T18:26:41+00:00",
+    "first_alerted_at": "2026-09-14T19:16:33.203486+00:00"
+  },
+  "8f39fbb812d49f30": {
+    "title": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
+    "url": "https://news.ycombinator.com/item?id=49626148",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-09T13:24:02+00:00",
+    "first_alerted_at": "2026-09-14T19:16:33.647877+00:00"
+  },
+  "de7751c23bd117f0": {
+    "title": "Tell HN: Anthropic should make Claude the Author and me the Co-Author",
+    "url": "https://news.ycombinator.com/item?id=49593777",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-07T04:07:09+00:00",
+    "first_alerted_at": "2026-09-14T19:16:34.125391+00:00"
+  },
+  "977cb2fe8806b963": {
+    "title": "Show HN: Profound Academy – an agentic course builder for hands-on courses",
+    "url": "https://profound.academy",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-03T07:40:02+00:00",
+    "first_alerted_at": "2026-09-14T19:16:34.601151+00:00"
+  },
+  "695a7186884cf337": {
+    "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+    "url": "https://studio.cogram.com/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-30T18:49:39+00:00",
+    "first_alerted_at": "2026-09-14T19:16:35.037572+00:00"
+  },
+  "1848d8aec65349cd": {
+    "title": "Show HN: I built a site to share and find Claude Code passes",
+    "url": "https://claudecoupons.com",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-27T15:43:35+00:00",
+    "first_alerted_at": "2026-09-14T19:16:35.518648+00:00"
+  },
+  "e9e3439333a7c77c": {
+    "title": "Ask HN: What Did Anthropic Bill Me For?",
+    "url": "https://news.ycombinator.com/item?id=49434551",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-25T14:15:18+00:00",
+    "first_alerted_at": "2026-09-14T19:16:35.978080+00:00"
+  },
+  "cdd686fc41d554f0": {
+    "title": "Show HN: PingChange – monitor web pages and OpenAPI specs for meaningful changes",
+    "url": "https://pingchange.com",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-08-20T20:51:42+00:00",
+    "first_alerted_at": "2026-09-14T19:16:36.591826+00:00"
+  },
+  "56132eea7bb16945": {
+    "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+    "url": "https://github.com/danielealbano/android-remote-control-mcp/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-19T14:23:13+00:00",
+    "first_alerted_at": "2026-09-14T19:16:37.049860+00:00"
+  },
+  "de194a80f67736a4": {
+    "title": "OpenAI's Bubeck denies trying to cut Anthropic mathematician from credit",
+    "url": "https://thenextweb.com/news/bubeck-navier-stokes-account-apology-altman",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-11T02:10:19+00:00",
+    "first_alerted_at": "2026-09-14T19:16:37.562550+00:00"
+  },
+  "e5299efe867140b0": {
+    "title": "OpenAI's historic math solution overshadowed by credit controversy",
+    "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-08T16:43:28+00:00",
+    "first_alerted_at": "2026-09-14T19:16:38.017008+00:00"
+  },
+  "379f8adcc9fda285": {
+    "title": "Show HN: ThunderPhone v2 – a new architecture for voice AI",
+    "url": "https://thunderphone.com",
+    "provider": "OpenAI",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-27T15:14:24+00:00",
+    "first_alerted_at": "2026-09-14T19:16:38.449800+00:00"
+  },
+  "59af6e691bca3710": {
+    "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
+    "url": "https://twitter.com/OpenAI/status/2090885187634905500",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-21T19:39:04+00:00",
+    "first_alerted_at": "2026-09-14T19:16:38.936020+00:00"
+  },
+  "bfd4ce6465995219": {
+    "title": "OpenAI reaches 20M Codex users, credits all accounts with banked resets",
+    "url": "https://twitter.com/thsottiaux/status/2090766694897619318",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-21T11:47:57+00:00",
+    "first_alerted_at": "2026-09-14T19:16:39.405997+00:00"
+  },
+  "850691538f6a2166": {
+    "title": "Gifting Credits in ChatGPT",
+    "url": "https://help.openai.com/en/articles/20001417-gifting-credits-in-chatgpt",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-13T13:23:54+00:00",
+    "first_alerted_at": "2026-09-14T19:16:39.904787+00:00"
+  },
+  "9d87f00b8fac41ea": {
+    "title": "Solved! Ask HN: Is ChatGPT image generation down for everyone or just me?",
+    "url": "https://news.ycombinator.com/item?id=49211589",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-07T15:05:37+00:00",
+    "first_alerted_at": "2026-09-14T19:16:40.344306+00:00"
+  },
+  "4737856129265e6b": {
+    "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
+    "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-05T21:04:07+00:00",
+    "first_alerted_at": "2026-09-14T19:16:40.812916+00:00"
+  },
+  "87093497fbb8a507": {
+    "title": "Do You Think OpenAI Is Apple Circa the 1980s?",
+    "url": "https://news.ycombinator.com/item?id=49178393",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-05T03:50:17+00:00",
+    "first_alerted_at": "2026-09-14T19:16:41.274105+00:00"
+  },
+  "89ec2d9eb5ee9a1a": {
+    "title": "Show HN: Alcatraz – Pure-Go PII detection, 100x faster than MS Presidio",
+    "url": "https://news.ycombinator.com/item?id=49169567",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-04T14:33:22+00:00",
+    "first_alerted_at": "2026-09-14T19:16:41.707522+00:00"
+  },
+  "9063996d997771d7": {
+    "title": "OpenAI has the right strategy, but is unlucky",
+    "url": "https://news.ycombinator.com/item?id=49165173",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-04T07:01:34+00:00",
+    "first_alerted_at": "2026-09-14T19:16:42.131964+00:00"
+  },
+  "545f9afa5c6df766": {
+    "title": "Show HN: RNet – AI token service provider",
+    "url": "https://news.ycombinator.com/item?id=49318304",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-16T09:11:32+00:00",
+    "first_alerted_at": "2026-09-14T19:16:42.561743+00:00"
+  },
+  "24dbcb6927181610": {
+    "title": "Show HN: Sorted Receipts - clients dump receipts in one link, LLM sorts them",
+    "url": "https://upload.sortedreceipts.com/demo",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-21T22:51:01+00:00",
+    "first_alerted_at": "2026-09-14T19:16:42.986053+00:00"
+  },
+  "0c9d9674cde525db": {
+    "title": "Now you can send tokens instead of money",
+    "url": "https://news.ycombinator.com/item?id=48661232",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-24T15:14:51+00:00",
+    "first_alerted_at": "2026-09-14T19:16:43.412700+00:00"
+  },
+  "7593252997f776be": {
+    "title": "Ask HN: Some Sensible Alternative to Openrouter?",
+    "url": "https://news.ycombinator.com/item?id=48275546",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-26T05:54:44+00:00",
+    "first_alerted_at": "2026-09-14T19:16:43.853901+00:00"
+  },
+  "90e0dbd786f3ccdb": {
+    "title": "Show HN: Chat with UFO Files",
+    "url": "https://news.ycombinator.com/item?id=48067733",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-08T19:40:34+00:00",
+    "first_alerted_at": "2026-09-14T19:16:44.338015+00:00"
+  },
+  "2c3242323834f837": {
+    "title": "Show HN: AI coding agent for VS Code with pay-as-you-go pricing- no subscription",
+    "url": "https://www.llmonestop.com/#pricing",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-03-14T21:30:09+00:00",
+    "first_alerted_at": "2026-09-14T19:16:44.784752+00:00"
+  },
+  "13f9e0af3a8e794c": {
+    "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+    "url": "https://klausai.com/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-11T15:54:23+00:00",
+    "first_alerted_at": "2026-09-14T19:16:45.278998+00:00"
+  },
+  "8f769d45033eff94": {
+    "title": "Ask HN: What models do you use for your OpenClaw so that skills work well",
+    "url": "https://news.ycombinator.com/item?id=47308549",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-09T13:07:57+00:00",
+    "first_alerted_at": "2026-09-14T19:16:45.718022+00:00"
+  },
+  "bd7271e32a12a62b": {
+    "title": "Show HN: PowerVerb – rewrite weak resume bullets with stronger action verbs",
+    "url": "https://www.resumeactionverbs.com",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-04T08:04:02+00:00",
+    "first_alerted_at": "2026-09-14T19:16:46.208980+00:00"
+  },
+  "ea97354b15a180cd": {
+    "title": "Show HN: SVG Weave. A node graph editor that animates SVGs with AI",
+    "url": "https://svgweave.com",
+    "provider": "Google",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-27T16:59:31+00:00",
+    "first_alerted_at": "2026-09-14T19:16:46.670554+00:00"
+  },
+  "1b4adbac34a0effe": {
+    "title": "Show HN: CLI Image Generation Agent Using (OpenRouter and Free Models)",
+    "url": "https://news.ycombinator.com/item?id=47102500",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-21T17:02:03+00:00",
+    "first_alerted_at": "2026-09-14T19:16:47.142385+00:00"
+  },
+  "b5743e1d81eba386": {
+    "title": "Show HN: DynoTable – The DynamoDB GUI with real SQL and your AI agent",
+    "url": "https://dynotable.com/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-28T11:07:14+00:00",
+    "first_alerted_at": "2026-09-14T19:16:47.610299+00:00"
+  },
+  "3b85110ae63d4255": {
+    "title": "Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-07T19:17:34+00:00",
+    "first_alerted_at": "2026-09-14T19:16:48.083322+00:00"
+  },
+  "547dbef169cc5f85": {
+    "title": "Show HN: Busbar – every LLM behind one URL, in a single Rust binary",
+    "url": "https://github.com/MattJackson/busbarAI",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-06-05T18:58:16+00:00",
+    "first_alerted_at": "2026-09-14T19:16:48.543898+00:00"
+  },
+  "4e30e99e792f58d5": {
+    "title": "$38k AWS Bedrock bill caused by a simple prompt caching miss",
+    "url": "https://news.ycombinator.com/item?id=47933355",
+    "provider": "Anthropic",
+    "score": 95,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-04-28T12:07:40+00:00",
+    "first_alerted_at": "2026-09-14T19:16:48.975900+00:00"
+  },
+  "f02483419d211a5d": {
+    "title": "Show HN: Knowza.ai – Free 10-question trial now live (AI-powered AWS exam prep)",
+    "url": "https://www.knowza.ai/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-18T18:50:15+00:00",
+    "first_alerted_at": "2026-09-14T19:16:49.411620+00:00"
+  },
+  "15b270796d452a38": {
+    "title": "Show HN: Tickr – AI project manager that lives inside Slack (replaces Jira)",
+    "url": "https://news.ycombinator.com/item?id=47110071",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-22T11:08:39+00:00",
+    "first_alerted_at": "2026-09-14T19:16:50.822232+00:00"
+  },
+  "6a20f82bcbe9208e": {
+    "title": "60 Year old vibe coder create revenue SaaS with vibe agent and vibe testing tool",
+    "url": "https://news.ycombinator.com/item?id=47119286",
+    "provider": "AWS Bedrock",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-23T07:45:53+00:00",
+    "first_alerted_at": "2026-09-14T19:16:50.318126+00:00"
+  },
+  "bd5832314041dc11": {
+    "title": "Show HN: Folion – Local-first Windows file search with a semantic RAG layer",
+    "url": "https://news.ycombinator.com/item?id=46872030",
+    "provider": "AWS Bedrock",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-03T15:17:31+00:00",
+    "first_alerted_at": "2026-09-14T19:16:51.365610+00:00"
+  },
+  "6475167f9c3e629f": {
+    "title": "Show HN: I built an AI agent to generate AWS migration reports and diagrams",
+    "url": "https://mra.northpointdigital.com",
+    "provider": "AWS Bedrock",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-01-19T17:23:44+00:00",
+    "first_alerted_at": "2026-09-14T19:16:51.892046+00:00"
+  },
+  "c509c21b7179e630": {
+    "title": "Show HN: LangSpend – Track LLM costs by feature and customer (OpenAI/Anthropic)",
+    "url": "https://www.langspend.com/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-10-30T22:40:18+00:00",
+    "first_alerted_at": "2026-09-14T19:16:52.371445+00:00"
+  },
+  "31d7ea9ca13e412d": {
+    "title": "Show HN: Terramind- The AI SuperApp",
+    "url": "https://terramind.com",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-09-29T16:20:09+00:00",
+    "first_alerted_at": "2026-09-14T19:16:52.907428+00:00"
+  },
+  "8f819e6c747e1f31": {
+    "title": "Show HN: An open-source \"ChatGPT for Teams\" alternative",
+    "url": "https://github.com/joiahq/joia",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2024-02-05T15:39:19+00:00",
+    "first_alerted_at": "2026-09-14T19:16:53.353840+00:00"
+  },
+  "e8c0ec53ffa08858": {
+    "title": "A college extra-credit project became PHP3, still the bedrock of the web",
+    "url": "https://stackoverflow.blog/2022/04/22/episode-435-how-a-college-extra-credit-project-became-php3-still-the-bedrock-of-the-web/",
+    "provider": "AWS Bedrock",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2022-04-22T10:26:05+00:00",
+    "first_alerted_at": "2026-09-14T19:16:53.821380+00:00"
+  },
+  "61e5ce07c1275705": {
+    "title": "Show HN: Replay – Audit silent prompt cache misses in AI agent transcripts",
+    "url": "https://replay.doctor/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-14T02:38:58+00:00",
+    "first_alerted_at": "2026-09-14T19:16:54.310862+00:00"
+  },
+  "b0db720c66e39855": {
+    "title": "Show HN: AI Brand Visibility for Free Forever",
+    "url": "https://app.geosurge.ai/login",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-10T13:16:59+00:00",
+    "first_alerted_at": "2026-09-14T19:16:54.873735+00:00"
+  },
+  "5a0b9b4b1f5f66f7": {
+    "title": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+    "url": "https://maxxwell.dev/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-09T13:10:30+00:00",
+    "first_alerted_at": "2026-09-14T19:16:55.373784+00:00"
+  },
+  "6409133937b0d135": {
+    "title": "Show HN: Fraise: a memory database for AI agents",
+    "url": "https://docs.getfraise.dev",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-08T11:49:20+00:00",
+    "first_alerted_at": "2026-09-14T19:16:55.812481+00:00"
+  },
+  "8c2f276be68d778b": {
+    "title": "Show HN: Pangolin – SSO and WireGuard instead of API keys for LLM access",
+    "url": "https://github.com/fosrl/pangolin",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-03T13:35:01+00:00",
+    "first_alerted_at": "2026-09-14T19:16:56.249999+00:00"
+  },
+  "ce3493b1e65d4ea2": {
+    "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
+    "url": "https://github.com/mezmo/aura",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-02T15:55:14+00:00",
+    "first_alerted_at": "2026-09-14T19:16:56.695677+00:00"
+  },
+  "cb139112de6cbb42": {
+    "title": "Show HN: Turn repeated coding-agent corrections into rules/skills",
+    "url": "https://blume.codes",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-08-31T15:57:10+00:00",
+    "first_alerted_at": "2026-09-14T19:16:57.126061+00:00"
+  },
+  "cd1a196dfed976e1": {
+    "title": "Show HN: Murmell – Collaborative cloud canvas for coding agents",
+    "url": "https://murmell.com/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-30T14:51:05+00:00",
+    "first_alerted_at": "2026-09-14T19:16:57.563179+00:00"
+  },
+  "56640a0554cc540e": {
+    "title": "Show HN: My startup-idea scanner scored 500 ideas; the best got 6.3/10",
+    "url": "https://1mil.app/",
+    "provider": "Google",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-30T11:35:01+00:00",
+    "first_alerted_at": "2026-09-14T19:16:58.013567+00:00"
+  },
+  "0e28aa486f6bc4e9": {
+    "title": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+    "url": "https://leiolai.com/",
+    "provider": "OpenAI",
+    "score": 95,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-08-29T00:58:17+00:00",
+    "first_alerted_at": "2026-09-14T19:16:58.448944+00:00"
+  },
+  "eac5b50107fcd72b": {
+    "title": "New developer challenge offers resort stays, API credits for AI travel agents that can actually book - PhocusWire",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3NzWlFpektHcGI3eS05OW5xdHZOcUY1M25VOTRsRFR4eGZrUFZ4Z0FKeVhmZjdSbklfblhrWUFfa01jNmZobV82UDJfRUx2UmJkUXl6Y0JfYUQySXVIVHN4T1pZWkJFNVpsLWtuQXFvTnVCb3JOS0lyYk00YXdBbC1CV3Q0RU1Cdk0xV0kwMnotODEydFRQTl9iWHZZWFRxb3c?oc=5",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-28T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:16:58.887526+00:00"
+  },
+  "4f15a56506fae37c": {
+    "title": "Google and OpenAI offer free API credits—but there's one catch - How-To Geek",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEttNldEemZuTHJ3clRMblBLYWVobl9MZnN5NzRUMnAxOTZaYWZPVUZRcUxNZl96TnN3ekZ4T05UZWUyQXlWdE5YbVBQblRHcWp5SEF2VURra0EwZkRIbG1Od21KWGdMU0lkRHk2WXRhdHJuZ1NHTWlWaklRSFh0RGRDd1Z0MHMzS0xYWVQyYXE?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-12T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:16:59.336363+00:00"
+  },
+  "94b2aac74e8aca68": {
+    "title": "The Claude Campus Ambassador Program 2026 for students and researchers worldwide ($3,600 Stipend, Get API Credits & Lead AI Initiatives on Campus) - Opportunities For Africans",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTJaTzlYbzAyTmgxOFVURTFwRVdWRXNYVXdaemJmREF3c0NiY28zWVF1Wnc1bUhzQk1kQWFHOWJoX0ZWejBhMGhsQXhCNDVlblM2a3o4SFVkTzJZbGtZRHNyM2Rfdkw4c21kQ3FUblpmU25jdWJwWk5WV1BVUDlnQmZ2YmYtMmJSSTFtWk5iY1hLaFkyX2c0WA?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-03T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:16:59.768533+00:00"
+  },
+  "931fc025befac1fa": {
+    "title": "U of T Data Sciences Institute to lead initiative awarding $1M in Claude credits for AI-powered research - University of Toronto",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWNwTWlkRl9NWTZ4Um55dllUUXpKR0ozNGdQTVlfN2FpUTcyUDZwcWhxQk5FbkxCdF9tTzZ1aXQyQXJyRE1vY1pIUnVCVXhQZ1FyYkMxSzlmdmlkWmJERndibEFfNjAzYmh2ZGpvLWtxQ3o5YXBSNk15X0JKbGx3RThzT05LcmV3ZS1FRUNnMnhKUnpYQ1YxZk93Rm5MNnNaYzBhSkw3SG94bUxGMmxyVjN4Q1NCeHVheVhV?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-14T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:00.208100+00:00"
+  },
+  "ca775fe9ba908ab7": {
+    "title": "Korea Startup Forum opens second round of Claude credits support, up to $10,000 - 디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzU1Mk8wRk1vZjNOZk52WUtkYl9iNl9iR2prUTRFdm5ZSWZFcDZJSnF3ZV9obHBaenhKclI2S2s4MTJHVFY3ZzVaX0tnWTZGaHgyWDJ3XzhmN3VmWGFvdVY3WkFTZWt0Ymk3cE9ZVHhsblRuRUpGMWwtX1JaUkg1bWZ4Qjc5RXdESmFZWjYyTkxRdThwUmtiYk0xUHZGRzN3blhCZXMtY1A2eHE3dnRXQmlsaw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-07T01:20:55+00:00",
+    "first_alerted_at": "2026-09-14T19:17:00.652231+00:00"
+  },
+  "6b723ad639ef8f5f": {
+    "title": "Up to 450K Michigan college students eligible for free OpenAI credits - Detroit Free Press",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmlxVlFmbXNDQVVJOGtXR0NScE9ZRmdvSDZuZDZUY0FhTUdCQ1B3bDV5Yll6M1JiRTcyZ3Z3U1JVeWZvckNqc05GVVNybXY3alc0eER2YUVzaTQ5MmpkOGxLbjNsZF8xbkFtZTcxckd2WTl6VmdHeURUSW82Q0pvM0tBRlBtSlRaX2pudkZxUTlfLVRZYWEyT2VsQVE3YVRQVU5BMU0zU0d3MUJVUGhKcFhNR3Fsd01WaEF5U2Vfa2F2NDR4?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-04T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:01.111303+00:00"
+  },
+  "169353e58be61c4f": {
+    "title": "How to Buy OpenAI API Credits — Billing, Pricing, and Common Fixes - how2shout.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1bU9OMjQtdGFyRXM2U3lBdzdfc1V0a1IxUDdEM084bnhFdDQyeXpFR0pJcW9Ncm15c1hwLTdqbGpkZTVuekdGcGE1ZExaclNrdmNYZGJ0TlYwdDZRU05GMnBodWVhRTA3bmZSV2JUa0VVYWhJYVE?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-28T08:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:01.576495+00:00"
+  },
+  "aac405d537bdce6d": {
+    "title": "Perplexity Pro Quietly Removes Free API Credits - Goosed.ie",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TZ0ZvZ2ozVXNFdnQ5cEYtSDJBYXppMVlWSXRtdzZtZW9hN2xZZWhEemFpZjdNT3FNM1ptWnJPc2NHcWlLelkwbUdNcDRVY3RtMnRCWkpzSlU0MlR3cVdSVmYtT2JnVHlPc2hCM1pXWGdqWGdVNHJxOTM1UQ?oc=5",
+    "provider": "Perplexity",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-28T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:02.008840+00:00"
+  },
+  "0063aea3dce43e1d": {
+    "title": "Anthropic has started recruiting Claude Community Ambassadors in Japan, offering free API credits to help spread the word about Claude. - GIGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iSUpGY0J0d3kxRy1wV29jTlVDTnZaYzRXRmtCc1hHT3gwa2RQTXZwODhRSllKZ25iUXdaTHFqM0VVMzJ5NjYtdDBqUE9WOW1DZUQzcXFsV2U2YUtnaV8yQ0tWNkJhaV93NGlXcTZIZUM4MEF6WERSZTA2cw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-23T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:02.451493+00:00"
+  },
+  "d3466e45bb0a823a": {
+    "title": "Prepay for the Gemini API to get more control over your spend - blog.google",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0k5OVA2WHpOY0FDbXBPMk1mRjZRRHMzZllQYm9VVXJMeHVBNk50NGp1dlA0TFdIMWVNMWRBN1dxSmprM3Z4RmJzTVotdGdXb29hSzAwblU4NTVQVFJheGdNRHpvUnJKT3VpRlpNbFdyNkZVYnNLd1RmT0hxYk5sMUd6T2ktOVl2RUZ0Ug?oc=5",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-04-15T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:02.892661+00:00"
+  },
+  "e736328a84e8c20e": {
+    "title": "OpenAI Announces Preparedness Team And $25k API Credits For Top Survey Responses - Search Engine Journal",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBld2NTRkZiblFnVUtxSGZma2FSWWt3blN1SWRaSm51NXFteDY0SDd2OVNSektKeUN4MlJXbU5qeV9EWGF6M09SYjJJeEYwNkVKeGhDS05SczhVRUlVcms0Sng3aFpjRGJOZHFLeHlBVTRJN25SM0xR?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2023-10-26T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:03.335779+00:00"
+  },
+  "6c9e22fee08e7b48": {
+    "title": "SnapEdit AI Photo Editor Launches Developer Platform, Bringing 40+ AI Image and Video Editing Models to Businesses Through a Single API - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTFpjUGE5QkxxOTJxUTBoWWJlbHNwbTFlYzZkNV94ZDk1dDRsRjNLQ09ZcklCeWZNbTFBOHA3WGVoNWp3bTdxNXY1UU96Y2R0NE9LYmswck12amIzdnQ2cktDQkZPaGE2NG9oUWFDaFdaMy1udkI1RUhMZ1JOMG1GNzM2TE1fVkJlM2pDYUxOMERmOGRjRUpQTlZybGo5Z19DOGpSLUtfS01XTkt2cy12SHZWMlUyQmZpVVk2R2FmVFNreUNiWGFMT191QXM3NVBTam1aRmlGaHJTRGVyeEdCSXdOT21NRGZRSzhweXBud0lhZUQzWjFvZ3RvaXVZVnF5VHhLenFvR2ZiNzhUT0pSVUtZbFVSc1lmMG56aXhMNA?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-08T11:30:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:03.781236+00:00"
+  },
+  "864b41ef12a1895e": {
+    "title": "OpenAI to provide fresh API credits to 11 Indian non-profit organisations - business-standard.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenpIUnU1OTl4NzNINlhZc0hDd25ibFpHaDhkc05ybHdqUDJrRGo0aDJBWlRMOC10VlF6ZWxMTFYwSzQtR1JTV2F6LUd6YVRVTzNqVURzY29BN0EzLVFQV1A3UTZHNFdsTzViU01pMFBveEtBSXE3alVfZDhCX0U4ZFVWWFduX0JhbWlKTEFVaXhib25Cd0hkRWRubzMzSHpnR0hGaVVnUHJtNVZYdkxUN1Q0WTRCcWxITWlJdNIBwgFBVV95cUxPTk11WWs4YmxtZjZMclhMaEhVeWNRVFFkSXhLbTVoZXJLQS1rSGVVWFB3endyMkVMSm1raTFfalpPSmoyZDliYnp4U1Z3Qm5RczRFV24wdmRYNXA5ZWxUeWE3YkNKRy1CN3ZJMEdvekFHLWYzNy1yQkNUYjUySjBYUS1rRnBNOGdLYTl5SkVMOWRjQ2NWbEpNeHRKQko0N3RtSFFpMVBQYmpvQVdKVE1VcHpoVVVrQm1aVi1QVEQyTFdHUQ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-06-03T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:04.215471+00:00"
+  },
+  "082ecfe4e1cccb03": {
+    "title": "OpenAI Cybersecurity Grant Program - OpenAI",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRUZMaTN2YTNsQ1ZNUEhKaUlCbG5SZ3dla2Uyckt4VUZoVDRpTW50RW9Eb2Vqa0lDTGdVLVFqNF94MHlrQzJzTXBHandFN0pjRlRHSjhUbGMtY3BZRXFZN0JFczdNeW5WZ2VKSw?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2023-06-01T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:04.677291+00:00"
+  },
+  "36595492bbc40bd2": {
+    "title": "Anthropic gives Canadian researchers $10M in Claude credits - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVEzOHd3MUpGUkxZLV9ZT2FMRWQyVnJlZk5DT0FqZ1dSbDloenpJUE10SHZIRHkybVFPdDhiODdCTW5SZ0dQVXdIU0NXcC1EZUFxbjNtLWpRUjNKOGJrdzBHVVBaQmNjcUhFUm4yRm5pMVNTaWNuY1FySEEyT0xpYWktTmdIcjYtemFkV091ODZENzQ?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-15T00:45:45+00:00",
+    "first_alerted_at": "2026-09-14T19:17:05.160141+00:00"
+  },
+  "694f562c45b97f67": {
+    "title": "Sarvam AI Launches New Startup Program: Free API Credits & Tools for Indian Founders - Business Outreach Magazine",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tNXd0TzZ2RXRyS0p0SzhXTllwcFFOeDF5bGs4TzdSSmo0Tm56NXFEZGZjM0dKQjJId1VkTWhqQ1VyVnVtRkgwNUszeXpFWlhFUk1lc0Z6aFoyQy10dzAzamNPQkpKLUdQYjNfNE9tTHpnUQ?oc=5",
+    "provider": "General AI",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-03-06T08:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:05.652675+00:00"
+  },
+  "4194cd9ecfff009f": {
+    "title": "Google AI Streamlines App Development with Built-in Cloud Credits - Small Business Trends",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjNxQlZjLXRQSnFPSHR5aVFXMHd0a2ljUjduU2gyNnJWYTNRQjNGVFlYLXZWX2Rzb2tUUWdPZEhUZ0dTVVNJUWw5Z0dXYUpkcFJ0dklySVdxc0xBc1I0N1BmUmdobUxvMVZoWW8wcDViZ3J1NDY2emxlRVpVX1Atc0xlSkRHLVVYbVZqVXBzRFotWVdWR2FNNw?oc=5",
+    "provider": "Google",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-14T08:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:06.107047+00:00"
+  },
+  "df1709847363e4c1": {
+    "title": "AWS Activate vs Microsoft for Startups vs Google for Startups (2026): Who Each One Is Actually For - Security Boulevard",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NNNF9ZZ08waUNvYkk5U0ZVZ0F4TkFyZ29LMS1IYjhVMGdSSjdwVjBZdF9NVTRBTFduUldTWXQ0ODdEMzl0QTR1VUNReWd0NE5qTm9wWkFKTS1ZdGR4UXZlSG42enJuMGVHUGZQQVJXcnBvaGtBYmxQdWxJSzNGYnJlU1JKaDNUUzVMMU5QNHpiRnpfTWQ4R21JQWNkVlBEaTJsekk2LUtEVHVCRTZHTzRjbHZTM3lEZWRJRTVwZTJhUFFjTHJ2TElBbFZMQ0k?oc=5",
+    "provider": "AWS Bedrock",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-17T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:06.581501+00:00"
+  },
+  "0d1c31c32183fdbc": {
+    "title": "Kiro vs Qodo (2026): Spec-Driven IDE or Drop-In AI Plugin? - Augment Code",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT296ZmVtT1dpZWFWNGcySjBmbGpNZzkxdE5Nc2FPSXJWenpOazRpenJmQmxsQ2o3VnF5RVBxY2h2bWlLbnpOTUVFRXJrckItVEM2UDhvU3M4bVlpY25KQVZYaUc4eGJrUHExV1pzQ21pNVNpUXlBOXZBYU5mNHhTbEJEaUZFT3E2Q3Jua2FBMmJmUTVQZDQw?oc=5",
+    "provider": "General AI",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-08-31T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:07.034517+00:00"
+  },
+  "a8c837f5eb113b40": {
+    "title": "5 Free LLM API Providers You Can Use in 2026 - KDnuggets",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tTnZpb2RLWEZ1VjBkc1RycEVwUC1neW5GeWkwa1VYWVJNU0ZzLXZPcTh3d3k4Vm1ONkpQTHE1R0VYOWhwdHhuU3ZDdmpERXVPWDU0VUdPM1B5T1kxVXhETE52eGVMbHRHYkRxVW1rS1lOczN2dm5nam9R?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-04T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:07.473991+00:00"
+  },
+  "bfc0d00206a3da5c": {
+    "title": "A mysterious AI called 'Ox Alpha' has appeared and is currently undergoing free testing. The context window is an anonymous lab that can process trillions of tokens per day for 1 million tokens and is providing an API. - GIGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVGFmbjRBVDlUNnZ4WjA4RU9udHY5UEdaaFNLZlRvZmJHdUo3d1Q2ejZLUXRGc0ZxcEl4LVVUYXBJT2F2blV5TFRaNThMaHpvbjdqdzhHaDRMdEhRN1ZkZQ?oc=5",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-24T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:07.899185+00:00"
+  },
+  "b7b74d65ee02ebf9": {
+    "title": "OpenRouter’s Owl Alpha model hits 10.1T monthly tokens, ranks first globally - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85Q1NzaFloajdYVTJab3JLemhna2p0aEV2Sk15UElYZUhKam1MR3FaWjJCR1p1NG5iWmlFWTYzRS1xR2FMRnlKeEQ0OHhPOFFRdk9aNWZIYVVIU3NMVjk0a1dnTFA2cXpTVy1scFBOT1UtTDhVS3FjRA?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-28T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:08.367189+00:00"
+  },
+  "e25fe65c10b62c66": {
+    "title": "Ox Alpha processes 11.6 trillion tokens in three days, dwarfing OpenRouter's previous record - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEk5RGJXaWFVMFpGTFp4Nm5pMVFlMHA4T3B2bncwa0g0eFJCS3M3eFg0dzI2TFRBUDBZVWNaWVRvcFdXcGlDN2VTeXc0NkozYWd2Y0psVjNIYTZmWDA2R3FLMXVoSjIxdFJzOFdMRzdKNnRWanFCYVFVTExvVllOMg?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-24T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:08.797951+00:00"
+  },
+  "4c9d44778202bae4": {
+    "title": "I built a handwriting canvas where AI can see what you're writing, and then I added a Tom Riddle diary for some reason",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgcuh6/i_built_a_handwriting_canvas_where_ai_can_see/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:07:56+00:00",
+    "first_alerted_at": "2026-09-14T19:17:09.247659+00:00"
+  },
+  "0f5904448adcc0b9": {
+    "title": "After evangelizing Claude for months, I'm about to throw in the towel.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgcr1f/after_evangelizing_claude_for_months_im_about_to/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:04:33+00:00",
+    "first_alerted_at": "2026-09-14T19:17:09.712688+00:00"
+  },
+  "8b527ccd5e2c4f9e": {
+    "title": "Forced ID verification everywhere",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgcagg/forced_id_verification_everywhere/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T18:48:31+00:00",
+    "first_alerted_at": "2026-09-14T19:17:10.161233+00:00"
+  },
+  "2ae8ed0a7dfbaeae": {
+    "title": "Mystery solved: Why you're burning through Claude tokens so fast and how to sort it.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg9y8r/mystery_solved_why_youre_burning_through_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T17:28:07+00:00",
+    "first_alerted_at": "2026-09-14T19:17:10.623629+00:00"
+  },
+  "ec53a5f92da767fe": {
+    "title": "Are models much better than what they seem to with current agents?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg8pdd/are_models_much_better_than_what_they_seem_to/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T16:44:28+00:00",
+    "first_alerted_at": "2026-09-14T19:17:11.054743+00:00"
+  },
+  "fe08c8c051e2cb4a": {
+    "title": "Fable 5.1 used more of my app quota than I expected",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg7qbf/fable_51_used_more_of_my_app_quota_than_i_expected/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T16:10:00+00:00",
+    "first_alerted_at": "2026-09-14T19:17:11.494065+00:00"
+  }
+}
