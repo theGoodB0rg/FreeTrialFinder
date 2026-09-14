@@ -2392,5 +2392,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-14T16:10:00+00:00",
     "first_alerted_at": "2026-09-14T19:17:11.494065+00:00"
+  },
+  "02f6bcbc36aad9de": {
+    "title": "Sarvam AI Launches New Startup Program: Free API Credits & Tools for Indian Founders - businessoutreach.in",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tNXd0TzZ2RXRyS0p0SzhXTllwcFFOeDF5bGs4TzdSSmo0Tm56NXFEZGZjM0dKQjJId1VkTWhqQ1VyVnVtRkgwNUszeXpFWlhFUk1lc0Z6aFoyQy10dzAzamNPQkpKLUdQYjNfNE9tTHpnUQ?oc=5",
+    "provider": "General AI",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-03-06T08:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:41:55.387304+00:00"
+  },
+  "a8aa8957badf7718": {
+    "title": "Ask HN: Anyone creating their own entertainment?",
+    "url": "https://news.ycombinator.com/item?id=49702360",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T19:13:04+00:00",
+    "first_alerted_at": "2026-09-14T19:41:56.445600+00:00"
+  },
+  "741cdacbcfb5e472": {
+    "title": "The Claude Campus Ambassador Program 2026 for students and researchers worldwide ($3,600 Stipend, Get API Credits & Lead AI Initiatives on Campus) - opportunitiesforafricans.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTJaTzlYbzAyTmgxOFVURTFwRVdWRXNYVXdaemJmREF3c0NiY28zWVF1Wnc1bUhzQk1kQWFHOWJoX0ZWejBhMGhsQXhCNDVlblM2a3o4SFVkTzJZbGtZRHNyM2Rfdkw4c21kQ3FUblpmU25jdWJwWk5WV1BVUDlnQmZ2YmYtMmJSSTFtWk5iY1hLaFkyX2c0WA?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-03T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:41:57.484611+00:00"
+  },
+  "24e3c55e3d9bd6a9": {
+    "title": "How to Buy OpenAI API Credits — Billing, Pricing, and Common Fixes - H2S Media",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1bU9OMjQtdGFyRXM2U3lBdzdfc1V0a1IxUDdEM084bnhFdDQyeXpFR0pJcW9Ncm15c1hwLTdqbGpkZTVuekdGcGE1ZExaclNrdmNYZGJ0TlYwdDZRU05GMnBodWVhRTA3bmZSV2JUa0VVYWhJYVE?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-28T08:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:41:58.543861+00:00"
+  },
+  "2c94984d74b6f2f9": {
+    "title": "OpenAI to provide fresh API credits to 11 Indian non-profit organisations - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenpIUnU1OTl4NzNINlhZc0hDd25ibFpHaDhkc05ybHdqUDJrRGo0aDJBWlRMOC10VlF6ZWxMTFYwSzQtR1JTV2F6LUd6YVRVTzNqVURzY29BN0EzLVFQV1A3UTZHNFdsTzViU01pMFBveEtBSXE3alVfZDhCX0U4ZFVWWFduX0JhbWlKTEFVaXhib25Cd0hkRWRubzMzSHpnR0hGaVVnUHJtNVZYdkxUN1Q0WTRCcWxITWlJdNIBwgFBVV95cUxPTk11WWs4YmxtZjZMclhMaEhVeWNRVFFkSXhLbTVoZXJLQS1rSGVVWFB3endyMkVMSm1raTFfalpPSmoyZDliYnp4U1Z3Qm5RczRFV24wdmRYNXA5ZWxUeWE3YkNKRy1CN3ZJMEdvekFHLWYzNy1yQkNUYjUySjBYUS1rRnBNOGdLYTl5SkVMOWRjQ2NWbEpNeHRKQko0N3RtSFFpMVBQYmpvQVdKVE1VcHpoVVVrQm1aVi1QVEQyTFdHUQ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-06-03T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:41:59.585874+00:00"
+  },
+  "f86e40b684e645d1": {
+    "title": "OpenAI: $2M API Credits for Every YC Startup - blockchain.news",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNay1pQnRpdUpiLV83aGlYTDBTaTYtRHJVQWZjZzBjenJ1M2UyR21Lc1RnQW5WOEl2YjZUM0szU1VsVUZjSUpzczduU3NSWUlyVTBYZkY0a25QYXIwb0c1UzloYkNCOF9ydnQxMURsTnI3cllQYjNFZFU5QVk?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-20T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T19:42:00.636579+00:00"
+  },
+  "bf83577a77730a9e": {
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "url": "https://speko.ai/",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-17T15:36:18+00:00",
+    "first_alerted_at": "2026-09-14T19:42:01.683007+00:00"
   }
 }
