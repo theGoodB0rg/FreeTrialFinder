@@ -2482,5 +2482,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-14T20:21:18+00:00",
     "first_alerted_at": "2026-09-14T20:36:47.576227+00:00"
+  },
+  "d75b092aaf155a36": {
+    "title": "How has AI (Claude Code, Codex, Cursor, etc.) completely rewritten your software delivery workflow?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgfely/how_has_ai_claude_code_codex_cursor_etc/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T20:39:06+00:00",
+    "first_alerted_at": "2026-09-14T21:13:29.145332+00:00"
+  },
+  "0ef1526649317cc8": {
+    "title": "Kiro vs Qodo (2026): Spec-Driven IDE or Drop-In AI Plugin? - augmentcode.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT296ZmVtT1dpZWFWNGcySjBmbGpNZzkxdE5Nc2FPSXJWenpOazRpenJmQmxsQ2o3VnF5RVBxY2h2bWlLbnpOTUVFRXJrckItVEM2UDhvU3M4bVlpY25KQVZYaUc4eGJrUHExV1pzQ21pNVNpUXlBOXZBYU5mNHhTbEJEaUZFT3E2Q3Jua2FBMmJmUTVQZDQw?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-08-31T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T21:13:29.996846+00:00"
+  },
+  "206b4a615bbfef0a": {
+    "title": "OpenRouter’s Owl Alpha model hits 10.1T monthly tokens, ranks first globally - cryptobriefing.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85Q1NzaFloajdYVTJab3JLemhna2p0aEV2Sk15UElYZUhKam1MR3FaWjJCR1p1NG5iWmlFWTYzRS1xR2FMRnlKeEQ0OHhPOFFRdk9aNWZIYVVIU3NMVjk0a1dnTFA2cXpTVy1scFBOT1UtTDhVS3FjRA?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-28T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T21:13:30.835831+00:00"
+  },
+  "983898d52d0712b1": {
+    "title": "Ox Alpha processes 11.6 trillion tokens in three days, dwarfing OpenRouter's previous record - cryptobriefing.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEk5RGJXaWFVMFpGTFp4Nm5pMVFlMHA4T3B2bncwa0g0eFJCS3M3eFg0dzI2TFRBUDBZVWNaWVRvcFdXcGlDN2VTeXc0NkozYWd2Y0psVjNIYTZmWDA2R3FLMXVoSjIxdFJzOFdMRzdKNnRWanFCYVFVTExvVllOMg?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-24T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T21:13:31.670641+00:00"
   }
 }
