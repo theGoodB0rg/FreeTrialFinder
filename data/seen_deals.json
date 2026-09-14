@@ -2554,5 +2554,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-14T22:21:28+00:00",
     "first_alerted_at": "2026-09-14T22:37:14.829332+00:00"
+  },
+  "9b39061e20d3687b": {
+    "title": "I stopped giving Claude bigger Shopify prompts. A versioned “Store Brain” worked better.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgiis2/i_stopped_giving_claude_bigger_shopify_prompts_a/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T22:39:31+00:00",
+    "first_alerted_at": "2026-09-14T23:14:11.679730+00:00"
+  },
+  "83e3921e89bcff8d": {
+    "title": "Google and OpenAI offer free API credits—but there's one catch - howtogeek.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEttNldEemZuTHJ3clRMblBLYWVobl9MZnN5NzRUMnAxOTZaYWZPVUZRcUxNZl96TnN3ekZ4T05UZWUyQXlWdE5YbVBQblRHcWp5SEF2VURra0EwZkRIbG1Od21KWGdMU0lkRHk2WXRhdHJuZ1NHTWlWaklRSFh0RGRDd1Z0MHMzS0xYWVQyYXE?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-12T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T23:14:12.568588+00:00"
+  },
+  "0c273c667342726e": {
+    "title": "Anthropic gives Canadian researchers $10M in Claude credits - cryptopolitan.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVEzOHd3MUpGUkxZLV9ZT2FMRWQyVnJlZk5DT0FqZ1dSbDloenpJUE10SHZIRHkybVFPdDhiODdCTW5SZ0dQVXdIU0NXcC1EZUFxbjNtLWpRUjNKOGJrdzBHVVBaQmNjcUhFUm4yRm5pMVNTaWNuY1FySEEyT0xpYWktTmdIcjYtemFkV091ODZENzQ?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-15T00:45:45+00:00",
+    "first_alerted_at": "2026-09-14T23:14:13.416591+00:00"
   }
 }
