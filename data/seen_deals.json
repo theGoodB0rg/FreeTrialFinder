@@ -2518,5 +2518,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-08-24T07:00:00+00:00",
     "first_alerted_at": "2026-09-14T21:13:31.670641+00:00"
+  },
+  "8202322df828c81e": {
+    "title": "Stop writing handoff docs. /rewind is the tool 90% of Claude Code users have never opened.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgh4my/stop_writing_handoff_docs_rewind_is_the_tool_90/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T21:43:45+00:00",
+    "first_alerted_at": "2026-09-14T22:37:12.029093+00:00"
+  },
+  "3de6f843deedec08": {
+    "title": "U of T Data Sciences Institute to lead initiative awarding $1M in Claude credits for AI-powered research - utoronto.ca",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWNwTWlkRl9NWTZ4Um55dllUUXpKR0ozNGdQTVlfN2FpUTcyUDZwcWhxQk5FbkxCdF9tTzZ1aXQyQXJyRE1vY1pIUnVCVXhQZ1FyYkMxSzlmdmlkWmJERndibEFfNjAzYmh2ZGpvLWtxQ3o5YXBSNk15X0JKbGx3RThzT05LcmV3ZS1FRUNnMnhKUnpYQ1YxZk93Rm5MNnNaYzBhSkw3SG94bUxGMmxyVjN4Q1NCeHVheVhV?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-14T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T22:37:12.955968+00:00"
+  },
+  "dcf4576479daa890": {
+    "title": "SnapEdit AI Photo Editor Launches Developer Platform, Bringing 40+ AI Image and Video Editing Models to Businesses Through a Single API - financialcontent.com",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTFpjUGE5QkxxOTJxUTBoWWJlbHNwbTFlYzZkNV94ZDk1dDRsRjNLQ09ZcklCeWZNbTFBOHA3WGVoNWp3bTdxNXY1UU96Y2R0NE9LYmswck12amIzdnQ2cktDQkZPaGE2NG9oUWFDaFdaMy1udkI1RUhMZ1JOMG1GNzM2TE1fVkJlM2pDYUxOMERmOGRjRUpQTlZybGo5Z19DOGpSLUtfS01XTkt2cy12SHZWMlUyQmZpVVk2R2FmVFNreUNiWGFMT191QXM3NVBTam1aRmlGaHJTRGVyeEdCSXdOT21NRGZRSzhweXBud0lhZUQzWjFvZ3RvaXVZVnF5VHhLenFvR2ZiNzhUT0pSVUtZbFVSc1lmMG56aXhMNA?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-08T11:30:00+00:00",
+    "first_alerted_at": "2026-09-14T22:37:13.866153+00:00"
+  },
+  "2352280640e63acf": {
+    "title": "Settings Help",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgi2wz/settings_help/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T22:21:28+00:00",
+    "first_alerted_at": "2026-09-14T22:37:14.829332+00:00"
   }
 }
