@@ -2464,5 +2464,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-04T07:00:00+00:00",
     "first_alerted_at": "2026-09-14T20:15:58.628924+00:00"
+  },
+  "7a8e3d97bb2fbb36": {
+    "title": "I made arcade games that play above your Claude Code prompt while it works",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgera0/i_made_arcade_games_that_play_above_your_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T20:15:35+00:00",
+    "first_alerted_at": "2026-09-14T20:36:46.561282+00:00"
+  },
+  "cd4959a5a4dac703": {
+    "title": "Seeking sugestions and tips",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgex6i/seeking_sugestions_and_tips/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T20:21:18+00:00",
+    "first_alerted_at": "2026-09-14T20:36:47.576227+00:00"
   }
 }
