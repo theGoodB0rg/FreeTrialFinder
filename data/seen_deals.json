@@ -2581,5 +2581,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-07-15T00:45:45+00:00",
     "first_alerted_at": "2026-09-14T23:14:13.416591+00:00"
+  },
+  "2fc022397b9071ed": {
+    "title": "OpenRouter Adjusts API Policy: Redefining Free and Paid Tier Call Limits - AIBase",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDYzJsQzkyZHdRUUFjWnpVSlVlMHRtdUxPQk50a2xoZm1EX1Y5Ui1QMTRscmpJZzVveUplSW1zY3R6VGRJWFI1aWJn?oc=5",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-04-09T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T23:37:16.576598+00:00"
+  },
+  "fd7024387a8d1cae": {
+    "title": "AWS Activate vs Microsoft for Startups vs Google for Startups (2026): Who Each One Is Actually For - securityboulevard.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2NNNF9ZZ08waUNvYkk5U0ZVZ0F4TkFyZ29LMS1IYjhVMGdSSjdwVjBZdF9NVTRBTFduUldTWXQ0ODdEMzl0QTR1VUNReWd0NE5qTm9wWkFKTS1ZdGR4UXZlSG42enJuMGVHUGZQQVJXcnBvaGtBYmxQdWxJSzNGYnJlU1JKaDNUUzVMMU5QNHpiRnpfTWQ4R21JQWNkVlBEaTJsekk2LUtEVHVCRTZHTzRjbHZTM3lEZWRJRTVwZTJhUFFjTHJ2TElBbFZMQ0k?oc=5",
+    "provider": "AWS Bedrock",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-17T07:00:00+00:00",
+    "first_alerted_at": "2026-09-14T23:37:17.630762+00:00"
   }
 }
