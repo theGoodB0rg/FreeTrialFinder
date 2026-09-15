@@ -2707,5 +2707,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T02:23:32.028822+00:00",
     "first_alerted_at": "2026-09-15T02:23:39.741302+00:00"
+  },
+  "a9f41bd5ec05ce57": {
+    "title": "OpenAI Announces Preparedness Team And $25k API Credits For Top Survey Responses - searchenginejournal.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBld2NTRkZiblFnVUtxSGZma2FSWWt3blN1SWRaSm51NXFteDY0SDd2OVNSektKeUN4MlJXbU5qeV9EWGF6M09SYjJJeEYwNkVKeGhDS05SczhVRUlVcms0Sng3aFpjRGJOZHFLeHlBVTRJN25SM0xR?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2023-10-26T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T03:20:13.553994+00:00"
   }
 }
