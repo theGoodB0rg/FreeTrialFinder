@@ -2635,5 +2635,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T00:59:48+00:00",
     "first_alerted_at": "2026-09-15T01:28:48.248272+00:00"
+  },
+  "1d115891118ecac3": {
+    "title": "Hot take: the agentic workflow is deeply wrong",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1wci00g/hot_take_the_agentic_workflow_is_deeply_wrong/",
+    "provider": "General AI",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-10T12:37:22+00:00",
+    "first_alerted_at": "2026-09-15T01:53:01.288184+00:00"
+  },
+  "eb756461dc8f6613": {
+    "title": "My effective cost per million tokens: Sonnet 5 $0.26, Fable 5.1 $0.69, Opus 5 $0.72. Has anyone measured the same for OpenAI models?",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1wcwv4y/my_effective_cost_per_million_tokens_sonnet_5_026/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-10T21:44:44+00:00",
+    "first_alerted_at": "2026-09-15T01:53:02.255288+00:00"
+  },
+  "826e82ab7e14464b": {
+    "title": "Multi-agent coordination for prod dev",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1wfdixj/multiagent_coordination_for_prod_dev/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-13T17:13:59+00:00",
+    "first_alerted_at": "2026-09-15T01:53:03.229016+00:00"
+  },
+  "d6b55dc7dea46469": {
+    "title": "Google AI Streamlines App Development with Built-in Cloud Credits - smallbiztrends.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjNxQlZjLXRQSnFPSHR5aVFXMHd0a2ljUjduU2gyNnJWYTNRQjNGVFlYLXZWX2Rzb2tUUWdPZEhUZ0dTVVNJUWw5Z0dXYUpkcFJ0dklySVdxc0xBc1I0N1BmUmdobUxvMVZoWW8wcDViZ3J1NDY2emxlRVpVX1Atc0xlSkRHLVVYbVZqVXBzRFotWVdWR2FNNw?oc=5",
+    "provider": "Google",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-02-14T08:00:00+00:00",
+    "first_alerted_at": "2026-09-15T01:53:04.196318+00:00"
+  },
+  "d3adfbca00efd229": {
+    "title": "GPT-5.6 Luna vs GPT-6 Astra: benchmark on 50 real PRs, looking for feedback on the methodology",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1wg6wpy/gpt56_luna_vs_gpt6_astra_benchmark_on_50_real_prs/",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-14T15:40:14+00:00",
+    "first_alerted_at": "2026-09-15T01:53:05.174922+00:00"
   }
 }
