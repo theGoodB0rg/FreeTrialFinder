@@ -2806,5 +2806,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T12:23:38+00:00",
     "first_alerted_at": "2026-09-15T12:47:06.376174+00:00"
+  },
+  "3640d27a39648db1": {
+    "title": "Claude vs OpenAI weekly quota",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgzu35/claude_vs_openai_weekly_quota/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T13:04:19+00:00",
+    "first_alerted_at": "2026-09-15T13:16:57.788359+00:00"
   }
 }
