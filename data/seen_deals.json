@@ -2797,5 +2797,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T12:15:13+00:00",
     "first_alerted_at": "2026-09-15T12:24:16.389086+00:00"
+  },
+  "afce2594b86a2e1e": {
+    "title": "Surviving Claude Code’s tightened limits: Effort levels, subagent traps, and CLAUDE.md tuning",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgywkw/surviving_claude_codes_tightened_limits_effort/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T12:23:38+00:00",
+    "first_alerted_at": "2026-09-15T12:47:06.376174+00:00"
   }
 }
