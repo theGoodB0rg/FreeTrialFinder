@@ -2725,5 +2725,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2025-05-07T12:17:12+00:00",
     "first_alerted_at": "2026-09-15T04:42:33.408430+00:00"
+  },
+  "bac615996951ef0e": {
+    "title": "Question for SaaS founders: How much are you spending on Claude tokens for in-app AI assistants? Would you support offloading this to users' own Claude plans?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgrioh/question_for_saas_founders_how_much_are_you/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T05:36:14+00:00",
+    "first_alerted_at": "2026-09-15T05:40:11.707676+00:00"
   }
 }
