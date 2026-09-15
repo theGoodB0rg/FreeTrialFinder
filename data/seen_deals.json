@@ -2734,5 +2734,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T05:36:14+00:00",
     "first_alerted_at": "2026-09-15T05:40:11.707676+00:00"
+  },
+  "0c4ceb562bed677f": {
+    "title": "Do claude code caches really expire in an hour?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgrskx/do_claude_code_caches_really_expire_in_an_hour/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T05:51:34+00:00",
+    "first_alerted_at": "2026-09-15T06:29:11.120455+00:00"
+  },
+  "902dd83f5df80c74": {
+    "title": "Korea Startup Forum opens second round of Claude credits support, up to $10,000 - digitaltoday.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzU1Mk8wRk1vZjNOZk52WUtkYl9iNl9iR2prUTRFdm5ZSWZFcDZJSnF3ZV9obHBaenhKclI2S2s4MTJHVFY3ZzVaX0tnWTZGaHgyWDJ3XzhmN3VmWGFvdVY3WkFTZWt0Ymk3cE9ZVHhsblRuRUpGMWwtX1JaUkg1bWZ4Qjc5RXdESmFZWjYyTkxRdThwUmtiYk0xUHZGRzN3blhCZXMtY1A2eHE3dnRXQmlsaw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-07T01:20:55+00:00",
+    "first_alerted_at": "2026-09-15T06:29:11.968987+00:00"
   }
 }
