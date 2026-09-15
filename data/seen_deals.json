@@ -2770,5 +2770,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-05-28T07:00:00+00:00",
     "first_alerted_at": "2026-09-15T07:19:47.399623+00:00"
+  },
+  "82b8ce4e0689fae9": {
+    "title": "Query on api cost",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wguul8/query_on_api_cost/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T08:52:07+00:00",
+    "first_alerted_at": "2026-09-15T09:18:20.946312+00:00"
   }
 }
