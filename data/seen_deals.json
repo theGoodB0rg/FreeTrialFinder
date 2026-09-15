@@ -2914,5 +2914,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2025-04-09T07:00:00+00:00",
     "first_alerted_at": "2026-09-15T19:13:33.557321+00:00"
+  },
+  "983b542456319c32": {
+    "title": "Claude Code + Meta Quest 3: I have created the ultimate VR office",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whdxej/claude_code_meta_quest_3_i_have_created_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T21:45:22+00:00",
+    "first_alerted_at": "2026-09-15T22:15:28.901759+00:00"
   }
 }
