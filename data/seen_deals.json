@@ -2887,5 +2887,14 @@
     "confidence": "DIRECT_IDE",
     "discovered_at": "2026-09-15T16:21:03+00:00",
     "first_alerted_at": "2026-09-15T16:40:41.213179+00:00"
+  },
+  "0952bd767aa885f2": {
+    "title": "When to use Cowork vs Claude vs Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh7isk/when_to_use_cowork_vs_claude_vs_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T17:51:45+00:00",
+    "first_alerted_at": "2026-09-15T18:18:19.189123+00:00"
   }
 }
