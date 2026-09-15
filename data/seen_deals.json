@@ -2752,5 +2752,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-07T01:20:55+00:00",
     "first_alerted_at": "2026-09-15T06:29:11.968987+00:00"
+  },
+  "186eef9c27fbbe94": {
+    "title": "Turned Claude Code token burn into a floating desktop campfire (macOS, MIT)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgsoga/turned_claude_code_token_burn_into_a_floating/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T06:41:32+00:00",
+    "first_alerted_at": "2026-09-15T06:54:30.249933+00:00"
   }
 }
