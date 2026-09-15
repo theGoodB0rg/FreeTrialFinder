@@ -2905,5 +2905,14 @@
     "confidence": "DIRECT_IDE",
     "discovered_at": "2026-09-15T18:35:24+00:00",
     "first_alerted_at": "2026-09-15T18:41:57.678541+00:00"
+  },
+  "fc2eaac407315adf": {
+    "title": "OpenRouter Adjusts API Policy: Redefining Free and Paid Tier Call Limits - news.aibase.com",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBDYzJsQzkyZHdRUUFjWnpVSlVlMHRtdUxPQk50a2xoZm1EX1Y5Ui1QMTRscmpJZzVveUplSW1zY3R6VGRJWFI1aWJn?oc=5",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-04-09T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T19:13:33.557321+00:00"
   }
 }
