@@ -2833,5 +2833,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-06-04T07:00:00+00:00",
     "first_alerted_at": "2026-09-15T15:15:55.980396+00:00"
+  },
+  "be439cc1f9e25311": {
+    "title": "I run Claude Code in several projects at once and kept forgetting about one of them, so I put them in the notch",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh3juz/i_run_claude_code_in_several_projects_at_once_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T15:28:36+00:00",
+    "first_alerted_at": "2026-09-15T15:38:39.488045+00:00"
+  },
+  "4f8c6cf4def46d6f": {
+    "title": "I built Herron with Claude Code, a free flooring layout planner that gives you an actual cut list",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh3grl/i_built_herron_with_claude_code_a_free_flooring/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T15:25:25+00:00",
+    "first_alerted_at": "2026-09-15T15:38:40.465758+00:00"
   }
 }
