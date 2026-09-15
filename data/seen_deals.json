@@ -2851,5 +2851,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T15:25:25+00:00",
     "first_alerted_at": "2026-09-15T15:38:40.465758+00:00"
+  },
+  "a7fb8352d9f634ff": {
+    "title": "i built an mcp server for maginary (the proper way)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh4m0j/i_built_an_mcp_server_for_maginary_the_proper_way/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T16:06:48+00:00",
+    "first_alerted_at": "2026-09-15T16:17:18.146343+00:00"
+  },
+  "5878bf6b1082d0ca": {
+    "title": "If Jenkins were rebuilt today, would a lightweight Rust version make sense?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh47d7/if_jenkins_were_rebuilt_today_would_a_lightweight/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T15:52:26+00:00",
+    "first_alerted_at": "2026-09-15T16:17:19.217273+00:00"
+  },
+  "058bffcf64c77655": {
+    "title": "Increase the limits, especially the weekly and 5-hour ones and ZDR",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh4g19/increase_the_limits_especially_the_weekly_and/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T16:00:57+00:00",
+    "first_alerted_at": "2026-09-15T16:17:20.216525+00:00"
   }
 }
