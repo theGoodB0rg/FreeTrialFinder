@@ -2716,5 +2716,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2023-10-26T07:00:00+00:00",
     "first_alerted_at": "2026-09-15T03:20:13.553994+00:00"
+  },
+  "d6dd2bc0fe393326": {
+    "title": "Anthropic's Claude Supercharges Genetic Research with AI Credits Initiative - OpenTools",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaV91VElDUm1ESkRVZ1hiV2xzOWRMVjB1SWo3cHZPMVpzOFNQOHU2Zm5hZ3BxMndiaTE1V28wT29oMVVhZ2s5bFcxSmVwZHNULWNWTmRCRHZhU0ZWRnFSSWwzXzl6X3lOQWRkcG8wTm5tYVBoU0Q0RWxwTDlyQ0lYMEZYQUd3VXpCdXhvMTNqX2J6akJuNXdfSXJtQ3JLeEQ0aUE?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-05-07T12:17:12+00:00",
+    "first_alerted_at": "2026-09-15T04:42:33.408430+00:00"
   }
 }
