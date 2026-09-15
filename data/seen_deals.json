@@ -2788,5 +2788,14 @@
     "confidence": "DIRECT_IDE",
     "discovered_at": "2026-09-15T11:13:47+00:00",
     "first_alerted_at": "2026-09-15T11:15:21.888479+00:00"
+  },
+  "08940d05ceae8965": {
+    "title": "Free open-source platform for helping each other with leftover weekly usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgyq1a/free_opensource_platform_for_helping_each_other/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T12:15:13+00:00",
+    "first_alerted_at": "2026-09-15T12:24:16.389086+00:00"
   }
 }
