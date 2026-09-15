@@ -2779,5 +2779,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T08:52:07+00:00",
     "first_alerted_at": "2026-09-15T09:18:20.946312+00:00"
+  },
+  "3788c1828d043d78": {
+    "title": "Caveman makes Claude use fewer tokens. SbrodolAI makes it use more — on purpose. It's the anti-Caveman.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgxf3n/caveman_makes_claude_use_fewer_tokens_sbrodolai/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-15T11:13:47+00:00",
+    "first_alerted_at": "2026-09-15T11:15:21.888479+00:00"
   }
 }
