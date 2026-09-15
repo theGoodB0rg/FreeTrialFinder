@@ -2680,5 +2680,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-14T15:40:14+00:00",
     "first_alerted_at": "2026-09-15T01:53:05.174922+00:00"
+  },
+  "983c7d63b338bb00": {
+    "title": "Cline Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/poolside-laguna-s-2-1/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T02:23:32.027635+00:00",
+    "first_alerted_at": "2026-09-15T02:23:37.598428+00:00"
+  },
+  "c63affb6fccc2558": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-muse-spark-1-3-contributor/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T02:23:32.027691+00:00",
+    "first_alerted_at": "2026-09-15T02:23:38.680676+00:00"
+  },
+  "ff72097db4663da6": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nex-agi-nex-n2.5-pro/\" target=\"_blank\" rel=\"noopener\">Nex AGI: Nex-N2.5-Pro free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nex-agi-nex-n2.5-pro/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T02:23:32.028822+00:00",
+    "first_alerted_at": "2026-09-15T02:23:39.741302+00:00"
   }
 }
