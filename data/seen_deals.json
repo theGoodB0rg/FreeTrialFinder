@@ -2896,5 +2896,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T17:51:45+00:00",
     "first_alerted_at": "2026-09-15T18:18:19.189123+00:00"
+  },
+  "041305745a868a0a": {
+    "title": "Cachebeat – keep your Claude Code prompt cache warm while a session is idle",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh8rie/cachebeat_keep_your_claude_code_prompt_cache_warm/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-15T18:35:24+00:00",
+    "first_alerted_at": "2026-09-15T18:41:57.678541+00:00"
   }
 }
