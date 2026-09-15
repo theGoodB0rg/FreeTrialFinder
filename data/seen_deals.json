@@ -2626,5 +2626,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2023-06-01T07:00:00+00:00",
     "first_alerted_at": "2026-09-15T00:45:30.446897+00:00"
+  },
+  "f95eea148f0f7595": {
+    "title": "Unlimited claudecode for 30 days",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wglr5m/unlimited_claudecode_for_30_days/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T00:59:48+00:00",
+    "first_alerted_at": "2026-09-15T01:28:48.248272+00:00"
   }
 }
