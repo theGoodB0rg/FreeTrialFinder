@@ -2599,5 +2599,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-06-17T07:00:00+00:00",
     "first_alerted_at": "2026-09-14T23:37:17.630762+00:00"
+  },
+  "791526fc62def40c": {
+    "title": "Anthropic has started recruiting Claude Community Ambassadors in Japan, offering free API credits to help spread the word about Claude. - gigazine.net",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iSUpGY0J0d3kxRy1wV29jTlVDTnZaYzRXRmtCc1hHT3gwa2RQTXZwODhRSllKZ25iUXdaTHFqM0VVMzJ5NjYtdDBqUE9WOW1DZUQzcXFsV2U2YUtnaV8yQ0tWNkJhaV93NGlXcTZIZUM4MEF6WERSZTA2cw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-23T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T00:45:28.578445+00:00"
+  },
+  "4420c3b38099ca34": {
+    "title": "A mysterious AI called 'Ox Alpha' has appeared and is currently undergoing free testing. The context window is an anonymous lab that can process trillions of tokens per day for 1 million tokens and is providing an API. - gigazine.net",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OVGFmbjRBVDlUNnZ4WjA4RU9udHY5UEdaaFNLZlRvZmJHdUo3d1Q2ejZLUXRGc0ZxcEl4LVVUYXBJT2F2blV5TFRaNThMaHpvbjdqdzhHaDRMdEhRN1ZkZQ?oc=5",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-24T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T00:45:29.516781+00:00"
+  },
+  "7681ce3d8b60c5d4": {
+    "title": "OpenAI Cybersecurity Grant Program - openai.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BRUZMaTN2YTNsQ1ZNUEhKaUlCbG5SZ3dla2Uyckt4VUZoVDRpTW50RW9Eb2Vqa0lDTGdVLVFqNF94MHlrQzJzTXBHandFN0pjRlRHSjhUbGMtY3BZRXFZN0JFczdNeW5WZ2VKSw?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2023-06-01T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T00:45:30.446897+00:00"
   }
 }
