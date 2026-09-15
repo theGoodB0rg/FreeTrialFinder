@@ -2761,5 +2761,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T06:41:32+00:00",
     "first_alerted_at": "2026-09-15T06:54:30.249933+00:00"
+  },
+  "9a61e803f3c2842b": {
+    "title": "New developer challenge offers resort stays, API credits for AI travel agents that can actually book - phocuswire.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR3NzWlFpektHcGI3eS05OW5xdHZOcUY1M25VOTRsRFR4eGZrUFZ4Z0FKeVhmZjdSbklfblhrWUFfa01jNmZobV82UDJfRUx2UmJkUXl6Y0JfYUQySXVIVHN4T1pZWkJFNVpsLWtuQXFvTnVCb3JOS0lyYk00YXdBbC1CV3Q0RU1Cdk0xV0kwMnotODEydFRQTl9iWHZZWFRxb3c?oc=5",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-28T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T07:19:47.399623+00:00"
   }
 }
