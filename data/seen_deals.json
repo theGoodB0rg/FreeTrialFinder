@@ -2878,5 +2878,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-15T16:00:57+00:00",
     "first_alerted_at": "2026-09-15T16:17:20.216525+00:00"
+  },
+  "9fd69a52dc7ba2f2": {
+    "title": "Built an MCP tool that gives Claude get_symbol() instead of reading whole files — 97% cheaper, benchmarked against grep/Serena/jcodemunch",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh4zln/built_an_mcp_tool_that_gives_claude_get_symbol/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-15T16:21:03+00:00",
+    "first_alerted_at": "2026-09-15T16:40:41.213179+00:00"
   }
 }
