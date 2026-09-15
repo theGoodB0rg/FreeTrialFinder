@@ -2824,5 +2824,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2025-05-07T12:17:12+00:00",
     "first_alerted_at": "2026-09-15T14:39:58.486136+00:00"
+  },
+  "47fa9ed11d342576": {
+    "title": "Up to 450K Michigan college students eligible for free OpenAI credits - freep.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmlxVlFmbXNDQVVJOGtXR0NScE9ZRmdvSDZuZDZUY0FhTUdCQ1B3bDV5Yll6M1JiRTcyZ3Z3U1JVeWZvckNqc05GVVNybXY3alc0eER2YUVzaTQ5MmpkOGxLbjNsZF8xbkFtZTcxckd2WTl6VmdHeURUSW82Q0pvM0tBRlBtSlRaX2pudkZxUTlfLVRZYWEyT2VsQVE3YVRQVU5BMU0zU0d3MUJVUGhKcFhNR3Fsd01WaEF5U2Vfa2F2NDR4?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-04T07:00:00+00:00",
+    "first_alerted_at": "2026-09-15T15:15:55.980396+00:00"
   }
 }
