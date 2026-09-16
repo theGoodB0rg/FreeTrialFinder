@@ -3211,5 +3211,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T22:58:44+00:00",
     "first_alerted_at": "2026-09-16T23:13:46.051097+00:00"
+  },
+  "31d8879dff5123ea": {
+    "title": "stopped copy-pasting meeting transcripts into Claude Code, wired my notetaker in as an MCP server instead",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1widasa/stopped_copypasting_meeting_transcripts_into/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T23:26:22+00:00",
+    "first_alerted_at": "2026-09-16T23:36:57.349371+00:00"
+  },
+  "bafb70e166a9b476": {
+    "title": "built a 350+ tool saas in 1 month using claude opus 5. going to sleep hoping for $1M",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1widb4y/built_a_350_tool_saas_in_1_month_using_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T23:26:47+00:00",
+    "first_alerted_at": "2026-09-16T23:36:58.317646+00:00"
   }
 }
