@@ -3085,5 +3085,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T11:44:13+00:00",
     "first_alerted_at": "2026-09-16T12:25:19.675081+00:00"
+  },
+  "7bc975f619dba7fd": {
+    "title": "[VSCode + WSL2 + CC] can't copy output message",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whvuhn/vscode_wsl2_cc_cant_copy_output_message/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T12:28:49+00:00",
+    "first_alerted_at": "2026-09-16T12:48:19.488436+00:00"
   }
 }
