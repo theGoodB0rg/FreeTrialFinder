@@ -3166,5 +3166,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T15:40:24+00:00",
     "first_alerted_at": "2026-09-16T16:17:46.559136+00:00"
+  },
+  "8b03a55827a162c0": {
+    "title": "Built a real time conversation translator with Claude Code, the translation was the easy part",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi3weg/built_a_real_time_conversation_translator_with/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T17:31:37+00:00",
+    "first_alerted_at": "2026-09-16T17:37:37.620218+00:00"
   }
 }
