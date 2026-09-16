@@ -2932,5 +2932,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-03-12T07:00:00+00:00",
     "first_alerted_at": "2026-09-16T01:26:58.158258+00:00"
+  },
+  "3a6c662da0456d9c": {
+    "title": "Korea Startup Forum Partners with Anthropic to Offer Claude Credits - Seoul Economic Daily",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalZGbW5vOE50ZUplNWE1VG1YdGlWQTVEUkpUWHJOVWthdW1vTFc0WV8xWHZDdVl2ZVdlcEtuZjdZelZ3UDY1ZHlsQVd2Ri14YmlfbUswLWUxRlNfdjJZUGkyMXBlUkY2MURPVW5qUzJjbFhQM3Q2ejRacVZwZWw2SFJXdGs4VzZrY3NWdU9nVGZkNF92cFh3OWVJUGViWVFvVUx3Mi1uRQ?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-03-12T07:00:00+00:00",
+    "first_alerted_at": "2026-09-16T01:50:08.021843+00:00"
   }
 }
