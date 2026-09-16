@@ -3004,5 +3004,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T06:35:57+00:00",
     "first_alerted_at": "2026-09-16T06:54:06.329340+00:00"
+  },
+  "50c7b94edc795a86": {
+    "title": "Claude's Predictive Abilities",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whpwf2/claudes_predictive_abilities/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T07:05:45+00:00",
+    "first_alerted_at": "2026-09-16T07:19:44.047204+00:00"
   }
 }
