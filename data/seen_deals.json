@@ -3184,5 +3184,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T19:08:07+00:00",
     "first_alerted_at": "2026-09-16T19:13:21.057522+00:00"
+  },
+  "76b5b0f2628c7615": {
+    "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+    "url": "https://seasonmap.app",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T15:43:07+00:00",
+    "first_alerted_at": "2026-09-16T21:15:11.179110+00:00"
   }
 }
