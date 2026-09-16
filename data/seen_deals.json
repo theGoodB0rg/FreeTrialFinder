@@ -3175,5 +3175,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T17:31:37+00:00",
     "first_alerted_at": "2026-09-16T17:37:37.620218+00:00"
+  },
+  "8bf36b57f178d7a5": {
+    "title": "Best bang4bucks model/effort combo?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi6mp1/best_bang4bucks_modeleffort_combo/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T19:08:07+00:00",
+    "first_alerted_at": "2026-09-16T19:13:21.057522+00:00"
   }
 }
