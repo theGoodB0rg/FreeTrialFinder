@@ -3157,5 +3157,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T15:01:22+00:00",
     "first_alerted_at": "2026-09-16T15:15:34.022692+00:00"
+  },
+  "72f68f55719a1c8f": {
+    "title": "I recreated the viral riso animation with Claude Code + Opus 5. Here's the full prompt, the process and the token count",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi0rhx/i_recreated_the_viral_riso_animation_with_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T15:40:24+00:00",
+    "first_alerted_at": "2026-09-16T16:17:46.559136+00:00"
   }
 }
