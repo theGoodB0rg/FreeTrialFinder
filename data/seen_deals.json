@@ -3058,5 +3058,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T11:34:35+00:00",
     "first_alerted_at": "2026-09-16T11:38:23.480295+00:00"
+  },
+  "f3c5b776be045388": {
+    "title": "Quota draining? Claude Code re-bills a finished sub-agent's whole context on a follow-up",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whvqcl/quota_draining_claude_code_rebills_a_finished/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-16T12:23:45+00:00",
+    "first_alerted_at": "2026-09-16T12:25:17.922937+00:00"
+  },
+  "87f927afd6a12f41": {
+    "title": "Show HN: Freeform – One click shareable AI generated apps",
+    "url": "https://sharefreeform.com",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T11:43:17+00:00",
+    "first_alerted_at": "2026-09-16T12:25:18.829465+00:00"
+  },
+  "b7b37382d2b41a27": {
+    "title": "Claude Code's /usage Stats tab overstates your tokens ~2x. Reported on GitHub since Aug 2025, still unfixed.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whuvcf/claude_codes_usage_stats_tab_overstates_your/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T11:44:13+00:00",
+    "first_alerted_at": "2026-09-16T12:25:19.675081+00:00"
   }
 }
