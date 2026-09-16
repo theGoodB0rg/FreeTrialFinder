@@ -3094,5 +3094,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T12:28:49+00:00",
     "first_alerted_at": "2026-09-16T12:48:19.488436+00:00"
+  },
+  "17e6b43074841697": {
+    "title": "A lot of talk about reduced weekly limits but a lack of data - so here's some actual numbers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1why2zx/a_lot_of_talk_about_reduced_weekly_limits_but_a/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-16T14:00:34+00:00",
+    "first_alerted_at": "2026-09-16T14:17:34.866340+00:00"
   }
 }
