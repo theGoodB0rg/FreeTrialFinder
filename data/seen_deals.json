@@ -3121,5 +3121,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T14:32:42+00:00",
     "first_alerted_at": "2026-09-16T14:39:45.955241+00:00"
+  },
+  "6bf77ed45820e362": {
+    "title": "Three reasons your Claude quota burns faster this week. Only one was announced.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzeox/three_reasons_your_claude_quota_burns_faster_this/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-16T14:50:36+00:00",
+    "first_alerted_at": "2026-09-16T15:15:31.396910+00:00"
+  },
+  "51fb4ea6fc459274": {
+    "title": "Claude 4.6 was peak and it's downhill since then",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T14:58:03+00:00",
+    "first_alerted_at": "2026-09-16T15:15:32.316131+00:00"
+  },
+  "0b7fa0c3272adefa": {
+    "title": "LLM based CI pipeline code generator for DSCI",
+    "url": "https://news.ycombinator.com/item?id=49728085",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T14:59:56+00:00",
+    "first_alerted_at": "2026-09-16T15:15:33.185614+00:00"
+  },
+  "1fc25ea703d38b99": {
+    "title": "How can I leverage Qwen Code on a separate desktop from a Fable orchestrator?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzpgg/how_can_i_leverage_qwen_code_on_a_separate/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T15:01:22+00:00",
+    "first_alerted_at": "2026-09-16T15:15:34.022692+00:00"
   }
 }
