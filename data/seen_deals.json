@@ -2959,5 +2959,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-08-25T12:15:30+00:00",
     "first_alerted_at": "2026-09-16T03:20:06.735853+00:00"
+  },
+  "dcfe74184fd5e682": {
+    "title": "If OpenAI can solve a millennium prize problem with 30,000 agents, then why can't anyone contribute by crowdsourcing?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whntou/if_openai_can_solve_a_millennium_prize_problem/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T05:12:13+00:00",
+    "first_alerted_at": "2026-09-16T05:16:52.614165+00:00"
   }
 }
