@@ -2986,5 +2986,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T05:20:24+00:00",
     "first_alerted_at": "2026-09-16T05:40:08.573094+00:00"
+  },
+  "f53300aa4603cdc3": {
+    "title": "I never ported my Claude Code skills. Another tool read the same folder. Shelling out to claude -p was the expensive part.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whop1w/i_never_ported_my_claude_code_skills_another_tool/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T06:00:19+00:00",
+    "first_alerted_at": "2026-09-16T06:28:59.889819+00:00"
   }
 }
