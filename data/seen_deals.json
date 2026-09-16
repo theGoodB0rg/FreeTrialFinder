@@ -3022,5 +3022,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T07:18:34+00:00",
     "first_alerted_at": "2026-09-16T07:41:19.411807+00:00"
+  },
+  "c870137883a8f4b2": {
+    "title": "I tested 3 more Claude Code plugins to cut costs. Here’s my verdict",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whsbju/i_tested_3_more_claude_code_plugins_to_cut_costs/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-16T09:27:32+00:00",
+    "first_alerted_at": "2026-09-16T09:40:37.983803+00:00"
   }
 }
