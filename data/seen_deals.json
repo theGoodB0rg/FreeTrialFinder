@@ -3013,5 +3013,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T07:05:45+00:00",
     "first_alerted_at": "2026-09-16T07:19:44.047204+00:00"
+  },
+  "07fdb9aa3523a93c": {
+    "title": "I asked Claude to make a video about my video editor, using my video editor.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whq4n0/i_asked_claude_to_make_a_video_about_my_video/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T07:18:34+00:00",
+    "first_alerted_at": "2026-09-16T07:41:19.411807+00:00"
   }
 }
