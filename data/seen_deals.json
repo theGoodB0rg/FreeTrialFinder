@@ -3049,5 +3049,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-01T08:58:16+00:00",
     "first_alerted_at": "2026-09-16T10:39:33.233488+00:00"
+  },
+  "761886e01459557a": {
+    "title": "Free iOS app to connect MCP servers to your cloud / local models",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whuocc/free_ios_app_to_connect_mcp_servers_to_your_cloud/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T11:34:35+00:00",
+    "first_alerted_at": "2026-09-16T11:38:23.480295+00:00"
   }
 }
