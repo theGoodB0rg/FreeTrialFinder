@@ -2995,5 +2995,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T06:00:19+00:00",
     "first_alerted_at": "2026-09-16T06:28:59.889819+00:00"
+  },
+  "1daf64e735048eb5": {
+    "title": "I built a free iPad and iPhone client so I can answer Claude Code from the couch, herdr's own TUI over SSH (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whpcsk/i_built_a_free_ipad_and_iphone_client_so_i_can/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T06:35:57+00:00",
+    "first_alerted_at": "2026-09-16T06:54:06.329340+00:00"
   }
 }
