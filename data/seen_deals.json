@@ -3040,5 +3040,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T09:57:28+00:00",
     "first_alerted_at": "2026-09-16T10:17:29.136957+00:00"
+  },
+  "12915889f075cbe7": {
+    "title": "Is it just me, or has Claude Opus gotten worse recently?",
+    "url": "https://news.ycombinator.com/item?id=49519639",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-01T08:58:16+00:00",
+    "first_alerted_at": "2026-09-16T10:39:33.233488+00:00"
   }
 }
