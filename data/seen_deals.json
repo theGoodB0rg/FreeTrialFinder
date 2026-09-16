@@ -3193,5 +3193,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T15:43:07+00:00",
     "first_alerted_at": "2026-09-16T21:15:11.179110+00:00"
+  },
+  "405a2b517d3a0910": {
+    "title": "I built a skill to stop Claude burying the answer — then had Claude blind-grade it. It caught two mistakes I'd published.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wibhbg/i_built_a_skill_to_stop_claude_burying_the_answer/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T22:09:52+00:00",
+    "first_alerted_at": "2026-09-16T22:15:19.333722+00:00"
   }
 }
