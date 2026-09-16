@@ -2941,5 +2941,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-03-12T07:00:00+00:00",
     "first_alerted_at": "2026-09-16T01:50:08.021843+00:00"
+  },
+  "2162d27e6b647ea1": {
+    "title": "I've build a source of real fake data",
+    "url": "https://news.ycombinator.com/item?id=49321676",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-08-16T16:55:43+00:00",
+    "first_alerted_at": "2026-09-16T03:20:05.846672+00:00"
+  },
+  "6f7a125b4ce0956e": {
+    "title": "Show HN: VidScio – Identify movie/series from a URL, image or description",
+    "url": "https://www.vidscio.com",
+    "provider": "Google",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-25T12:15:30+00:00",
+    "first_alerted_at": "2026-09-16T03:20:06.735853+00:00"
   }
 }
