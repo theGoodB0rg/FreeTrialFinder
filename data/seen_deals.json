@@ -3031,5 +3031,14 @@
     "confidence": "DIRECT_IDE",
     "discovered_at": "2026-09-16T09:27:32+00:00",
     "first_alerted_at": "2026-09-16T09:40:37.983803+00:00"
+  },
+  "5a86a70a548671f6": {
+    "title": "I built a programming language for Claude — and humans too",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whsude/i_built_a_programming_language_for_claude_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T09:57:28+00:00",
+    "first_alerted_at": "2026-09-16T10:17:29.136957+00:00"
   }
 }
