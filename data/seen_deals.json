@@ -2968,5 +2968,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T05:12:13+00:00",
     "first_alerted_at": "2026-09-16T05:16:52.614165+00:00"
+  },
+  "7736d1924142ae17": {
+    "title": "I'm a fully blind business owner. I just sold my first vibe coded product for $1700.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1who6dy/im_a_fully_blind_business_owner_i_just_sold_my/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T05:31:41+00:00",
+    "first_alerted_at": "2026-09-16T05:40:07.712161+00:00"
+  },
+  "3c3e6344d389849f": {
+    "title": "How A Software Engineer from SpaceXAI Built Trust in Thousand Coding Agents",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1whnz54/how_a_software_engineer_from_spacexai_built_trust/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-16T05:20:24+00:00",
+    "first_alerted_at": "2026-09-16T05:40:08.573094+00:00"
   }
 }
