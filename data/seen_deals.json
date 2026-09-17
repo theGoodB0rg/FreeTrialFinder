@@ -3274,5 +3274,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-08-25T07:00:00+00:00",
     "first_alerted_at": "2026-09-17T09:36:44.752135+00:00"
+  },
+  "45ed571d3965f60d": {
+    "title": "Opus 5 (high) hallucination",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wiuo70/opus_5_high_hallucination/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T13:54:45+00:00",
+    "first_alerted_at": "2026-09-17T14:47:28.040435+00:00"
+  },
+  "b5b6c17e87a082bb": {
+    "title": "Why does Claude Code have so many features?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wit8ko/why_does_claude_code_have_so_many_features/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T12:55:41+00:00",
+    "first_alerted_at": "2026-09-17T14:47:28.994185+00:00"
+  },
+  "6f1d738ad5378df8": {
+    "title": "Show HN: An agent-skill to generate preview, AppStore screenshots and campaigns",
+    "url": "https://github.com/imshaikot/app-preview-craft-skill",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T11:47:51+00:00",
+    "first_alerted_at": "2026-09-17T14:47:29.878107+00:00"
+  },
+  "a46a1cdd63e560f2": {
+    "title": "Best way to automate META ads",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wiqz01/best_way_to_automate_meta_ads/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T11:07:46+00:00",
+    "first_alerted_at": "2026-09-17T14:47:30.784500+00:00"
+  },
+  "f02693f321304d46": {
+    "title": "Adaptive cache",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wipv3j/adaptive_cache/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T10:08:13+00:00",
+    "first_alerted_at": "2026-09-17T14:47:31.671146+00:00"
+  },
+  "9643d99cf623700a": {
+    "title": "OpenAI equips Aussie SMEs with $5.5 million in startup credits for AI use - smartcompany.com.au",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmJLNlhNV3pPd0ZBNHZhbV9kVVRYZlNENTdzNE4xS0hHYzIwVjV0Q3RxcjMzdnJBNFk3el9qZ3BOQUNPbVRNaGg2bUhZRGtDQzZEcGp5VVpoc1FtX2x5ZFlYdkE4Y1FuMkJ6MmJUT29la29iUlZsQUF2WUFUNmM2SFBScEhNV012SjJNNGhNb0gzNGhpWTBmckNiTHN2NFF6YXlhVThXQXUwY0FONVFteVd1ZTdKS3dtQ1d2Zg?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-25T07:00:00+00:00",
+    "first_alerted_at": "2026-09-17T14:47:32.556989+00:00"
+  },
+  "b51cebe2cb49c364": {
+    "title": "Is Claude Pro worth it if you don’t code?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wivlvw/is_claude_pro_worth_it_if_you_dont_code/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T14:30:05+00:00",
+    "first_alerted_at": "2026-09-17T14:47:33.422898+00:00"
+  },
+  "e63778e164b35373": {
+    "title": "I built a \"Starter Pack\" of 7 custom Claude Skills to fix common agentic quirks and improve output quality. Here is my setup.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wirky9/i_built_a_starter_pack_of_7_custom_claude_skills/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T11:39:23+00:00",
+    "first_alerted_at": "2026-09-17T14:47:34.301173+00:00"
+  },
+  "2f7f0c17622e2ee6": {
+    "title": "Has anyone designed a full design system in Claude and then moved it into Figma?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wipm7t/has_anyone_designed_a_full_design_system_in/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T09:54:36+00:00",
+    "first_alerted_at": "2026-09-17T14:47:35.185264+00:00"
   }
 }
