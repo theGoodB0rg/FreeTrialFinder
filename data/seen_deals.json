@@ -3256,5 +3256,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-17T02:08:01+00:00",
     "first_alerted_at": "2026-09-17T02:23:05.764628+00:00"
+  },
+  "f763c0675d8f8cda": {
+    "title": "I built claude-sandbox, a free, open-source (Apache 2.0) sandbox for coding agents using claude.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wimfif/i_built_claudesandbox_a_free_opensource_apache_20/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-17T06:47:11+00:00",
+    "first_alerted_at": "2026-09-17T09:36:43.704722+00:00"
+  },
+  "cf701099b68e1da5": {
+    "title": "OpenAI equips Aussie SMEs with $5.5 million in startup credits for AI use - SmartCompany",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmJLNlhNV3pPd0ZBNHZhbV9kVVRYZlNENTdzNE4xS0hHYzIwVjV0Q3RxcjMzdnJBNFk3el9qZ3BOQUNPbVRNaGg2bUhZRGtDQzZEcGp5VVpoc1FtX2x5ZFlYdkE4Y1FuMkJ6MmJUT29la29iUlZsQUF2WUFUNmM2SFBScEhNV012SjJNNGhNb0gzNGhpWTBmckNiTHN2NFF6YXlhVThXQXUwY0FONVFteVd1ZTdKS3dtQ1d2Zg?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-25T07:00:00+00:00",
+    "first_alerted_at": "2026-09-17T09:36:44.752135+00:00"
   }
 }
