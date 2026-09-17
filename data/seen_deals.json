@@ -3238,5 +3238,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-17T01:15:23+00:00",
     "first_alerted_at": "2026-09-17T01:27:09.610871+00:00"
+  },
+  "dc9ecb85e8e01782": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-vl/\" target=\"_blank\" rel=\"noopener\">inclusionAI: Ling 3.0 Flash VL free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-vl/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T01:51:43.242368+00:00",
+    "first_alerted_at": "2026-09-17T01:51:48.938076+00:00"
   }
 }
