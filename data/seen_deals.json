@@ -3391,5 +3391,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-17T16:37:45+00:00",
     "first_alerted_at": "2026-09-17T18:53:52.548304+00:00"
+  },
+  "ae805db5df246477": {
+    "title": "Sub-agents burning your Claude Code 5-hour window? Check their 5-minute prompt cache",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj4gs0/subagents_burning_your_claude_code_5hour_window/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-17T19:55:47+00:00",
+    "first_alerted_at": "2026-09-17T21:59:40.290901+00:00"
+  },
+  "3a7a18eee70f9f94": {
+    "title": "Month 8 of getting frontier intelligence on a gaming PC using Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj5htg/month_8_of_getting_frontier_intelligence_on_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T20:33:36+00:00",
+    "first_alerted_at": "2026-09-17T21:59:41.376351+00:00"
+  },
+  "1d20b1836d1265de": {
+    "title": "I thought I'd found a model 5000x cheaper than Claude for filling web forms. My benchmark was wrong.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj3lsw/i_thought_id_found_a_model_5000x_cheaper_than/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T19:23:41+00:00",
+    "first_alerted_at": "2026-09-17T21:59:42.482067+00:00"
+  },
+  "95a745f98eea194d": {
+    "title": "Looking for the right Harness for Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj2ru2/looking_for_the_right_harness_for_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T18:53:47+00:00",
+    "first_alerted_at": "2026-09-17T21:59:43.510201+00:00"
   }
 }
