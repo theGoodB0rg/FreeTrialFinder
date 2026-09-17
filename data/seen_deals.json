@@ -3247,5 +3247,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-17T01:51:43.242368+00:00",
     "first_alerted_at": "2026-09-17T01:51:48.938076+00:00"
+  },
+  "b7e5db4867b7ec82": {
+    "title": "Non-coder building a full web app: Claude Code or something else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wigyyl/noncoder_building_a_full_web_app_claude_code_or/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T02:08:01+00:00",
+    "first_alerted_at": "2026-09-17T02:23:05.764628+00:00"
   }
 }
