@@ -3229,5 +3229,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T23:26:47+00:00",
     "first_alerted_at": "2026-09-16T23:36:58.317646+00:00"
+  },
+  "08a6dea425ed4f1b": {
+    "title": "Does the peak hour surcharge still apply?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wifspi/does_the_peak_hour_surcharge_still_apply/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T01:15:23+00:00",
+    "first_alerted_at": "2026-09-17T01:27:09.610871+00:00"
   }
 }
