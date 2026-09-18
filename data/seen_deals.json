@@ -3580,5 +3580,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-18T13:28:34+00:00",
     "first_alerted_at": "2026-09-18T14:23:55.418484+00:00"
+  },
+  "2784bf6ab9d73470": {
+    "title": "I asked Claude Code to pick the \"best\" code review tool and it chose itself 76% of the time",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjsxm4/i_asked_claude_code_to_pick_the_best_code_review/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T15:13:33+00:00",
+    "first_alerted_at": "2026-09-18T17:48:20.575264+00:00"
+  },
+  "291cc12eb9e7f4ea": {
+    "title": "I made the reasoning reviewable",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjw1zh/i_made_the_reasoning_reviewable/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T17:08:28+00:00",
+    "first_alerted_at": "2026-09-18T17:48:21.450738+00:00"
+  },
+  "ec94d9c132bae399": {
+    "title": "How are you guys keeping context in sync when everyone’s using different AI coding agents?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjur71/how_are_you_guys_keeping_context_in_sync_when/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T16:20:27+00:00",
+    "first_alerted_at": "2026-09-18T17:48:22.325233+00:00"
+  },
+  "12b9ae1032b198a0": {
+    "title": "5bn tokens in a week?.. is this even real?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjwl8i/5bn_tokens_in_a_week_is_this_even_real/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T17:27:49+00:00",
+    "first_alerted_at": "2026-09-18T17:48:23.166298+00:00"
   }
 }
