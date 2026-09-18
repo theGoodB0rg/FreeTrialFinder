@@ -3616,5 +3616,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-18T17:27:49+00:00",
     "first_alerted_at": "2026-09-18T17:48:23.166298+00:00"
+  },
+  "89fc7aae148cc594": {
+    "title": "Keep Claude Code’s cache warm. On Fable 5.1, a 1-hour cache write costs 80x a read.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk12g9/keep_claude_codes_cache_warm_on_fable_51_a_1hour/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-18T20:12:59+00:00",
+    "first_alerted_at": "2026-09-18T20:40:42.289774+00:00"
+  },
+  "8befef83494b9d36": {
+    "title": "Why your skills suck(and how to improve them)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk1ry1/why_your_skills_suckand_how_to_improve_them/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T20:39:55+00:00",
+    "first_alerted_at": "2026-09-18T20:40:43.201180+00:00"
+  },
+  "760d711b93d403c5": {
+    "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+    "url": "https://onpanda.diyer22.com/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T19:26:50+00:00",
+    "first_alerted_at": "2026-09-18T20:40:44.127516+00:00"
+  },
+  "fd29adaf2a8db0d0": {
+    "title": "codemap - packs your repository into focused, AI-ready context",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk1izh/codemap_packs_your_repository_into_focused/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T20:30:36+00:00",
+    "first_alerted_at": "2026-09-18T20:40:45.091014+00:00"
+  },
+  "3b2550ba4a8bfaa4": {
+    "title": "Can Browser Version Access Local Files?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk0dzq/can_browser_version_access_local_files/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T19:47:38+00:00",
+    "first_alerted_at": "2026-09-18T20:40:45.986129+00:00"
+  },
+  "d3aa209a860a3ec1": {
+    "title": "I am trying to make a simple deal finder kind of artifact in Claude for personal use, and didn't think it would be so hard... it doesn't seem to be able to check Amazon efficiently",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjy37h/i_am_trying_to_make_a_simple_deal_finder_kind_of/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T18:22:31+00:00",
+    "first_alerted_at": "2026-09-18T20:40:46.857157+00:00"
   }
 }
