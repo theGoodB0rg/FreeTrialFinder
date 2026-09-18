@@ -3427,5 +3427,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-17T18:53:47+00:00",
     "first_alerted_at": "2026-09-17T21:59:43.510201+00:00"
+  },
+  "9b24948ef03da04d": {
+    "title": "Claude Code's overreach is getting a bit severe",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjaeaq/claude_codes_overreach_is_getting_a_bit_severe/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T23:53:44+00:00",
+    "first_alerted_at": "2026-09-18T00:07:28.167358+00:00"
+  },
+  "ac983c3f7298a168": {
+    "title": "SHOW HN: I built the fastest PHP webserver in the world",
+    "url": "https://news.ycombinator.com/item?id=49748067",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T23:18:42+00:00",
+    "first_alerted_at": "2026-09-18T00:07:29.092321+00:00"
+  },
+  "e6de1ae29c513d2f": {
+    "title": "Is there a workaround to connect Claude to personal Microsoft subscriptions?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wja2ru/is_there_a_workaround_to_connect_claude_to/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T23:39:24+00:00",
+    "first_alerted_at": "2026-09-18T00:07:29.987276+00:00"
+  },
+  "c142e99f4b3e861c": {
+    "title": "In auto mode, your nested CLAUDE.md files are probably not being loaded",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj7v4y/in_auto_mode_your_nested_claudemd_files_are/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-17T22:05:53+00:00",
+    "first_alerted_at": "2026-09-18T00:07:30.912979+00:00"
   }
 }
