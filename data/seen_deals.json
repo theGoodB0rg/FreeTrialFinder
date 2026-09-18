@@ -3463,5 +3463,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-17T22:05:53+00:00",
     "first_alerted_at": "2026-09-18T00:07:30.912979+00:00"
+  },
+  "13285184caa7d6a5": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/deepseek-deepseek-v4-flash-0731/\" target=\"_blank\" rel=\"noopener\">DeepSeek: DeepSeek V4 Flash 0731 free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/deepseek-deepseek-v4-flash-0731/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T05:03:06.050450+00:00",
+    "first_alerted_at": "2026-09-18T05:03:11.505171+00:00"
+  },
+  "18fd4edf5bae2362": {
+    "title": "Does AI coding actually become multiplayer, or are we just making single-player developers more powerful?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjehxc/does_ai_coding_actually_become_multiplayer_or_are/",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T03:03:13+00:00",
+    "first_alerted_at": "2026-09-18T05:03:12.446771+00:00"
+  },
+  "1944e51d66f6efa9": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/deepseek-deepseek-v4-flash-0731/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T05:03:06.047827+00:00",
+    "first_alerted_at": "2026-09-18T05:03:13.372298+00:00"
+  },
+  "043c4f5dbbf23ecf": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3-ultra-550b-a55b/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T05:03:06.047856+00:00",
+    "first_alerted_at": "2026-09-18T05:03:14.290176+00:00"
   }
 }
