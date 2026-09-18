@@ -3499,5 +3499,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-18T05:03:06.047856+00:00",
     "first_alerted_at": "2026-09-18T05:03:14.290176+00:00"
+  },
+  "df992238610f9874": {
+    "title": "OpenAI will provide $1M in API Credits to low and middle-income countries - Cybernews",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zUW9ERkZ0YmdqLWIzOEZQMy1pVkxvOWUyalpXVzhCams4LWs3UWhyWTVXQ3E2bVhiZGl3UUZSR1hVbWVtbUJlZUZkbkpUcTNmTHpJalpjQkQ2c3Vtb2Z6MTZldDc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2024-09-23T07:00:00+00:00",
+    "first_alerted_at": "2026-09-18T09:59:55.529891+00:00"
+  },
+  "fbbb596dfac6db28": {
+    "title": "New Claude docs seem to use too many tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjjred/new_claude_docs_seem_to_use_too_many_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T07:47:43+00:00",
+    "first_alerted_at": "2026-09-18T09:59:56.435562+00:00"
   }
 }
