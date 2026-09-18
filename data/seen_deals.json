@@ -3517,5 +3517,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-18T07:47:43+00:00",
     "first_alerted_at": "2026-09-18T09:59:56.435562+00:00"
+  },
+  "30a711884a5beabc": {
+    "title": "I made a Claude Code skill that reaches for Jev before writing another regex, and writes down what happened",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjr42f/i_made_a_claude_code_skill_that_reaches_for_jev/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-18T14:03:26+00:00",
+    "first_alerted_at": "2026-09-18T14:23:50.312857+00:00"
+  },
+  "43a3f0154ba277e6": {
+    "title": "Anthropic Campus Ambassador Program 2026: Earn a $3,600 Stipend, Get API Credits and Lead AI Initiatives on Campus - Global South Opportunities",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUlktV3lJYXVNdGZfZkdPZnRZU0FJeXdaLVpZaEdJUGdyemFyU0llemdfY2lLWTRld3laRkduSkY0cHBJY0hDVzNNNTJabDJpc29aemJ6cXNqQ2hnLWdPTkFidW5uUXZ4UzRNZGxaZHR0Zw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-02T07:00:00+00:00",
+    "first_alerted_at": "2026-09-18T14:23:51.181459+00:00"
+  },
+  "d7b34c0441cb0bd4": {
+    "title": "Claude Code ships a per-model table of what each effort level costs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjr89j/claude_code_ships_a_permodel_table_of_what_each/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T14:08:00+00:00",
+    "first_alerted_at": "2026-09-18T14:23:52.029036+00:00"
+  },
+  "e33ce5a10a13eb55": {
+    "title": "Interesting insight on what \"ultracode\" does and the core benefits of having multi agents when coding.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjnpbk/interesting_insight_on_what_ultracode_does_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T11:33:13+00:00",
+    "first_alerted_at": "2026-09-18T14:23:52.871747+00:00"
+  },
+  "2831b97ae98095cf": {
+    "title": "I use beads with Claude Code, but have found mass labelling of issues inefficient and costly. The new Jev model solves this problem, so I made a tool which uses it to label your beads.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjmo1i/i_use_beads_with_claude_code_but_have_found_mass/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T10:38:49+00:00",
+    "first_alerted_at": "2026-09-18T14:23:53.721382+00:00"
+  },
+  "12a8b16989cda5eb": {
+    "title": "Does this mean it's fine to use Claude subscriptions with third party harnesses?",
+    "url": "https://news.ycombinator.com/item?id=49753579",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T12:40:16+00:00",
+    "first_alerted_at": "2026-09-18T14:23:54.578214+00:00"
+  },
+  "1b49b78f2de51c86": {
+    "title": "Opus vs Sonnet for structuring a long report into sections, my honest experience",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjq8e2/opus_vs_sonnet_for_structuring_a_long_report_into/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T13:28:34+00:00",
+    "first_alerted_at": "2026-09-18T14:23:55.418484+00:00"
   }
 }
