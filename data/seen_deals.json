@@ -3670,5 +3670,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-18T18:22:31+00:00",
     "first_alerted_at": "2026-09-18T20:40:46.857157+00:00"
+  },
+  "7870e449bbed94b1": {
+    "title": "Agent workspace - shared",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk2mcp/agent_workspace_shared/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-18T21:12:45+00:00",
+    "first_alerted_at": "2026-09-18T23:08:36.912422+00:00"
+  },
+  "b57a8735eb18b4d9": {
+    "title": "OpenRouter reports 9,000x increase in token usage since January 2024 - cryptobriefing.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ocUVva2tBeXNjOXpfUmRldzU1LXFrdkp3VWxRQjNtVnB6MVNJdzlPZTY2d1FvRVQwcU1va2FJczVjQzE3Uk9NMmk4bVNzOHdyRUVRS1ZGc1ZRNUx4ZFdWOFMwSlcwWjRsazBzYVo2T2Q?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-24T07:00:00+00:00",
+    "first_alerted_at": "2026-09-18T23:08:37.815863+00:00"
   }
 }
