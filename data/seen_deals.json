@@ -3742,5 +3742,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T10:40:55+00:00",
     "first_alerted_at": "2026-09-19T11:51:18.034293+00:00"
+  },
+  "1e42864f91d04bea": {
+    "title": "I measured what four spec-driven tools actually cost to add one small feature to an existing project",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkktmh/i_measured_what_four_specdriven_tools_actually/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-19T12:22:12+00:00",
+    "first_alerted_at": "2026-09-19T15:40:25.766561+00:00"
+  },
+  "569dad7a2aab4249": {
+    "title": "Cursor vs Claude Usage Compariso",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkmrh8/cursor_vs_claude_usage_compariso/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T13:49:53+00:00",
+    "first_alerted_at": "2026-09-19T15:40:26.610658+00:00"
+  },
+  "5c070157fadf45a7": {
+    "title": "I built avdslim using Claude Code — an open-source tool that cuts Android emulator RAM from 8 GB to 1.5 GB on macOS",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkm055/i_built_avdslim_using_claude_code_an_opensource/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T13:16:26+00:00",
+    "first_alerted_at": "2026-09-19T15:40:27.536255+00:00"
+  },
+  "9735510264cc492b": {
+    "title": "How to get most out of Claude Design?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkpebk/how_to_get_most_out_of_claude_design/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T15:39:12+00:00",
+    "first_alerted_at": "2026-09-19T15:40:28.391722+00:00"
+  },
+  "6826dca03b808b71": {
+    "title": "Hitting limits on the $200/mo tier in 48 hours. Anyone running a 2nd account?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkl1j8/hitting_limits_on_the_200mo_tier_in_48_hours/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T12:32:38+00:00",
+    "first_alerted_at": "2026-09-19T15:40:29.232921+00:00"
   }
 }
