@@ -3688,5 +3688,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-08-24T07:00:00+00:00",
     "first_alerted_at": "2026-09-18T23:08:37.815863+00:00"
+  },
+  "fbca32d8f4d4cc51": {
+    "title": "Wilson's Survival Guide for September 11-18, 2026 now available!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk690o/wilsons_survival_guide_for_september_1118_2026/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-18T23:42:57+00:00",
+    "first_alerted_at": "2026-09-19T01:27:49.470924+00:00"
+  },
+  "9f3d67de0f0c6105": {
+    "title": "Credits that were supposed to expire on the 19th just expired (it's the 18th)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk7eui/credits_that_were_supposed_to_expire_on_the_19th/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T00:33:29+00:00",
+    "first_alerted_at": "2026-09-19T01:27:50.301311+00:00"
   }
 }
