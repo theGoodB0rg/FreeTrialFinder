@@ -3850,5 +3850,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T20:31:11+00:00",
     "first_alerted_at": "2026-09-19T20:57:48.533275+00:00"
+  },
+  "147b058173ece277": {
+    "title": "When a single AI prompt is enough, and when it isn't ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkzoxu/when_a_single_ai_prompt_is_enough_and_when_it_isnt/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T22:33:42+00:00",
+    "first_alerted_at": "2026-09-19T22:52:59.554694+00:00"
+  },
+  "8f6411bf97302784": {
+    "title": "AI Demystified",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkyngb/ai_demystified/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T21:49:09+00:00",
+    "first_alerted_at": "2026-09-19T22:53:00.594783+00:00"
   }
 }
