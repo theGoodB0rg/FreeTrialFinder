@@ -3733,5 +3733,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T01:32:07+00:00",
     "first_alerted_at": "2026-09-19T06:30:53.625676+00:00"
+  },
+  "5f7876891a401a27": {
+    "title": "Claude Fable credit expiring one day earlier than stated",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk7eui/credits_that_were_supposed_to_expire_on_the_19th/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T10:40:55+00:00",
+    "first_alerted_at": "2026-09-19T11:51:18.034293+00:00"
   }
 }
