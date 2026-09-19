@@ -3706,5 +3706,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T00:33:29+00:00",
     "first_alerted_at": "2026-09-19T01:27:50.301311+00:00"
+  },
+  "bebb6265ebdd2b81": {
+    "title": "How do you handle tool sprawl and untrusted scripts when building with Claude Code and custom agents?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkbafd/how_do_you_handle_tool_sprawl_and_untrusted/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T03:39:01+00:00",
+    "first_alerted_at": "2026-09-19T06:30:51.542655+00:00"
+  },
+  "a36fe791bd03429a": {
+    "title": "Claude should offer first-party support for open-weight models Anthropic hosts via partnerships, hear me out.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wka0g5/claude_should_offer_firstparty_support_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T02:36:24+00:00",
+    "first_alerted_at": "2026-09-19T06:30:52.563468+00:00"
+  },
+  "a3e4644861b7c970": {
+    "title": "has anyone been experimenting with fully-agentic SWE workflows?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk8odd/has_anyone_been_experimenting_with_fullyagentic/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T01:32:07+00:00",
+    "first_alerted_at": "2026-09-19T06:30:53.625676+00:00"
   }
 }
