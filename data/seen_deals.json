@@ -3787,5 +3787,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T12:32:38+00:00",
     "first_alerted_at": "2026-09-19T15:40:29.232921+00:00"
+  },
+  "4f62c071e3d05f68": {
+    "title": "I use CC $200 plan, decided to also try ChatGPT $100 plan. Data inside",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wksm10/i_use_cc_200_plan_decided_to_also_try_chatgpt_100/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T17:47:34+00:00",
+    "first_alerted_at": "2026-09-19T18:30:26.936771+00:00"
+  },
+  "0b73897ff1c5aa07": {
+    "title": "Claude Pro suddenly using way more tokens than before — how can I get back to normal?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wks76s/claude_pro_suddenly_using_way_more_tokens_than/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T17:31:00+00:00",
+    "first_alerted_at": "2026-09-19T18:30:27.940860+00:00"
+  },
+  "70cfbad89f539f81": {
+    "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+    "url": "https://github.com/trycua/cua",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T15:52:51+00:00",
+    "first_alerted_at": "2026-09-19T18:30:28.957832+00:00"
   }
 }
