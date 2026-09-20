@@ -4039,5 +4039,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-20T14:48:39+00:00",
     "first_alerted_at": "2026-09-20T18:08:22.712594+00:00"
+  },
+  "65eef0b600f8273b": {
+    "title": "Claude buildathon with fable 5.1",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlpxsd/claude_buildathon_with_fable_51/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-20T19:12:59+00:00",
+    "first_alerted_at": "2026-09-20T21:00:18.018583+00:00"
+  },
+  "8ca920855fd69063": {
+    "title": "Non-developer building a real app with Claude Code + ChatGPT. How are you guys using both without becoming the API between them?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlpfq7/nondeveloper_building_a_real_app_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T18:54:28+00:00",
+    "first_alerted_at": "2026-09-20T21:00:18.912640+00:00"
+  },
+  "4fdcbb019d1b75c1": {
+    "title": "I measured what happens when a coding agent reads the same file repeatedly",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wloz5c/i_measured_what_happens_when_a_coding_agent_reads/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T18:37:14+00:00",
+    "first_alerted_at": "2026-09-20T21:00:19.824688+00:00"
   }
 }
