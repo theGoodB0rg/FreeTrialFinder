@@ -4003,5 +4003,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-20T13:16:20+00:00",
     "first_alerted_at": "2026-09-20T14:40:16.759823+00:00"
+  },
+  "808a984f1b6ff7f0": {
+    "title": "Has anyone actually replaced Claude with DeepSeek V4.1 Flash/Pro for tool-heavy daily work?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlkzoa/has_anyone_actually_replaced_claude_with_deepseek/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-20T16:05:49+00:00",
+    "first_alerted_at": "2026-09-20T18:08:20.179779+00:00"
+  },
+  "e282f56ca9f968b7": {
+    "title": "I built an app to use Claude Code from my phone and test the result there too (simulator, web, API)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlo52l/i_built_an_app_to_use_claude_code_from_my_phone/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T18:05:43+00:00",
+    "first_alerted_at": "2026-09-20T18:08:21.035635+00:00"
+  },
+  "97cf3fd0cc8909b9": {
+    "title": "Is Claude Max $100 actually worth it compared with Codex?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlk92z/is_claude_max_100_actually_worth_it_compared_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T15:37:10+00:00",
+    "first_alerted_at": "2026-09-20T18:08:21.884748+00:00"
+  },
+  "6a050c21698408e8": {
+    "title": "Cross-agent work memory for Claude Code, Codex, OpenCode and Pi (local, no API keys)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlj0uq/crossagent_work_memory_for_claude_code_codex/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T14:48:39+00:00",
+    "first_alerted_at": "2026-09-20T18:08:22.712594+00:00"
   }
 }
