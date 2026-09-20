@@ -4066,5 +4066,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-20T18:37:14+00:00",
     "first_alerted_at": "2026-09-20T21:00:19.824688+00:00"
+  },
+  "27312caa3cc3e1b8": {
+    "title": "What ever happened to Claude's Remote Control?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlukc9/what_ever_happened_to_claudes_remote_control/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T22:11:59+00:00",
+    "first_alerted_at": "2026-09-20T23:10:51.023212+00:00"
   }
 }
