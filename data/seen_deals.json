@@ -3976,5 +3976,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-20T10:51:43+00:00",
     "first_alerted_at": "2026-09-20T10:59:20.506308+00:00"
+  },
+  "1c841b9108d380c2": {
+    "title": "Claude Code and Linux Automation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlg2h4/claude_code_and_linux_automation/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T12:41:03+00:00",
+    "first_alerted_at": "2026-09-20T14:40:14.948456+00:00"
+  },
+  "4d7ac6ff814b8aea": {
+    "title": "Help! Claude Desktop repeatedly needing permissions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlh7mp/help_claude_desktop_repeatedly_needing_permissions/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T13:32:37+00:00",
+    "first_alerted_at": "2026-09-20T14:40:15.864682+00:00"
+  },
+  "d1e27f78edbba04f": {
+    "title": "I built a local app that lets me build more with the same token limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlgud8/i_built_a_local_app_that_lets_me_build_more_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T13:16:20+00:00",
+    "first_alerted_at": "2026-09-20T14:40:16.759823+00:00"
   }
 }
