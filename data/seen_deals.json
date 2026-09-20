@@ -3868,5 +3868,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T21:49:09+00:00",
     "first_alerted_at": "2026-09-19T22:53:00.594783+00:00"
+  },
+  "3dfe836b5304db5c": {
+    "title": "Show HN: I created an open source locally usable full fledged AI platform",
+    "url": "https://github.com/theguysudo/ENZO",
+    "provider": "General AI",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T23:47:35+00:00",
+    "first_alerted_at": "2026-09-20T00:50:58.913222+00:00"
+  },
+  "9adee32b2daf19bf": {
+    "title": "OpenAI will provide $1M in API Credits to low and middle-income countries - cybernews.com",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zUW9ERkZ0YmdqLWIzOEZQMy1pVkxvOWUyalpXVzhCams4LWs3UWhyWTVXQ3E2bVhiZGl3UUZSR1hVbWVtbUJlZUZkbkpUcTNmTHpJalpjQkQ2c3Vtb2Z6MTZldDc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2024-09-23T07:00:00+00:00",
+    "first_alerted_at": "2026-09-20T00:50:59.865507+00:00"
+  },
+  "a37d3cb8cbb6cfc8": {
+    "title": "Its a skill issue!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl0wub/its_a_skill_issue/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-19T23:27:21+00:00",
+    "first_alerted_at": "2026-09-20T00:51:00.703434+00:00"
   }
 }
