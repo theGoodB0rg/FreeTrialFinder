@@ -3940,5 +3940,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-20T04:00:40+00:00",
     "first_alerted_at": "2026-09-20T05:54:25.397393+00:00"
+  },
+  "5263422c1821aab3": {
+    "title": "is it against antrophic terms to use /api/oauth/usage for third party apps?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl9c1w/is_it_against_antrophic_terms_to_use/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-20T06:29:41+00:00",
+    "first_alerted_at": "2026-09-20T10:59:17.966665+00:00"
+  },
+  "800f1ac242071c55": {
+    "title": "Jev benchmark uses Fable as truth but scores vs Opus",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wldgdt/jev_benchmark_uses_fable_as_truth_but_scores_vs/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T10:25:19+00:00",
+    "first_alerted_at": "2026-09-20T10:59:18.816732+00:00"
+  },
+  "be65688424a00e7f": {
+    "title": "Feature Request: Ein \"Dokument-Arbeitsmodus\" für mehrstufige Berichtsprojekte — mit Selbstanalyse von Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlac6q/feature_request_ein_dokumentarbeitsmodus_für/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T07:24:24+00:00",
+    "first_alerted_at": "2026-09-20T10:59:19.664223+00:00"
+  },
+  "c71f2209ec61e2a3": {
+    "title": "Claude has been a gamechanger for my business, but it may be highly domain specific",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wldx2m/claude_has_been_a_gamechanger_for_my_business_but/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T10:51:43+00:00",
+    "first_alerted_at": "2026-09-20T10:59:20.506308+00:00"
   }
 }
