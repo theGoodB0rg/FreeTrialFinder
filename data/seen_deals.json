@@ -3895,5 +3895,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T23:27:21+00:00",
     "first_alerted_at": "2026-09-20T00:51:00.703434+00:00"
+  },
+  "a7d91d3f3ebe17e4": {
+    "title": "It's time to cancel your subscriptions - Anthropic is silently nerfing Claude's reasoning budget while telling you it's the same model",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T04:20:35+00:00",
+    "first_alerted_at": "2026-09-20T05:54:21.993582+00:00"
+  },
+  "e931b7df8eff7db4": {
+    "title": "I traced where my tokens actually go",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl4uep/i_traced_where_my_tokens_actually_go/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T02:34:51+00:00",
+    "first_alerted_at": "2026-09-20T05:54:22.845599+00:00"
+  },
+  "61acb0e90e3e0deb": {
+    "title": "Night Atlas: A sky you can walk into.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl8hca/night_atlas_a_sky_you_can_walk_into/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T05:43:34+00:00",
+    "first_alerted_at": "2026-09-20T05:54:23.693247+00:00"
+  },
+  "b22de2e83ddc9d3f": {
+    "title": "Is edge-case handling really all that bad?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl86z0/is_edgecase_handling_really_all_that_bad/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T05:27:45+00:00",
+    "first_alerted_at": "2026-09-20T05:54:24.547785+00:00"
+  },
+  "f9d2b070308de995": {
+    "title": "Very impressive take by Claude on watermarking",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl6iv9/very_impressive_take_by_claude_on_watermarking/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-20T04:00:40+00:00",
+    "first_alerted_at": "2026-09-20T05:54:25.397393+00:00"
   }
 }
