@@ -4147,5 +4147,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T07:49:59+00:00",
     "first_alerted_at": "2026-09-21T13:56:24.356701+00:00"
+  },
+  "86ce0a4b3d239425": {
+    "title": "Fable in Claude Code vs Cursor",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmeepw/fable_in_claude_code_vs_cursor/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-21T14:29:40+00:00",
+    "first_alerted_at": "2026-09-21T19:14:40.701362+00:00"
+  },
+  "25ce240a92bdd2d2": {
+    "title": "I have found that writing some lines in CLAUDE.md makes Claude better than default.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmleom/i_have_found_that_writing_some_lines_in_claudemd/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T18:40:01+00:00",
+    "first_alerted_at": "2026-09-21T19:14:41.667441+00:00"
+  },
+  "db7a1b0377e30879": {
+    "title": "I built a VS Code extension to stop losing track of my AI coding agents (Claude Code, Codex, Devin, etc.)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmjjjt/i_built_a_vs_code_extension_to_stop_losing_track/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T17:33:42+00:00",
+    "first_alerted_at": "2026-09-21T19:14:42.607445+00:00"
+  },
+  "b33077d80325a36e": {
+    "title": "What is a good Start ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wminoc/what_is_a_good_start/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T17:02:55+00:00",
+    "first_alerted_at": "2026-09-21T19:14:43.505801+00:00"
+  },
+  "5e67346ee8fd90d7": {
+    "title": "I stopped describing UI bugs to my AI. I just point at them now.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmhozf/i_stopped_describing_ui_bugs_to_my_ai_i_just/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T16:28:13+00:00",
+    "first_alerted_at": "2026-09-21T19:14:44.392807+00:00"
+  },
+  "9de1794ee5e788df": {
+    "title": "Purchased tokens have more power than the base allotment you get?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmlqgk/purchased_tokens_have_more_power_than_the_base/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T18:51:37+00:00",
+    "first_alerted_at": "2026-09-21T19:14:45.327155+00:00"
+  },
+  "4fc9841df38e3c76": {
+    "title": "Use Fable instead of Opus",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmij5x/use_fable_instead_of_opus/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T16:58:40+00:00",
+    "first_alerted_at": "2026-09-21T19:14:46.223182+00:00"
+  },
+  "948cf58750d21468": {
+    "title": "Claude Teams usage - credits, what is your process?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmi7jq/claude_teams_usage_credits_what_is_your_process/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T16:47:03+00:00",
+    "first_alerted_at": "2026-09-21T19:14:47.131967+00:00"
   }
 }
