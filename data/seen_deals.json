@@ -4219,5 +4219,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T16:47:03+00:00",
     "first_alerted_at": "2026-09-21T19:14:47.131967+00:00"
+  },
+  "7d3cf4c1b6ae36b1": {
+    "title": "OpenAI launches effort to invest $1 million of API credits for developers from middle and low-income countries - The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWFdkVEZJNXdWT3VqbGRZR2w2eTRvX1h6SThqeVBQam9ROGtKQmNNU092M1FGckhLWmYzWkpVRm9pRkhJX093UXZ3VjBqa09lUnFEWC1zSDg2V0ZKc1l2OUgzd1RrMGEyWXlLdGdRSTYtRlU1RVA5YWxpd29zTkh3a3ppdzNMQmtfZ1BHMC00TWlRWkpxeS0yMlVjblRLdWRMejY5dlA1TzNtSVN4eEduQUdRV01kZUZVbl84VXdtSy1Qb1J4aFVSbF9sWjZMMUVyOEliWnhMUHdfeHdLNWpvWFpxT3FYTThoay1DVnhRblNkTTY1cFc5VXFJUy1WQ1QyTXJ3SdIBiwJBVV95cUxQN2pHZkRua1MtTFBZMlYyMkdKQzRTaHNHU2dPem1tTV94VUFmV05wdEdDSUVrRWdlY2F1ZDRxT2dfQU9WcEdmbHNoYnp0bkljSmVuQjUyRlNTR2NfTDlLUUJHaVo3enU1OHZTbGdFUDFxaVJTTnlfejljZm9pRHl4QVI1a053MzhCaXhCNDNocGc2ek1ETHVnSndETloxNmZFcEt3Ty1DUnd0WGtwTkFJRnc0YnhaNFFzcXh4ejAyZERYMWZ6VFktSmlLcHM0emFSUFp5LVFNcUFpQ21wV2hkRWxYMWZValRPS1NQQUFwN0Vlc1E2Tk1vWXJoLTRudnBtU1NQZzcxamdWSlk?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2024-09-25T07:00:00+00:00",
+    "first_alerted_at": "2026-09-21T22:45:50.922130+00:00"
+  },
+  "4776587654fc4ee5": {
+    "title": "OpenAI partners with Open Network Lab for Kyoto startup pitch contest offering $1M in API credits - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zUjdXam9aMWZ4MDVkRS1TYTllQ0VZRTh5TG9TekxyWUpBWjdMVU9jTjdSRml2bk1jRUtvaGZ5VC1NQXczdmFZNjFsUE8yTzFlR21jY0FObWdUemdncUVsZjBvV1dmdU5YTWRKeThmaFJwNEt2S1VJ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-20T07:00:00+00:00",
+    "first_alerted_at": "2026-09-21T22:45:51.770266+00:00"
+  },
+  "3e6bfb07969fd1e3": {
+    "title": "Design vs Cowork, and Design Systems not showing in both?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmotvv/design_vs_cowork_and_design_systems_not_showing/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T20:43:01+00:00",
+    "first_alerted_at": "2026-09-21T22:45:52.627053+00:00"
   }
 }
