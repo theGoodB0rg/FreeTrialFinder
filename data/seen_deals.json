@@ -4084,5 +4084,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T00:47:42+00:00",
     "first_alerted_at": "2026-09-21T01:26:40.858714+00:00"
+  },
+  "206243438c835dc4": {
+    "title": "Free Claude suddenly limiting me to 2 messages every 5 hours — is it because of the context?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm22m0/free_claude_suddenly_limiting_me_to_2_messages/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-21T03:58:40+00:00",
+    "first_alerted_at": "2026-09-21T06:58:54.070166+00:00"
+  },
+  "b57ad7a008972416": {
+    "title": "Beware of Cowork! (for fellow noobs only)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlzu4g/beware_of_cowork_for_fellow_noobs_only/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T02:08:04+00:00",
+    "first_alerted_at": "2026-09-21T06:58:54.908817+00:00"
   }
 }
