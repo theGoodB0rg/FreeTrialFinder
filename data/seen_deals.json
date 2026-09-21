@@ -4102,5 +4102,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T02:08:04+00:00",
     "first_alerted_at": "2026-09-21T06:58:54.908817+00:00"
+  },
+  "c249fa35ef2c4e66": {
+    "title": "3.2M Tokens Later, Claude Falls on The Sword - 5.1 and Astra Head to Head",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmbazd/32m_tokens_later_claude_falls_on_the_sword_51_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T12:24:59+00:00",
+    "first_alerted_at": "2026-09-21T13:56:20.706539+00:00"
+  },
+  "a4387b84377141ed": {
+    "title": "PSA - Claude Code: Turn off Prompt Suggestions, save ~10% of your limits/spend",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm8adm/psa_claude_code_turn_off_prompt_suggestions_save/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T09:50:22+00:00",
+    "first_alerted_at": "2026-09-21T13:56:21.603230+00:00"
+  },
+  "9fbe5eca1cd0cb27": {
+    "title": "If Fable made you buy a second account, this shows which one still has usage and when the others reset",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmbjb5/if_fable_made_you_buy_a_second_account_this_shows/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T12:35:02+00:00",
+    "first_alerted_at": "2026-09-21T13:56:22.499898+00:00"
+  },
+  "5c66d4751b09fee9": {
+    "title": "Where Jev can take work off Claude and where it cannot, from TypeSafe's own docs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm83ts/where_jev_can_take_work_off_claude_and_where_it/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T09:39:52+00:00",
+    "first_alerted_at": "2026-09-21T13:56:23.388303+00:00"
+  },
+  "cea8ef8eaa0fda7e": {
+    "title": "Secondary agent / Token dumping provider",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm69bp/secondary_agent_token_dumping_provider/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T07:49:59+00:00",
+    "first_alerted_at": "2026-09-21T13:56:24.356701+00:00"
   }
 }
