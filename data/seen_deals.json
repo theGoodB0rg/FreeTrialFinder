@@ -4075,5 +4075,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-20T22:11:59+00:00",
     "first_alerted_at": "2026-09-20T23:10:51.023212+00:00"
+  },
+  "8ef8e2b636c84d00": {
+    "title": "Since Cowork got folded in, project files are read-only context. Any way to get them on disk again?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wly45b/since_cowork_got_folded_in_project_files_are/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T00:47:42+00:00",
+    "first_alerted_at": "2026-09-21T01:26:40.858714+00:00"
   }
 }
