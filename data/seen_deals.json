@@ -4255,5 +4255,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T23:13:05+00:00",
     "first_alerted_at": "2026-09-22T01:31:01.814197+00:00"
+  },
+  "0eec3f76f9386def": {
+    "title": "I built a Claude trading agent that scans Robinhood and trades autonomously (full setup)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmyimy/i_built_a_claude_trading_agent_that_scans/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T03:37:35+00:00",
+    "first_alerted_at": "2026-09-22T07:31:16.036382+00:00"
+  },
+  "afb048f5e177148c": {
+    "title": "Anthropic HR email leaked (satire)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmvvh4/anthropic_hr_email_leaked_satire/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T01:33:16+00:00",
+    "first_alerted_at": "2026-09-22T07:31:16.911845+00:00"
   }
 }
