@@ -4417,5 +4417,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-22T19:51:01+00:00",
     "first_alerted_at": "2026-09-22T21:04:42.122056+00:00"
+  },
+  "0177e87b379e62d1": {
+    "title": "How to speed up super long wait for MCP directory submissions?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnp1hk/how_to_speed_up_super_long_wait_for_mcp_directory/",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T23:08:17+00:00",
+    "first_alerted_at": "2026-09-22T23:43:56.801454+00:00"
+  },
+  "731b243ae3a5b2ce": {
+    "title": "Opus 5.5 vs Fable 5.1 - this doesnt seem right",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnmro5/opus_55_vs_fable_51_this_doesnt_seem_right/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T21:34:44+00:00",
+    "first_alerted_at": "2026-09-22T23:43:57.681294+00:00"
+  },
+  "cfe76641a1dfe0ad": {
+    "title": "What's the most efficient way to put existing chats through new models?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnngoq/whats_the_most_efficient_way_to_put_existing/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T22:02:35+00:00",
+    "first_alerted_at": "2026-09-22T23:43:58.559799+00:00"
+  },
+  "076e2b27d1e70f53": {
+    "title": "Lighthouse SVG: Opus 5.5 vs Sol 6 vs Astra vs Fable 5.1",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnmxov/lighthouse_svg_opus_55_vs_sol_6_vs_astra_vs_fable/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T21:41:27+00:00",
+    "first_alerted_at": "2026-09-22T23:43:59.476277+00:00"
   }
 }
