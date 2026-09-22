@@ -138,6 +138,24 @@ Scan sources, evaluate deals, dispatch notifications, and record state:
 python -m freetrialfinder.cli poll
 ```
 
+### 6. Quick Runs (Cheat Sheet)
+```powershell
+# Look without saving or alerting
+python -m freetrialfinder.cli inspect --min-score 40
+
+# Fetch, score, alert on new deals, and save to data/seen_deals.json
+python -m freetrialfinder.cli poll --state-file data/seen_deals.json --min-score 40
+
+# Verify Telegram / Discord wiring with a sample alert
+python -m freetrialfinder.cli test-notify
+
+# Build offline browser report from saved state
+python tools/export_html.py --in data/seen_deals.json --out data/report.html
+
+# Run tests
+pytest -v
+```
+
 ---
 
 ## Cloud Deployment (GitHub Actions)

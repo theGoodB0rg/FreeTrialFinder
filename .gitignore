@@ -12,4 +12,6 @@ build/
 # State & env files
 .env
 data/seen_deals.json.tmp
+data/seen_deals.bak.json
+data/report.html
 # Notice: data/seen_deals.json is preserved in git for GitHub Actions deduplication cache

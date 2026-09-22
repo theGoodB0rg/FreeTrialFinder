@@ -2589,7 +2589,7 @@
     "score": 45,
     "confidence": "POTENTIAL",
     "discovered_at": "2025-04-09T07:00:00+00:00",
-    "first_alerted_at": "2026-09-14T23:37:16.576598+00:00"
+    "first_alerted_at": "2026-09-22T07:50:45.068289+00:00"
   },
   "fd7024387a8d1cae": {
     "title": "AWS Activate vs Microsoft for Startups vs Google for Startups (2026): Who Each One Is Actually For - securityboulevard.com",
@@ -2687,8 +2687,8 @@
     "provider": "General AI",
     "score": 65,
     "confidence": "POTENTIAL",
-    "discovered_at": "2026-09-15T02:23:32.027635+00:00",
-    "first_alerted_at": "2026-09-15T02:23:37.598428+00:00"
+    "discovered_at": "2026-09-22T07:49:44.888624+00:00",
+    "first_alerted_at": "2026-09-22T07:50:17.281389+00:00"
   },
   "c63affb6fccc2558": {
     "title": " Free API / Developer Tier",
@@ -2696,8 +2696,8 @@
     "provider": "General AI",
     "score": 65,
     "confidence": "POTENTIAL",
-    "discovered_at": "2026-09-15T02:23:32.027691+00:00",
-    "first_alerted_at": "2026-09-15T02:23:38.680676+00:00"
+    "discovered_at": "2026-09-22T07:49:44.888624+00:00",
+    "first_alerted_at": "2026-09-22T07:50:19.107451+00:00"
   },
   "ff72097db4663da6": {
     "title": "<a href=\"https://freellm.net/models/openrouter/nex-agi-nex-n2.5-pro/\" target=\"_blank\" rel=\"noopener\">Nex AGI: Nex-N2.5-Pro free</a> Free API / Developer Tier",
@@ -2705,8 +2705,8 @@
     "provider": "OpenRouter",
     "score": 65,
     "confidence": "POTENTIAL",
-    "discovered_at": "2026-09-15T02:23:32.028822+00:00",
-    "first_alerted_at": "2026-09-15T02:23:39.741302+00:00"
+    "discovered_at": "2026-09-22T07:49:44.889587+00:00",
+    "first_alerted_at": "2026-09-22T07:50:23.219634+00:00"
   },
   "a9f41bd5ec05ce57": {
     "title": "OpenAI Announces Preparedness Team And $25k API Credits For Top Survey Responses - searchenginejournal.com",
@@ -3075,7 +3075,7 @@
     "score": 65,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T11:43:17+00:00",
-    "first_alerted_at": "2026-09-16T12:25:18.829465+00:00"
+    "first_alerted_at": "2026-09-22T07:50:25.103827+00:00"
   },
   "b7b37382d2b41a27": {
     "title": "Claude Code's /usage Stats tab overstates your tokens ~2x. Reported on GitHub since Aug 2025, still unfixed.",
@@ -3111,7 +3111,7 @@
     "score": 95,
     "confidence": "DIRECT_IDE",
     "discovered_at": "2026-09-16T14:24:05+00:00",
-    "first_alerted_at": "2026-09-16T14:39:45.087417+00:00"
+    "first_alerted_at": "2026-09-22T07:50:13.624480+00:00"
   },
   "674aa47f0179d2c7": {
     "title": "I made Claude Mod roll movie credits after a coding session",
@@ -3147,7 +3147,7 @@
     "score": 45,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T14:59:56+00:00",
-    "first_alerted_at": "2026-09-16T15:15:33.185614+00:00"
+    "first_alerted_at": "2026-09-22T07:50:40.684731+00:00"
   },
   "1fc25ea703d38b99": {
     "title": "How can I leverage Qwen Code on a separate desktop from a Fable orchestrator?",
@@ -3192,7 +3192,7 @@
     "score": 40,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-16T15:43:07+00:00",
-    "first_alerted_at": "2026-09-16T21:15:11.179110+00:00"
+    "first_alerted_at": "2026-09-22T07:50:55.211166+00:00"
   },
   "405a2b517d3a0910": {
     "title": "I built a skill to stop Claude burying the answer — then had Claude blind-grade it. It caught two mistakes I'd published.",
@@ -3245,8 +3245,8 @@
     "provider": "OpenRouter",
     "score": 65,
     "confidence": "POTENTIAL",
-    "discovered_at": "2026-09-17T01:51:43.242368+00:00",
-    "first_alerted_at": "2026-09-17T01:51:48.938076+00:00"
+    "discovered_at": "2026-09-22T07:49:44.889587+00:00",
+    "first_alerted_at": "2026-09-22T07:50:21.116702+00:00"
   },
   "b7e5db4867b7ec82": {
     "title": "Non-coder building a full web app: Claude Code or something else?",
@@ -3507,7 +3507,7 @@
     "score": 65,
     "confidence": "POTENTIAL",
     "discovered_at": "2024-09-23T07:00:00+00:00",
-    "first_alerted_at": "2026-09-18T09:59:55.529891+00:00"
+    "first_alerted_at": "2026-09-22T07:50:28.846804+00:00"
   },
   "fbbb596dfac6db28": {
     "title": "New Claude docs seem to use too many tokens",
@@ -3570,7 +3570,7 @@
     "score": 40,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-18T12:40:16+00:00",
-    "first_alerted_at": "2026-09-18T14:23:54.578214+00:00"
+    "first_alerted_at": "2026-09-22T07:50:53.424595+00:00"
   },
   "1b49b78f2de51c86": {
     "title": "Opus vs Sonnet for structuring a long report into sections, my honest experience",
@@ -3741,7 +3741,7 @@
     "score": 40,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T10:40:55+00:00",
-    "first_alerted_at": "2026-09-19T11:51:18.034293+00:00"
+    "first_alerted_at": "2026-09-22T07:50:47.254354+00:00"
   },
   "1e42864f91d04bea": {
     "title": "I measured what four spec-driven tools actually cost to add one small feature to an existing project",
@@ -3876,7 +3876,7 @@
     "score": 70,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-19T23:47:35+00:00",
-    "first_alerted_at": "2026-09-20T00:50:58.913222+00:00"
+    "first_alerted_at": "2026-09-22T07:50:15.506468+00:00"
   },
   "9adee32b2daf19bf": {
     "title": "OpenAI will provide $1M in API Credits to low and middle-income countries - cybernews.com",
@@ -4236,7 +4236,7 @@
     "score": 65,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-06-20T07:00:00+00:00",
-    "first_alerted_at": "2026-09-21T22:45:51.770266+00:00"
+    "first_alerted_at": "2026-09-22T07:50:33.118364+00:00"
   },
   "3e6bfb07969fd1e3": {
     "title": "Design vs Cowork, and Design Systems not showing in both?",
@@ -4254,7 +4254,7 @@
     "score": 40,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T23:13:05+00:00",
-    "first_alerted_at": "2026-09-22T01:31:01.814197+00:00"
+    "first_alerted_at": "2026-09-22T07:50:59.235062+00:00"
   },
   "0eec3f76f9386def": {
     "title": "I built a Claude trading agent that scans Robinhood and trades autonomously (full setup)",
@@ -4263,7 +4263,7 @@
     "score": 55,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-22T03:37:35+00:00",
-    "first_alerted_at": "2026-09-22T07:31:16.036382+00:00"
+    "first_alerted_at": "2026-09-22T07:50:36.817035+00:00"
   },
   "afb048f5e177148c": {
     "title": "Anthropic HR email leaked (satire)",
@@ -4272,6 +4272,24 @@
     "score": 40,
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-22T01:33:16+00:00",
-    "first_alerted_at": "2026-09-22T07:31:16.911845+00:00"
+    "first_alerted_at": "2026-09-22T07:50:57.015184+00:00"
+  },
+  "ddd5db3040c89a15": {
+    "title": "Anthropic Campus Ambassador Program 2026: Earn a $3,600 Stipend, Get API Credits and Lead AI Initiatives on Campus - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUlktV3lJYXVNdGZfZkdPZnRZU0FJeXdaLVpZaEdJUGdyemFyU0llemdfY2lLWTRld3laRkduSkY0cHBJY0hDVzNNNTJabDJpc29aemJ6cXNqQ2hnLWdPTkFidW5uUXZ4UzRNZGxaZHR0Zw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-03T07:00:00+00:00",
+    "first_alerted_at": "2026-09-22T07:50:27.018220+00:00"
+  },
+  "ba527b902c811ed4": {
+    "title": "OpenAI launches effort to invest $1 million of API credits for developers from middle and low-income countries - thehindu.com",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWFdkVEZJNXdWT3VqbGRZR2w2eTRvX1h6SThqeVBQam9ROGtKQmNNU092M1FGckhLWmYzWkpVRm9pRkhJX093UXZ3VjBqa09lUnFEWC1zSDg2V0ZKc1l2OUgzd1RrMGEyWXlLdGdRSTYtRlU1RVA5YWxpd29zTkh3a3ppdzNMQmtfZ1BHMC00TWlRWkpxeS0yMlVjblRLdWRMejY5dlA1TzNtSVN4eEduQUdRV01kZUZVbl84VXdtSy1Qb1J4aFVSbF9sWjZMMUVyOEliWnhMUHdfeHdLNWpvWFpxT3FYTThoay1DVnhRblNkTTY1cFc5VXFJUy1WQ1QyTXJ3SdIBiwJBVV95cUxQN2pHZkRua1MtTFBZMlYyMkdKQzRTaHNHU2dPem1tTV94VUFmV05wdEdDSUVrRWdlY2F1ZDRxT2dfQU9WcEdmbHNoYnp0bkljSmVuQjUyRlNTR2NfTDlLUUJHaVo3enU1OHZTbGdFUDFxaVJTTnlfejljZm9pRHl4QVI1a053MzhCaXhCNDNocGc2ek1ETHVnSndETloxNmZFcEt3Ty1DUnd0WGtwTkFJRnc0YnhaNFFzcXh4ejAyZERYMWZ6VFktSmlLcHM0emFSUFp5LVFNcUFpQ21wV2hkRWxYMWZValRPS1NQQUFwN0Vlc1E2Tk1vWXJoLTRudnBtU1NQZzcxamdWSlk?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2024-09-25T07:00:00+00:00",
+    "first_alerted_at": "2026-09-22T07:50:31.022470+00:00"
   }
 }
