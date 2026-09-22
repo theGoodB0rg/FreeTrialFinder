@@ -4372,5 +4372,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-22T16:37:32+00:00",
     "first_alerted_at": "2026-09-22T17:42:33.303179+00:00"
+  },
+  "9cca63368e7a12f8": {
+    "title": "CLAUDE.md for Opus 5.5 based on Anthropic's official platform docs. (alleged model growth report included)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnl999/claudemd_for_opus_55_based_on_anthropics_official/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-22T20:37:53+00:00",
+    "first_alerted_at": "2026-09-22T21:04:37.902514+00:00"
+  },
+  "5fe6287d2dcdb31c": {
+    "title": "Claude Subscriptions Back In Hermes!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wni5yd/claude_subscriptions_back_in_hermes/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-22T18:47:11+00:00",
+    "first_alerted_at": "2026-09-22T21:04:38.927206+00:00"
+  },
+  "1bf85d8b488980fc": {
+    "title": "API Costs but Usage Credits Off?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnl11z/api_costs_but_usage_credits_off/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T20:29:32+00:00",
+    "first_alerted_at": "2026-09-22T21:04:40.010795+00:00"
+  },
+  "147cfbf8ce46bf5d": {
+    "title": "Opus 5.5 got me excited the same way Opus 4.6 did",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnkx23/opus_55_got_me_excited_the_same_way_opus_46_did/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T20:25:23+00:00",
+    "first_alerted_at": "2026-09-22T21:04:41.104243+00:00"
+  },
+  "8d9942e8680df464": {
+    "title": "Opus 5.5 and GPT-6 Sol dropped on the same day, so I lined up every benchmark I could find",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnjyp1/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T19:51:01+00:00",
+    "first_alerted_at": "2026-09-22T21:04:42.122056+00:00"
   }
 }
