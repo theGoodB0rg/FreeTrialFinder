@@ -4354,5 +4354,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-22T08:02:24+00:00",
     "first_alerted_at": "2026-09-22T13:14:41.499071+00:00"
+  },
+  "038a5ce2ee2441e3": {
+    "title": "How AI Interviews Me Before It Writes Anything (Prompt + Business-Ready Metrics)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wneg5w/how_ai_interviews_me_before_it_writes_anything/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T16:34:36+00:00",
+    "first_alerted_at": "2026-09-22T17:42:32.425812+00:00"
+  },
+  "0c596188a83f3e0a": {
+    "title": "I built a video editor for Claude Code with Claude Code. It cuts a video from the transcript, then checks its own render",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wneizd/i_built_a_video_editor_for_claude_code_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-22T16:37:32+00:00",
+    "first_alerted_at": "2026-09-22T17:42:33.303179+00:00"
   }
 }
