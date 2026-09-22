@@ -4246,5 +4246,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-21T20:43:01+00:00",
     "first_alerted_at": "2026-09-21T22:45:52.627053+00:00"
+  },
+  "58499a3653f51e69": {
+    "title": "Cowork has become unusable for Github?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmsnrj/cowork_has_become_unusable_for_github/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-21T23:13:05+00:00",
+    "first_alerted_at": "2026-09-22T01:31:01.814197+00:00"
   }
 }
