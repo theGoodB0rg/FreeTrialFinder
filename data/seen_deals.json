@@ -4660,5 +4660,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-23T16:27:33+00:00",
     "first_alerted_at": "2026-09-23T18:32:27.582428+00:00"
+  },
+  "6122070ee9f88d81": {
+    "title": "Pragma: an open-source agentic development environment for managing Claude Code (and more) across Git worktrees",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woi2ia/pragma_an_opensource_agentic_development/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-23T20:59:00+00:00",
+    "first_alerted_at": "2026-09-23T22:08:24.604515+00:00"
+  },
+  "2bb9127709645028": {
+    "title": "Opus 5.5 is the real deal: same accuracy as Fable 5.1 on my 25 graded tasks, faster, and way cheaper",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woicc1/opus_55_is_the_real_deal_same_accuracy_as_fable/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-23T21:09:37+00:00",
+    "first_alerted_at": "2026-09-23T22:08:25.551644+00:00"
+  },
+  "9e48875db209018a": {
+    "title": "Anthropic offering $100 in credits for cloud sessions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woiotv/anthropic_offering_100_in_credits_for_cloud/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T21:23:13+00:00",
+    "first_alerted_at": "2026-09-23T22:08:26.492649+00:00"
+  },
+  "cd550d44a8460ced": {
+    "title": "Beginner question Claude Code setup",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woev93/beginner_question_claude_code_setup/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T18:57:57+00:00",
+    "first_alerted_at": "2026-09-23T22:08:27.424451+00:00"
+  },
+  "839213e3784d66bc": {
+    "title": "Made entirely with Opus 5.5 + $3.21 of OpenRouter API usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T19:50:39+00:00",
+    "first_alerted_at": "2026-09-23T22:08:28.366372+00:00"
+  },
+  "6afe21bf82dc1af1": {
+    "title": "Title: I built a full 2D side-scrolling game today with Claude Opus 5.5 — and it generated all the pixel art itself using Python/Pillow",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woeyy4/title_i_built_a_full_2d_sidescrolling_game_today/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T19:01:36+00:00",
+    "first_alerted_at": "2026-09-23T22:08:29.297893+00:00"
+  },
+  "b31a43c7e82d866e": {
+    "title": "Free $250 cloud credit on 5x Max plan? Thanks Anthropic!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woj0m5/free_250_cloud_credit_on_5x_max_plan_thanks/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T21:36:14+00:00",
+    "first_alerted_at": "2026-09-23T22:08:30.253219+00:00"
+  },
+  "b5e9a157fcd1998e": {
+    "title": "Just got a $100 Cloud Session Credit on Claude Pro. Anyone else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woim63/just_got_a_100_cloud_session_credit_on_claude_pro/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T21:20:16+00:00",
+    "first_alerted_at": "2026-09-23T22:08:31.210700+00:00"
+  },
+  "dede60a60852cc55": {
+    "title": "$250 in Cloud Session Credits + a Reset like ChatGPT! What's happening at Anthropic",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woijhq/250_in_cloud_session_credits_a_reset_like_chatgpt/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T21:17:24+00:00",
+    "first_alerted_at": "2026-09-23T22:08:32.164846+00:00"
   }
 }
