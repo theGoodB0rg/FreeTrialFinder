@@ -4624,5 +4624,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-23T11:53:31+00:00",
     "first_alerted_at": "2026-09-23T14:21:41.533634+00:00"
+  },
+  "e102b848fb04b09c": {
+    "title": "Show HN: Ox – A local agent that uses the internet for you",
+    "url": "https://openox.ai/",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T16:47:35+00:00",
+    "first_alerted_at": "2026-09-23T18:32:24.883629+00:00"
+  },
+  "34376309faebc06a": {
+    "title": "Show HN: Chromafolk – A pixel canvas inhabited by AIs that see the world as text",
+    "url": "https://chromafolk.world/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T16:46:13+00:00",
+    "first_alerted_at": "2026-09-23T18:32:25.767030+00:00"
+  },
+  "edce01c449c7e2f0": {
+    "title": "Opus 5.5 vs GPT-6 Sol: 3D Pelican riding bike test in Blender",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woc97l/opus_55_vs_gpt6_sol_3d_pelican_riding_bike_test/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T17:21:17+00:00",
+    "first_alerted_at": "2026-09-23T18:32:26.663457+00:00"
+  },
+  "fd6d85df04d2e12a": {
+    "title": "Question: What's the best effort setting for Opus 5.5?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woarfb/question_whats_the_best_effort_setting_for_opus_55/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T16:27:33+00:00",
+    "first_alerted_at": "2026-09-23T18:32:27.582428+00:00"
   }
 }
