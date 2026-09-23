@@ -4570,5 +4570,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-23T07:34:26+00:00",
     "first_alerted_at": "2026-09-23T09:27:29.431871+00:00"
+  },
+  "3a37ffd9b7d050b9": {
+    "title": "Skill\\workflow review",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo4fdv/skillworkflow_review/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-23T12:19:29+00:00",
+    "first_alerted_at": "2026-09-23T14:21:36.970436+00:00"
+  },
+  "01639ba727847d6f": {
+    "title": "I built a tool to visualize the project's progress and see what each task cost",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo5pir/i_built_a_tool_to_visualize_the_projects_progress/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T13:15:25+00:00",
+    "first_alerted_at": "2026-09-23T14:21:37.957914+00:00"
+  },
+  "af012679cae54f46": {
+    "title": "I got tired of my laptop killing Claude Code runs when I closed the lid, so I built a free app that keeps it awake only while agents work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo7050/i_got_tired_of_my_laptop_killing_claude_code_runs/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T14:06:54+00:00",
+    "first_alerted_at": "2026-09-23T14:21:38.800745+00:00"
+  },
+  "0d65886d13afc4ab": {
+    "title": "Claude Code usage limit on Fable",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo4hwe/claude_code_usage_limit_on_fable/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T12:22:36+00:00",
+    "first_alerted_at": "2026-09-23T14:21:39.740946+00:00"
+  },
+  "2b432bb07f924565": {
+    "title": "Claude opus 5.5 WOW",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo5so4/claude_opus_55_wow/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T13:19:04+00:00",
+    "first_alerted_at": "2026-09-23T14:21:40.629231+00:00"
+  },
+  "05822ec07ac6513e": {
+    "title": "Opus 5.5 crashed other processes due to not being mindful of system resources, as in, RAM.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo3v6f/opus_55_crashed_other_processes_due_to_not_being/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T11:53:31+00:00",
+    "first_alerted_at": "2026-09-23T14:21:41.533634+00:00"
   }
 }
