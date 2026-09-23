@@ -4516,5 +4516,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-23T02:50:47+00:00",
     "first_alerted_at": "2026-09-23T04:06:43.867011+00:00"
+  },
+  "70c8966cebc4613d": {
+    "title": "I gave 5 AI models the same 3 coding assignments and graded them like a teacher. Claude Opus 5.5 came first, Claude Fable 5.1 second",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnzf3w/i_gave_5_ai_models_the_same_3_coding_assignments/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T07:43:43+00:00",
+    "first_alerted_at": "2026-09-23T09:27:24.252183+00:00"
+  },
+  "847acd91c957b177": {
+    "title": "Yass – Yet Another Spec Syntax Enters Beta",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo0ecg/yass_yet_another_spec_syntax_enters_beta/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T08:42:55+00:00",
+    "first_alerted_at": "2026-09-23T09:27:25.299770+00:00"
+  },
+  "dc26090f5ff2c545": {
+    "title": "I unexpectedly ended up with ~$2,200 in Claude + Codex API credits. If your only goal was to turn it into profit, what would you build?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnyclf/i_unexpectedly_ended_up_with_2200_in_claude_codex/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T06:39:55+00:00",
+    "first_alerted_at": "2026-09-23T09:27:26.332199+00:00"
+  },
+  "e8607b954b27f557": {
+    "title": "Ask HN: How do GitHub Copilot and Anthropic Claude compare in cost?",
+    "url": "https://news.ycombinator.com/item?id=49813172",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T08:29:32+00:00",
+    "first_alerted_at": "2026-09-23T09:27:27.369003+00:00"
+  },
+  "68a8ef83e7d33c6e": {
+    "title": "Poison Claude is Selling Cheap AI Tokens Built on Fake Accounts and Free Credits - CyberSecurityNews",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10MFFOZGp4d1V3QkxBTk5NalpWd0xWSlFlVjZ5LXhrdHdOdjdhUHZOeS1kTE1vQnVIZHMzYzdYSUJ2bnZGa2xUM2JxbE5IUUtwcFZKeVpNVVlPelpWcmRVdVl4Z1RrYVFMNUI5UE5TZVlPOHBPTmg00gF8QVVfeXFMUGhVWTdpbWkwTm9OaHU5aVdBRjltdjFhY21uQlVIMWN5b1M1QzZpV0tGSTUxU05nZTRuci1qT1c2SlNUX2s4NDlGWmhXYjMwXzlzZ2dtSlQzZlh4bFpTQU1jVjZ3dXVuVjh2QkdIZjJ3dWxYLXZmeTJlRWVFUw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-05T07:00:00+00:00",
+    "first_alerted_at": "2026-09-23T09:27:28.413955+00:00"
+  },
+  "5ffd569b57b3cbfc": {
+    "title": "Claude Opus 5.5 can’t really be considered a cheaper model than OpenAI new Sol model. It’s roughly twice as expensive as GPT‑6 Sol, yet it only reduces output tokens by about 19% per task and cuts reasoning/indexing tokens by about half.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnz9s1/claude_opus_55_cant_really_be_considered_a/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T07:34:26+00:00",
+    "first_alerted_at": "2026-09-23T09:27:29.431871+00:00"
   }
 }
