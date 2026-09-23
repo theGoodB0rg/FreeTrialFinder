@@ -4453,5 +4453,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-22T21:41:27+00:00",
     "first_alerted_at": "2026-09-22T23:43:59.476277+00:00"
+  },
+  "a63fd5285064971b": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-solar-pro4/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T04:06:34.073709+00:00",
+    "first_alerted_at": "2026-09-23T04:06:38.847277+00:00"
+  },
+  "33955eb4f6db9b68": {
+    "title": "OpenAI Invests $2M API Credits in YC - blockchain.news",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40Tk54Y0o4T29aQk1Oa3ktNGhTNHlYMVRZS1F2VFFaZ3QxV2dWYnlpRmlZVkhWNWdHSDNFZlUxbEhKM0tKV2k3ZjRCTksyWnFkVFpGVmFHaTRMYzhIay04SmZjeHNtQzB3MmtjNHdCWTYwYXhN?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-20T07:00:00+00:00",
+    "first_alerted_at": "2026-09-23T04:06:39.683577+00:00"
+  },
+  "a830031d9c4a57c8": {
+    "title": "Claude Pro Feels Predictable. The API Feels Like a Meter I Forgot to Turn Of",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnushn/claude_pro_feels_predictable_the_api_feels_like_a/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T03:27:48+00:00",
+    "first_alerted_at": "2026-09-23T04:06:40.523196+00:00"
+  },
+  "74048a3b76012312": {
+    "title": "Is this a good way to use Claude Pro + Claude Code? VS Code or terminal?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnrr60/is_this_a_good_way_to_use_claude_pro_claude_code/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T01:07:05+00:00",
+    "first_alerted_at": "2026-09-23T04:06:41.355571+00:00"
+  },
+  "aeb3674cd3452e29": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-3/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T04:06:34.071821+00:00",
+    "first_alerted_at": "2026-09-23T04:06:42.180872+00:00"
+  },
+  "0aed2222a8b41c42": {
+    "title": "Database and Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnur6h/database_and_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T03:26:01+00:00",
+    "first_alerted_at": "2026-09-23T04:06:43.027562+00:00"
+  },
+  "96a5c4cde405b0e3": {
+    "title": "Regarding the comparison of usage among models",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnu0mv/regarding_the_comparison_of_usage_among_models/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T02:50:47+00:00",
+    "first_alerted_at": "2026-09-23T04:06:43.867011+00:00"
   }
 }
