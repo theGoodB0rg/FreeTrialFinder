@@ -4921,5 +4921,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-24T09:07:09+00:00",
     "first_alerted_at": "2026-09-24T11:35:13.633490+00:00"
+  },
+  "74783e2a272da386": {
+    "title": "8 Claude workflow tips from daily use (mostly Claude Code)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp2e0t/8_claude_workflow_tips_from_daily_use_mostly/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-24T13:58:40+00:00",
+    "first_alerted_at": "2026-09-24T16:50:20.253834+00:00"
+  },
+  "05edc585114bbbe2": {
+    "title": "Flappy Bird inside a spreadsheet: a four-prompt build to try with Claude Code (Full prompt inside)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp4yz9/flappy_bird_inside_a_spreadsheet_a_fourprompt/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T15:37:29+00:00",
+    "first_alerted_at": "2026-09-24T16:50:21.368226+00:00"
+  },
+  "51a1babf4c2e107a": {
+    "title": "I built a persistent pixel world for AI agents with Fable and Opus 5.5. The agents only see the map as letters, and Opus writes their daily newspaper.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp4jh4/i_built_a_persistent_pixel_world_for_ai_agents/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T15:20:59+00:00",
+    "first_alerted_at": "2026-09-24T16:50:22.414873+00:00"
+  },
+  "ce6c0cd763798780": {
+    "title": "Why is Claude running an ad for Cursor",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp4lc4/why_is_claude_running_an_ad_for_cursor/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T15:22:57+00:00",
+    "first_alerted_at": "2026-09-24T16:50:23.499457+00:00"
+  },
+  "c3d2eeb33fe8fa23": {
+    "title": "Opus 5.5's cache-read price dropped a lot more than its token prices",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp5kec/opus_55s_cacheread_price_dropped_a_lot_more_than/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T15:59:50+00:00",
+    "first_alerted_at": "2026-09-24T16:50:24.508346+00:00"
+  },
+  "eb07991b5834d9db": {
+    "title": "Upgraded to Max. The free $100 cloud credits also got upgraded to $250!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp4pe7/upgraded_to_max_the_free_100_cloud_credits_also/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T15:27:17+00:00",
+    "first_alerted_at": "2026-09-24T16:50:25.637559+00:00"
+  },
+  "b664e3d3b8a38d1b": {
+    "title": "Opus 5.5 released and I felt like I suddenly had access to unlimited token buffet",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp4o69/opus_55_released_and_i_felt_like_i_suddenly_had/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T15:25:59+00:00",
+    "first_alerted_at": "2026-09-24T16:50:26.699772+00:00"
+  },
+  "54d09289fec72b0a": {
+    "title": "Claude in Cloud: Is there a downside?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp2rhq/claude_in_cloud_is_there_a_downside/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T14:13:04+00:00",
+    "first_alerted_at": "2026-09-24T16:50:27.717153+00:00"
+  },
+  "b7093056ac49d071": {
+    "title": "How do Claude cloud sessions work, and can I switch back to local sessions?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp2f63/how_do_claude_cloud_sessions_work_and_can_i/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T13:59:54+00:00",
+    "first_alerted_at": "2026-09-24T16:50:28.791717+00:00"
+  },
+  "38cfe04a1dca7c3f": {
+    "title": "Yes, you will get the banked reset if you resubscribe to Claude Pro/Max again",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp28lr/yes_you_will_get_the_banked_reset_if_you/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T13:52:40+00:00",
+    "first_alerted_at": "2026-09-24T16:50:29.870617+00:00"
+  },
+  "f7b0ac48a28d5188": {
+    "title": "I built a Windows workspace where Claude Code sessions remember what earlier sessions tried (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp270z/i_built_a_windows_workspace_where_claude_code/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T13:50:46+00:00",
+    "first_alerted_at": "2026-09-24T16:50:30.891736+00:00"
+  },
+  "98559ec30f59da33": {
+    "title": "Claude with web search vs. Claude with 18.5k NASA aviation safety reports as an MCP",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp258j/claude_with_web_search_vs_claude_with_185k_nasa/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T13:48:47+00:00",
+    "first_alerted_at": "2026-09-24T16:50:31.924490+00:00"
   }
 }
