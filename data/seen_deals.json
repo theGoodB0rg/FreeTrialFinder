@@ -4876,5 +4876,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-24T02:34:01+00:00",
     "first_alerted_at": "2026-09-24T05:57:19.624156+00:00"
+  },
+  "2b9348034c739211": {
+    "title": "I built a 6-minute toy-theatre opera with Claude Code. Claude wrote the script, every prompt, the animation engine, the sound mixer and the renderer.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1woz2kk/i_built_a_6minute_toytheatre_opera_with_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T11:27:31+00:00",
+    "first_alerted_at": "2026-09-24T11:35:09.978322+00:00"
+  },
+  "1c81ee34ce5ba615": {
+    "title": "Built a 3D product page in vanilla three.js with Claude Code, from brief to live site. Stack and process inside.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wowv84/built_a_3d_product_page_in_vanilla_threejs_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T09:19:00+00:00",
+    "first_alerted_at": "2026-09-24T11:35:10.888326+00:00"
+  },
+  "21fd01cc62bcf2b9": {
+    "title": "Tips and tricks to reduce token usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wovx69/tips_and_tricks_to_reduce_token_usage/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T08:16:47+00:00",
+    "first_alerted_at": "2026-09-24T11:35:11.777519+00:00"
+  },
+  "a53eca1a8fb65bea": {
+    "title": "Jaw literally dropped. I ran the prompt from the \"Made entirely with Opus 5.5\" post on my own project. Here's what Claude Code made on its own for about $4.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wovwao/jaw_literally_dropped_i_ran_the_prompt_from_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T08:15:18+00:00",
+    "first_alerted_at": "2026-09-24T11:35:12.672872+00:00"
+  },
+  "700a6c82b7bd0476": {
+    "title": "I made Claude stop answering fact-checks from memory. Here's what 223 hand-labelled test cases taught me.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wowolf/i_made_claude_stop_answering_factchecks_from/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T09:07:09+00:00",
+    "first_alerted_at": "2026-09-24T11:35:13.633490+00:00"
   }
 }
