@@ -4786,5 +4786,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-23T22:58:13+00:00",
     "first_alerted_at": "2026-09-24T00:45:48.011702+00:00"
+  },
+  "ae7d9212d4846f06": {
+    "title": "Downgraded from Max ($100) to Pro. How would you spend the other $80/month on AI tools?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wotfn1/downgraded_from_max_100_to_pro_how_would_you/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-24T05:48:30+00:00",
+    "first_alerted_at": "2026-09-24T05:57:11.858372+00:00"
+  },
+  "afcbbe0e5ebd5b59": {
+    "title": "Tarot Reading app (Figma / Claude / Midjourney)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wopk9i/tarot_reading_app_figma_claude_midjourney/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-24T02:25:46+00:00",
+    "first_alerted_at": "2026-09-24T05:57:12.729323+00:00"
+  },
+  "852418f00af41815": {
+    "title": "Cline Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-muse-spark-1-3-contributor/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T05:57:07.614819+00:00",
+    "first_alerted_at": "2026-09-24T05:57:13.619110+00:00"
+  },
+  "7bfdc9db05339e5c": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-deepseek-v4-1-flash/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T05:57:07.614846+00:00",
+    "first_alerted_at": "2026-09-24T05:57:14.465026+00:00"
+  },
+  "300dfb73cf4af6e0": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-mimo-v2-6-flash/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T05:57:07.614879+00:00",
+    "first_alerted_at": "2026-09-24T05:57:15.329802+00:00"
+  },
+  "e2e14e629a42e8e2": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-sante/\" target=\"_blank\" rel=\"noopener\">inclusionAI: Ling 3.0 Flash Sante free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/inclusionai-ling-3.0-flash-sante/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T05:57:07.615972+00:00",
+    "first_alerted_at": "2026-09-24T05:57:16.184541+00:00"
+  },
+  "acda47a9a1d8d348": {
+    "title": "Claude write nsfw",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wopc6a/claude_write_nsfw/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T02:15:06+00:00",
+    "first_alerted_at": "2026-09-24T05:57:17.020418+00:00"
+  },
+  "a2540bd9cfc2eca5": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-3-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T05:57:07.612869+00:00",
+    "first_alerted_at": "2026-09-24T05:57:17.870547+00:00"
+  },
+  "791277494967b959": {
+    "title": "Co-Authored By Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wotjqp/coauthored_by_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T05:54:55+00:00",
+    "first_alerted_at": "2026-09-24T05:57:18.776955+00:00"
+  },
+  "b29d077a725a4416": {
+    "title": "Are Anthropic using the \"Service Recovery Paradox\" on us?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wopqrg/are_anthropic_using_the_service_recovery_paradox/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T02:34:01+00:00",
+    "first_alerted_at": "2026-09-24T05:57:19.624156+00:00"
   }
 }
