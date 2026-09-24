@@ -5074,5 +5074,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-24T20:15:00+00:00",
     "first_alerted_at": "2026-09-24T20:18:45.861767+00:00"
+  },
+  "73fadb3b935f6aae": {
+    "title": "Opus 5.5 co-designed and ran a benchmark and evaluation of jev-1.13",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpfu5j/opus_55_codesigned_and_ran_a_benchmark_and/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-24T22:38:09+00:00",
+    "first_alerted_at": "2026-09-24T23:19:41.374825+00:00"
+  },
+  "7a8433c8fb6a49ac": {
+    "title": "Show HN: Public Browser MCP – +48% speed -33% token/session vs. AgentBrowser",
+    "url": "https://github.com/Silbercue/public-browser/releases/tag/v3.0.0",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T21:20:07+00:00",
+    "first_alerted_at": "2026-09-24T23:19:42.349826+00:00"
+  },
+  "8177231a99b1fac0": {
+    "title": "Sticky ruling: a subagent lane for the human in the loop. Claude keeps working while your decision waits on screen.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpcjjn/sticky_ruling_a_subagent_lane_for_the_human_in/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T20:22:50+00:00",
+    "first_alerted_at": "2026-09-24T23:19:43.313496+00:00"
+  },
+  "044a82fdb8d110f2": {
+    "title": "Ultracode with Opus 5.5 takes a very long time, still no usage limit hit..?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpd6ls/ultracode_with_opus_55_takes_a_very_long_time/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T20:48:17+00:00",
+    "first_alerted_at": "2026-09-24T23:19:44.291533+00:00"
+  },
+  "eaeeaaeb15ccb09a": {
+    "title": "Claude Code Users — what model are you actually using to save tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpcr93/claude_code_users_what_model_are_you_actually/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T20:31:21+00:00",
+    "first_alerted_at": "2026-09-24T23:19:45.253174+00:00"
+  },
+  "744106da1b0893ea": {
+    "title": "12 accepted bug bounty reports, $20k earned — still can't get CVP or Trusted Access. What am I doing wrong?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpdfnk/12_accepted_bug_bounty_reports_20k_earned_still/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T20:58:26+00:00",
+    "first_alerted_at": "2026-09-24T23:19:46.208150+00:00"
+  },
+  "8417ac8cf772673b": {
+    "title": "But ofcourse everything changes for the better now",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpdo9l/but_ofcourse_everything_changes_for_the_better_now/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T21:07:42+00:00",
+    "first_alerted_at": "2026-09-24T23:19:47.160028+00:00"
   }
 }
