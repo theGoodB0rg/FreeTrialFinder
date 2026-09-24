@@ -5029,5 +5029,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-24T13:48:47+00:00",
     "first_alerted_at": "2026-09-24T16:50:31.924490+00:00"
+  },
+  "ae7138b89ac17ee4": {
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-24T17:21:36+00:00",
+    "first_alerted_at": "2026-09-24T20:18:42.001015+00:00"
+  },
+  "da3113654162f617": {
+    "title": "How Claude Code directed \"The Most Boring Movie Ever (Ever) Made\": pipeline, orchestration, and the checks that caught its own mistakes (full breakdown) - $16.87 OpenRouter Spend",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpce5m/how_claude_code_directed_the_most_boring_movie/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-24T20:16:51+00:00",
+    "first_alerted_at": "2026-09-24T20:18:42.963292+00:00"
+  },
+  "3a625308361d4720": {
+    "title": "I made a code editor with Claude Code focused on the small things that make coding nicer",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpbv46/i_made_a_code_editor_with_claude_code_focused_on/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T19:56:41+00:00",
+    "first_alerted_at": "2026-09-24T20:18:43.904665+00:00"
+  },
+  "a065d29ab1d83f10": {
+    "title": "Safeguards flagged",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpaqfg/safeguards_flagged/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T19:12:53+00:00",
+    "first_alerted_at": "2026-09-24T20:18:44.852244+00:00"
+  },
+  "8fdc4a5c07885b12": {
+    "title": "Opus 5.5 takes fewer steps than Opus 5 on my coding tasks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpcccg/opus_55_takes_fewer_steps_than_opus_5_on_my/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-24T20:15:00+00:00",
+    "first_alerted_at": "2026-09-24T20:18:45.861767+00:00"
   }
 }
