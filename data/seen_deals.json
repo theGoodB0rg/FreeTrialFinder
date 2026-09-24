@@ -4741,5 +4741,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-23T21:17:24+00:00",
     "first_alerted_at": "2026-09-23T22:08:32.164846+00:00"
+  },
+  "f45f2d8901c01a24": {
+    "title": "Battlemap-mcp – Claude Code drives the Dungeondraft map editor",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wokt3p/battlemapmcp_claude_code_drives_the_dungeondraft/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T22:50:53+00:00",
+    "first_alerted_at": "2026-09-24T00:45:44.041029+00:00"
+  },
+  "572fdb5ae8b5ef6b": {
+    "title": "IMPORTANT: $100 Cloud Credits with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wombbw/important_100_cloud_credits_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T23:56:32+00:00",
+    "first_alerted_at": "2026-09-24T00:45:45.038773+00:00"
+  },
+  "305e8e9aff97aa8a": {
+    "title": "Just add two eggs.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wolaq1/just_add_two_eggs/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T23:12:01+00:00",
+    "first_alerted_at": "2026-09-24T00:45:46.012038+00:00"
+  },
+  "e9e9ee9a66e151b0": {
+    "title": "Thanks Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wol36k/thanks_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T23:02:51+00:00",
+    "first_alerted_at": "2026-09-24T00:45:47.045156+00:00"
+  },
+  "5b01fc7d2b2c95f2": {
+    "title": "Anthropic cooked with the new Opus",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wokz57/anthropic_cooked_with_the_new_opus/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-23T22:58:13+00:00",
+    "first_alerted_at": "2026-09-24T00:45:48.011702+00:00"
   }
 }
