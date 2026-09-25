@@ -5299,5 +5299,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-25T16:20:19+00:00",
     "first_alerted_at": "2026-09-25T17:51:04.713728+00:00"
+  },
+  "5cee6108f0aa0502": {
+    "title": "Relay: a Claude skill that gives long projects a memory. Plan in chat, build in Claude Code. Works with Superpowers skill.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq6obs/relay_a_claude_skill_that_gives_long_projects_a/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-25T20:15:30+00:00",
+    "first_alerted_at": "2026-09-25T21:19:16.656471+00:00"
+  },
+  "2fb5dea9ecb59395": {
+    "title": "I built this incredible 15-second motion graphics video for my Mac app with Opus 5.5 with one prompt. No video editor, no stock music.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq5kn1/i_built_this_incredible_15second_motion_graphics/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-25T19:31:54+00:00",
+    "first_alerted_at": "2026-09-25T21:19:17.688115+00:00"
+  },
+  "4370874c0f145f44": {
+    "title": "My physio saw me every two weeks. Claude covered the sessions in between, and ended up as an app on the App Store.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq7jur/my_physio_saw_me_every_two_weeks_claude_covered/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-25T20:50:33+00:00",
+    "first_alerted_at": "2026-09-25T21:19:18.713145+00:00"
+  },
+  "593b2b970219db2d": {
+    "title": "I let Claude Code completely direct and generate a promo video for my studio",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq5l54/i_let_claude_code_completely_direct_and_generate/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T19:32:26+00:00",
+    "first_alerted_at": "2026-09-25T21:19:19.750185+00:00"
+  },
+  "cd8bdf903fe3c48c": {
+    "title": "Show HN: Ekselio – Loveable for Finance Workflows (local first)",
+    "url": "https://www.gptbeyond.com/try?home=1",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T21:09:28+00:00",
+    "first_alerted_at": "2026-09-25T21:19:20.799945+00:00"
+  },
+  "aee2befeb4d7b689": {
+    "title": "made a little planet that floats on my mac desktop. free, swift + scenekit",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq5lxb/made_a_little_planet_that_floats_on_my_mac/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T19:33:17+00:00",
+    "first_alerted_at": "2026-09-25T21:19:21.799878+00:00"
+  },
+  "a567e9672aeb4eca": {
+    "title": "What exactly is an \"agent\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq7rqb/what_exactly_is_an_agent/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T20:59:35+00:00",
+    "first_alerted_at": "2026-09-25T21:19:22.780109+00:00"
+  },
+  "25fca1958753c3e4": {
+    "title": "Built a desktop app that puts Claude Code in a \"council\" with other AIs so they review each other's answers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq5igv/built_a_desktop_app_that_puts_claude_code_in_a/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T19:29:38+00:00",
+    "first_alerted_at": "2026-09-25T21:19:23.776825+00:00"
   }
 }
