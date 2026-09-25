@@ -5155,5 +5155,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-25T01:11:05+00:00",
     "first_alerted_at": "2026-09-25T01:46:32.412132+00:00"
+  },
+  "5835f6a7a7f34938": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/stealth-space-bunny-alpha/\" target=\"_blank\" rel=\"noopener\">Space Bunny Alpha</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-space-bunny-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T07:24:05.214784+00:00",
+    "first_alerted_at": "2026-09-25T07:24:10.084434+00:00"
+  },
+  "1406983e7322da58": {
+    "title": "I built a Google Ads connector for Claude that never touches your campaigns",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpps59/i_built_a_google_ads_connector_for_claude_that/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T07:16:34+00:00",
+    "first_alerted_at": "2026-09-25T07:24:10.938680+00:00"
+  },
+  "ccf9bd6e491ae98d": {
+    "title": "Does the Claude family offer functionalities for generating images yet?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpp01y/does_the_claude_family_offer_functionalities_for/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T06:28:22+00:00",
+    "first_alerted_at": "2026-09-25T07:24:11.786821+00:00"
+  },
+  "39789155a1c5d788": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-space-bunny-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T07:24:05.212054+00:00",
+    "first_alerted_at": "2026-09-25T07:24:12.637951+00:00"
+  },
+  "930be39c632ab4a5": {
+    "title": "Benchmarking Opus 5.5 (and 27 other models) for file and photo transcription.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpoxv6/benchmarking_opus_55_and_27_other_models_for_file/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T06:24:36+00:00",
+    "first_alerted_at": "2026-09-25T07:24:13.494731+00:00"
   }
 }
