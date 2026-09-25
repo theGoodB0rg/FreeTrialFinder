@@ -5200,5 +5200,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-25T06:24:36+00:00",
     "first_alerted_at": "2026-09-25T07:24:13.494731+00:00"
+  },
+  "39d71bdc1e15c7c6": {
+    "title": "A \"made entirely with Opus 5.5\" explainer video with $0 additional costs. Insane results.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpr8ea/a_made_entirely_with_opus_55_explainer_video_with/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T08:53:47+00:00",
+    "first_alerted_at": "2026-09-25T12:54:11.855260+00:00"
+  },
+  "ca42bee445eab6d0": {
+    "title": "I scanned 36 days of my Claude Code/Codex history and found $10k of API-equivalent usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wputil/i_scanned_36_days_of_my_claude_codecodex_history/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T12:18:09+00:00",
+    "first_alerted_at": "2026-09-25T12:54:12.835260+00:00"
+  },
+  "a2145426deeca826": {
+    "title": "Malwarebytes blocks copying the code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpr98b/malwarebytes_blocks_copying_the_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T08:55:21+00:00",
+    "first_alerted_at": "2026-09-25T12:54:13.809250+00:00"
+  },
+  "dfa5ce2c614de5c7": {
+    "title": "Show HN: TiddlyInstall – Single HTML file that makes cross-platform installers",
+    "url": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T07:25:00+00:00",
+    "first_alerted_at": "2026-09-25T12:54:14.779435+00:00"
+  },
+  "6d4c43118acbd1da": {
+    "title": "Mind Blowing (genuinely). Claude Code cut a 4-minute movie trailer and hid two single frames in it. Here's the script it used: film subtitles without drawtext, plus one-frame splices. 110 lines, MIT. Oh and the trailer as well; I am open-sourcing the software used make it, details in the clip.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpu8uz/mind_blowing_genuinely_claude_code_cut_a_4minute/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T11:49:56+00:00",
+    "first_alerted_at": "2026-09-25T12:54:15.759270+00:00"
   }
 }
