@@ -5137,5 +5137,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-24T21:07:42+00:00",
     "first_alerted_at": "2026-09-24T23:19:47.160028+00:00"
+  },
+  "e609a8b8dc15ff40": {
+    "title": "I had 900+ Claude chats and couldn't find anything, so I built folders + full-text search for claude.ai",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpihdu/i_had_900_claude_chats_and_couldnt_find_anything/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T00:41:50+00:00",
+    "first_alerted_at": "2026-09-25T01:46:31.364677+00:00"
+  },
+  "61306de495d6fb07": {
+    "title": "I used Opus 5.5 and Astra to create this AI version of Pac-Man.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpj2vr/i_used_opus_55_and_astra_to_create_this_ai/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T01:11:05+00:00",
+    "first_alerted_at": "2026-09-25T01:46:32.412132+00:00"
   }
 }
