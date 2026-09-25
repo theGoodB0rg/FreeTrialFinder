@@ -5245,5 +5245,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-25T11:49:56+00:00",
     "first_alerted_at": "2026-09-25T12:54:15.759270+00:00"
+  },
+  "b57d5ea21fc85f83": {
+    "title": "I built this incredible 15-second motion graphics video for my Mac app with Opus 5.5 with one prompt. No video editor, no stock music.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq2tzj/i_built_this_incredible_15second_motion_graphics/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-25T17:44:33+00:00",
+    "first_alerted_at": "2026-09-25T17:50:59.578729+00:00"
+  },
+  "8762cf0bad4b5489": {
+    "title": "How I Stopped Context Drift Across 3 Ai Coding Agents Using Os Directory Junctions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq26qw/how_i_stopped_context_drift_across_3_ai_coding/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-25T17:18:45+00:00",
+    "first_alerted_at": "2026-09-25T17:51:00.597384+00:00"
+  },
+  "871b588197d02677": {
+    "title": "Opus 5.5 spent 43 million output tokens building 3D PvZ 2: Reflourished",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq27co/opus_55_spent_43_million_output_tokens_building/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T17:19:25+00:00",
+    "first_alerted_at": "2026-09-25T17:51:01.635229+00:00"
+  },
+  "d97343fedba2a0b7": {
+    "title": "Tips for my daily usage limit",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq1zhk/tips_for_my_daily_usage_limit/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T17:10:54+00:00",
+    "first_alerted_at": "2026-09-25T17:51:02.692102+00:00"
+  },
+  "18c9abe8f8233097": {
+    "title": "Any safe way to link all bank/investment accounts for detailed financial reporting?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq1vxo/any_safe_way_to_link_all_bankinvestment_accounts/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T17:07:00+00:00",
+    "first_alerted_at": "2026-09-25T17:51:03.707200+00:00"
+  },
+  "60735a88e90f515d": {
+    "title": "What mods to use for what?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wq0oek/what_mods_to_use_for_what/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-25T16:20:19+00:00",
+    "first_alerted_at": "2026-09-25T17:51:04.713728+00:00"
   }
 }
