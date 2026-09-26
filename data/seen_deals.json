@@ -5389,5 +5389,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-25T22:16:22+00:00",
     "first_alerted_at": "2026-09-26T00:03:10.129678+00:00"
+  },
+  "2d9c8934e92e1fff": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-space-bunny-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T05:19:50.054256+00:00",
+    "first_alerted_at": "2026-09-26T05:19:55.654869+00:00"
+  },
+  "9b5a2db8c94ded13": {
+    "title": "WTF?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqgg66/wtf/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T03:49:22+00:00",
+    "first_alerted_at": "2026-09-26T05:19:56.557764+00:00"
+  },
+  "7645a0c0d891c24f": {
+    "title": "I built a personal grocery assistant for Claude that works without launching a browser",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqfbv1/i_built_a_personal_grocery_assistant_for_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T02:49:47+00:00",
+    "first_alerted_at": "2026-09-26T05:19:57.473144+00:00"
+  },
+  "d9074dbd3f2e1aa5": {
+    "title": "I kept the shop logic and rebuilt the room in my Claude-assisted Unity game",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqee3p/i_kept_the_shop_logic_and_rebuilt_the_room_in_my/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T02:01:33+00:00",
+    "first_alerted_at": "2026-09-26T05:19:58.378303+00:00"
+  },
+  "cd4ac43449876ae9": {
+    "title": "Interactive artifact with version number record",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqdrfq/interactive_artifact_with_version_number_record/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T01:30:02+00:00",
+    "first_alerted_at": "2026-09-26T05:19:59.384231+00:00"
   }
 }
