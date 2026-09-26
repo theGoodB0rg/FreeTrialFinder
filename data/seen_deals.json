@@ -5434,5 +5434,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-26T01:30:02+00:00",
     "first_alerted_at": "2026-09-26T05:19:59.384231+00:00"
+  },
+  "424457a5daa42faf": {
+    "title": "Plan already pays for an always-on Claude Code box — buying another for the same harness is the wrong fix",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqkw9n/plan_already_pays_for_an_alwayson_claude_code_box/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-26T08:05:16+00:00",
+    "first_alerted_at": "2026-09-26T10:06:45.693238+00:00"
+  },
+  "d9cbd18d9f30c6f4": {
+    "title": "Claude Code keeps flagging harmless shell commands as [cyber] and downgrading me to Opus 4.8",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqlofr/claude_code_keeps_flagging_harmless_shell/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T08:55:07+00:00",
+    "first_alerted_at": "2026-09-26T10:06:46.534752+00:00"
+  },
+  "c9794551255848fd": {
+    "title": "I made a skill that fuses Claude Projects with Claude Code, keeps records of everything, and is token efficient",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqm81k/i_made_a_skill_that_fuses_claude_projects_with/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T09:30:09+00:00",
+    "first_alerted_at": "2026-09-26T10:06:47.396763+00:00"
+  },
+  "7d6c17ff2021531d": {
+    "title": "Revisited Opus 5.5 with experimental agent teams. It cooked on a game: Human in the Loop",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqluu2/revisited_opus_55_with_experimental_agent_teams/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T09:06:29+00:00",
+    "first_alerted_at": "2026-09-26T10:06:48.239166+00:00"
+  },
+  "14bddc78c7862efe": {
+    "title": "Claude was quietly eating my tokens, so I built this",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqlke7/claude_was_quietly_eating_my_tokens_so_i_built/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T08:47:49+00:00",
+    "first_alerted_at": "2026-09-26T10:06:49.116662+00:00"
+  },
+  "adc65a498f0a931b": {
+    "title": "Ported Armagetron to WebGL",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqlaja/ported_armagetron_to_webgl/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T08:30:07+00:00",
+    "first_alerted_at": "2026-09-26T10:06:50.183746+00:00"
+  },
+  "9f4f48a8de9756f7": {
+    "title": "Opus 5.5 modeled my OP-1, then we made a promo video set to one of my old beats. Meet the DOP-1 (aka the Dopey One)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqlso6/opus_55_modeled_my_op1_then_we_made_a_promo_video/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T09:02:36+00:00",
+    "first_alerted_at": "2026-09-26T10:06:51.041688+00:00"
+  },
+  "eb0bd3af7f37e97a": {
+    "title": "Made a full promo video for my company with Claude in one sitting. How do you get higher-res output from Claude Design?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqlahv/made_a_full_promo_video_for_my_company_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T08:30:04+00:00",
+    "first_alerted_at": "2026-09-26T10:06:51.877725+00:00"
+  },
+  "eeca61cc36edc8dd": {
+    "title": "My little app Precursor is helping people y'all :) It lets you set small hourly limits on your addictive apps rather than giving you one big daily limit that gets used up in one sitting.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqkyys/my_little_app_precursor_is_helping_people_yall_it/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T08:09:57+00:00",
+    "first_alerted_at": "2026-09-26T10:06:52.787418+00:00"
+  },
+  "8ac517613b063168": {
+    "title": "Creating digital board for solo play",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqmnkz/creating_digital_board_for_solo_play/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T09:57:51+00:00",
+    "first_alerted_at": "2026-09-26T10:06:53.662922+00:00"
+  },
+  "c5baaef8a2281057": {
+    "title": "Question on resets",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqkffj/question_on_resets/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T07:35:52+00:00",
+    "first_alerted_at": "2026-09-26T10:06:54.498906+00:00"
   }
 }
