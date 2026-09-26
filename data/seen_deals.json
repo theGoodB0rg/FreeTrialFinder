@@ -5587,5 +5587,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-26T12:41:48+00:00",
     "first_alerted_at": "2026-09-26T14:40:10.745774+00:00"
+  },
+  "534648b4d5d17621": {
+    "title": "How I Stopped Context Drift Across 3 Ai Coding Agents Using Os Directory Junctions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqvon2/how_i_stopped_context_drift_across_3_ai_coding/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-26T17:03:51+00:00",
+    "first_alerted_at": "2026-09-26T18:26:18.794883+00:00"
+  },
+  "c767d51a127c2974": {
+    "title": "It is scary thinking the era of these subscriptions will come to an end not long from now",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T15:41:01+00:00",
+    "first_alerted_at": "2026-09-26T18:26:19.649978+00:00"
+  },
+  "b0375947b3af2c78": {
+    "title": "I built a free hook that makes Claude Code actually use your installed skills",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqtqa2/i_built_a_free_hook_that_makes_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T15:44:06+00:00",
+    "first_alerted_at": "2026-09-26T18:26:20.483473+00:00"
+  },
+  "75fc58db988c983e": {
+    "title": "In a handoff document I had Claude write, I noticed this section. Apparently Claude no longer believes in my ability to make surgical edits to the code.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqx6qj/in_a_handoff_document_i_had_claude_write_i/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T18:03:52+00:00",
+    "first_alerted_at": "2026-09-26T18:26:21.352708+00:00"
+  },
+  "d900681cbb7ecad4": {
+    "title": "I built an MCP server so Claude can design skate courses in my browser game, then ride them",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqw6fo/i_built_an_mcp_server_so_claude_can_design_skate/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T17:23:44+00:00",
+    "first_alerted_at": "2026-09-26T18:26:22.207710+00:00"
+  },
+  "c529e011883fc399": {
+    "title": "CursorBench 4.0: Anthropic is miles ahead of OpenAI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqwufx/cursorbench_40_anthropic_is_miles_ahead_of_openai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T17:50:24+00:00",
+    "first_alerted_at": "2026-09-26T18:26:23.083294+00:00"
+  },
+  "e77cfe8c6f2b2418": {
+    "title": "Marketing/Ecomm - Has it actually made a difference?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqu19d/marketingecomm_has_it_actually_made_a_difference/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T15:56:54+00:00",
+    "first_alerted_at": "2026-09-26T18:26:23.943470+00:00"
+  },
+  "78762eb93dbc8910": {
+    "title": "If tokens weren't an issue, which model would you choose, and why? Opus 5.5 versus Fable 5.1.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqv206/if_tokens_werent_an_issue_which_model_would_you/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T16:38:56+00:00",
+    "first_alerted_at": "2026-09-26T18:26:24.865017+00:00"
+  },
+  "28c4d836f8589030": {
+    "title": "E. M. Forster's \"The Machine Stops\" (1909), animated via Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqtpqx/e_m_forsters_the_machine_stops_1909_animated_via/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T15:43:28+00:00",
+    "first_alerted_at": "2026-09-26T18:26:25.723938+00:00"
   }
 }
