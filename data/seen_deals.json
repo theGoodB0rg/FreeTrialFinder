@@ -5668,5 +5668,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-26T15:43:28+00:00",
     "first_alerted_at": "2026-09-26T18:26:25.723938+00:00"
+  },
+  "901ada8f77e1b33f": {
+    "title": "I built a free MCP server so Claude stops guessing about Quebec privacy enforcement",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqy6ay/i_built_a_free_mcp_server_so_claude_stops/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T18:43:51+00:00",
+    "first_alerted_at": "2026-09-26T21:25:30.101941+00:00"
+  },
+  "1f606c4f5108489f": {
+    "title": "AI agent users: what do you do when your agent gets stuck?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqyhhd/ai_agent_users_what_do_you_do_when_your_agent/",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T18:56:20+00:00",
+    "first_alerted_at": "2026-09-26T21:25:30.993238+00:00"
+  },
+  "30f82e2721a571cb": {
+    "title": "Project setup credit bugged?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqyeub/project_setup_credit_bugged/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T18:53:22+00:00",
+    "first_alerted_at": "2026-09-26T21:25:31.855634+00:00"
   }
 }
