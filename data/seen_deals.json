@@ -5695,5 +5695,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-26T18:53:22+00:00",
     "first_alerted_at": "2026-09-26T21:25:31.855634+00:00"
+  },
+  "7f0390d5aefe2aca": {
+    "title": "I Told Opus 5.5 to make a video about if he was being interrogated in a human body",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr45l7/i_told_opus_55_to_make_a_video_about_if_he_was/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-26T22:59:10+00:00",
+    "first_alerted_at": "2026-09-26T23:46:40.567757+00:00"
+  },
+  "c369d64edfb9499c": {
+    "title": "A different kind of Opus 5.5 video prompt: educational explainer",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr268d/a_different_kind_of_opus_55_video_prompt/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-26T21:29:24+00:00",
+    "first_alerted_at": "2026-09-26T23:46:41.426087+00:00"
+  },
+  "019c4835b87d472e": {
+    "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+    "url": "https://news.ycombinator.com/item?id=49861047",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T22:15:32+00:00",
+    "first_alerted_at": "2026-09-26T23:46:42.264309+00:00"
+  },
+  "60218c61d58dea6f": {
+    "title": "Opus 5.5 generated this marketing video for my app using complex 3d models and pairing with .ogg files, the result is breath taking",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr52tg/opus_55_generated_this_marketing_video_for_my_app/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T23:42:10+00:00",
+    "first_alerted_at": "2026-09-26T23:46:43.106900+00:00"
+  },
+  "caf3b54b4963c6f2": {
+    "title": "Thanks Claude!!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr4tt2/thanks_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T23:30:24+00:00",
+    "first_alerted_at": "2026-09-26T23:46:43.953544+00:00"
+  },
+  "ac783cbaa238dedf": {
+    "title": "Claude RESET and 100$ on PRO for new signups",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr3q7l/claude_reset_and_100_on_pro_for_new_signups/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T22:38:54+00:00",
+    "first_alerted_at": "2026-09-26T23:46:44.799454+00:00"
+  },
+  "16749024cf50d6ae": {
+    "title": "Token optimization from Anthropic: choosing the right effort level to the task",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr2rz9/token_optimization_from_anthropic_choosing_the/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T21:55:52+00:00",
+    "first_alerted_at": "2026-09-26T23:46:45.646785+00:00"
   }
 }
