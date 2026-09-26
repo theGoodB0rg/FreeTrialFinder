@@ -5533,5 +5533,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-26T07:35:52+00:00",
     "first_alerted_at": "2026-09-26T10:06:54.498906+00:00"
+  },
+  "7b65d285ff8f92e2": {
+    "title": "OpenAI Offers $5 and $50 Free API Credits to Plus and Pro Users: Crypto Market Impact and Trading Opportunities - blockchain.news",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOekxtYkEwQm5TZVhPcnFIZmZ3bVhQUmNLYWpfcDBBZmpZNWlnaUVEQUZaR3I3SGpNR0piYy1pVEdPNHlDRFVRelQzcnF3RUtBYnFKRkZkeE1PX3YyeEEwTkxKNGZKYnhLckpBc09GTmhUX0I4Qlc4UV9JWUR5dXh3WTZlSHZtRXJrSTI2VDZBcEVDREtVNHBiLWd4Z2pzQmxfS2JEM2NLN3JobjdQdG9mOEZCTGxscWlmNUZTWXFtbTBLMWJYa0VrRTB5XzkwVjBsTXoyQy1OMHY4dw?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-05-17T07:00:00+00:00",
+    "first_alerted_at": "2026-09-26T14:40:05.258550+00:00"
+  },
+  "f184777fe0fc629b": {
+    "title": "Telegram Web MCP Server — let your AI agent chat on Telegram without wasting tokens on DOM parsing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqq9ak/telegram_web_mcp_server_let_your_ai_agent_chat_on/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T13:13:58+00:00",
+    "first_alerted_at": "2026-09-26T14:40:06.400607+00:00"
+  },
+  "7e5b47fcea316ccc": {
+    "title": "How I used my $100 cloud session credits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqqa0p/how_i_used_my_100_cloud_session_credits/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T13:14:55+00:00",
+    "first_alerted_at": "2026-09-26T14:40:07.484849+00:00"
+  },
+  "1b5ba6b9e0d1f784": {
+    "title": "My leftover weekly usage kept evaporating at the reset, so I built a free place to spend it on other people's GitHub issues",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqs4xh/my_leftover_weekly_usage_kept_evaporating_at_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T14:37:19+00:00",
+    "first_alerted_at": "2026-09-26T14:40:08.499658+00:00"
+  },
+  "41eec4776d0f9fe1": {
+    "title": "Opus 5.5 benchmarks from two outside sources side-by-side",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqrmpa/opus_55_benchmarks_from_two_outside_sources/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T14:15:50+00:00",
+    "first_alerted_at": "2026-09-26T14:40:09.609417+00:00"
+  },
+  "ee09f270cc48753a": {
+    "title": "Claude opus 5.5 just went through $100 of usage credits in 3 hours??",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqpkly/claude_opus_55_just_went_through_100_of_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-26T12:41:48+00:00",
+    "first_alerted_at": "2026-09-26T14:40:10.745774+00:00"
   }
 }
