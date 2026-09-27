@@ -5911,5 +5911,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-27T16:48:48+00:00",
     "first_alerted_at": "2026-09-27T19:11:32.691083+00:00"
+  },
+  "b536770ca9ad72b7": {
+    "title": "Relaunching 43-year-old family business with Claude. Only 4 cents for this?!?!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrw80d/relaunching_43yearold_family_business_with_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T21:28:12+00:00",
+    "first_alerted_at": "2026-09-27T22:29:12.765076+00:00"
+  },
+  "f10d6ce8ddac0fd2": {
+    "title": "Got Claude Code to hand off work to a running Codex session (no copy-pasting between them)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrwnvx/got_claude_code_to_hand_off_work_to_a_running/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T21:46:43+00:00",
+    "first_alerted_at": "2026-09-27T22:29:13.663629+00:00"
+  },
+  "b2d54c6d7e9eb6ac": {
+    "title": "I wanted to take a break and travel Southeast Asia, but no retirement calculator would let me plan it. So I built one with Claude Code and Opus 5.5 (it made the launch ad too)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrvywj/i_wanted_to_take_a_break_and_travel_southeast/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T21:17:57+00:00",
+    "first_alerted_at": "2026-09-27T22:29:14.547255+00:00"
+  },
+  "4eafb182a47eeb08": {
+    "title": "i built an AI next to my cursor on my mac and now i just talk to it and it does stuff. saves me so much time",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrvt65/i_built_an_ai_next_to_my_cursor_on_my_mac_and_now/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T21:11:36+00:00",
+    "first_alerted_at": "2026-09-27T22:29:15.434569+00:00"
+  },
+  "1212ae622f2d38f2": {
+    "title": "Is anyone else seeing 100% of their Claude usage under “Other”?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrvs26/is_anyone_else_seeing_100_of_their_claude_usage/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T21:10:22+00:00",
+    "first_alerted_at": "2026-09-27T22:29:16.323148+00:00"
+  },
+  "b700971d2dc07ec8": {
+    "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+    "url": "https://heysquint.com/",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T19:29:41+00:00",
+    "first_alerted_at": "2026-09-27T22:29:17.215215+00:00"
+  },
+  "f0616b4fc35f5c91": {
+    "title": "I'm trying my hardest to use all my weekly credit, and I just can't. Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wruzcj/im_trying_my_hardest_to_use_all_my_weekly_credit/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T20:38:29+00:00",
+    "first_alerted_at": "2026-09-27T22:29:18.107942+00:00"
+  },
+  "2cfca48d816cd30e": {
+    "title": "I built an MCP server that automates repetitive YouTube work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wruc7k/i_built_an_mcp_server_that_automates_repetitive/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T20:13:25+00:00",
+    "first_alerted_at": "2026-09-27T22:29:19.006830+00:00"
   }
 }
