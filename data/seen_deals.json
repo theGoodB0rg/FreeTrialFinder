@@ -5812,5 +5812,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-27T02:42:17+00:00",
     "first_alerted_at": "2026-09-27T04:37:10.862718+00:00"
+  },
+  "71daa5887ac66574": {
+    "title": "FreeComputerUse, a local-first browser automation agent that tries to make \"computer use\" dramatically cheaper in tokens.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrgkm8/freecomputeruse_a_localfirst_browser_automation/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T10:14:17+00:00",
+    "first_alerted_at": "2026-09-27T10:25:57.246624+00:00"
+  },
+  "fd388bc0df782690": {
+    "title": "New to Claude Code. How do I maximize my usage?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrg1ib/new_to_claude_code_how_do_i_maximize_my_usage/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T09:42:00+00:00",
+    "first_alerted_at": "2026-09-27T10:25:58.131328+00:00"
+  },
+  "c973a34e1a646313": {
+    "title": "Not building anything right now, so I stopped switching models and just use Opus with the effort slider",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrekwi/not_building_anything_right_now_so_i_stopped/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T08:12:26+00:00",
+    "first_alerted_at": "2026-09-27T10:25:59.026725+00:00"
   }
 }
