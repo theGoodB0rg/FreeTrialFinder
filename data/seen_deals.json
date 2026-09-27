@@ -5758,5 +5758,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-26T21:55:52+00:00",
     "first_alerted_at": "2026-09-26T23:46:45.646785+00:00"
+  },
+  "3749e59accb809a0": {
+    "title": "Made entirely with Opus 5.5, part 2: a 45-second ad, now with video as well",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr5fx3/made_entirely_with_opus_55_part_2_a_45second_ad/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-26T23:59:48+00:00",
+    "first_alerted_at": "2026-09-27T04:37:05.753008+00:00"
+  },
+  "79b7c1a53bb11fae": {
+    "title": "I Got Laid Off Last Month, so I Decided to Create a Game with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr95q2/i_got_laid_off_last_month_so_i_decided_to_create/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T03:05:20+00:00",
+    "first_alerted_at": "2026-09-27T04:37:06.734120+00:00"
+  },
+  "92e1be43df1ef7f2": {
+    "title": "Theory: Opus 5’s bizarre communication style was an anti-distillation feature, not a bug",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr64ez/theory_opus_5s_bizarre_communication_style_was_an/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T00:31:33+00:00",
+    "first_alerted_at": "2026-09-27T04:37:07.743139+00:00"
+  },
+  "9d9f6d12936d0f57": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/moonshotai-kimi-k2-6/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T04:37:00.183479+00:00",
+    "first_alerted_at": "2026-09-27T04:37:08.742701+00:00"
+  },
+  "73c651ca46fce42c": {
+    "title": "How do you draw module boundaries for AI coding agents? Small tasks duplicate code, big tasks break neighbors",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wra1ca/how_do_you_draw_module_boundaries_for_ai_coding/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T03:52:00+00:00",
+    "first_alerted_at": "2026-09-27T04:37:09.809245+00:00"
+  },
+  "2b58c98ab7224b54": {
+    "title": "Which model & effort level combination do you use to get the most correct solutions while balancing for cost?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr8pnc/which_model_effort_level_combination_do_you_use/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T02:42:17+00:00",
+    "first_alerted_at": "2026-09-27T04:37:10.862718+00:00"
   }
 }
