@@ -5839,5 +5839,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-27T08:12:26+00:00",
     "first_alerted_at": "2026-09-27T10:25:59.026725+00:00"
+  },
+  "fd3f46695ccba7c0": {
+    "title": "Vibecoding vs Software engineering",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrkbvd/vibecoding_vs_software_engineering/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T13:32:06+00:00",
+    "first_alerted_at": "2026-09-27T15:14:50.880141+00:00"
+  },
+  "b5ad4a1bddabee13": {
+    "title": "Dopus 5.5, am I right??? Fucking so dope.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrm8by/dopus_55_am_i_right_fucking_so_dope/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T14:54:06+00:00",
+    "first_alerted_at": "2026-09-27T15:14:51.937720+00:00"
+  },
+  "2b183886f5045ff3": {
+    "title": "Built a tower defense game w/ Claude, here's the promo trailer:",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrlby4/built_a_tower_defense_game_w_claude_heres_the/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T14:16:18+00:00",
+    "first_alerted_at": "2026-09-27T15:14:53.050264+00:00"
   }
 }
