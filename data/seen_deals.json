@@ -5866,5 +5866,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-27T14:16:18+00:00",
     "first_alerted_at": "2026-09-27T15:14:53.050264+00:00"
+  },
+  "d9e3528b2872efcc": {
+    "title": "Presenting \"Shinobi: The Hidden History of the Ninja\", a ~33 minute documentary made by Opus 5.5 in 1 prompt",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrrvkf/presenting_shinobi_the_hidden_history_of_the/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T18:37:33+00:00",
+    "first_alerted_at": "2026-09-27T19:11:28.908790+00:00"
+  },
+  "c3c6d3bf3bef67d9": {
+    "title": "How good is Opus at UX?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrpshq/how_good_is_opus_at_ux/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T17:15:31+00:00",
+    "first_alerted_at": "2026-09-27T19:11:29.866378+00:00"
+  },
+  "94a05efda37ad975": {
+    "title": "I'm blown away by Opus 5.5!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrrsn7/im_blown_away_by_opus_55/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T18:34:24+00:00",
+    "first_alerted_at": "2026-09-27T19:11:30.828978+00:00"
+  },
+  "8faef444c767f91c": {
+    "title": "Should I switch from Codex to Claude Code ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrpchh/should_i_switch_from_codex_to_claude_code/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T16:57:48+00:00",
+    "first_alerted_at": "2026-09-27T19:11:31.770307+00:00"
+  },
+  "1e2adf391feccec2": {
+    "title": "Megaman X from SNES to C++ - Update 1",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrp4er/megaman_x_from_snes_to_c_update_1/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T16:48:48+00:00",
+    "first_alerted_at": "2026-09-27T19:11:32.691083+00:00"
   }
 }
