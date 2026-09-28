@@ -5983,5 +5983,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-27T20:13:25+00:00",
     "first_alerted_at": "2026-09-27T22:29:19.006830+00:00"
+  },
+  "1caa110ee9c08abf": {
+    "title": "Claude Opus 5.5 official prompting guide",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws08mu/claude_opus_55_official_prompting_guide/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T00:28:32+00:00",
+    "first_alerted_at": "2026-09-28T01:07:02.107373+00:00"
+  },
+  "369bea8772e49074": {
+    "title": "Quick question for anyone who uses Claude Code or Cursor on a real codebase.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wryhs3/quick_question_for_anyone_who_uses_claude_code_or/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T23:07:30+00:00",
+    "first_alerted_at": "2026-09-28T01:07:03.106890+00:00"
+  },
+  "2848728777f318a6": {
+    "title": "No one talks about these Claude Code features, but they save me so many tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrxzgc/no_one_talks_about_these_claude_code_features_but/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-27T22:44:19+00:00",
+    "first_alerted_at": "2026-09-28T01:07:04.129581+00:00"
+  },
+  "8d9274a06614d1e5": {
+    "title": "Show HN: ParkourNote – A research workspace, built solo in a month with Claude",
+    "url": "https://note.parkourlabs.io/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T00:31:39+00:00",
+    "first_alerted_at": "2026-09-28T01:07:05.149545+00:00"
   }
 }
