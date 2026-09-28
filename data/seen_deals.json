@@ -6064,5 +6064,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-28T04:51:12+00:00",
     "first_alerted_at": "2026-09-28T07:26:29.917946+00:00"
+  },
+  "a79f9ba756c97c1f": {
+    "title": "Show HN: Decide – Jev decisions in the shell, scripts, and agent skills",
+    "url": "https://github.com/vsekhar/decide",
+    "provider": "OpenRouter",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-28T14:23:59+00:00",
+    "first_alerted_at": "2026-09-28T15:48:59.673023+00:00"
+  },
+  "9b692a22784cda08": {
+    "title": "Local memory for Claude Code out of your own transcripts: it remembers the decisions you already made and hands them back before the agent repeats a mistake",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wse83q/local_memory_for_claude_code_out_of_your_own/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-28T13:10:38+00:00",
+    "first_alerted_at": "2026-09-28T15:49:00.603840+00:00"
+  },
+  "2afaf6901b2cca44": {
+    "title": "OpenAI partners with Open Network Lab for Kyoto startup pitch contest offering $1M in API credits - cryptobriefing.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zUjdXam9aMWZ4MDVkRS1TYTllQ0VZRTh5TG9TekxyWUpBWjdMVU9jTjdSRml2bk1jRUtvaGZ5VC1NQXczdmFZNjFsUE8yTzFlR21jY0FObWdUemdncUVsZjBvV1dmdU5YTWRKeThmaFJwNEt2S1VJ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-20T07:00:00+00:00",
+    "first_alerted_at": "2026-09-28T15:49:01.516157+00:00"
+  },
+  "fbbdaf920d34f89c": {
+    "title": "Need to export a Claude Project? Here's how",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsgtjo/need_to_export_a_claude_project_heres_how/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T14:55:35+00:00",
+    "first_alerted_at": "2026-09-28T15:49:02.409777+00:00"
+  },
+  "ea430912fb52dc2a": {
+    "title": "What did you actually find when Claude Code started hitting usage limits sooner?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsfl82/what_did_you_actually_find_when_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T14:07:04+00:00",
+    "first_alerted_at": "2026-09-28T15:49:03.299104+00:00"
+  },
+  "e445a918e8e857d1": {
+    "title": "Your coding agent's prompt often contains old versions of files it already edited. Here's what I measured, and what I learned trying to fix it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsewkf/your_coding_agents_prompt_often_contains_old/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T13:39:34+00:00",
+    "first_alerted_at": "2026-09-28T15:49:04.188637+00:00"
+  },
+  "738ec59939f71c3a": {
+    "title": "Can Claude Pro $20 plan will be enough for me?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsh0z7/can_claude_pro_20_plan_will_be_enough_for_me/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T15:03:15+00:00",
+    "first_alerted_at": "2026-09-28T15:49:05.057933+00:00"
+  },
+  "b2558b3536e5edb5": {
+    "title": "How do you guys use Claude Code on real projects?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsg1z6/how_do_you_guys_use_claude_code_on_real_projects/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T14:25:19+00:00",
+    "first_alerted_at": "2026-09-28T15:49:05.920409+00:00"
   }
 }
