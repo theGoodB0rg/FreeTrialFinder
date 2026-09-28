@@ -6136,5 +6136,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-28T14:25:19+00:00",
     "first_alerted_at": "2026-09-28T15:49:05.920409+00:00"
+  },
+  "a8dde9ce24f46a88": {
+    "title": "Sonnet 5.5 vs Opus 5.5 vs Sonnet 5 in Claude Code and pi: results and behavioral differences on 10 coding tasks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsqp51/sonnet_55_vs_opus_55_vs_sonnet_5_in_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-28T20:58:11+00:00",
+    "first_alerted_at": "2026-09-28T21:43:01.833092+00:00"
+  },
+  "616d3ccbe188ff45": {
+    "title": "Jumped on the Opus 5.5 app promo bandwagon!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsqv9h/jumped_on_the_opus_55_app_promo_bandwagon/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T21:04:05+00:00",
+    "first_alerted_at": "2026-09-28T21:43:02.697539+00:00"
+  },
+  "93cb3cad060d798d": {
+    "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+    "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T17:34:36+00:00",
+    "first_alerted_at": "2026-09-28T21:43:03.624420+00:00"
+  },
+  "cd66f00851a28ada": {
+    "title": "Boom Brigade: a run-and-gun with destructible terrain, built in one Claude Code session and deployed for free",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wspzcv/boom_brigade_a_runandgun_with_destructible/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T20:30:46+00:00",
+    "first_alerted_at": "2026-09-28T21:43:04.486803+00:00"
+  },
+  "64bee94b61583660": {
+    "title": "CLAUDE.md for Sonnet 5.5 based on Anthropic's official platform docs. (their own coding benchmark scored max effort below xhigh)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wspcmd/claudemd_for_sonnet_55_based_on_anthropics/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T20:07:21+00:00",
+    "first_alerted_at": "2026-09-28T21:43:05.383616+00:00"
+  },
+  "327893c8a5f03ea9": {
+    "title": "Opus 5.5 helped my family create the YouTube Kids series they wanted. My kids coordinate the episodes with their imagination. It is recorded entirely in Python.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsrugz/opus_55_helped_my_family_create_the_youtube_kids/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T21:41:29+00:00",
+    "first_alerted_at": "2026-09-28T21:43:06.239628+00:00"
+  },
+  "9e15b0326e51e0ea": {
+    "title": "sonnet 5.5 vs opus 5.5 on the same frontend spec: both passed every hidden test, sonnet did it in 2 minutes for a fifth of the price",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsrb1z/sonnet_55_vs_opus_55_on_the_same_frontend_spec/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T21:20:10+00:00",
+    "first_alerted_at": "2026-09-28T21:43:07.122576+00:00"
   }
 }
