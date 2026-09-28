@@ -6019,5 +6019,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-28T00:31:39+00:00",
     "first_alerted_at": "2026-09-28T01:07:05.149545+00:00"
+  },
+  "42c5454cdaf83d64": {
+    "title": "Week 9 of making my fishing game with the help of AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws64e3/week_9_of_making_my_fishing_game_with_the_help_of/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T05:33:40+00:00",
+    "first_alerted_at": "2026-09-28T07:26:26.448571+00:00"
+  },
+  "09fef728bdd45233": {
+    "title": "It's time to replace your Claude Desktop",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws5uc8/its_time_to_replace_your_claude_desktop/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T05:17:50+00:00",
+    "first_alerted_at": "2026-09-28T07:26:27.323585+00:00"
+  },
+  "346487eab5c65a27": {
+    "title": "I run up to 6 Claude Code sessions on the same codebase. I built a control room so they stop stepping on each other (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws30pa/i_run_up_to_6_claude_code_sessions_on_the_same/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T02:47:21+00:00",
+    "first_alerted_at": "2026-09-28T07:26:28.172102+00:00"
+  },
+  "a6c5c0a940ca5061": {
+    "title": "Educational video made with Opus 5.5 on 3D vision.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws7iyk/educational_video_made_with_opus_55_on_3d_vision/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T06:56:56+00:00",
+    "first_alerted_at": "2026-09-28T07:26:29.045176+00:00"
+  },
+  "03fad860584f05bd": {
+    "title": "I run a solar company and built a Claude-powered operator that works in the field with me. Four tests on a real inverter swap (customer data redacted).",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws5d7g/i_run_a_solar_company_and_built_a_claudepowered/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T04:51:12+00:00",
+    "first_alerted_at": "2026-09-28T07:26:29.917946+00:00"
   }
 }
