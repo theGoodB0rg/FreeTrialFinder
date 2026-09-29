@@ -6415,5 +6415,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-29T13:58:19+00:00",
     "first_alerted_at": "2026-09-29T15:01:14.554948+00:00"
+  },
+  "589d9eae4066846c": {
+    "title": "I switched at such a good time",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wthz31/i_switched_at_such_a_good_time/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T18:26:30+00:00",
+    "first_alerted_at": "2026-09-29T20:09:43.011055+00:00"
+  },
+  "7322935cfc31dad7": {
+    "title": "Show HN: Chow, a FOSS food diary",
+    "url": "https://chow.fit/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T19:33:17+00:00",
+    "first_alerted_at": "2026-09-29T20:09:44.054528+00:00"
+  },
+  "c48d29c55e9fd68e": {
+    "title": "Can i share my claude pro with my brother who lives in different country?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtjtid/can_i_share_my_claude_pro_with_my_brother_who/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T19:36:29+00:00",
+    "first_alerted_at": "2026-09-29T20:09:45.184998+00:00"
+  },
+  "37eff05587925939": {
+    "title": "Dangit Jim I'm a Trader not a coder",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtj32w/dangit_jim_im_a_trader_not_a_coder/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T19:08:11+00:00",
+    "first_alerted_at": "2026-09-29T20:09:46.242711+00:00"
   }
 }
