@@ -6316,5 +6316,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-29T05:56:55+00:00",
     "first_alerted_at": "2026-09-29T08:09:20.788015+00:00"
+  },
+  "3a71c929c3b08955": {
+    "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use - the-decoder.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhsRk9DNFZWUWFjQ2dlX0pYQUE3dm85UTA5eXZkYXl0SllMQUFwbFItbHB5RmFfejFmTkFCbFFQQlE1TVFKMXRqWl9pWThNNE0tRXFBRHhJR0FmVUxtYWJNWUNjTnZJMWtKVW00WkVkOFRtc1BoM3V2UHRGS3RsX2NmVFVUV2ZESjg2UjNlY1dnWW15THdrWmt6TmVWUE5seUVVT1ZGZmpRQXd3OGdueFdWSGhEdmZnZExUcl9ndmc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T10:25:08+00:00",
+    "first_alerted_at": "2026-09-29T15:01:05.153775+00:00"
+  },
+  "9362b43fe09c67b8": {
+    "title": "Sonnet 5.5 did this. Opus 5.5 quality with half price.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtagdd/sonnet_55_did_this_opus_55_quality_with_half_price/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:42:15+00:00",
+    "first_alerted_at": "2026-09-29T15:01:06.120675+00:00"
+  },
+  "5f780f8d3e3cbf65": {
+    "title": "Opus 5.5 vs Sonnet 5.5 : 3D steampunk whale modeling",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt9cdl/opus_55_vs_sonnet_55_3d_steampunk_whale_modeling/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T12:54:23+00:00",
+    "first_alerted_at": "2026-09-29T15:01:07.046310+00:00"
+  },
+  "2b0cde9bc167d245": {
+    "title": "Skill Canvas - VSCode visual workflow editor for Claude Code agents and skills",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wta933/skill_canvas_vscode_visual_workflow_editor_for/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:33:47+00:00",
+    "first_alerted_at": "2026-09-29T15:01:08.008536+00:00"
+  },
+  "36d5db020e65d49b": {
+    "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+    "url": "https://github.com/ivankovic/codediff",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T12:22:44+00:00",
+    "first_alerted_at": "2026-09-29T15:01:08.940891+00:00"
+  },
+  "5cca7aa31b44ebbd": {
+    "title": "4 compiler phases in 5 days with Claude Code: the main session never writes code, and a separate reviewer caught every bug that passed tests. ~460M tokens.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtahga/4_compiler_phases_in_5_days_with_claude_code_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:43:29+00:00",
+    "first_alerted_at": "2026-09-29T15:01:09.840139+00:00"
+  },
+  "322a71006bb4f2c2": {
+    "title": "Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code and Claude Cowork on Sep 29, 2026",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtbgj0/discussion_hub_for_new_claude_incident_elevated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T14:21:51+00:00",
+    "first_alerted_at": "2026-09-29T15:01:10.766375+00:00"
+  },
+  "965dd940ab089339": {
+    "title": "Which AI coding tool should I buy?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtakh3/which_ai_coding_tool_should_i_buy/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:46:56+00:00",
+    "first_alerted_at": "2026-09-29T15:01:11.691879+00:00"
+  },
+  "d4e303a37ebb90e2": {
+    "title": "I used Opus 5.5 to build a 15 minute animated video to explain JEV and the History of Classifiers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt8tvk/i_used_opus_55_to_build_a_15_minute_animated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T12:30:27+00:00",
+    "first_alerted_at": "2026-09-29T15:01:12.661631+00:00"
+  },
+  "30017db10a30bc38": {
+    "title": "Claude pro or GPT plus?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtccrq/claude_pro_or_gpt_plus/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T14:56:44+00:00",
+    "first_alerted_at": "2026-09-29T15:01:13.609418+00:00"
+  },
+  "de2e5f1fc7a09bbb": {
+    "title": "Goat Riding a Tractor Compare Models - turns out that level of effort Max seems to be a deciding factor (mostly)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtaugp/goat_riding_a_tractor_compare_models_turns_out/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:58:19+00:00",
+    "first_alerted_at": "2026-09-29T15:01:14.554948+00:00"
   }
 }
