@@ -6199,5 +6199,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-28T21:20:10+00:00",
     "first_alerted_at": "2026-09-28T21:43:07.122576+00:00"
+  },
+  "1b91979ceed03dd8": {
+    "title": "I made a MacOS Meeting Assistant entirely with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsv5ch/i_made_a_macos_meeting_assistant_entirely_with/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T00:03:29+00:00",
+    "first_alerted_at": "2026-09-29T01:38:21.634263+00:00"
+  },
+  "89c5cb3e14a68783": {
+    "title": "Re-enable Ultracode in Vscode extesnion (after recent update disabled it)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsvk26/reenable_ultracode_in_vscode_extesnion_after/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T00:22:11+00:00",
+    "first_alerted_at": "2026-09-29T01:38:22.491781+00:00"
+  },
+  "7a8c5a74f2163dfd": {
+    "title": "How to use claude code?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsvhic/how_to_use_claude_code/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T00:18:48+00:00",
+    "first_alerted_at": "2026-09-29T01:38:23.324515+00:00"
+  },
+  "11a3e7bce2ef8142": {
+    "title": "Analogue feel, digital brain: an AI reMarkable planner",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wstmcl/analogue_feel_digital_brain_an_ai_remarkable/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T22:56:21+00:00",
+    "first_alerted_at": "2026-09-29T01:38:24.162435+00:00"
+  },
+  "e1c6ef5177bc4c99": {
+    "title": "Sonnet 5.5 orchestrated a local Qwen 3.8 27B!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wswkeq/sonnet_55_orchestrated_a_local_qwen_38_27b/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T01:10:37+00:00",
+    "first_alerted_at": "2026-09-29T01:38:25.031604+00:00"
+  },
+  "662cfdfb0597a171": {
+    "title": "Sonnet 5.5 ranks #2 on our writing benchmark!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsw08f/sonnet_55_ranks_2_on_our_writing_benchmark/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T00:43:43+00:00",
+    "first_alerted_at": "2026-09-29T01:38:25.893392+00:00"
+  },
+  "62449697e99400d6": {
+    "title": "I replayed Sonnet 5.5's starter pick 21 times with the exact same prompt. It grabbed the closest Poke Ball 13 times. Opus 5.5 never did.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsu7l9/i_replayed_sonnet_55s_starter_pick_21_times_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-28T23:22:00+00:00",
+    "first_alerted_at": "2026-09-29T01:38:26.730080+00:00"
   }
 }
