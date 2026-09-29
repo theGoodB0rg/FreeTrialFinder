@@ -6451,5 +6451,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-29T19:08:11+00:00",
     "first_alerted_at": "2026-09-29T20:09:46.242711+00:00"
+  },
+  "a2c05b73180f380f": {
+    "title": "Show HN: Recalld – A memory layer for AI agents that returns only relevant facts",
+    "url": "https://recalld.ai/",
+    "provider": "General AI",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-28T21:43:13+00:00",
+    "first_alerted_at": "2026-09-29T23:55:03.219395+00:00"
+  },
+  "151fea9e26498cc9": {
+    "title": "Diving into code tonight. Any suggestions?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtnebr/diving_into_code_tonight_any_suggestions/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T21:55:51+00:00",
+    "first_alerted_at": "2026-09-29T23:55:04.215948+00:00"
+  },
+  "9d7405ce5b50895a": {
+    "title": "I built cat., a free browser physics sandbox, with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtmuyi/i_built_cat_a_free_browser_physics_sandbox_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T21:33:56+00:00",
+    "first_alerted_at": "2026-09-29T23:55:05.220308+00:00"
+  },
+  "826b5de6129dbb50": {
+    "title": "For Everyone Complaining About 20x Plan Limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtnnk8/for_everyone_complaining_about_20x_plan_limits/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T22:05:44+00:00",
+    "first_alerted_at": "2026-09-29T23:55:06.204443+00:00"
+  },
+  "a6f746b34cc3eb28": {
+    "title": "Tell HN: OpenAI's New Pro 500 subscription, reduced Pro 200 usage",
+    "url": "https://news.ycombinator.com/item?id=49901067",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T21:42:05+00:00",
+    "first_alerted_at": "2026-09-29T23:55:07.180522+00:00"
   }
 }
