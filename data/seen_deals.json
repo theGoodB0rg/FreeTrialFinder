@@ -6685,5 +6685,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-30T15:49:16+00:00",
     "first_alerted_at": "2026-09-30T16:56:36.654054+00:00"
+  },
+  "4786cc17e51859ee": {
+    "title": "Can't use Fast Mode (API) anymore",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuh1o7/cant_use_fast_mode_api_anymore/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T21:15:03+00:00",
+    "first_alerted_at": "2026-09-30T21:22:05.981960+00:00"
+  },
+  "5732ad32b4c404b0": {
+    "title": "I put Claude Opus 5.5, GPT-6 Astra, and Kimi K3 in one room and asked them to write AI regulation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wugggg/i_put_claude_opus_55_gpt6_astra_and_kimi_k3_in/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T20:51:21+00:00",
+    "first_alerted_at": "2026-09-30T21:22:06.979002+00:00"
+  },
+  "b8d3a7db7dc51274": {
+    "title": "New open-source project tries to let Claude Code mod almost any PC game you own: universal-modder",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wug3lx/new_opensource_project_tries_to_let_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T20:36:52+00:00",
+    "first_alerted_at": "2026-09-30T21:22:07.975497+00:00"
+  },
+  "5bdc19122fca4629": {
+    "title": "Claude Code made this in ONE SHOT with the /brag skill, an inspiration and my project's repo access 🤯",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wue1xs/claude_code_made_this_in_one_shot_with_the_brag/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T19:17:51+00:00",
+    "first_alerted_at": "2026-09-30T21:22:08.931654+00:00"
+  },
+  "9bb2c7d9b67cf862": {
+    "title": "To all vibecoders shipping trash mobile apps with Claude Code: I was one of you.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wufu2t/to_all_vibecoders_shipping_trash_mobile_apps_with/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T20:26:24+00:00",
+    "first_alerted_at": "2026-09-30T21:22:09.904057+00:00"
+  },
+  "838d4a9c62b2f515": {
+    "title": "Sonnet 4.5 API retirement is confirmed: establish a Bedrock route before AWS marks it Legacy",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wueyip/sonnet_45_api_retirement_is_confirmed_establish_a/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T19:52:20+00:00",
+    "first_alerted_at": "2026-09-30T21:22:10.865514+00:00"
   }
 }
