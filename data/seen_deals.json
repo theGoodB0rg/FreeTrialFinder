@@ -6496,5 +6496,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-29T21:42:05+00:00",
     "first_alerted_at": "2026-09-29T23:55:07.180522+00:00"
+  },
+  "280b8f91545cd808": {
+    "title": "Inspired by another post here, I wanted to try the Opus video generation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wts87n/inspired_by_another_post_here_i_wanted_to_try_the/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-30T01:35:10+00:00",
+    "first_alerted_at": "2026-09-30T04:53:07.625448+00:00"
+  },
+  "2884cae0001da43b": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/hugging-face/phi-4/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T04:53:02.308045+00:00",
+    "first_alerted_at": "2026-09-30T04:53:08.478752+00:00"
+  },
+  "572b5d30fdce5222": {
+    "title": "<a href=\"https://freellm.net/models/nvidia-nim/moonshotai-kimi-k2-6/\" target=\"_blank\" rel=\"noopener\">moonshotai/kimi-k2.6</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/moonshotai-kimi-k2-6/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T04:53:02.309728+00:00",
+    "first_alerted_at": "2026-09-30T04:53:09.318371+00:00"
+  },
+  "7fcb60360451fdb5": {
+    "title": "Built a cooking/recipe app I actually use daily",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtsncj/built_a_cookingrecipe_app_i_actually_use_daily/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T01:55:51+00:00",
+    "first_alerted_at": "2026-09-30T04:53:10.163149+00:00"
+  },
+  "a611560b645821b3": {
+    "title": "Built a town of 200 AI people with Claude Code to test AI agents. The first agent I tested got caught lying.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtqnfo/built_a_town_of_200_ai_people_with_claude_code_to/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T00:20:08+00:00",
+    "first_alerted_at": "2026-09-30T04:53:11.003090+00:00"
+  },
+  "ef34865782d5568e": {
+    "title": "ClaudeCode token count change?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtvai5/claudecode_token_count_change/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T04:10:25+00:00",
+    "first_alerted_at": "2026-09-30T04:53:11.843312+00:00"
+  },
+  "1f7fd5fea5e8bbea": {
+    "title": "I made a Plague Inc.-style game where you are the AI. Final form and thank you for all the feedback!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtv9yc/i_made_a_plague_incstyle_game_where_you_are_the/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T04:09:36+00:00",
+    "first_alerted_at": "2026-09-30T04:53:12.707305+00:00"
   }
 }
