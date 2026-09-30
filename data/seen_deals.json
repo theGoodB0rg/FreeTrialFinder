@@ -6613,5 +6613,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-30T09:00:47+00:00",
     "first_alerted_at": "2026-09-30T11:01:21.227028+00:00"
+  },
+  "49c14bffd3774eaa": {
+    "title": "Sonnet 5.5 30x more expensive than GPT 6.1 Sol on 3D tasks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7ujz/sonnet_55_30x_more_expensive_than_gpt_61_sol_on/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T15:24:36+00:00",
+    "first_alerted_at": "2026-09-30T16:56:29.221688+00:00"
+  },
+  "75a993d70c5e5a8b": {
+    "title": "I built a local PR review app that runs on your Claude Code subscription (headless claude -p, read-only, nothing posts until you click)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu75wk/i_built_a_local_pr_review_app_that_runs_on_your/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T14:58:17+00:00",
+    "first_alerted_at": "2026-09-30T16:56:30.344472+00:00"
+  },
+  "875655e8d7f504f9": {
+    "title": "I had Claude direct a full music video for $37.88 of fal credits (and fix its own tooling along the way)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7p0v/i_had_claude_direct_a_full_music_video_for_3788/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T15:18:31+00:00",
+    "first_alerted_at": "2026-09-30T16:56:31.370433+00:00"
+  },
+  "42b17d6902774ec6": {
+    "title": "Why is AI memory still all messed up ??",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7wnl/why_is_ai_memory_still_all_messed_up/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T15:26:53+00:00",
+    "first_alerted_at": "2026-09-30T16:56:32.377761+00:00"
+  },
+  "806dca569133a418": {
+    "title": "Show HN: Burning Man for Agents",
+    "url": "https://burning-tokens.transitivebullsh.it/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T14:35:11+00:00",
+    "first_alerted_at": "2026-09-30T16:56:33.454690+00:00"
+  },
+  "7bf969826f3a86a5": {
+    "title": "Opus 5.5 directed this overnight from someone else’s prompt + Midjourney moodboard",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu8rko/opus_55_directed_this_overnight_from_someone/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T16:00:49+00:00",
+    "first_alerted_at": "2026-09-30T16:56:34.554339+00:00"
+  },
+  "2deb50c42158c97a": {
+    "title": "Sonnet 5.5 did this. Opus/Fable quality with fraction of price.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu8qcr/sonnet_55_did_this_opusfable_quality_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T15:59:46+00:00",
+    "first_alerted_at": "2026-09-30T16:56:35.588352+00:00"
+  },
+  "99be06855267ab81": {
+    "title": "Cloud credits not working?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu8gzb/cloud_credits_not_working/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T15:49:16+00:00",
+    "first_alerted_at": "2026-09-30T16:56:36.654054+00:00"
   }
 }
