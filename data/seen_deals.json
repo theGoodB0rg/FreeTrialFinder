@@ -6559,5 +6559,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-30T04:09:36+00:00",
     "first_alerted_at": "2026-09-30T04:53:12.707305+00:00"
+  },
+  "3a37853414b6b023": {
+    "title": "Our users said GLM 5.2 was clearly worse than Claude. It was our streaming parser eating the first token of every fourth reply.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu093w/our_users_said_glm_52_was_clearly_worse_than/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-30T09:18:01+00:00",
+    "first_alerted_at": "2026-09-30T11:01:16.464636+00:00"
+  },
+  "bfc64deaacd6e33e": {
+    "title": "Opus 5.5 keeps flagging my non-security Claude Code sessions as [cyber]. Anyone else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtzkvn/opus_55_keeps_flagging_my_nonsecurity_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-09-30T08:33:29+00:00",
+    "first_alerted_at": "2026-09-30T11:01:17.501340+00:00"
+  },
+  "75758ba7ea165835": {
+    "title": "Sonnet 5.5 Streaming Broken on all providers when tool calls are present",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtyju3/sonnet_55_streaming_broken_on_all_providers_when/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T07:26:06+00:00",
+    "first_alerted_at": "2026-09-30T11:01:18.397810+00:00"
+  },
+  "e4f6831bba465218": {
+    "title": "Ask HN: Any other ChatGPT Pro Subscribers get emailed 62,500 Tokens?",
+    "url": "https://news.ycombinator.com/item?id=49905463",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T07:09:56+00:00",
+    "first_alerted_at": "2026-09-30T11:01:19.340251+00:00"
+  },
+  "08ddd75f3b114205": {
+    "title": "I built a Claude skill whose only job is swapping our old guitarist out of the band photos",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu02ya/i_built_a_claude_skill_whose_only_job_is_swapping/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T09:06:59+00:00",
+    "first_alerted_at": "2026-09-30T11:01:20.275095+00:00"
+  },
+  "42a815034fad7800": {
+    "title": "Claude Desktop vs Software Factory",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtzzha/claude_desktop_vs_software_factory/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T09:00:47+00:00",
+    "first_alerted_at": "2026-09-30T11:01:21.227028+00:00"
   }
 }
