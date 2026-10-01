@@ -6802,5 +6802,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-01T04:11:14+00:00",
     "first_alerted_at": "2026-10-01T07:01:27.311983+00:00"
+  },
+  "749aee2d8d944bb9": {
+    "title": "I built an alternative to developing in the web platform via Claude in less than 3 days , it's making using of your already existing Claude sub via Claude in chrome",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuzwve/i_built_an_alternative_to_developing_in_the_web/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T13:48:19+00:00",
+    "first_alerted_at": "2026-10-01T14:41:48.031719+00:00"
+  },
+  "58bfb2d79021a906": {
+    "title": "OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use - The Decoder",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdHhsRk9DNFZWUWFjQ2dlX0pYQUE3dm85UTA5eXZkYXl0SllMQUFwbFItbHB5RmFfejFmTkFCbFFQQlE1TVFKMXRqWl9pWThNNE0tRXFBRHhJR0FmVUxtYWJNWUNjTnZJMWtKVW00WkVkOFRtc1BoM3V2UHRGS3RsX2NmVFVUV2ZESjg2UjNlY1dnWW15THdrWmt6TmVWUE5seUVVT1ZGZmpRQXd3OGdueFdWSGhEdmZnZExUcl9ndmc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T10:25:08+00:00",
+    "first_alerted_at": "2026-10-01T14:41:48.898577+00:00"
+  },
+  "be240e658b18a2d3": {
+    "title": "1 week opus 5.5 usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv00dg/1_week_opus_55_usage/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T13:52:19+00:00",
+    "first_alerted_at": "2026-10-01T14:41:49.802197+00:00"
+  },
+  "0ddde00de5262b59": {
+    "title": "Claude made a product showcase I would've happily paid hundreds of $ for a year ago",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuycyc/claude_made_a_product_showcase_i_wouldve_happily/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T12:39:17+00:00",
+    "first_alerted_at": "2026-10-01T14:41:50.642585+00:00"
+  },
+  "c4aca3cee15682f9": {
+    "title": "Running several Claude Code agents on one repo: branches hid the real conflict in all 5 runs, a shared directory fixed it, and the agents started messaging each other on their own",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuxwkv/running_several_claude_code_agents_on_one_repo/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T12:17:05+00:00",
+    "first_alerted_at": "2026-10-01T14:41:51.482774+00:00"
+  },
+  "6904eb8c7d7326d3": {
+    "title": "Opus 5.5 HDR Vector Game built entirely within an Artifact",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv06g8/opus_55_hdr_vector_game_built_entirely_within_an/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T13:59:25+00:00",
+    "first_alerted_at": "2026-10-01T14:41:52.333528+00:00"
+  },
+  "797196183bfdf840": {
+    "title": "New AI Slop standard?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuyjo1/new_ai_slop_standard/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T12:48:07+00:00",
+    "first_alerted_at": "2026-10-01T14:41:53.183219+00:00"
+  },
+  "19d6c1186603c5b2": {
+    "title": "Orgtree v3: It's Fast!!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuxhtb/orgtree_v3_its_fast/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T11:57:09+00:00",
+    "first_alerted_at": "2026-10-01T14:41:54.037566+00:00"
+  },
+  "efceaafd102fda5b": {
+    "title": "Show HN: Usage Updates, Claude and Codex credits, resets and limit changes",
+    "url": "https://usageupdates.com/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T11:27:55+00:00",
+    "first_alerted_at": "2026-10-01T14:41:54.900465+00:00"
   }
 }
