@@ -6883,5 +6883,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-01T11:27:55+00:00",
     "first_alerted_at": "2026-10-01T14:41:54.900465+00:00"
+  },
+  "3c6bdae332a2ace6": {
+    "title": "Claude built my 3-Mac-mini local LLM cluster. I set the rules and checked results. Here's what broke and what I lost.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv8gfi/claude_built_my_3macmini_local_llm_cluster_i_set/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-01T19:14:20+00:00",
+    "first_alerted_at": "2026-10-01T20:13:40.880525+00:00"
+  },
+  "5813302c6465b49e": {
+    "title": "Procedural Pixel Creatures (Claude Code - Opus 5.5)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv8ogl/procedural_pixel_creatures_claude_code_opus_55/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T19:22:26+00:00",
+    "first_alerted_at": "2026-10-01T20:13:41.866055+00:00"
+  },
+  "b64f3d5a20749fd0": {
+    "title": "I bought a second Claude account to test it fairly against Cursor and Codex, and it still wasn't clean",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv51i1/i_bought_a_second_claude_account_to_test_it/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T17:06:10+00:00",
+    "first_alerted_at": "2026-10-01T20:13:42.883964+00:00"
+  },
+  "fe4a57a2e7102e3c": {
+    "title": "Claude Macot in 28 art styles - all drawn by code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv8mhr/claude_macot_in_28_art_styles_all_drawn_by_code/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T19:20:29+00:00",
+    "first_alerted_at": "2026-10-01T20:13:43.890075+00:00"
+  },
+  "758bcf19dfc27511": {
+    "title": "7 days with Claude - one bad day, and what came out of it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv8ntw/7_days_with_claude_one_bad_day_and_what_came_out/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T19:21:46+00:00",
+    "first_alerted_at": "2026-10-01T20:13:44.888125+00:00"
   }
 }
