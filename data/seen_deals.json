@@ -6757,5 +6757,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-01T00:27:20+00:00",
     "first_alerted_at": "2026-10-01T00:44:59.213518+00:00"
+  },
+  "b46064f6505479b2": {
+    "title": "Claude or Codex for light coding",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuocob/claude_or_codex_for_light_coding/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T02:54:43+00:00",
+    "first_alerted_at": "2026-10-01T07:01:23.269469+00:00"
+  },
+  "de02bec8b800d45e": {
+    "title": "Show HN: I built a directory to set up ChatGPT's always-on agents in one paste",
+    "url": "https://dotbotdirectory.com",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T02:13:32+00:00",
+    "first_alerted_at": "2026-10-01T07:01:24.203872+00:00"
+  },
+  "af46fc9901ad9cdd": {
+    "title": "125 Claude agents, two weeks, one codebase. The hard part wasn't the code, it was knowing when anything was actually done",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wus7dl/125_claude_agents_two_weeks_one_codebase_the_hard/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T06:33:11+00:00",
+    "first_alerted_at": "2026-10-01T07:01:25.169560+00:00"
+  },
+  "3b990a65293f5f73": {
+    "title": "Fable > Opus 5.5 for orchestration",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuruui/fable_opus_55_for_orchestration/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T06:11:43+00:00",
+    "first_alerted_at": "2026-10-01T07:01:26.236404+00:00"
+  },
+  "481eb1b84c126648": {
+    "title": "Anyone who uses Claude plugins and skills. Are they useful?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wupssg/anyone_who_uses_claude_plugins_and_skills_are/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T04:11:14+00:00",
+    "first_alerted_at": "2026-10-01T07:01:27.311983+00:00"
   }
 }
