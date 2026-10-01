@@ -6739,5 +6739,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-09-30T19:52:20+00:00",
     "first_alerted_at": "2026-09-30T21:22:10.865514+00:00"
+  },
+  "20015ba18bfe2a3c": {
+    "title": "Progressive disclosure: event bus approach",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuie57/progressive_disclosure_event_bus_approach/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T22:10:59+00:00",
+    "first_alerted_at": "2026-10-01T00:44:58.372487+00:00"
+  },
+  "a6492f02a4fd0217": {
+    "title": "False flagging “reasoning_extraction” is real problem",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wulda1/false_flagging_reasoning_extraction_is_real/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T00:27:20+00:00",
+    "first_alerted_at": "2026-10-01T00:44:59.213518+00:00"
   }
 }
