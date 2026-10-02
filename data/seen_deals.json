@@ -7144,5 +7144,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-02T16:57:51+00:00",
     "first_alerted_at": "2026-10-02T18:38:04.047561+00:00"
+  },
+  "9202257757b8e44f": {
+    "title": "I took the viral one-prompt canvas explainer and gave it a planning stage, a critic model and a video-review skill: 3 ads, $25.17 in API spend",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww49ep/i_took_the_viral_oneprompt_canvas_explainer_and/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-02T20:26:22+00:00",
+    "first_alerted_at": "2026-10-02T22:51:48.700835+00:00"
+  },
+  "6f4ef3b735bcffec": {
+    "title": "I built Claude Fables, a Claude Code mod that turns what Claude is doing into a little animated cartoon above the prompt",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww2cn3/i_built_claude_fables_a_claude_code_mod_that/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-02T19:09:14+00:00",
+    "first_alerted_at": "2026-10-02T22:51:49.735007+00:00"
+  },
+  "cdc1de60cdc3d420": {
+    "title": "Hitting 100% usage within 45 minutes while AFK, I tried everything and still can't fix it.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww6mzm/hitting_100_usage_within_45_minutes_while_afk_i/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T22:06:26+00:00",
+    "first_alerted_at": "2026-10-02T22:51:50.757158+00:00"
+  },
+  "025b3779bd2e8a25": {
+    "title": "I stopped describing shapes to Claude, and started drawing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww5mpp/i_stopped_describing_shapes_to_claude_and_started/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T21:23:17+00:00",
+    "first_alerted_at": "2026-10-02T22:51:51.788945+00:00"
+  },
+  "6cccd708d64b2ce9": {
+    "title": "Just a curious thought on the future of models and products",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww60uo/just_a_curious_thought_on_the_future_of_models/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T21:39:53+00:00",
+    "first_alerted_at": "2026-10-02T22:51:52.814841+00:00"
+  },
+  "60b79c8974a24c6f": {
+    "title": "Anthropic Claude for Startups: The Complete Guide to Credits, Tiers, and Eligibility (2026) - Security Boulevard",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHNlbkwxLWZDUk13MWo0SnFkUEszand0VzJYWnhkSlgyWUZ2bG9Fem43S0tON0w4V216SFJBMGhYRjFlSlV1TE5IRWJRa3Q2RzFOTUVWd0ItSThWS3pVT3NtX1dmY2tWVWs4RFBfZlptc0sxblF6Q1dnMXRyYXpTeEpxb0FsbFpKYW14cnpNNnF0VmhsOXR2M1NMYnFIUGg5V0o3ajBwY2ZfMkdtaXAzOU1MbUVLWi1MRUFkS1FkbWV6Ync?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-12T07:00:00+00:00",
+    "first_alerted_at": "2026-10-02T22:51:53.847952+00:00"
   }
 }
