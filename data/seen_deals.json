@@ -6928,5 +6928,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-01T19:21:46+00:00",
     "first_alerted_at": "2026-10-01T20:13:44.888125+00:00"
+  },
+  "ed1ab9dd3961987b": {
+    "title": "i asked echo to give me a tour of blender and it drew the whole map on my screen",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvbk93/i_asked_echo_to_give_me_a_tour_of_blender_and_it/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T21:16:18+00:00",
+    "first_alerted_at": "2026-10-02T00:03:37.329714+00:00"
+  },
+  "d59aaf15ed24ec37": {
+    "title": "My Claude voice skill was learning from its own drafts, so I rebuilt it from 4,000+ messages I actually typed",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvah9f/my_claude_voice_skill_was_learning_from_its_own/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T20:32:41+00:00",
+    "first_alerted_at": "2026-10-02T00:03:38.211342+00:00"
+  },
+  "83f66ff5bcc61888": {
+    "title": "I built a DAW ( Ableton ) with Claude Code, then put Claude inside it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvbh1l/i_built_a_daw_ableton_with_claude_code_then_put/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T21:12:42+00:00",
+    "first_alerted_at": "2026-10-02T00:03:39.106615+00:00"
   }
 }
