@@ -7090,5 +7090,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-02T07:49:16+00:00",
     "first_alerted_at": "2026-10-02T13:02:21.378653+00:00"
+  },
+  "7f4d1e1dc68b4097": {
+    "title": "3 Agents, 1 human, 1 music video. Human in the Loop Collaboration Tool Demonstration",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvzk2s/3_agents_1_human_1_music_video_human_in_the_loop/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-02T17:19:19+00:00",
+    "first_alerted_at": "2026-10-02T18:37:59.582895+00:00"
+  },
+  "1e9d7740d7406cd8": {
+    "title": "Stunning Lake Bled",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvzm6d/stunning_lake_bled/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T17:21:40+00:00",
+    "first_alerted_at": "2026-10-02T18:38:00.510410+00:00"
+  },
+  "d8461f3422457703": {
+    "title": "A guide to UI design - from reference images to a final design in no time, and it'll look exactly how you want it to",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvzs60/a_guide_to_ui_design_from_reference_images_to_a/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T17:28:21+00:00",
+    "first_alerted_at": "2026-10-02T18:38:01.433450+00:00"
+  },
+  "35af16446618568c": {
+    "title": "I built DensePack to combat Anthropic's pricing and help people save and build more with Claude Code. New benchmarks available show it beats every popular plugin on total session savings.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww0c4g/i_built_densepack_to_combat_anthropics_pricing/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T17:50:48+00:00",
+    "first_alerted_at": "2026-10-02T18:38:02.298375+00:00"
+  },
+  "01e49ce2e47c1413": {
+    "title": "Anthropic Claude for Startups: The Complete Guide to Credits, Tiers, and Eligibility (2026) - securityboulevard.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHNlbkwxLWZDUk13MWo0SnFkUEszand0VzJYWnhkSlgyWUZ2bG9Fem43S0tON0w4V216SFJBMGhYRjFlSlV1TE5IRWJRa3Q2RzFOTUVWd0ItSThWS3pVT3NtX1dmY2tWVWs4RFBfZlptc0sxblF6Q1dnMXRyYXpTeEpxb0FsbFpKYW14cnpNNnF0VmhsOXR2M1NMYnFIUGg5V0o3ajBwY2ZfMkdtaXAzOU1MbUVLWi1MRUFkS1FkbWV6Ync?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-12T07:00:00+00:00",
+    "first_alerted_at": "2026-10-02T18:38:03.156138+00:00"
+  },
+  "a30db0fd84a24ca6": {
+    "title": "Claude $250 credits bonus and weakly usage reset. Idk if I'm just slow but if here are people like me that missed it out, hope it would help.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvz03a/claude_250_credits_bonus_and_weakly_usage_reset/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T16:57:51+00:00",
+    "first_alerted_at": "2026-10-02T18:38:04.047561+00:00"
   }
 }
