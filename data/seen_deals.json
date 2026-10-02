@@ -7036,5 +7036,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-02T01:29:20+00:00",
     "first_alerted_at": "2026-10-02T06:02:30.606637+00:00"
+  },
+  "bf945aa112acfd1f": {
+    "title": "claude made \"slow gaming\" ocean trader",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvs3rw/claude_made_slow_gaming_ocean_trader/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T12:08:02+00:00",
+    "first_alerted_at": "2026-10-02T13:02:16.068495+00:00"
+  },
+  "38badd82c2b6b3d2": {
+    "title": "I Built an Advanced Version of Screener and Its Promo Video Using Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvqfek/i_built_an_advanced_version_of_screener_and_its/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T10:35:55+00:00",
+    "first_alerted_at": "2026-10-02T13:02:17.173768+00:00"
+  },
+  "27ad264b8453ed1d": {
+    "title": "Claude can do motion design, so surely it can do Danmaku (bullet hell) too",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvqco6/claude_can_do_motion_design_so_surely_it_can_do/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T10:31:19+00:00",
+    "first_alerted_at": "2026-10-02T13:02:18.223636+00:00"
+  },
+  "a797e130a0a7ee2b": {
+    "title": "Jazz Hands: a video editor Claude can drive",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvpf4k/jazz_hands_a_video_editor_claude_can_drive/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T09:34:13+00:00",
+    "first_alerted_at": "2026-10-02T13:02:19.300888+00:00"
+  },
+  "780a1aa70613a1e6": {
+    "title": "I gave Claude models a web_search tool and 40 questions. Opus decided right 79 of 80 times. Sonnet 5 with no system prompt told me Harald V is still king.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvsait/i_gave_claude_models_a_web_search_tool_and_40/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T12:17:31+00:00",
+    "first_alerted_at": "2026-10-02T13:02:20.366357+00:00"
+  },
+  "19942c3b5683a8cd": {
+    "title": "I built 143 CSS 3D models with Claude Code. The hard part wasn't the code, it was knowing when one was actually done",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvntso/i_built_143_css_3d_models_with_claude_code_the/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T07:49:16+00:00",
+    "first_alerted_at": "2026-10-02T13:02:21.378653+00:00"
   }
 }
