@@ -6955,5 +6955,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-01T21:12:42+00:00",
     "first_alerted_at": "2026-10-02T00:03:39.106615+00:00"
+  },
+  "55002350b04e1ad2": {
+    "title": "I gave Claude Code the CEO job for my free Chrome extension. Week 1: it made me rename it, built the next version, and still needs my \"go\" for every post",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvh6iy/i_gave_claude_code_the_ceo_job_for_my_free_chrome/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T01:32:59+00:00",
+    "first_alerted_at": "2026-10-02T06:02:23.229561+00:00"
+  },
+  "66cd83a6eeb5cc82": {
+    "title": "OpenAI Relaunches Pro at $200 and Cuts API Credits - Brief IA",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0FBOXNDU2p2aVJHaHFyOER5a3ZySnpZUUh6SGg3bmotS25CbWZXR0pxMnZsQjZoTGZfY3NPSHk3Vmh5SjRVWEtndWwxOHFvc3FYcXhXcW1Ua1VXYzVOby1TX2VCY3hlWHZqNlUxeWhYbldRT2lMTEgtNGhIeExadEZsci14cTB6WmVV?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:04:55+00:00",
+    "first_alerted_at": "2026-10-02T06:02:24.184894+00:00"
+  },
+  "e98c5b57778c6518": {
+    "title": "Got the \"Share a guest pass\" promo email on the Pro plan, but /passes says \"not currently available\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvjrr7/got_the_share_a_guest_pass_promo_email_on_the_pro/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T03:46:09+00:00",
+    "first_alerted_at": "2026-10-02T06:02:25.096525+00:00"
+  },
+  "cb69aadd49e8b06a": {
+    "title": "I had Claude make a video introduction for my (elderly) mom",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wviaku/i_had_claude_make_a_video_introduction_for_my/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T02:27:42+00:00",
+    "first_alerted_at": "2026-10-02T06:02:26.007751+00:00"
+  },
+  "e8dd5d2ba3048b28": {
+    "title": "Crontick - Local prompt scheduler",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvhifo/crontick_local_prompt_scheduler/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T01:49:05+00:00",
+    "first_alerted_at": "2026-10-02T06:02:26.911813+00:00"
+  },
+  "060874647eca6419": {
+    "title": "i built a claude code mod that puts animated pixel art above your prompt",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvgw2n/i_built_a_claude_code_mod_that_puts_animated/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T01:18:45+00:00",
+    "first_alerted_at": "2026-10-02T06:02:27.909510+00:00"
+  },
+  "0d5a2d16493c14cd": {
+    "title": "Show HN: A substantially expanded terminal for AI CLIs – I can't work without it",
+    "url": "https://github.com/albertwujj/agent-term#agentterm",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T04:38:11+00:00",
+    "first_alerted_at": "2026-10-02T06:02:28.797837+00:00"
+  },
+  "47069cc07c879bcc": {
+    "title": "what language is most efficient in terms of tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvl81p/what_language_is_most_efficient_in_terms_of_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T05:06:46+00:00",
+    "first_alerted_at": "2026-10-02T06:02:29.688341+00:00"
+  },
+  "03ee881028dec251": {
+    "title": "Since we're all sharing our usage ...",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvh3td/since_were_all_sharing_our_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T01:29:20+00:00",
+    "first_alerted_at": "2026-10-02T06:02:30.606637+00:00"
   }
 }
