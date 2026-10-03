@@ -7252,5 +7252,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-02T23:42:48+00:00",
     "first_alerted_at": "2026-10-03T01:48:37.128514+00:00"
+  },
+  "c15be6df85d2642f": {
+    "title": "Built an open-source tool that applies to internships for me",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwclkk/built_an_opensource_tool_that_applies_to/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-03T03:05:32+00:00",
+    "first_alerted_at": "2026-10-03T07:49:05.140312+00:00"
+  },
+  "dbc88cef8ea10b30": {
+    "title": "Best value low cost subscription for a solo hobby dev on on project?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwci6x/best_value_low_cost_subscription_for_a_solo_hobby/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T03:00:41+00:00",
+    "first_alerted_at": "2026-10-03T07:49:05.990825+00:00"
+  },
+  "9314a2e4e1d9b039": {
+    "title": "Claude Code built my RPG world engine. Now it can also run the game, as the game master, over MCP.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwbv68/claude_code_built_my_rpg_world_engine_now_it_can/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T02:26:03+00:00",
+    "first_alerted_at": "2026-10-03T07:49:06.858005+00:00"
+  },
+  "93f1c61a88cc9f00": {
+    "title": "found out why 12 of my skills never fired",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwgsw7/found_out_why_12_of_my_skills_never_fired/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T07:09:17+00:00",
+    "first_alerted_at": "2026-10-03T07:49:07.794398+00:00"
   }
 }
