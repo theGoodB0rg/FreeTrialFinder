@@ -7378,5 +7378,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-03T15:09:09+00:00",
     "first_alerted_at": "2026-10-03T17:33:07.276736+00:00"
+  },
+  "b206a5dee685d89a": {
+    "title": "I built a tiny pixel pet with Claude Code that lives in my terminal and grows into a different form depending on how I work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwwq8v/i_built_a_tiny_pixel_pet_with_claude_code_that/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-03T20:10:27+00:00",
+    "first_alerted_at": "2026-10-03T20:49:19.893949+00:00"
+  },
+  "16095ae8826140df": {
+    "title": "Godmark for benching Claude, Codex and Deepseek in Godot Engine",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwt4k5/godmark_for_benching_claude_codex_and_deepseek_in/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-03T17:40:35+00:00",
+    "first_alerted_at": "2026-10-03T20:49:20.741017+00:00"
+  },
+  "2722ea5c4c74083f": {
+    "title": "I built a Claude Code mod that gives Claude your xcodebuild errors instead of the truncated build log",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwwkfs/i_built_a_claude_code_mod_that_gives_claude_your/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T20:03:30+00:00",
+    "first_alerted_at": "2026-10-03T20:49:21.595960+00:00"
+  },
+  "b6d36536ed55abde": {
+    "title": "Over the last few months I've been building Personal Jarvis with Claude, my attempt at a provider agnostic, open source vibe coding super app",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwuj7s/over_the_last_few_months_ive_been_building/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T18:38:48+00:00",
+    "first_alerted_at": "2026-10-03T20:49:22.445030+00:00"
+  },
+  "904d2f40cb3a6e35": {
+    "title": "Do you run more than one coding agent? How do you decide who gets which task?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwuzyc/do_you_run_more_than_one_coding_agent_how_do_you/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T18:58:28+00:00",
+    "first_alerted_at": "2026-10-03T20:49:23.282095+00:00"
+  },
+  "4e07f01b9a8004cc": {
+    "title": "Ask HN: I have 1 Claude and 2 Codex resets plus credits – help me spend them",
+    "url": "https://news.ycombinator.com/item?id=49946155",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T17:36:33+00:00",
+    "first_alerted_at": "2026-10-03T20:49:24.135029+00:00"
   }
 }
