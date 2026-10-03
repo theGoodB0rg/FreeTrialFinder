@@ -7198,5 +7198,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-08-12T07:00:00+00:00",
     "first_alerted_at": "2026-10-02T22:51:53.847952+00:00"
+  },
+  "59526618ee4e97fa": {
+    "title": "I made a fluffy Claude Code mod",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwan22/i_made_a_fluffy_claude_code_mod/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T01:20:20+00:00",
+    "first_alerted_at": "2026-10-03T01:48:32.774884+00:00"
+  },
+  "33817d3027325cbe": {
+    "title": "Share pipelines",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww9meb/share_pipelines/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T00:27:22+00:00",
+    "first_alerted_at": "2026-10-03T01:48:33.617944+00:00"
+  },
+  "89c938000c03ba77": {
+    "title": "Opus 5.5 burns subscription faster?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwaszm/opus_55_burns_subscription_faster/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T01:29:07+00:00",
+    "first_alerted_at": "2026-10-03T01:48:34.458920+00:00"
+  },
+  "ca57aef9db30932c": {
+    "title": "What is this ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwac0c/what_is_this/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T01:04:20+00:00",
+    "first_alerted_at": "2026-10-03T01:48:35.320017+00:00"
+  },
+  "fd8bc4ecb46e78e9": {
+    "title": "Pelican test, \"Go all out\": $6.17, 28 min, Opus 5.5 (High)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwa08b/pelican_test_go_all_out_617_28_min_opus_55_high/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T00:47:22+00:00",
+    "first_alerted_at": "2026-10-03T01:48:36.228262+00:00"
+  },
+  "de7bc01e0d83ebf0": {
+    "title": "Wilson's Survival Guide for September 25-October 2, 2026 now available!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww8p95/wilsons_survival_guide_for_september_25october_2/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-02T23:42:48+00:00",
+    "first_alerted_at": "2026-10-03T01:48:37.128514+00:00"
   }
 }
