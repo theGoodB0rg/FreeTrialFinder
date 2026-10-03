@@ -7342,5 +7342,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-03T09:09:21+00:00",
     "first_alerted_at": "2026-10-03T13:11:09.269652+00:00"
+  },
+  "8d0df79c044a0e47": {
+    "title": "Claude Abo hergeschenkt?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwrf12/claude_abo_hergeschenkt/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-03T16:28:03+00:00",
+    "first_alerted_at": "2026-10-03T17:33:03.977215+00:00"
+  },
+  "fc624ede955f783c": {
+    "title": "30 days, 386 commits, non-dev: building a factory's production system with Claude Code. What am I missing?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwpp1n/30_days_386_commits_nondev_building_a_factorys/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T15:14:45+00:00",
+    "first_alerted_at": "2026-10-03T17:33:05.149031+00:00"
+  },
+  "40b76a20bb38cca5": {
+    "title": "Poison Claude is Selling Cheap AI Tokens Built on Fake Accounts and Free Credits - cybersecuritynews.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10MFFOZGp4d1V3QkxBTk5NalpWd0xWSlFlVjZ5LXhrdHdOdjdhUHZOeS1kTE1vQnVIZHMzYzdYSUJ2bnZGa2xUM2JxbE5IUUtwcFZKeVpNVVlPelpWcmRVdVl4Z1RrYVFMNUI5UE5TZVlPOHBPTmg00gF8QVVfeXFMUGhVWTdpbWkwTm9OaHU5aVdBRjltdjFhY21uQlVIMWN5b1M1QzZpV0tGSTUxU05nZTRuci1qT1c2SlNUX2s4NDlGWmhXYjMwXzlzZ2dtSlQzZlh4bFpTQU1jVjZ3dXVuVjh2QkdIZjJ3dWxYLXZmeTJlRWVFUw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-05T07:00:00+00:00",
+    "first_alerted_at": "2026-10-03T17:33:06.207477+00:00"
+  },
+  "d037a209fbbd5378": {
+    "title": "Iteration 2 of the 3D pixel art game made with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwpkaw/iteration_2_of_the_3d_pixel_art_game_made_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T15:09:09+00:00",
+    "first_alerted_at": "2026-10-03T17:33:07.276736+00:00"
   }
 }
