@@ -7288,5 +7288,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-03T07:09:17+00:00",
     "first_alerted_at": "2026-10-03T07:49:07.794398+00:00"
+  },
+  "f285a79737fa3aae": {
+    "title": "Claude usage suddenly hit 100% — what does “Other” 48% usage mean?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwjlt9/claude_usage_suddenly_hit_100_what_does_other_48/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T10:07:02+00:00",
+    "first_alerted_at": "2026-10-03T13:11:04.116106+00:00"
+  },
+  "6b6d077e1a96bfda": {
+    "title": "How do you track cost and outcome across parallel Claude Code subagent runs?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwlwys/how_do_you_track_cost_and_outcome_across_parallel/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T12:21:34+00:00",
+    "first_alerted_at": "2026-10-03T13:11:05.106831+00:00"
+  },
+  "8603321030d0103a": {
+    "title": "handoff-compact, a mod that does the handoff + /clear routine for you every time autocompact fires",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwk4y5/handoffcompact_a_mod_that_does_the_handoff_clear/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T10:40:44+00:00",
+    "first_alerted_at": "2026-10-03T13:11:06.109612+00:00"
+  },
+  "4fa38aaa1932f150": {
+    "title": "Change default model on web?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwmns4/change_default_model_on_web/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T12:59:36+00:00",
+    "first_alerted_at": "2026-10-03T13:11:07.187156+00:00"
+  },
+  "7381532350746f38": {
+    "title": "Claude chat (on mobile) practically one shots this property design and showcase",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwlhdn/claude_chat_on_mobile_practically_one_shots_this/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T11:59:46+00:00",
+    "first_alerted_at": "2026-10-03T13:11:08.284044+00:00"
+  },
+  "3e24ab10770c472a": {
+    "title": "Tokenmaxxing x Bicycle Thieves",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwiown/tokenmaxxing_x_bicycle_thieves/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T09:09:21+00:00",
+    "first_alerted_at": "2026-10-03T13:11:09.269652+00:00"
   }
 }
