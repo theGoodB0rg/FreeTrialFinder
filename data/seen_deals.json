@@ -7432,5 +7432,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-03T17:36:33+00:00",
     "first_alerted_at": "2026-10-03T20:49:24.135029+00:00"
+  },
+  "32fce51a8b01aaf7": {
+    "title": "I built an open-source skill (with Claude Code) that lets Claude run B2B outreach on email, LinkedIn and WhatsApp",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx01yk/i_built_an_opensource_skill_with_claude_code_that/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-03T22:40:22+00:00",
+    "first_alerted_at": "2026-10-03T23:37:55.595562+00:00"
+  },
+  "fc209b9c0b5a612b": {
+    "title": "I built a powerful hub with Claude to centralize U.S. sanctions policy toward Cuba",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwzwce/i_built_a_powerful_hub_with_claude_to_centralize/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T22:32:45+00:00",
+    "first_alerted_at": "2026-10-03T23:37:56.459679+00:00"
+  },
+  "19f29589bb72a4d2": {
+    "title": "I put my Claude limits on a little AliExpress clock",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwxjkm/i_put_my_claude_limits_on_a_little_aliexpress/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T20:45:27+00:00",
+    "first_alerted_at": "2026-10-03T23:37:57.358302+00:00"
+  },
+  "796bb161ae1d15aa": {
+    "title": "I let Sonnet 5.5 play a full chess game against GPT 6.1 Sol over MCP. Here's the recording and usage.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwz9av/i_let_sonnet_55_play_a_full_chess_game_against/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T22:02:23+00:00",
+    "first_alerted_at": "2026-10-03T23:37:58.252955+00:00"
+  },
+  "2b1a210f3e4d5f28": {
+    "title": "6.5 Billion tokens in 12 days",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx0u0i/65_billion_tokens_in_12_days/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T23:19:06+00:00",
+    "first_alerted_at": "2026-10-03T23:37:59.158944+00:00"
+  },
+  "00c2aaa7fa87a04a": {
+    "title": "The ultimate pelican test (Opus 5.5 max)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwzi3q/the_ultimate_pelican_test_opus_55_max/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-03T22:13:51+00:00",
+    "first_alerted_at": "2026-10-03T23:38:00.020051+00:00"
   }
 }
