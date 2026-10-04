@@ -7666,5 +7666,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-04T12:53:33+00:00",
     "first_alerted_at": "2026-10-04T15:56:10.470042+00:00"
+  },
+  "5b95231e46fd3b37": {
+    "title": "Used Claude Code to orchestrate a small team of AI agents for a Valheim music video (api iamges and sfx), workflow attached",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxn8r4/used_claude_code_to_orchestrate_a_small_team_of/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T18:47:17+00:00",
+    "first_alerted_at": "2026-10-04T19:25:20.151090+00:00"
+  },
+  "a2f3cc23a3121acf": {
+    "title": "I made a Mod that shows your 5h/weekly usage live, a reset forecast and context % above the prompt box, with optional auto compact and a manual compact button",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxntoy/i_made_a_mod_that_shows_your_5hweekly_usage_live/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T19:10:24+00:00",
+    "first_alerted_at": "2026-10-04T19:25:21.186416+00:00"
+  },
+  "6f78faedec4d45f1": {
+    "title": "In June Anthropic apologized for silently rerouting flagged Fable 5 requests. The Sept 8 NSA/CISA/FBI advisory tells labs to downgrade suspected distillers without telling them. Does the June promise still hold?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxm5bh/in_june_anthropic_apologized_for_silently/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T18:02:39+00:00",
+    "first_alerted_at": "2026-10-04T19:25:22.243759+00:00"
+  },
+  "b6c5b607923bbf4a": {
+    "title": "I open-sourced Token Harness: get more out of your Claude Code / Codex limits (and spend less on API tokens)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxmor9/i_opensourced_token_harness_get_more_out_of_your/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T18:24:49+00:00",
+    "first_alerted_at": "2026-10-04T19:25:23.324295+00:00"
+  },
+  "1ebbc84b64fff81f": {
+    "title": "Switched from Gemini to Claude Science but burning through rate limits fast any tips or token-saving skills?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxlzwl/switched_from_gemini_to_claude_science_but/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T17:56:53+00:00",
+    "first_alerted_at": "2026-10-04T19:25:24.354483+00:00"
+  },
+  "0b8d9095322de7a7": {
+    "title": "My full agentic SEO setup - Claude Opus 5.5, data pulled in via MCP, changes pushed as GitHub PRs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxk89h/my_full_agentic_seo_setup_claude_opus_55_data/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T16:43:43+00:00",
+    "first_alerted_at": "2026-10-04T19:25:25.404144+00:00"
   }
 }
