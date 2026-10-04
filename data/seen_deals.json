@@ -7630,5 +7630,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-04T06:32:55+00:00",
     "first_alerted_at": "2026-10-04T11:14:25.159556+00:00"
+  },
+  "40ff89af2b289a9f": {
+    "title": "12 months later and my game's demo is out now! What building with Claude Code taught me",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxicyp/12_months_later_and_my_games_demo_is_out_now_what/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T15:25:52+00:00",
+    "first_alerted_at": "2026-10-04T15:56:07.597650+00:00"
+  },
+  "8652456631e90a06": {
+    "title": "Leaving claude for open.ai",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxgoy1/leaving_claude_for_openai/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T14:13:08+00:00",
+    "first_alerted_at": "2026-10-04T15:56:08.583759+00:00"
+  },
+  "465b781b098d723a": {
+    "title": "Ox Alpha Was GLM-5.3-Flash: Tests, API, Pricing, Weights and Hardware - Kingy AI",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KYmFaeTNGZ2tVUmpkRlhCc3FEZTRGX3pNU3lNWXlxV0tWVkt4ZzJ2dklaQlk1MkM5QS1IWFZpOWl6eXZhVlpUNk9OanNiNmFXUHZ2cXp4aHdNQnd3TDR0REtLUHFGSUJPZTQw?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-21T07:00:00+00:00",
+    "first_alerted_at": "2026-10-04T15:56:09.510938+00:00"
+  },
+  "f5aa0c146913383b": {
+    "title": "Weekly limit still hurts even over sonnet or opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxezys/weekly_limit_still_hurts_even_over_sonnet_or_opus/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T12:53:33+00:00",
+    "first_alerted_at": "2026-10-04T15:56:10.470042+00:00"
   }
 }
