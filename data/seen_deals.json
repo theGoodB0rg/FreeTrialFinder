@@ -7720,5 +7720,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-04T16:43:43+00:00",
     "first_alerted_at": "2026-10-04T19:25:25.404144+00:00"
+  },
+  "1c5a5abfe43775f3": {
+    "title": "Opus 5.5 made this video and optimized my rendering to do it in 54s",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxrd6p/opus_55_made_this_video_and_optimized_my/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T21:38:55+00:00",
+    "first_alerted_at": "2026-10-04T22:27:29.797926+00:00"
+  },
+  "32dd954454b0a925": {
+    "title": "I made an Obsidian plugin to organize Claude Code skills and other AI tools",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxpgmx/i_made_an_obsidian_plugin_to_organize_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T20:17:53+00:00",
+    "first_alerted_at": "2026-10-04T22:27:30.762114+00:00"
+  },
+  "6b6244407b0d628a": {
+    "title": "Show HN: Web Analytics Focused on Revenue",
+    "url": "https://revscope.co/demo/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T20:20:35+00:00",
+    "first_alerted_at": "2026-10-04T22:27:31.679873+00:00"
+  },
+  "d644c1c3cc0d9e04": {
+    "title": "Claude refusal for \"website blocks automated access\" is there a workaround?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxqn1n/claude_refusal_for_website_blocks_automated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T21:07:22+00:00",
+    "first_alerted_at": "2026-10-04T22:27:32.606731+00:00"
+  },
+  "af4228797d212bb7": {
+    "title": "I built an Apple Music MCP server with Claude Code. It's free and now on the Mac App Store.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxphv1/i_built_an_apple_music_mcp_server_with_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T20:19:16+00:00",
+    "first_alerted_at": "2026-10-04T22:27:33.552881+00:00"
+  },
+  "47b69deada1bf54e": {
+    "title": "Maximum Efficiency: Using Claude for automated QA and content building in a single pass with Claude routines",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxq3q5/maximum_efficiency_using_claude_for_automated_qa/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T20:44:35+00:00",
+    "first_alerted_at": "2026-10-04T22:27:34.505705+00:00"
+  },
+  "36e3a801f3ee90e0": {
+    "title": "How do these credits work?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxp7dt/how_do_these_credits_work/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T20:07:07+00:00",
+    "first_alerted_at": "2026-10-04T22:27:35.472918+00:00"
   }
 }
