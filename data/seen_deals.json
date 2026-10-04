@@ -7486,5 +7486,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-03T22:13:51+00:00",
     "first_alerted_at": "2026-10-03T23:38:00.020051+00:00"
+  },
+  "a3ba14a5df7e7224": {
+    "title": "Opus 5.5 vs Sonnet 5.5: same prompt, a mine cart ride in Godot",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx42fp/opus_55_vs_sonnet_55_same_prompt_a_mine_cart_ride/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-04T02:06:44+00:00",
+    "first_alerted_at": "2026-10-04T05:10:09.943754+00:00"
+  },
+  "ad8654a5f0e10756": {
+    "title": "Connecting Claude Code to a team's MCP tools with per-person OAuth instead of a shared key (open-source, self-hosted)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx2k6x/connecting_claude_code_to_a_teams_mcp_tools_with/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-04T00:47:05+00:00",
+    "first_alerted_at": "2026-10-04T05:10:10.792612+00:00"
+  },
+  "8822f965f4351093": {
+    "title": "Generic agents are the number one cause of burning tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx2p45/generic_agents_are_the_number_one_cause_of/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T00:54:17+00:00",
+    "first_alerted_at": "2026-10-04T05:10:11.669797+00:00"
+  },
+  "723f8cdb807b971e": {
+    "title": "<a href=\"https://freellm.net/models/nvidia-nim/z-ai-glm-5-1/\" target=\"_blank\" rel=\"noopener\">z-ai/glm-5.1</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-1/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T05:10:04.655983+00:00",
+    "first_alerted_at": "2026-10-04T05:10:12.517212+00:00"
+  },
+  "415e4fdcd0a95974": {
+    "title": "I want to set up a knowledge database for my business. What’s the best way to do this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx2m3l/i_want_to_set_up_a_knowledge_database_for_my/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T00:49:50+00:00",
+    "first_alerted_at": "2026-10-04T05:10:13.386215+00:00"
+  },
+  "0f6e22d669ce200d": {
+    "title": "Max 20 maxed out in two days. Now what?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx65zf/max_20_maxed_out_in_two_days_now_what/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T04:01:56+00:00",
+    "first_alerted_at": "2026-10-04T05:10:14.224266+00:00"
+  },
+  "8df780ba84be5a30": {
+    "title": "3D explainers for anything, fully Claude generated",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx619j/3d_explainers_for_anything_fully_claude_generated/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T03:54:57+00:00",
+    "first_alerted_at": "2026-10-04T05:10:15.083860+00:00"
+  },
+  "2e473828ed5cad0c": {
+    "title": "Benchmark notes: Sonnet 5.5 jumps from 72 to 94/98; Opus 5.5 reaches 96/98 with much less request time",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx45d6/benchmark_notes_sonnet_55_jumps_from_72_to_9498/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T02:11:11+00:00",
+    "first_alerted_at": "2026-10-04T05:10:15.955495+00:00"
+  },
+  "20e4d556602507f8": {
+    "title": "Ask Fable to Optimize Everything you Do!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx3xrq/ask_fable_to_optimize_everything_you_do/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T02:00:10+00:00",
+    "first_alerted_at": "2026-10-04T05:10:16.789921+00:00"
   }
 }
