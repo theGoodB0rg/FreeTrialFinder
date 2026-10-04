@@ -7567,5 +7567,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-04T02:00:10+00:00",
     "first_alerted_at": "2026-10-04T05:10:16.789921+00:00"
+  },
+  "2100d9fef9118327": {
+    "title": "I built a Pokemon that lives above the Claude Code prompt, with Claude Code (free, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxbc0h/i_built_a_pokemon_that_lives_above_the_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-04T09:18:48+00:00",
+    "first_alerted_at": "2026-10-04T11:14:19.439894+00:00"
+  },
+  "c53484e72e0cc9ea": {
+    "title": "I read my Claude Code transcripts to find where the tokens went. Caveman would have saved 1%. The real leak was 4 things nobody talks about.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx7c7u/i_read_my_claude_code_transcripts_to_find_where/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-04T05:10:05+00:00",
+    "first_alerted_at": "2026-10-04T11:14:20.406620+00:00"
+  },
+  "64febd3c8dd759ec": {
+    "title": "SMS AI relay app. An open source Android app that ans ur texts using AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx8at8/sms_ai_relay_app_an_open_source_android_app_that/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T06:07:38+00:00",
+    "first_alerted_at": "2026-10-04T11:14:21.345369+00:00"
+  },
+  "055dd1a399980fe0": {
+    "title": "“I Have Never Seen the Sun” , made with Opus 5.5 , is the first AI-made video that genuinely blew me away",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx8kga/i_have_never_seen_the_sun_made_with_opus_55_is/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T06:24:17+00:00",
+    "first_alerted_at": "2026-10-04T11:14:22.294872+00:00"
+  },
+  "75c7a65ed21c30f0": {
+    "title": "Incredible UI/UX results from Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxbmy3/incredible_uiux_results_from_opus_55/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T09:38:49+00:00",
+    "first_alerted_at": "2026-10-04T11:14:23.264279+00:00"
+  },
+  "766933c7c5fd9b4e": {
+    "title": "Ox Alpha Was GLM-5.3-Flash: Tests, API, Pricing, Weights and Hardware - kingy.ai",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KYmFaeTNGZ2tVUmpkRlhCc3FEZTRGX3pNU3lNWXlxV0tWVkt4ZzJ2dklaQlk1MkM5QS1IWFZpOWl6eXZhVlpUNk9OanNiNmFXUHZ2cXp4aHdNQnd3TDR0REtLUHFGSUJPZTQw?oc=5",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-21T07:00:00+00:00",
+    "first_alerted_at": "2026-10-04T11:14:24.216120+00:00"
+  },
+  "0981710c50c3c539": {
+    "title": "Claude gave me $250 in credits. How do I actually use them?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wx8pdp/claude_gave_me_250_in_credits_how_do_i_actually/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T06:32:55+00:00",
+    "first_alerted_at": "2026-10-04T11:14:25.159556+00:00"
   }
 }
