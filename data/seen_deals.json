@@ -7927,5 +7927,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-05T01:34:20+00:00",
     "first_alerted_at": "2026-10-05T07:33:27.256875+00:00"
+  },
+  "7a0e6dc37ef5031b": {
+    "title": "Show HN: Usermods, an extension that runs an a coding agent to build userscripts",
+    "url": "https://github.com/kballenegger/usermods",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-05T15:14:21+00:00",
+    "first_alerted_at": "2026-10-05T16:58:42.649337+00:00"
+  },
+  "cef6cab70414ae1a": {
+    "title": "OpenVision 2.14.0 runs Ray-Ban Meta glasses on a ChatGPT subscription, not API credits - MIXED Reality News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZPZFRwWlVxaHVjTEw5bVFPUmhDNndhWFVjVlg0WmJHWXp4d25ZVm9hX3p6U3Vjc0JBeFcxNmFrRzRPQXBBSDR6SzhwZDUwVlJuNzByY09XQUUyUllPNHd0eFlHY25seGpfQ0ZweDFxSFFiMXk2RWRmbmJ4TGkta1J5WkpsOXM5VjJ1N1FTMXotNDhuYXc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T15:49:52+00:00",
+    "first_alerted_at": "2026-10-05T16:58:43.489831+00:00"
+  },
+  "d3d16c51defc1da9": {
+    "title": "I built a real-time world war game with the help of Claude Code, then let Claude fight other AI models in it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wy7l28/i_built_a_realtime_world_war_game_with_the_help/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T12:43:36+00:00",
+    "first_alerted_at": "2026-10-05T16:58:44.328232+00:00"
+  },
+  "47bad516a8680248": {
+    "title": "I built a desktop app that shows all sessions and agents under one window",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wy7dpa/i_built_a_desktop_app_that_shows_all_sessions_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T12:33:44+00:00",
+    "first_alerted_at": "2026-10-05T16:58:45.207449+00:00"
+  },
+  "52f76d66bb06bba5": {
+    "title": "Learning to create product launch videos with Claude using Remotion, ElevenLabs. Its Game Changer for solo builders!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyaevm/learning_to_create_product_launch_videos_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T14:45:48+00:00",
+    "first_alerted_at": "2026-10-05T16:58:46.141443+00:00"
+  },
+  "de0ae4ce19e61b48": {
+    "title": "Azure showed $21k in startup credits. Claude in Foundry billed our card $17k",
+    "url": "https://vegalabs.no/azure-claude-billing.html",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T09:56:58+00:00",
+    "first_alerted_at": "2026-10-05T16:58:47.026709+00:00"
+  },
+  "669139d4fc19604c": {
+    "title": "OpenRouter Usage Data Shows US AI Models Fell From ~70% to ~30% of Token Volume — and Why Revenue Tells a Different Story - FourWeekMBA",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG1QaTlsaXl4TEpvUEh2T3Z5aExIcmhYZmxuWko1bUMxdksybi0tSVdZQ2J4MWd4R2xxam1YZGRESzVkNktwOU00am9taWhUZHV0c0l6SjFRVk1zRlZQVC1vV3lyUkZ2aDFXVTZYYUNxVnZrZ3V4RDh3SmNVNTE4eGR6X0FERG9SblJFU3BZclMyQQ?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-20T07:00:00+00:00",
+    "first_alerted_at": "2026-10-05T16:58:47.906221+00:00"
+  },
+  "1e65419355ca7388": {
+    "title": "Claude in science: On building a massive linguistics catalog of word stress and tone of over six thousand languages (credit: Kevin Ryan, Matthew Gordon, Joe Pater, Matthew Schwartz)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wycsv9/claude_in_science_on_building_a_massive/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T16:18:05+00:00",
+    "first_alerted_at": "2026-10-05T16:58:48.765470+00:00"
+  },
+  "127b892a48839532": {
+    "title": "I built (with Claude) Save Point: a Claude Code HUD that shows context, cost and the cache timer, and turns your session into a retro game.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyc7au/i_built_with_claude_save_point_a_claude_code_hud/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T15:56:01+00:00",
+    "first_alerted_at": "2026-10-05T16:58:49.627076+00:00"
   }
 }
