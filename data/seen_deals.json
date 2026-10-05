@@ -7837,5 +7837,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-04T22:37:30+00:00",
     "first_alerted_at": "2026-10-05T01:11:02.260341+00:00"
+  },
+  "55baf34cb7e3b657": {
+    "title": "I built an offline scanner with Claude Code that audits the MCP servers and skills installed on your machine (free, MIT)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxxnwu/i_built_an_offline_scanner_with_claude_code_that/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-05T02:49:35+00:00",
+    "first_alerted_at": "2026-10-05T07:33:19.035928+00:00"
+  },
+  "f279380a0ff5730d": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/stealth-space-bunny-alpha/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T07:33:13.417730+00:00",
+    "first_alerted_at": "2026-10-05T07:33:19.928352+00:00"
+  },
+  "67735c531b6c3873": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/qwen-qwen3.8-27b/\" target=\"_blank\" rel=\"noopener\">Qwen: Qwen3.8 27B free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/qwen-qwen3.8-27b/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T07:33:13.418147+00:00",
+    "first_alerted_at": "2026-10-05T07:33:20.846027+00:00"
+  },
+  "0ee29a805579a307": {
+    "title": "OpenAI Relaunches Pro at $200 and Cuts API Credits - briefia.fr",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0FBOXNDU2p2aVJHaHFyOER5a3ZySnpZUUh6SGg3bmotS25CbWZXR0pxMnZsQjZoTGZfY3NPSHk3Vmh5SjRVWEtndWwxOHFvc3FYcXhXcW1Ua1VXYzVOby1TX2VCY3hlWHZqNlUxeWhYbldRT2lMTEgtNGhIeExadEZsci14cTB6WmVV?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-29T13:04:55+00:00",
+    "first_alerted_at": "2026-10-05T07:33:21.762417+00:00"
+  },
+  "eb2b792b39386840": {
+    "title": "OpenAI Faces Developer Backlash Over Mandatory ID Verification and No-Refund Policy on API Credits - WinBuzzer",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUlMS1M4a2JYUEMxZ09EQWtlQWs1blJrYXNoR3lmN0oxUlVDb2pPenZaRGQzU3V1MXdUSGNRbzRwaXlILXRSMzNaajRZUXFITHpKekpHSXhDdkh6MHh4OVNaQjQ3RWVRZkFFMUVpRHctbHduQVZhOXl1eVN5c3VGaWV6X0J2X3pVYjVxNUNUOGhCYVJ3M3dHcnQtLXZGcU5WYXhob3YyVkN6SUV6UTJZZmExc245ci12LUlmLWFXS3Y3YXdUVkUzbEEyTThnRFRVNTQ0bmp3?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-10-25T07:00:00+00:00",
+    "first_alerted_at": "2026-10-05T07:33:22.750006+00:00"
+  },
+  "3c7ddfabadb8a3d1": {
+    "title": "Is code review irrelevant now?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxy764/is_code_review_irrelevant_now/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T03:18:01+00:00",
+    "first_alerted_at": "2026-10-05T07:33:23.658055+00:00"
+  },
+  "92e5c9e121500ad8": {
+    "title": "Pricing of Pay-As-You-Go API",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxwwfj/pricing_of_payasyougo_api/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T02:09:11+00:00",
+    "first_alerted_at": "2026-10-05T07:33:24.548223+00:00"
+  },
+  "0dc0fa483ab3badf": {
+    "title": "Week 10 of making my fishing game with the help of AI and finally close to a demo",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wy28wy/week_10_of_making_my_fishing_game_with_the_help/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T07:21:53+00:00",
+    "first_alerted_at": "2026-10-05T07:33:25.423433+00:00"
+  },
+  "e16f7ec14fc7223c": {
+    "title": "I built the best game to play on a toilet with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxx0al/i_built_the_best_game_to_play_on_a_toilet_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T02:14:45+00:00",
+    "first_alerted_at": "2026-10-05T07:33:26.348430+00:00"
+  },
+  "19661868846d3e82": {
+    "title": "I built a TV & movie tracker and its promo video with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxw7v4/i_built_a_tv_movie_tracker_and_its_promo_video/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T01:34:20+00:00",
+    "first_alerted_at": "2026-10-05T07:33:27.256875+00:00"
   }
 }
