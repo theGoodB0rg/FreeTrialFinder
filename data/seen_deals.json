@@ -7783,5 +7783,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-04T20:07:07+00:00",
     "first_alerted_at": "2026-10-04T22:27:35.472918+00:00"
+  },
+  "a7180b29843603f2": {
+    "title": "Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac",
+    "url": "https://shlexball.com/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T23:05:21+00:00",
+    "first_alerted_at": "2026-10-05T01:10:57.388872+00:00"
+  },
+  "540a0ae5eabaaf7a": {
+    "title": "I built a brand identity skill for Claude Code: logo, fonts and colours that actually fit together",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxu5a5/i_built_a_brand_identity_skill_for_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T23:50:39+00:00",
+    "first_alerted_at": "2026-10-05T01:10:58.347493+00:00"
+  },
+  "70ff992b9bbb28ef": {
+    "title": "What could actually make people complain about a model getting worse over time?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxtr6q/what_could_actually_make_people_complain_about_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T23:31:09+00:00",
+    "first_alerted_at": "2026-10-05T01:10:59.326819+00:00"
+  },
+  "0979ab59dc6f4ee3": {
+    "title": "how to add notion to claude if i am using claude api on desktop?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxtmmi/how_to_add_notion_to_claude_if_i_am_using_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T23:24:52+00:00",
+    "first_alerted_at": "2026-10-05T01:11:00.299644+00:00"
+  },
+  "13fbd37fac2e6ea9": {
+    "title": "I built mokkan: reminders that follow you between Claude Code, Codex and terminal sessions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxuj1y/i_built_mokkan_reminders_that_follow_you_between/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T00:08:43+00:00",
+    "first_alerted_at": "2026-10-05T01:11:01.266603+00:00"
+  },
+  "3d7f4832601259c5": {
+    "title": "Anthropic needs an even cheaper model than Haiku",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxsns4/anthropic_needs_an_even_cheaper_model_than_haiku/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-04T22:37:30+00:00",
+    "first_alerted_at": "2026-10-05T01:11:02.260341+00:00"
   }
 }
