@@ -8008,5 +8008,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-05T15:56:01+00:00",
     "first_alerted_at": "2026-10-05T16:58:49.627076+00:00"
+  },
+  "28e0b62926e87dfe": {
+    "title": "Free Claude Code plugin that keeps your prompt cache warm (5m and 1h)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyluod/free_claude_code_plugin_that_keeps_your_prompt/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-05T22:10:25+00:00",
+    "first_alerted_at": "2026-10-05T23:07:14.359410+00:00"
+  },
+  "0fe25f50b21375b0": {
+    "title": "OpenVision 2.14.0 runs Ray-Ban Meta glasses on a ChatGPT subscription, not API credits - mixed-news.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZPZFRwWlVxaHVjTEw5bVFPUmhDNndhWFVjVlg0WmJHWXp4d25ZVm9hX3p6U3Vjc0JBeFcxNmFrRzRPQXBBSDR6SzhwZDUwVlJuNzByY09XQUUyUllPNHd0eFlHY25seGpfQ0ZweDFxSFFiMXk2RWRmbmJ4TGkta1J5WkpsOXM5VjJ1N1FTMXotNDhuYXc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T18:04:52+00:00",
+    "first_alerted_at": "2026-10-05T23:07:15.305261+00:00"
+  },
+  "1d78b578f5dfd980": {
+    "title": "Why do people keep quoting “theoretical API spend”",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyke43/why_do_people_keep_quoting_theoretical_api_spend/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T21:09:24+00:00",
+    "first_alerted_at": "2026-10-05T23:07:16.233416+00:00"
+  },
+  "62be856735b05863": {
+    "title": "Show HN: Ototo: Offload code exploration to a smaller model from Claude et al.",
+    "url": "https://ototo.dev/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T21:25:51+00:00",
+    "first_alerted_at": "2026-10-05T23:07:17.169096+00:00"
+  },
+  "ddb572133eca519b": {
+    "title": "I built a Claude Code mod that provides a much richer statusline view. Project details, context stats, and usage limits.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyjfm6/i_built_a_claude_code_mod_that_provides_a_much/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T20:31:31+00:00",
+    "first_alerted_at": "2026-10-05T23:07:18.114361+00:00"
+  },
+  "886d8db266cbbbf2": {
+    "title": "OpenRouter Usage Data Shows US AI Models Fell From ~70% to ~30% of Token Volume — and Why Revenue Tells a Different Story - fourweekmba.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZG1QaTlsaXl4TEpvUEh2T3Z5aExIcmhYZmxuWko1bUMxdksybi0tSVdZQ2J4MWd4R2xxam1YZGRESzVkNktwOU00am9taWhUZHV0c0l6SjFRVk1zRlZQVC1vV3lyUkZ2aDFXVTZYYUNxVnZrZ3V4RDh3SmNVNTE4eGR6X0FERG9SblJFU3BZclMyQQ?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-20T07:00:00+00:00",
+    "first_alerted_at": "2026-10-05T23:07:19.082392+00:00"
+  },
+  "fb1e953449ad54fb": {
+    "title": "Do you use Claude code and Codex at the same time ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyl507/do_you_use_claude_code_and_codex_at_the_same_time/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T21:40:23+00:00",
+    "first_alerted_at": "2026-10-05T23:07:20.051990+00:00"
+  },
+  "362d735fc4dfeab2": {
+    "title": "Claude Usage…",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyipmk/claude_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T20:03:05+00:00",
+    "first_alerted_at": "2026-10-05T23:07:21.004177+00:00"
   }
 }
