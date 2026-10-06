@@ -8098,5 +8098,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-06T02:22:26+00:00",
     "first_alerted_at": "2026-10-06T03:15:09.178047+00:00"
+  },
+  "550f8f385299d8a3": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/inclusionai-ling-3.1-flash/\" target=\"_blank\" rel=\"noopener\">inclusionAI: Ling 3.1 Flash</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/inclusionai-ling-3.1-flash/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T10:41:00.373026+00:00",
+    "first_alerted_at": "2026-10-06T10:41:05.105658+00:00"
+  },
+  "12e113988980a1bd": {
+    "title": "OpenAI Faces Developer Backlash Over Mandatory ID Verification and No-Refund Policy on API Credits - winbuzzer.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUlMS1M4a2JYUEMxZ09EQWtlQWs1blJrYXNoR3lmN0oxUlVDb2pPenZaRGQzU3V1MXdUSGNRbzRwaXlILXRSMzNaajRZUXFITHpKekpHSXhDdkh6MHh4OVNaQjQ3RWVRZkFFMUVpRHctbHduQVZhOXl1eVN5c3VGaWV6X0J2X3pVYjVxNUNUOGhCYVJ3M3dHcnQtLXZGcU5WYXhob3YyVkN6SUV6UTJZZmExc245ci12LUlmLWFXS3Y3YXdUVkUzbEEyTThnRFRVNTQ0bmp3?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-10-25T07:00:00+00:00",
+    "first_alerted_at": "2026-10-06T10:41:05.981671+00:00"
+  },
+  "6782924419099783": {
+    "title": "Opus 5.5 intentionally inserting Anthropic dependencies into codebases. Has anyone else had this happen?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyyfwc/opus_55_intentionally_inserting_anthropic/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T09:46:31+00:00",
+    "first_alerted_at": "2026-10-06T10:41:06.977651+00:00"
+  },
+  "839534ba90a097cf": {
+    "title": "Do you use Claude alongside other coding agents? How do you manage them?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyx1sv/do_you_use_claude_alongside_other_coding_agents/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T08:12:49+00:00",
+    "first_alerted_at": "2026-10-06T10:41:07.838202+00:00"
+  },
+  "03f53a5fb55226fb": {
+    "title": "I built CompliRules: an open-source tool to keep AI-generated code legally compliant (GDPR, HIPAA, EU AI Act)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyvil5/i_built_complirules_an_opensource_tool_to_keep/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T06:31:28+00:00",
+    "first_alerted_at": "2026-10-06T10:41:08.688450+00:00"
+  },
+  "da1570a426a57eff": {
+    "title": "Claude AI models become worse",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wywcr9/claude_ai_models_become_worse/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T07:25:22+00:00",
+    "first_alerted_at": "2026-10-06T10:41:09.561860+00:00"
+  },
+  "7434abecd9ddb891": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/poolside-laguna-m-1/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T10:41:00.370338+00:00",
+    "first_alerted_at": "2026-10-06T10:41:10.530849+00:00"
+  },
+  "e3e174d38e8395da": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-8-flash/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T10:41:00.370644+00:00",
+    "first_alerted_at": "2026-10-06T10:41:11.467902+00:00"
+  },
+  "d9a421cef5af398c": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-7-flash/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T10:41:00.370678+00:00",
+    "first_alerted_at": "2026-10-06T10:41:12.389701+00:00"
+  },
+  "08cae256ecb74937": {
+    "title": "Automated testing with visual evidence?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyyf6k/automated_testing_with_visual_evidence/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T09:45:15+00:00",
+    "first_alerted_at": "2026-10-06T10:41:13.295072+00:00"
+  },
+  "8cda23b0ad0cb08e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ovhcloud-ai-endpoints/qwen3-8-27b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T10:41:00.371033+00:00",
+    "first_alerted_at": "2026-10-06T10:41:14.142734+00:00"
+  },
+  "f3d7210f74343c54": {
+    "title": "At what point does “using Claude as a tool” become “working alongside Claude”? What are something that you depend on claude for daily? Coders, designers, Marketers and everyone that uses claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyy9vn/at_what_point_does_using_claude_as_a_tool_become/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T09:35:56+00:00",
+    "first_alerted_at": "2026-10-06T10:41:15.063789+00:00"
   }
 }
