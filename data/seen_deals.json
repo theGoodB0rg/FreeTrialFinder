@@ -8080,5 +8080,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-05T20:03:05+00:00",
     "first_alerted_at": "2026-10-05T23:07:21.004177+00:00"
+  },
+  "e66aff4078fed9be": {
+    "title": "My Claude Max weekly limits fix: Opus + Sonnet sub-agents and a review loop",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyo15x/my_claude_max_weekly_limits_fix_opus_sonnet/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-05T23:50:48+00:00",
+    "first_alerted_at": "2026-10-06T03:15:08.265703+00:00"
+  },
+  "765afdc1af04bdac": {
+    "title": "I built a way to watch what Claude is thinking while it fights a world war against 9 other AI models (tonight, live)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyr5fd/i_built_a_way_to_watch_what_claude_is_thinking/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T02:22:26+00:00",
+    "first_alerted_at": "2026-10-06T03:15:09.178047+00:00"
   }
 }
