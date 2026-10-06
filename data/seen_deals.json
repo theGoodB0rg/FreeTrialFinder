@@ -8296,5 +8296,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-06T16:56:25+00:00",
     "first_alerted_at": "2026-10-06T17:06:13.196799+00:00"
+  },
+  "e5aabf7f1c129ab6": {
+    "title": "Subagents use a 5-min cache by default?!? 🤦🏻‍♂️",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wze3rr/subagents_use_a_5min_cache_by_default/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-06T20:58:28+00:00",
+    "first_alerted_at": "2026-10-06T21:49:53.420406+00:00"
+  },
+  "75386bc6d4ef35e5": {
+    "title": "I benchmarked 8 Claude Code add-ons on my production repos (1,500 graded runs). Code graphs didn't change the answers, memory did.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzdfam/i_benchmarked_8_claude_code_addons_on_my/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T20:31:21+00:00",
+    "first_alerted_at": "2026-10-06T21:49:54.439048+00:00"
+  },
+  "5cc2db086f3186c5": {
+    "title": "Terse, a Claude Code plugin that stops Claude writing mannered prose",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzaur8/terse_a_claude_code_plugin_that_stops_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T18:52:32+00:00",
+    "first_alerted_at": "2026-10-06T21:49:55.444327+00:00"
+  },
+  "102361ffbaa3a9bf": {
+    "title": "At what point exactly (financially) does API pricing especially for Anthropic models that are notoriously expensive?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzbx1q/at_what_point_exactly_financially_does_api/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T19:32:50+00:00",
+    "first_alerted_at": "2026-10-06T21:49:56.395432+00:00"
+  },
+  "c6b5e1ee9dd6a273": {
+    "title": "Show HN: Gretel – Topic specific feeds built from YouTube recommendations",
+    "url": "https://github.com/Relic-a/Gretel/",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T19:04:55+00:00",
+    "first_alerted_at": "2026-10-06T21:49:57.386358+00:00"
+  },
+  "2223e9bd3f199f08": {
+    "title": "Claude Startups, Anthropic Announces a Free Year of Claude Team and $1,000 in Credits - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQelZnbk14Y2VKVE81UFhoOFVyblRZZEpVNjRUYW45ZlhPQ3BSdEdoTDRYcEI3eE5mZmpIeTYxMTRQU1c4R1gtYTZDbXJUQTlXX1NNeWxtdEI0TjJ6aGkybjctdTFyN1UxbjFkNHBsMjIxZk5Rb25FTzVGdEV1Y3ItSDF6YndDVkhkdTR3ajdjaVEtMDc1cHlPNWN3?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T17:44:21+00:00",
+    "first_alerted_at": "2026-10-06T21:49:58.465491+00:00"
+  },
+  "d3644e9543b7c731": {
+    "title": "Anthropic Gives Startups A Free Year Of Claude Team And $1,000 In Credits - TechnoSports Media Group",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMa2NvV1FwY0JBSUlzWnBkVm5EbDF0OFUwV2dSMmFYRFI5d19wZldmeHQ1eXFYMzkxWGFyM1FpY3oxb0s0Q0pzd012YVJnU3l1LTlFLW93ZGx3REEybll2eUsyLU9iWjVIRUxfUVhZODZGUGRvRkdrdGJ3?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T17:01:33+00:00",
+    "first_alerted_at": "2026-10-06T21:49:59.437387+00:00"
+  },
+  "3a2871218b020a11": {
+    "title": "mods are really powerfull",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzcz0q/mods_are_really_powerfull/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T20:13:22+00:00",
+    "first_alerted_at": "2026-10-06T21:50:00.421009+00:00"
+  },
+  "7e0922c2759e36dc": {
+    "title": "In real world token usage per actual finished output it seems opus is cheaper versus sonnet despite benchmarks. Even when sonnet is faster I end up having to fix things to the point it takes longer and more tokens than just using opus. Does anyone else have similar experiences or counter experiences",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzbo05/in_real_world_token_usage_per_actual_finished/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T19:23:14+00:00",
+    "first_alerted_at": "2026-10-06T21:50:01.380045+00:00"
   }
 }
