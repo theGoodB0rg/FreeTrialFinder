@@ -8206,5 +8206,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-06T09:35:56+00:00",
     "first_alerted_at": "2026-10-06T10:41:15.063789+00:00"
+  },
+  "b55c414f7aff6019": {
+    "title": "Show HN: Azurade, image and video generation with MCP, credits never expire",
+    "url": "https://azurade.com/developers/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-06T13:29:38+00:00",
+    "first_alerted_at": "2026-10-06T17:06:04.028157+00:00"
+  },
+  "2fab2789dcf7dc3c": {
+    "title": "I approved an agent’s “oc delete —all” without reading it, so I built guardrails (and 10 other mods) with Claude Code’s new function hooks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz4dp5/i_approved_an_agents_oc_delete_all_without/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-06T14:42:29+00:00",
+    "first_alerted_at": "2026-10-06T17:06:05.050950+00:00"
+  },
+  "d0258fed75b8fa5b": {
+    "title": "Show HN: Screen Records – edit demo or how-to recordings with MCP",
+    "url": "https://screenrecords.app/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T14:20:44+00:00",
+    "first_alerted_at": "2026-10-06T17:06:06.020512+00:00"
+  },
+  "48009f6506090ef5": {
+    "title": "What's up with the top of the Great Pyramid?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz7zs8/whats_up_with_the_top_of_the_great_pyramid/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T17:03:33+00:00",
+    "first_alerted_at": "2026-10-06T17:06:07.014628+00:00"
+  },
+  "9207422d43f9d491": {
+    "title": "what i learned building a privacy proxy for claude with claude code (free to try)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz6qkb/what_i_learned_building_a_privacy_proxy_for/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T16:15:21+00:00",
+    "first_alerted_at": "2026-10-06T17:06:08.034078+00:00"
+  },
+  "20ef399ee98ceb22": {
+    "title": "I gave the 9 most popular Claude Code skills a sugar pill. 2 beat it, 1 did worse than the pill.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz4rfz/i_gave_the_9_most_popular_claude_code_skills_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T14:58:12+00:00",
+    "first_alerted_at": "2026-10-06T17:06:09.189247+00:00"
+  },
+  "36e1c43cf1342af7": {
+    "title": "I used Claude Code to turn a 1989 DOS game I played as a kid into a relativity sim",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz61i4/i_used_claude_code_to_turn_a_1989_dos_game_i/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T15:48:18+00:00",
+    "first_alerted_at": "2026-10-06T17:06:10.163924+00:00"
+  },
+  "aa7f66a7fb01b26d": {
+    "title": "Anthropic expands Claude Startups program with up to $45K in credits",
+    "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T16:36:41+00:00",
+    "first_alerted_at": "2026-10-06T17:06:11.134611+00:00"
+  },
+  "a5fc0884210a79ee": {
+    "title": "Anthropic expands Claude Startups program with credits and perks - Quartz",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tOXNuT0szYmp5c01VRTRkZmI5eU9URGZBMXFjd2M3QnctNFM4ekdjb3JDOFpMdkRXaFFHWl9XaERJZ1RreDZZSjdkd01XUUtyWmlGemU5a2o0UDllRHpJQklOWFhQVHBfTUN0MVNlVnVHNDQ?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T16:35:48+00:00",
+    "first_alerted_at": "2026-10-06T17:06:12.178596+00:00"
+  },
+  "a4fba10ea1b50455": {
+    "title": "Two of my own Pro accounts on the same PC: any real-world risk?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz7stn/two_of_my_own_pro_accounts_on_the_same_pc_any/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T16:56:25+00:00",
+    "first_alerted_at": "2026-10-06T17:06:13.196799+00:00"
   }
 }
