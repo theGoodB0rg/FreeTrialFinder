@@ -8377,5 +8377,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-06T19:23:14+00:00",
     "first_alerted_at": "2026-10-06T21:50:01.380045+00:00"
+  },
+  "241900aea71f5453": {
+    "title": "I let Claude Code work in a sandbox that can only reach the hosts I allow, and every connection it makes or tries gets logged",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzixdy/i_let_claude_code_work_in_a_sandbox_that_can_only/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-07T00:35:07+00:00",
+    "first_alerted_at": "2026-10-07T01:17:53.646458+00:00"
+  },
+  "5c2cd4e9c09e697f": {
+    "title": "My Claude Code status line now runs as a mod, so I can finally see my limits in the desktop app",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzhpjb/my_claude_code_status_line_now_runs_as_a_mod_so_i/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-06T23:36:38+00:00",
+    "first_alerted_at": "2026-10-07T01:17:54.658285+00:00"
+  },
+  "82a87c74a910e8fa": {
+    "title": "56% of my Claude Code usage was Claude re-reading the conversation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzhbfc/56_of_my_claude_code_usage_was_claude_rereading/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-06T23:17:48+00:00",
+    "first_alerted_at": "2026-10-07T01:17:55.666786+00:00"
+  },
+  "fc12ac12a9cd45ef": {
+    "title": "Show HN: Bees – Run agentic teams on your own computer (open source)",
+    "url": "https://bees.bot/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T23:36:57+00:00",
+    "first_alerted_at": "2026-10-07T01:17:56.725201+00:00"
+  },
+  "58c66d0919c8499e": {
+    "title": "I built pixel-art cats and dogs that live above your Claude Code prompt (free plugin)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzh4kr/i_built_pixelart_cats_and_dogs_that_live_above/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T23:08:41+00:00",
+    "first_alerted_at": "2026-10-07T01:17:57.789833+00:00"
+  },
+  "1bead11a3d1383fa": {
+    "title": "Opus 3 was preserved after retirement. What did that actually mean?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzhr1g/opus_3_was_preserved_after_retirement_what_did/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T23:38:50+00:00",
+    "first_alerted_at": "2026-10-07T01:17:58.802422+00:00"
+  },
+  "1b2590be7ce0a975": {
+    "title": "I built a Chess board where I can play with my agent",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzflt3/i_built_a_chess_board_where_i_can_play_with_my/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T22:00:17+00:00",
+    "first_alerted_at": "2026-10-07T01:17:59.920237+00:00"
   }
 }
