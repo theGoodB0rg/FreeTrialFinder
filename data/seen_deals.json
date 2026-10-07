@@ -8584,5 +8584,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-07T14:30:59+00:00",
     "first_alerted_at": "2026-10-07T15:22:20.858455+00:00"
+  },
+  "e3e1456b499fa519": {
+    "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
+    "url": "https://news.ycombinator.lol",
+    "provider": "General AI",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:05:35+00:00",
+    "first_alerted_at": "2026-10-07T20:44:00.664776+00:00"
+  },
+  "f81c1e9d5f018c65": {
+    "title": "Anthropic is adding monthly API credits to Claude Max and Team subscriptions",
+    "url": "https://twitter.com/ClaudeDevs/status/2107895957933408429",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T20:37:26+00:00",
+    "first_alerted_at": "2026-10-07T20:44:01.698019+00:00"
+  },
+  "3b77d2c0448d5195": {
+    "title": "Claude Agents SDK will no longer use subscription; API credits included in plans",
+    "url": "https://news.ycombinator.com/item?id=49997654",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T19:28:50+00:00",
+    "first_alerted_at": "2026-10-07T20:44:02.779189+00:00"
+  },
+  "1f49ead939e1cd16": {
+    "title": "Claude: Monthly API credits for Max and Team plans",
+    "url": "https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:52:15+00:00",
+    "first_alerted_at": "2026-10-07T20:44:03.847210+00:00"
+  },
+  "e8b84bb7845eb537": {
+    "title": "Claude Haiku 5.5 official prompting guide",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x06d3z/claude_haiku_55_official_prompting_guide/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T19:53:25+00:00",
+    "first_alerted_at": "2026-10-07T20:44:04.991382+00:00"
+  },
+  "773bf5b478df66d1": {
+    "title": "Claude Agent SDK no longer usable with subscription limits; now API-only",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x04j1x/claude_agent_sdk_no_longer_usable_with/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:38:10+00:00",
+    "first_alerted_at": "2026-10-07T20:44:06.146692+00:00"
+  },
+  "e3f562a972d15cd8": {
+    "title": "I built a Claude Code skill that runs the EU Cyber Resilience Act against your codebase (agent-neutral, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x04huf/i_built_a_claude_code_skill_that_runs_the_eu/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:36:51+00:00",
+    "first_alerted_at": "2026-10-07T20:44:07.236967+00:00"
+  },
+  "377f92a58cb6a80e": {
+    "title": "Claude Time Machine - undo for Claude Code, including rm, formatters and codegen run through Bash",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x06b7b/claude_time_machine_undo_for_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T19:51:11+00:00",
+    "first_alerted_at": "2026-10-07T20:44:08.346012+00:00"
+  },
+  "4183c47b5e584847": {
+    "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna - VentureBeat",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:08:26+00:00",
+    "first_alerted_at": "2026-10-07T20:44:09.678075+00:00"
+  },
+  "db934ee4c5dbabfd": {
+    "title": "Haiku 5.5 light coding",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x06pzc/haiku_55_light_coding/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T20:06:58+00:00",
+    "first_alerted_at": "2026-10-07T20:44:10.774988+00:00"
+  },
+  "271f30b975eff394": {
+    "title": "Business Plan Chats Integrated",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x04hyb/business_plan_chats_integrated/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:36:56+00:00",
+    "first_alerted_at": "2026-10-07T20:44:11.853223+00:00"
+  },
+  "6362a9400c63b416": {
+    "title": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T18:01:28+00:00",
+    "first_alerted_at": "2026-10-07T20:44:12.941418+00:00"
   }
 }
