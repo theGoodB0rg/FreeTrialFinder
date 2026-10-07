@@ -8512,5 +8512,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-07T07:37:14.141092+00:00",
     "first_alerted_at": "2026-10-07T07:37:24.542086+00:00"
+  },
+  "7c19e811a1f61023": {
+    "title": "Anthropic's Claude Startups programme gives young companies a free year of Claude Team and USD 1,000 in API credits - Techish Kenya",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSU1obG9LU1NVb2tvb2xJLWxqUndwVTlGNnhBZEVYOVhjTzZaQTJ4aU43elE2OE1sR2haWlRDSlFjOUVpVHdvdGt0aDVscmNDQXd3RV9MTlNYRkhSLTJBc0JXUG9KejVqa1RYdEhsUkV4TzVNRzd2eFZsR29ZUUNRNWlvWWZSdw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T06:05:14+00:00",
+    "first_alerted_at": "2026-10-07T15:22:13.353420+00:00"
+  },
+  "047109639b236e4e": {
+    "title": "Returning to the industry after a career break",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzydk6/returning_to_the_industry_after_a_career_break/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T14:44:28+00:00",
+    "first_alerted_at": "2026-10-07T15:22:14.264317+00:00"
+  },
+  "e2b5db9e9d6846a7": {
+    "title": "I built a live dashboard that shows what every Claude Code session and subagent is doing (read-only, no hooks)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzxel0/i_built_a_live_dashboard_that_shows_what_every/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T14:04:32+00:00",
+    "first_alerted_at": "2026-10-07T15:22:15.224005+00:00"
+  },
+  "30dba87762766dfa": {
+    "title": "There's no weekly limit for claude on new claude startup program?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzws0a/theres_no_weekly_limit_for_claude_on_new_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T13:38:21+00:00",
+    "first_alerted_at": "2026-10-07T15:22:16.106705+00:00"
+  },
+  "6fb36c76635a8a7c": {
+    "title": "I built a Mac app so I never have to make another .env file 😤",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzyc1w/i_built_a_mac_app_so_i_never_have_to_make_another/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T14:42:48+00:00",
+    "first_alerted_at": "2026-10-07T15:22:17.000446+00:00"
+  },
+  "005588534dc42280": {
+    "title": "Infostealers are actively hunting AI Agents and developer keys - Warden Infostealer analysis",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzxqlq/infostealers_are_actively_hunting_ai_agents_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T14:18:18+00:00",
+    "first_alerted_at": "2026-10-07T15:22:17.964179+00:00"
+  },
+  "7805f32de6765017": {
+    "title": "Discussion Hub for new Claude incident: Elevated errors on platform.claude.com on Oct 7, 2026",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzwhdg/discussion_hub_for_new_claude_incident_elevated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T13:25:42+00:00",
+    "first_alerted_at": "2026-10-07T15:22:18.848109+00:00"
+  },
+  "c099b6f917ff27ae": {
+    "title": "Is the /Advisor feature actually useful?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzy1kl/is_the_advisor_feature_actually_useful/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T14:30:59+00:00",
+    "first_alerted_at": "2026-10-07T15:22:20.858455+00:00"
   }
 }
