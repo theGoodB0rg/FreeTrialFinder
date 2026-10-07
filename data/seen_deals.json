@@ -8440,5 +8440,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-06T22:00:17+00:00",
     "first_alerted_at": "2026-10-07T01:17:59.920237+00:00"
+  },
+  "e8345f92cf7db5a7": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-solar-mini4/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T07:37:14.142403+00:00",
+    "first_alerted_at": "2026-10-07T07:37:18.327324+00:00"
+  },
+  "f213258f5066a55a": {
+    "title": "Anthropic's Claude Startups programme gives young companies a free year of Claude Team and USD 1,000 in API credits - tech-ish.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSU1obG9LU1NVb2tvb2xJLWxqUndwVTlGNnhBZEVYOVhjTzZaQTJ4aU43elE2OE1sR2haWlRDSlFjOUVpVHdvdGt0aDVscmNDQXd3RV9MTlNYRkhSLTJBc0JXUG9KejVqa1RYdEhsUkV4TzVNRzd2eFZsR29ZUUNRNWlvWWZSdw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T06:05:14+00:00",
+    "first_alerted_at": "2026-10-07T07:37:19.213988+00:00"
+  },
+  "d390e3fbaa9c2c16": {
+    "title": "Anthropic Expands Startup Program With Free Claude Access and $1,000 Credits - Konsulteer",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZm03ckJPR1NqR3Q0RlRPbXEzOTUwM3FKbXFXVjcwRTNWdjZMNml0bVlsSHhPTFNxdzhVOEJ6SlNzdFJ0Tlp5RjdERkQ3cTVxUVEwYTJPNmwzTW1jZUdlbWdmRC1pQ0NOcXhiVTEwdlZ0ZG1yeFpfQWFfeWJRNTNHazZvVG12TGxoTnJFZkJYQzhYcnNPVXQ1SU5OdUpKd3VOQWVnQ2RoNUlOZTRvLU1V?oc=5",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T05:17:07+00:00",
+    "first_alerted_at": "2026-10-07T07:37:20.088524+00:00"
+  },
+  "0ed72f0b1154bf95": {
+    "title": "skilld.dev: an open-source skills registry with real skill output from Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzoq5a/skillddev_an_opensource_skills_registry_with_real/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T05:49:02+00:00",
+    "first_alerted_at": "2026-10-07T07:37:21.010710+00:00"
+  },
+  "cbe15b166afcfe08": {
+    "title": "Is Anthropic working on Jev/Decisions API?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzpw27/is_anthropic_working_on_jevdecisions_api/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T07:02:19+00:00",
+    "first_alerted_at": "2026-10-07T07:37:21.892907+00:00"
+  },
+  "008b7429d5f15e8b": {
+    "title": "I wanted a 60s motion graphics launch video for my app, and I only knew how to use Claude Design",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzofim/i_wanted_a_60s_motion_graphics_launch_video_for/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T05:30:30+00:00",
+    "first_alerted_at": "2026-10-07T07:37:22.772079+00:00"
+  },
+  "0d00411cae0cf0e6": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-3-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T07:37:14.141072+00:00",
+    "first_alerted_at": "2026-10-07T07:37:23.670620+00:00"
+  },
+  "eb0d9cb8a293895a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-2/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T07:37:14.141092+00:00",
+    "first_alerted_at": "2026-10-07T07:37:24.542086+00:00"
   }
 }
