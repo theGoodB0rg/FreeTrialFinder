@@ -8980,5 +8980,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-08T13:56:29+00:00",
     "first_alerted_at": "2026-10-08T14:48:46.613179+00:00"
+  },
+  "4262dc986190da3a": {
+    "title": "Show HN: Jevman – AI decision models play Pac-Man",
+    "url": "https://opper.ai/jevman-benchmark/",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T16:34:13+00:00",
+    "first_alerted_at": "2026-10-08T20:35:14.794631+00:00"
+  },
+  "9634e62d0867d01d": {
+    "title": "You told me to open source it. So I did. Claude Code built this, and now it deploys everything else I build.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0yywa/you_told_me_to_open_source_it_so_i_did_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T18:39:33+00:00",
+    "first_alerted_at": "2026-10-08T20:35:15.764892+00:00"
+  },
+  "033283d8c41dd661": {
+    "title": "Showcase: cairn, a map of all your repos for coding agents",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x11bya/showcase_cairn_a_map_of_all_your_repos_for_coding/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T20:08:41+00:00",
+    "first_alerted_at": "2026-10-08T20:35:16.754093+00:00"
+  },
+  "08102e061f08ec77": {
+    "title": "Anthropic offers Indian startups up to $7,000 in Claude credits - ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUnZreDRpV0NybWpQLVkydWJidjlURXFKNzNGVkRTOTlPVHZpQ0E2SW5WSElxdmp6eWZlbjBpN2NvWUNRRWI0cE1qRjNxTXVVbFU2UEdwWHRTdG5MdDhfNE9pUTdFVXU3dk5mb1dlU3piYnJwNFhkY2d0bWJzbVFTdXpUOUZ3UXhjd0dJUnVBYUdKeS1jbGk1bHBWLTgzSWFVeV9jb2dFa1NTX3kwN243Zk5YQXFpT1NWbF9INTR2VlJHd2FhVGVQNl8yU3F6d9IBzgFBVV95cUxOUnZreDRpV0NybWpQLVkydWJidjlURXFKNzNGVkRTOTlPVHZpQ0E2SW5WSElxdmp6eWZlbjBpN2NvWUNRRWI0cE1qRjNxTXVVbFU2UEdwWHRTdG5MdDhfNE9pUTdFVXU3dk5mb1dlU3piYnJwNFhkY2d0bWJzbVFTdXpUOUZ3UXhjd0dJUnVBYUdKeS1jbGk1bHBWLTgzSWFVeV9jb2dFa1NTX3kwN243Zk5YQXFpT1NWbF9INTR2VlJHd2FhVGVQNl8yU3F6dw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T08:49:34+00:00",
+    "first_alerted_at": "2026-10-08T20:35:17.728889+00:00"
+  },
+  "e6aa0498eaaf9126": {
+    "title": "OpenRouter data shows US AI models losing ground as Chinese alternatives dominate token usage - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wQ1ZnQUk4OHNxNFYxVjU3TE83TGNsX0lESUI3d3VLNE13ZU40LXI0WGhBOVJDOXJaN19XV042N2pqbHdBN0Y0ejF4WWNJWUdfRzFOQk9zZUZzSDNHaGdHb29yQlEzQklIZ21oLWh0eGtTVU43SXVYcw?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-25T07:00:00+00:00",
+    "first_alerted_at": "2026-10-08T20:35:18.671210+00:00"
+  },
+  "899ccd16dd88b3eb": {
+    "title": "I took the $200 Cloud Credits, but nothing I'm doing is actually drawing them down. What am I missing? Is that only if I use Fable?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x10oof/i_took_the_200_cloud_credits_but_nothing_im_doing/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T19:44:28+00:00",
+    "first_alerted_at": "2026-10-08T20:35:19.576927+00:00"
+  },
+  "78209e4d90bc7a49": {
+    "title": "And then what?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0z3wr/and_then_what/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T18:44:49+00:00",
+    "first_alerted_at": "2026-10-08T20:35:20.528052+00:00"
   }
 }
