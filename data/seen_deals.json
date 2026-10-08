@@ -8692,5 +8692,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-07T18:01:28+00:00",
     "first_alerted_at": "2026-10-07T20:44:12.941418+00:00"
+  },
+  "835a9483b672c00b": {
+    "title": "Looking for some feedback",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x09tre/looking_for_some_feedback/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-07T22:06:03+00:00",
+    "first_alerted_at": "2026-10-08T00:51:37.461977+00:00"
+  },
+  "0af9309f7ca7f283": {
+    "title": "Claude Max and Teams plans now forced to API (Oct 7th update)",
+    "url": "https://news.ycombinator.com/item?id=49999508",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T22:15:47+00:00",
+    "first_alerted_at": "2026-10-08T00:51:38.477789+00:00"
+  },
+  "05739356a827def2": {
+    "title": "Claude Haiku 5.5 cost 12x more than GPT-6 Luna for the same voxel pagoda",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0agoh/claude_haiku_55_cost_12x_more_than_gpt6_luna_for/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T22:33:24+00:00",
+    "first_alerted_at": "2026-10-08T00:51:39.487268+00:00"
+  },
+  "11d0a382595c3ba1": {
+    "title": "This is incredible value for Max plans",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x08rwi/this_is_incredible_value_for_max_plans/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T21:23:01+00:00",
+    "first_alerted_at": "2026-10-08T00:51:40.514995+00:00"
+  },
+  "c0781e4bb82ad588": {
+    "title": "I Tested Haiku 5.5 vs Luna vs DeepSeek Flash vs Gemini 3.8 Flash on real-ish work stuff. Basically a tie on quality, big differences in speed",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x09xst/i_tested_haiku_55_vs_luna_vs_deepseek_flash_vs/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T22:10:41+00:00",
+    "first_alerted_at": "2026-10-08T00:51:41.546292+00:00"
+  },
+  "1ad50fcb52bd6735": {
+    "title": "Pro vs Team (startup program seats): Team shows only a 5-hour limit, no weekly limit?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0c1cc/pro_vs_team_startup_program_seats_team_shows_only/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T23:44:15+00:00",
+    "first_alerted_at": "2026-10-08T00:51:42.549866+00:00"
+  },
+  "3af4406d0dd699dd": {
+    "title": "Serious work question: I've become a human API between Slack and Claude. Can I automate myself out of the loop?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0an42/serious_work_question_ive_become_a_human_api/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T22:41:11+00:00",
+    "first_alerted_at": "2026-10-08T00:51:43.571291+00:00"
+  },
+  "a0aebc34b6bff656": {
+    "title": "Discussion Hub for new Claude incident: Issue with spend limits on Oct 7, 2026",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x08td0/discussion_hub_for_new_claude_incident_issue_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T21:24:41+00:00",
+    "first_alerted_at": "2026-10-08T00:51:44.638689+00:00"
+  },
+  "5e052fa8d80e35e8": {
+    "title": "Sub-agent for long running tasks saved me 60% weekly burn rate",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0as2l/subagent_for_long_running_tasks_saved_me_60/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T22:47:09+00:00",
+    "first_alerted_at": "2026-10-08T00:51:45.655705+00:00"
   }
 }
