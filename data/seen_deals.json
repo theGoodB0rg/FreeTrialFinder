@@ -8773,5 +8773,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-07T22:47:09+00:00",
     "first_alerted_at": "2026-10-08T00:51:45.655705+00:00"
+  },
+  "7d081af8f6ef8ec7": {
+    "title": "PSA: Anthropic's October 7 update is actually good news — Claude Agent SDK and claude -p still work with subscription limits, PLUS you now get API credits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0j9g9/psa_anthropics_october_7_update_is_actually_good/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-08T06:03:01+00:00",
+    "first_alerted_at": "2026-10-08T07:09:33.716773+00:00"
+  },
+  "e0870198fecc1b10": {
+    "title": "The Free Startup program Benefits $1000 API credits and Team plan offers showed yesterday but disappeared today",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0iwf4/the_free_startup_program_benefits_1000_api/",
+    "provider": "General AI",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-08T05:40:49+00:00",
+    "first_alerted_at": "2026-10-08T07:09:34.738770+00:00"
+  },
+  "711e0587667bc77d": {
+    "title": "Claude Max and Team plans now include API credits you cannot spend on Claude Code - MIXED Reality News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXU2YTFTUklZUG95RUN1Y2tKcHBPVWtNcXhuZFFyUUNCeE9EbEI5cjgzSjJ2WXVYVTdXeU9WUDZNRUN4cXlCOXhwU0FoQzNoeGh4MGtlZjJ6azRvdE5wUG1TbzhNVzFBS2NZdnJuNmFrcE9XZXBJbTJMV3BRdmY3aG94NFE?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T02:35:05+00:00",
+    "first_alerted_at": "2026-10-08T07:09:35.842113+00:00"
+  },
+  "0348666d14dd33bd": {
+    "title": "Anthropic Announces Up to $500 a Month in API Credits for Claude Max and Team - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1FlUzdBeXNtS1Jud0pEVU1WaUNEQlBjZlF6S2NXa3Rpai1TV2Y3Z183bkt5TVA0dnZ1QmRRcDhjcWRMOUlUVXM4SFN0NnZnSS1tSDZPZ09DZ1ZDa1lUT3YxMTR5cWpzdEhNT0RZSzV5dzZnMUVpTXhSVnB6RzFlS3V2TVlYbkFG?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T06:42:51+00:00",
+    "first_alerted_at": "2026-10-08T07:09:36.871004+00:00"
+  },
+  "a202c46b50beedcf": {
+    "title": "Anthropic Launches Claude Haiku 5.5, Adds Monthly API Credits for Max and Team Users - iClarified",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVElZcFlQMUd3RGc3MGljX0ViQVFhUTV0RnVlUWdNV3pPY2FicjhDdHVIaTlhRllNSTNVNEhlOVBkX1FuMWRCb3k0bHcxZzhhMWxtdUpVSXk5S1ByZzVsMWNFZmtxcTdQVExLbkRXeGJLZUpRYzUxRW8zSHJMSkx1bjlLc3VEaFBUWkItbnBIaWNQUG9hSHFjN0VCRFhzVnltY3VaTkpwWDVjZXdpODlKLWJNYk16N1k?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T03:23:18+00:00",
+    "first_alerted_at": "2026-10-08T07:09:37.898863+00:00"
+  },
+  "a006650d6624d008": {
+    "title": "Anthropic Gifts API Credits to Max and Team Subscriptions - https://www.ababnews.com/",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BSmp5eWVfTk9rWl9SZ0tINEg1NWVzdmxMWC1jRFJmcVUwZE1qM1l6MHN2ZnVIU3I5R3F0RWF2ckhRc1gxZ2lrcWliRkRmeDR3MHIyYmtZOEdEbUZoSURCdFZGWWg1UUo0Y1lHamFNMkowRHNB?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T05:48:18+00:00",
+    "first_alerted_at": "2026-10-08T07:09:38.964614+00:00"
+  },
+  "e95d6aefa83d9c3c": {
+    "title": "New perk free $100 Monthly API Credit a month!!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0f9gu/new_perk_free_100_monthly_api_credit_a_month/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T02:22:27+00:00",
+    "first_alerted_at": "2026-10-08T07:09:39.983940+00:00"
+  },
+  "e82c1618070e4880": {
+    "title": "Used Claude Code to build a Wi-Fi survey app and finally found why my 5 GHz kept stalling (one channel, one couch)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0fsil/used_claude_code_to_build_a_wifi_survey_app_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T02:48:58+00:00",
+    "first_alerted_at": "2026-10-08T07:09:41.012135+00:00"
+  },
+  "d067d59f969ca117": {
+    "title": "The Strange Economics of AI Subscriptions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0gm6g/the_strange_economics_of_ai_subscriptions/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T03:31:48+00:00",
+    "first_alerted_at": "2026-10-08T07:09:42.057990+00:00"
+  },
+  "370848dd852986a9": {
+    "title": "Anthropic offers startups a free year of Claude Team and US$1,000 in credits - Tech Edition",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakZTTjZGcGJoT0tjNWE5R0JWQXdsRHBmUkh4M2lXMmVERkdzTWQtbFBGTXd5QjdBZzJxWTFhMk9mLXJ0Mm1XMm9HdTEtTnJ1SGFla0ZNZXpCRXlKWTJLT3JwRUI5MWhuMzF1ZEZCSjhfMXNnZmdFSDVFUk5VQk1XdWtlZkJveHY4MWFiQjl5aC1IdkpwWFgwVDUyMnZ3bEU?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T14:54:14+00:00",
+    "first_alerted_at": "2026-10-08T07:09:43.107860+00:00"
+  },
+  "e2b89870bbb20448": {
+    "title": "Free-Tier Users Can't Check Token Usage—and Support Won't Escalate the Issue",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0ez9m/freetier_users_cant_check_token_usageand_support/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T02:08:07+00:00",
+    "first_alerted_at": "2026-10-08T07:09:44.148621+00:00"
   }
 }
