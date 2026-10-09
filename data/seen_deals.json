@@ -9115,5 +9115,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-08T22:05:03+00:00",
     "first_alerted_at": "2026-10-09T01:04:40.488189+00:00"
+  },
+  "a34675d4f1b40a0a": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/apodex-apodex-1.1-mini/\" target=\"_blank\" rel=\"noopener\">Apodex: Apodex 1.1 Mini free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/apodex-apodex-1.1-mini/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T07:52:10.371936+00:00",
+    "first_alerted_at": "2026-10-09T07:52:15.733861+00:00"
+  },
+  "dcb970c3c458a9d0": {
+    "title": "Claude Startups Redeem",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1eiuh/claude_startups_redeem/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T06:59:32+00:00",
+    "first_alerted_at": "2026-10-09T07:52:16.627185+00:00"
+  },
+  "0e895cb5f9821f6a": {
+    "title": "Approved for Claude Startups but lost benefits 5 hours later due to UI Claim Bug. Anyone else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1dbd4/approved_for_claude_startups_but_lost_benefits_5/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T05:44:53+00:00",
+    "first_alerted_at": "2026-10-09T07:52:17.525685+00:00"
+  },
+  "4d2ba2ba3de1755e": {
+    "title": "Prism a obsidian community plugin developed end to end by Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1ed4h/prism_a_obsidian_community_plugin_developed_end/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T06:49:14+00:00",
+    "first_alerted_at": "2026-10-09T07:52:18.458607+00:00"
+  },
+  "09f934b6acf99f6e": {
+    "title": "Built a VS code extension to reduce wasted context and tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1d7mj/built_a_vs_code_extension_to_reduce_wasted/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T05:38:50+00:00",
+    "first_alerted_at": "2026-10-09T07:52:19.388032+00:00"
+  },
+  "fa539cd6a3c88fa9": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3.5-lightning/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T07:52:10.370374+00:00",
+    "first_alerted_at": "2026-10-09T07:52:20.331318+00:00"
+  },
+  "b38b1bd329e7a4d3": {
+    "title": "I had Claude build a browser extension that drops a spider, octopus or slime onto any web page. It hunts the links you ask for and wraps the rest in silk, ink or goo (free, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1ekpl/i_had_claude_build_a_browser_extension_that_drops/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T07:02:16+00:00",
+    "first_alerted_at": "2026-10-09T07:52:21.268494+00:00"
+  },
+  "5ec435ac310c3939": {
+    "title": "Claude startup program approved, but what???",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1cm4w/claude_startup_program_approved_but_what/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T05:03:32+00:00",
+    "first_alerted_at": "2026-10-09T07:52:22.188471+00:00"
   }
 }
