@@ -9043,5 +9043,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-08T18:44:49+00:00",
     "first_alerted_at": "2026-10-08T20:35:20.528052+00:00"
+  },
+  "a4a2a7445644e463": {
+    "title": "Claude Max and Team plans include monthly credits for the Claude API",
+    "url": "https://platform.claude.com/docs/en/about-claude/api-credits-for-subscribers",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T22:02:52+00:00",
+    "first_alerted_at": "2026-10-09T01:04:34.333923+00:00"
+  },
+  "ab47789b5b4530cd": {
+    "title": "No new planet here. Just the 3D trailer Claude shot in Blender for my card game, from one prompt and a few rounds of feedback (video)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x133oc/no_new_planet_here_just_the_3d_trailer_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T21:17:42+00:00",
+    "first_alerted_at": "2026-10-09T01:04:35.232204+00:00"
+  },
+  "9e2e4c7a62cb5d3b": {
+    "title": "Are the new Code features about innovation or ecosystem lock-in?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x14s77/are_the_new_code_features_about_innovation_or/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T22:29:05+00:00",
+    "first_alerted_at": "2026-10-09T01:04:36.089781+00:00"
+  },
+  "d2408fb56891c558": {
+    "title": "I Killed a Star, with Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x17lda/i_killed_a_star_with_opus_55/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T00:40:36+00:00",
+    "first_alerted_at": "2026-10-09T01:04:36.981130+00:00"
+  },
+  "c3e2856b0bc213c2": {
+    "title": "Anthropic gives API users a 60-day retirement notice. What about Claude.ai users?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x15ffd/anthropic_gives_api_users_a_60day_retirement/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T22:58:49+00:00",
+    "first_alerted_at": "2026-10-09T01:04:37.861900+00:00"
+  },
+  "a78a7074fdbf94a1": {
+    "title": "I keep hitting Claude Pro limits halfway through the week. How are heavy users handling this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x13ojj/i_keep_hitting_claude_pro_limits_halfway_through/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T21:41:36+00:00",
+    "first_alerted_at": "2026-10-09T01:04:38.810003+00:00"
+  },
+  "1e61d4481d08080c": {
+    "title": "Haiku is really fast, about 242 tokens/s",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x15sug/haiku_is_really_fast_about_242_tokenss/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T23:15:45+00:00",
+    "first_alerted_at": "2026-10-09T01:04:39.640909+00:00"
+  },
+  "868f863765197e9f": {
+    "title": "Is Haiku really 75% cheaper ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x148t9/is_haiku_really_75_cheaper/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T22:05:03+00:00",
+    "first_alerted_at": "2026-10-09T01:04:40.488189+00:00"
   }
 }
