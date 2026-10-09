@@ -9187,5 +9187,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-09T05:03:32+00:00",
     "first_alerted_at": "2026-10-09T07:52:22.188471+00:00"
+  },
+  "004da9c44d1b28bc": {
+    "title": "Show HN: I let Claude refactor my old game",
+    "url": "https://github.com/victorqribeiro/aimAndShoot",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T11:04:00+00:00",
+    "first_alerted_at": "2026-10-09T15:07:18.618394+00:00"
+  },
+  "7cafab7cc80f708c": {
+    "title": "Built a drop-in replacement for GitHub Pages",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1ltic/built_a_dropin_replacement_for_github_pages/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T13:47:18+00:00",
+    "first_alerted_at": "2026-10-09T15:07:19.617894+00:00"
+  },
+  "14ad318f44a95554": {
+    "title": "Pairing Opus 5.5 with...",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1l443/pairing_opus_55_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T13:16:50+00:00",
+    "first_alerted_at": "2026-10-09T15:07:20.651912+00:00"
   }
 }
