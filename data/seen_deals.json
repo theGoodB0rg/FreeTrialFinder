@@ -9214,5 +9214,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-09T13:16:50+00:00",
     "first_alerted_at": "2026-10-09T15:07:20.651912+00:00"
+  },
+  "cecbb7538d91071b": {
+    "title": "394 subagents in ten minutes locked me out of Claude Code, so I built a mod that asks first",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1r82v/394_subagents_in_ten_minutes_locked_me_out_of/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-09T17:19:19+00:00",
+    "first_alerted_at": "2026-10-09T20:16:02.244969+00:00"
+  },
+  "36576e021bf77b3f": {
+    "title": "Claude created my dream game, and got approved for Apple iOS store!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1t371/claude_created_my_dream_game_and_got_approved_for/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T18:31:14+00:00",
+    "first_alerted_at": "2026-10-09T20:16:03.325607+00:00"
+  },
+  "cb3d4862e27658c1": {
+    "title": "Impuls-bought Claude Max. Now I have way more usage than I know what to do with. Help me spend it before I downgrade.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1s67g/impulsbought_claude_max_now_i_have_way_more_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T17:55:56+00:00",
+    "first_alerted_at": "2026-10-09T20:16:04.414338+00:00"
   }
 }
