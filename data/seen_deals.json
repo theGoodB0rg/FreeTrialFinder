@@ -9484,5 +9484,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-10T08:07:57+00:00",
     "first_alerted_at": "2026-10-10T12:56:00.622075+00:00"
+  },
+  "58679c9f2639d92d": {
+    "title": "Claude Code with Obsidian for TTRPGs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2kte6/claude_code_with_obsidian_for_ttrpgs/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T17:23:06+00:00",
+    "first_alerted_at": "2026-10-10T17:43:56.763127+00:00"
+  },
+  "233591488f93fb84": {
+    "title": "Business Usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2jv6x/business_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T16:43:43+00:00",
+    "first_alerted_at": "2026-10-10T17:43:57.704089+00:00"
   }
 }
