@@ -9313,5 +9313,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-09T20:23:49+00:00",
     "first_alerted_at": "2026-10-10T00:15:10.227713+00:00"
+  },
+  "f6a4f93d10f48521": {
+    "title": "This rub anyone else the wrong way?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x278c6/this_rub_anyone_else_the_wrong_way/",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-10T05:37:13+00:00",
+    "first_alerted_at": "2026-10-10T06:15:44.588527+00:00"
+  },
+  "1976e9abcf2a776e": {
+    "title": "Claude Campus Ambassador Program 2026 🚀 | $3,600 Stipend + API Credits |Eligibility & Details|Part 1 Manchester United F.c. (KZxjpVO5tw) - Unisba.ac.id",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SYUxGY3Z5Z2hCOVRnR3VqdTgwMFdQenpodWFzRGs4ZG5vN1ZKbHJCbDNMdzdIelFXRWE1XzBLb2ZPU1lfZHFjNGg0eWxUSWg0aEZ2NmxseEVWZnd5TEwxdzhWcHlUQQ?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-15T15:09:27+00:00",
+    "first_alerted_at": "2026-10-10T06:15:45.555013+00:00"
+  },
+  "1238985cc1aaef42": {
+    "title": "Hard work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x26vvj/hard_work/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T05:16:44+00:00",
+    "first_alerted_at": "2026-10-10T06:15:46.406580+00:00"
+  },
+  "ae91fdc0961bc417": {
+    "title": "Build Your Security Stack for $0: The Startup Credits That Actually Matter for AI and Security Founders - Security Boulevard",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDM0cWhoVWk3T0s0RktTZWc0eFB1WlJscVJLVWthOUVQWmxrbXhVMnNwU0RuQ29sTG1JU05fbTF4V3ZyMldjSXhZYWo1Wk9ORi12VVVBY0g0eEdNOFp1WklEYUVvQm5XaG43Zm56czUtRFdsQ3BEblFaR2tNSHl2S19UZVd0RjNqLTFVWVNydzlSeC11eHVQbFJ5NHhUZTgzMjh1SFlTTXBTVGROYTV1dUZWMDZkbjFhYTk5U1g2eXdCNnZDdnBuZFBvNFRHMVg5RVpIblcwMA?oc=5",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T07:00:00+00:00",
+    "first_alerted_at": "2026-10-10T06:15:47.272772+00:00"
+  },
+  "efa49780430e2705": {
+    "title": "SiliconFlow Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/qwen-qwen3-8b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T06:15:38.156658+00:00",
+    "first_alerted_at": "2026-10-10T06:15:48.252962+00:00"
+  },
+  "c430026e0d0beea6": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/abbreviation/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T06:15:38.156689+00:00",
+    "first_alerted_at": "2026-10-10T06:15:49.123797+00:00"
+  },
+  "80524196a505bf1c": {
+    "title": "Update on claude startup program",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x27unx/update_on_claude_startup_program/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T06:13:34+00:00",
+    "first_alerted_at": "2026-10-10T06:15:49.977290+00:00"
+  },
+  "cdba195eccc4ce63": {
+    "title": "Haiku 5.5: Anthropic is Fighting Back",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x27445/haiku_55_anthropic_is_fighting_back/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T05:30:15+00:00",
+    "first_alerted_at": "2026-10-10T06:15:50.829082+00:00"
+  },
+  "6e4f39bdba07f783": {
+    "title": "I built The Realm, an auto syncing game library and stats app, with Claude Code: free beta on iOS and web🎮",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x25hyf/i_built_the_realm_an_auto_syncing_game_library/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T03:58:51+00:00",
+    "first_alerted_at": "2026-10-10T06:15:51.699408+00:00"
+  },
+  "2a788ebacc14dab2": {
+    "title": "My Experience with Claude Pro After A Few Minutes",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2504d/my_experience_with_claude_pro_after_a_few_minutes/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T03:31:25+00:00",
+    "first_alerted_at": "2026-10-10T06:15:52.604827+00:00"
   }
 }
