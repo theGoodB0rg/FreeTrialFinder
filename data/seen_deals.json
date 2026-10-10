@@ -9403,5 +9403,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-10T03:31:25+00:00",
     "first_alerted_at": "2026-10-10T06:15:52.604827+00:00"
+  },
+  "8ef6b50408158945": {
+    "title": "Anthropic pauses free Claude Team and $1,000 in API credits - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa0FIR1NyRnk1d0JoYmJYZGxPbU0xMDNpUTFvdU56ZlZkU3hsRlNMQmhSNmJSV2NBLXRCWExkYWFXZjdkanRtTWU4MDVWX1BQOElrNzBqek1IODR2YWdkcElQR2NZcVRvUjA5NEJBZU5OMjNIRlpFaGVOUnMzTTgyb2N6VjZkOW1RRk1KdXZpck5mZnM?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T09:26:40+00:00",
+    "first_alerted_at": "2026-10-10T12:55:52.590410+00:00"
+  },
+  "12494c9ecb47deb8": {
+    "title": "Weekly limit went to 35% in one night without ever hitting the 5-hour limit. I pulled the token counts from my transcripts and that night wasn't even my heaviest day.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2bb23/weekly_limit_went_to_35_in_one_night_without_ever/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T09:49:13+00:00",
+    "first_alerted_at": "2026-10-10T12:55:53.517752+00:00"
+  },
+  "f1a7c2015b097e7a": {
+    "title": "New to Claude Code and looking for setup advice and learning resources",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2egxv/new_to_claude_code_and_looking_for_setup_advice/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T12:47:08+00:00",
+    "first_alerted_at": "2026-10-10T12:55:54.400724+00:00"
+  },
+  "3bc27d284c071609": {
+    "title": "What's your setup for running multiple AI coding agents and Claude subscriptions?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2bv3h/whats_your_setup_for_running_multiple_ai_coding/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T10:23:33+00:00",
+    "first_alerted_at": "2026-10-10T12:55:55.457441+00:00"
+  },
+  "d8596cfc60ca988e": {
+    "title": "I managed to get NoX playable on Mac with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x29pss/i_managed_to_get_nox_playable_on_mac_with_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T08:07:22+00:00",
+    "first_alerted_at": "2026-10-10T12:55:56.356649+00:00"
+  },
+  "7bc1231e19de6f2d": {
+    "title": "Claude API usage ideas",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2bg4g/claude_api_usage_ideas/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T09:57:53+00:00",
+    "first_alerted_at": "2026-10-10T12:55:57.245449+00:00"
+  },
+  "d394b3b0c02562bb": {
+    "title": "Claude startup program",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2db8f/claude_startup_program/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T11:46:36+00:00",
+    "first_alerted_at": "2026-10-10T12:55:58.779343+00:00"
+  },
+  "608f242df4f5525f": {
+    "title": "Final rejections for startup program rolling out",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2aijb/final_rejections_for_startup_program_rolling_out/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T08:58:41+00:00",
+    "first_alerted_at": "2026-10-10T12:55:59.707341+00:00"
+  },
+  "7a0ec3b0119d2632": {
+    "title": "Newbie trying building a website",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x29q4r/newbie_trying_building_a_website/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T08:07:57+00:00",
+    "first_alerted_at": "2026-10-10T12:56:00.622075+00:00"
   }
 }
