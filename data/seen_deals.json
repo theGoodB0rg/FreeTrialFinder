@@ -9241,5 +9241,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-09T17:55:56+00:00",
     "first_alerted_at": "2026-10-09T20:16:04.414338+00:00"
+  },
+  "d208a9252d84f81b": {
+    "title": "$200 free API credits every month from Anthropic, how do I utilize it?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x20kdf/200_free_api_credits_every_month_from_anthropic/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T23:44:45+00:00",
+    "first_alerted_at": "2026-10-10T00:15:03.276299+00:00"
+  },
+  "ccc78c81a137b506": {
+    "title": "Wilson's Survival Guide for October 2-9, 2026 now available!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x20j8j/wilsons_survival_guide_for_october_29_2026_now/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T23:43:10+00:00",
+    "first_alerted_at": "2026-10-10T00:15:04.240708+00:00"
+  },
+  "ba4ed5f454da0990": {
+    "title": "Is Haiku 5.5 smarter than Opus 4.6?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1xxcc/is_haiku_55_smarter_than_opus_46/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T21:44:40+00:00",
+    "first_alerted_at": "2026-10-10T00:15:05.207854+00:00"
+  },
+  "b5b136778a7caa0c": {
+    "title": "I built a little neural network clicker game with Claude while on the train",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1xrom/i_built_a_little_neural_network_clicker_game_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T21:37:53+00:00",
+    "first_alerted_at": "2026-10-10T00:15:06.233607+00:00"
+  },
+  "0cbb42f7b3b58295": {
+    "title": "Is Haiku 5.5 actually worth using? I didn’t think I’d care, but the under-100K pricing changed my mind for API work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1x22g/is_haiku_55_actually_worth_using_i_didnt_think_id/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T21:07:42+00:00",
+    "first_alerted_at": "2026-10-10T00:15:07.230142+00:00"
+  },
+  "36e44e159c7d62c1": {
+    "title": "Back to ChatGPT",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1zbxo/back_to_chatgpt/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T22:47:05+00:00",
+    "first_alerted_at": "2026-10-10T00:15:08.228363+00:00"
+  },
+  "d057d40a5c5d0199": {
+    "title": "Can someone please tell what prompt we need to give so that claude gives us and if assessment",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1w72l/can_someone_please_tell_what_prompt_we_need_to/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T20:32:10+00:00",
+    "first_alerted_at": "2026-10-10T00:15:09.242345+00:00"
+  },
+  "4333f4391afbe352": {
+    "title": "How to stop the nagging meta-notifications?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1vzf4/how_to_stop_the_nagging_metanotifications/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T20:23:49+00:00",
+    "first_alerted_at": "2026-10-10T00:15:10.227713+00:00"
   }
 }
