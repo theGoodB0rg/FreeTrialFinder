@@ -9502,5 +9502,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-10T16:43:43+00:00",
     "first_alerted_at": "2026-10-10T17:43:57.704089+00:00"
+  },
+  "b7bc65cf9b849c4a": {
+    "title": "got accepted, then rejected, then accepted again",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2p0yg/got_accepted_then_rejected_then_accepted_again/",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-10T20:20:29+00:00",
+    "first_alerted_at": "2026-10-10T21:23:05.420227+00:00"
+  },
+  "ce9ac551588971e0": {
+    "title": "I used Claude to create 3D Asset Creation pipeline.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2p4is/i_used_claude_to_create_3d_asset_creation_pipeline/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T20:24:37+00:00",
+    "first_alerted_at": "2026-10-10T21:23:06.278425+00:00"
+  },
+  "c36af82996530e2f": {
+    "title": "5 parallel coding agents testing SwiftUI: 11 GB → 150 MB RAM, 22 s → 2 s per check. No iOS Simulator (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2ph22/5_parallel_coding_agents_testing_swiftui_11_gb/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T20:39:36+00:00",
+    "first_alerted_at": "2026-10-10T21:23:07.124532+00:00"
+  },
+  "5790870844e38321": {
+    "title": "Thanks Claude 💕 Free 200$ API",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2nqa7/thanks_claude_free_200_api/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T19:25:15+00:00",
+    "first_alerted_at": "2026-10-10T21:23:07.959963+00:00"
+  },
+  "86c40149616e2ac9": {
+    "title": "Anthropic/Claude's value is deteriorating over time.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2qfp2/anthropicclaudes_value_is_deteriorating_over_time/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T21:21:18+00:00",
+    "first_alerted_at": "2026-10-10T21:23:08.794242+00:00"
   }
 }
