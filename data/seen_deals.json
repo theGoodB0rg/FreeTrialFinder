@@ -9736,5 +9736,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-11T10:46:07+00:00",
     "first_alerted_at": "2026-10-11T13:20:01.116397+00:00"
+  },
+  "3066c90d0c923dc6": {
+    "title": "How I route coding tasks across 5 model tiers (local Qwen → Haiku → Sonnet → Opus → Fable) to keep token costs sane",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3esia/how_i_route_coding_tasks_across_5_model_tiers/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T17:57:38+00:00",
+    "first_alerted_at": "2026-10-11T18:21:32.860318+00:00"
+  },
+  "fb41760de945f281": {
+    "title": "PSA: Claude Code 2.1.289's cost readout prices Haiku 5.5 at Opus rates (17x too high in my runs)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3amrp/psa_claude_code_21289s_cost_readout_prices_haiku/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T15:11:13+00:00",
+    "first_alerted_at": "2026-10-11T18:21:33.905444+00:00"
+  },
+  "d852d5d7c1c2aa97": {
+    "title": "Struggling with developing? Vibe coders skip what a CTO would typically set up, so I packaged it as free Claude Code skills, then hit 7 traps shipping them",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3cbyn/struggling_with_developing_vibe_coders_skip_what/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T16:19:52+00:00",
+    "first_alerted_at": "2026-10-11T18:21:34.984937+00:00"
+  },
+  "6e4ac1481b5a90cb": {
+    "title": "HD-2D RPG in Three.js built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3f29z/hd2d_rpg_in_threejs_built_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T18:07:47+00:00",
+    "first_alerted_at": "2026-10-11T18:21:36.062727+00:00"
+  },
+  "7e48966dd87f870d": {
+    "title": "Difference between /clear and starting a new chat in a project?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3cwe7/difference_between_clear_and_starting_a_new_chat/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T16:42:32+00:00",
+    "first_alerted_at": "2026-10-11T18:21:37.116365+00:00"
+  },
+  "1f86c327783c91f2": {
+    "title": "I built a fake live cable TV network out of the Internet Archive's ephemeral media",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3cqlv/i_built_a_fake_live_cable_tv_network_out_of_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T16:35:59+00:00",
+    "first_alerted_at": "2026-10-11T18:21:38.131012+00:00"
+  },
+  "5cec3007cfbdda86": {
+    "title": "Building a voice interviewer on Haiku 5.5 + Opus 5.5: about $0.60 per conversation, and what broke along the way",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3b9pc/building_a_voice_interviewer_on_haiku_55_opus_55/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T15:37:17+00:00",
+    "first_alerted_at": "2026-10-11T18:21:39.184727+00:00"
+  },
+  "8b300b783ff47665": {
+    "title": "Since the Claude/Cowork merge, long conversations compact down to a summary only, with no recent turns kept. Anyone else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3d9h9/since_the_claudecowork_merge_long_conversations/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T16:57:06+00:00",
+    "first_alerted_at": "2026-10-11T18:21:40.213324+00:00"
   }
 }
