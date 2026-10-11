@@ -9592,5 +9592,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-10T23:09:40+00:00",
     "first_alerted_at": "2026-10-11T00:22:42.136533+00:00"
+  },
+  "208982eda9744443": {
+    "title": "Anthropic just gave us $1,000 in API credits and up to $7,500 in Claude Team Discounts!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2zsls/anthropic_just_gave_us_1000_in_api_credits_and_up/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-11T05:21:11+00:00",
+    "first_alerted_at": "2026-10-11T06:15:22.462609+00:00"
+  },
+  "b0c4d57319341947": {
+    "title": "Claude Code running locally on my Android phone, with per message model routing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2xmhj/claude_code_running_locally_on_my_android_phone/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-11T03:19:35+00:00",
+    "first_alerted_at": "2026-10-11T06:15:23.438534+00:00"
+  },
+  "fd683117faac591d": {
+    "title": "Astra vs Opus 5.5: is cost per token the wrong way to compare them for coding?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2xcom/astra_vs_opus_55_is_cost_per_token_the_wrong_way/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T03:05:12+00:00",
+    "first_alerted_at": "2026-10-11T06:15:24.441873+00:00"
+  },
+  "566cde2ac6c85715": {
+    "title": "Claude Corp Fellowship API Credit into Claude Platform",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2wzni/claude_corp_fellowship_api_credit_into_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T02:46:30+00:00",
+    "first_alerted_at": "2026-10-11T06:15:25.483615+00:00"
+  },
+  "baecac3642f33139": {
+    "title": "I built a multiplayer game where Claude can change the rules while you play",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2y04s/i_built_a_multiplayer_game_where_claude_can/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T03:40:29+00:00",
+    "first_alerted_at": "2026-10-11T06:15:26.590543+00:00"
+  },
+  "1cc7dd360fc11e81": {
+    "title": "I built a PC emulator for one family of 1988 RPGs with Claude Code. Here's how I check its work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x30hma/i_built_a_pc_emulator_for_one_family_of_1988_rpgs/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T06:03:08+00:00",
+    "first_alerted_at": "2026-10-11T06:15:27.618216+00:00"
+  },
+  "2da806271a387e0c": {
+    "title": "Several noob questions about Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2zb1f/several_noob_questions_about_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T04:53:21+00:00",
+    "first_alerted_at": "2026-10-11T06:15:28.593215+00:00"
+  },
+  "deeed8ee1e85663a": {
+    "title": "How to use the rest of my Claude Code subscription?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2yc44/how_to_use_the_rest_of_my_claude_code_subscription/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T03:59:03+00:00",
+    "first_alerted_at": "2026-10-11T06:15:29.594386+00:00"
+  },
+  "1d5008270ac65b2e": {
+    "title": "Which engine has worked best for you when Claude Code does most of the game dev?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2vlg1/which_engine_has_worked_best_for_you_when_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T01:32:06+00:00",
+    "first_alerted_at": "2026-10-11T06:15:30.561984+00:00"
   }
 }
