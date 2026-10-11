@@ -9808,5 +9808,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-11T16:57:06+00:00",
     "first_alerted_at": "2026-10-11T18:21:40.213324+00:00"
+  },
+  "d9d974555c98f7b3": {
+    "title": "We are in a pre-monopoly market and I don’t like it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3hvpq/we_are_in_a_premonopoly_market_and_i_dont_like_it/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-11T19:59:23+00:00",
+    "first_alerted_at": "2026-10-11T22:20:07.928601+00:00"
+  },
+  "e929f76c1ed6f738": {
+    "title": "I built a “cockpit seat” web toy with Claude Code: press one button and ride along with a real plane or satellite, live. Stack, workflow and lessons inside.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3ggtf/i_built_a_cockpit_seat_web_toy_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T19:02:29+00:00",
+    "first_alerted_at": "2026-10-11T22:20:08.782699+00:00"
+  },
+  "6bc5f8daa8e51b77": {
+    "title": "Show HN: I Cut my Agent Tokens By 50%",
+    "url": "https://news.ycombinator.com/item?id=50047627",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T20:42:54+00:00",
+    "first_alerted_at": "2026-10-11T22:20:09.631669+00:00"
+  },
+  "0f75fc9f4d8e550c": {
+    "title": "I built a Windows app where Claude Code and Codex work in one room and check each other's work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3ifiu/i_built_a_windows_app_where_claude_code_and_codex/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T20:21:02+00:00",
+    "first_alerted_at": "2026-10-11T22:20:10.456351+00:00"
+  },
+  "e0ccaa966998e799": {
+    "title": "Breeze · Live weather map",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3ht8g/breeze_live_weather_map/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T19:56:35+00:00",
+    "first_alerted_at": "2026-10-11T22:20:11.306289+00:00"
+  },
+  "2285770e719dea7c": {
+    "title": "How do you maximize your Claude sub?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3iwlh/how_do_you_maximize_your_claude_sub/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T20:40:48+00:00",
+    "first_alerted_at": "2026-10-11T22:20:12.155263+00:00"
   }
 }
