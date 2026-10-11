@@ -9547,5 +9547,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-10T21:21:18+00:00",
     "first_alerted_at": "2026-10-10T21:23:08.794242+00:00"
+  },
+  "eba738e1e2e08920": {
+    "title": "Anthropic announced recurring API credits for Claude Max and Team - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUR6bzFWQ0dKTm5UZ1RiRmMxYW9HYngyWTJDdkJNNDExWC1VR3Z1aXNwa2RLS0UzdjNTUkxpeTIydmdMZzkzTGlSRGd4cFZTdWQyMklITmhYeFFxWTNlTkFmTVYxVkFFN1p0U1ZvRVRSRkx5UTRMYWVoR1ZOekpidGNPczJER2stdUxNdXkwd2hoMlRHenc?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T22:48:24+00:00",
+    "first_alerted_at": "2026-10-11T00:22:38.244231+00:00"
+  },
+  "22654c2bb4aee0d4": {
+    "title": "Claude Max and Team API credit amounts and rules - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT21HUlJmeFpOM0pZZkd3Y0YwN1NMemt6ODdsREppdF85a0dQV2dGQ0FUQW5tdlVVbW5md3IxT3kwQkRrSHRUajZCX1BoSk9qNmtacU9mVEJ2ME8ycHBlYms2enBqOXlYM1FqdVNVMDJVS1A5WVVBNEJqYjAyUnNSZlJXXzIxTFl0djByZUg0Qng3WUU?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T07:48:33+00:00",
+    "first_alerted_at": "2026-10-11T00:22:39.221739+00:00"
+  },
+  "85f340e429ef6b9b": {
+    "title": "Non-dev PM: Claude Code or Cowork, now?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2s31s/nondev_pm_claude_code_or_cowork_now/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T22:37:11+00:00",
+    "first_alerted_at": "2026-10-11T00:22:40.196451+00:00"
+  },
+  "2d8d95baa3ac4477": {
+    "title": "Codex/Claude Combo Advice",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2s4zl/codexclaude_combo_advice/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T22:39:47+00:00",
+    "first_alerted_at": "2026-10-11T00:22:41.156324+00:00"
+  },
+  "263dbfe6093b2a56": {
+    "title": "Can we please start building apps and systems to save humanity from scarcity and corruption, instead of endless video game clones and billions of repetitive SaaS apps??",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/can_we_please_start_building_apps_and_systems_to/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-10T23:09:40+00:00",
+    "first_alerted_at": "2026-10-11T00:22:42.136533+00:00"
   }
 }
