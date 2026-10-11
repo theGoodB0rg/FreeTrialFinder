@@ -9673,5 +9673,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-11T01:32:06+00:00",
     "first_alerted_at": "2026-10-11T06:15:30.561984+00:00"
+  },
+  "f9599273b7822204": {
+    "title": "I accidentally made a $1,900 meme",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x34u8s/i_accidentally_made_a_1900_meme/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-11T10:29:23+00:00",
+    "first_alerted_at": "2026-10-11T13:19:55.835048+00:00"
+  },
+  "58bace8bed7ea83e": {
+    "title": "OpenAI Is Giving Away $50K in Free API Credits (Here's How to Claim Yours) - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiN0EwRDNSX3Y1bUQ5Vk52a0l6cUJadUlRcDZwUjhBczlya3RLSHpLRTRRS0plREFZQUsyY0hHN251am5vYzVDRzVHNWVEWlVvdks1VjZtLTUyTVE1?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-08T07:00:00+00:00",
+    "first_alerted_at": "2026-10-11T13:19:56.710032+00:00"
+  },
+  "61da4106aaca71a4": {
+    "title": "How much does Effort matter for Output ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x37d9k/how_much_does_effort_matter_for_output/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T12:47:53+00:00",
+    "first_alerted_at": "2026-10-11T13:19:57.582529+00:00"
+  },
+  "f0d3ba39c186193d": {
+    "title": "LifeOS, read at one pinned commit: strong on distribution and fact provenance, no eval cases for the behaviours users argued about",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x35w1n/lifeos_read_at_one_pinned_commit_strong_on/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T11:30:24+00:00",
+    "first_alerted_at": "2026-10-11T13:19:58.447529+00:00"
+  },
+  "d3dfb4d783d14227": {
+    "title": "Show HN: Modelship – an open source ray backed model cluster",
+    "url": "https://github.com/modelship-ai/modelship",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T07:28:20+00:00",
+    "first_alerted_at": "2026-10-11T13:19:59.346867+00:00"
+  },
+  "97eed59bc86fb258": {
+    "title": "How to try claude for free?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x34eyb/how_to_try_claude_for_free/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T10:04:31+00:00",
+    "first_alerted_at": "2026-10-11T13:20:00.223414+00:00"
+  },
+  "214b89a4d99462ad": {
+    "title": "Anyone who applied on Oct 9/10 actually getting approved for Claude for Startups? What's the current timeline?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x354ca/anyone_who_applied_on_oct_910_actually_getting/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T10:46:07+00:00",
+    "first_alerted_at": "2026-10-11T13:20:01.116397+00:00"
   }
 }
