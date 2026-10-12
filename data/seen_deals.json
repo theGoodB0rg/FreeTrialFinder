@@ -9907,5 +9907,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-11T22:25:17+00:00",
     "first_alerted_at": "2026-10-12T01:36:50.497031+00:00"
+  },
+  "817fd1a568227a0f": {
+    "title": "I built a CLI and Skill to help Claude Code refactor faster with fewer tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3uifp/i_built_a_cli_and_skill_to_help_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-12T06:28:29+00:00",
+    "first_alerted_at": "2026-10-12T08:52:54.557578+00:00"
+  },
+  "5e5865c97bc1ad0f": {
+    "title": "Sea and OpenAI are bringing a Codex hackathon to Kuala Lumpur, with up to US$30,000 in API credits at stake - Tech Critter",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xeS15cjRhbVJ0U05OTXBXQTJhTW5xdEFtUjl6NlVzYmc5bU5XN0lrYnJqM0hCdlEzbUdRWGFGOGduLUU1aU9rMUFxcE56OW14cnlfQUlQM1dBUjdBR2liUWxQS04wQ3VDVVRxd2hHNHZtMk1nblliRWd3?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T04:43:53+00:00",
+    "first_alerted_at": "2026-10-12T08:52:55.557185+00:00"
+  },
+  "6229fca67da3f709": {
+    "title": "Most claude delete disasters are the right command at the wrong spot",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3s80p/most_claude_delete_disasters_are_the_right/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T04:14:31+00:00",
+    "first_alerted_at": "2026-10-12T08:52:56.566045+00:00"
+  },
+  "5c20c2a7b6171b93": {
+    "title": "Who should decide when a paid Claude twin switches models?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3w71z/who_should_decide_when_a_paid_claude_twin/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T08:13:51+00:00",
+    "first_alerted_at": "2026-10-12T08:52:57.544620+00:00"
+  },
+  "c6bfdaed5b484cb5": {
+    "title": "I was terrible at explaining DriftproofHQ, so I made a game with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3vtnx/i_was_terrible_at_explaining_driftproofhq_so_i/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T07:50:36+00:00",
+    "first_alerted_at": "2026-10-12T08:52:58.515307+00:00"
+  },
+  "e4048b7b2fe5f8c5": {
+    "title": "Week 11 of making my fishing game with the help of AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3ttzl/week_11_of_making_my_fishing_game_with_the_help/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T05:47:35+00:00",
+    "first_alerted_at": "2026-10-12T08:52:59.504240+00:00"
+  },
+  "371d537c4f3736d5": {
+    "title": "Claude Startup Program Still accepting Startups ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3w4m2/claude_startup_program_still_accepting_startups/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T08:09:28+00:00",
+    "first_alerted_at": "2026-10-12T08:53:00.772131+00:00"
   }
 }
