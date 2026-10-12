@@ -9862,5 +9862,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-11T20:40:48+00:00",
     "first_alerted_at": "2026-10-11T22:20:12.155263+00:00"
+  },
+  "7782d60ff9e43a51": {
+    "title": "Anyone using Claude to edit multicam podcast footage into clips? Looking for a repo or skill",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nf47/anyone_using_claude_to_edit_multicam_podcast/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T00:04:34+00:00",
+    "first_alerted_at": "2026-10-12T01:36:46.420925+00:00"
+  },
+  "e3b7ae96d741086f": {
+    "title": "What's the worst thing an agent did on your PC? How did you get it back?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3o4sh/whats_the_worst_thing_an_agent_did_on_your_pc_how/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T00:40:09+00:00",
+    "first_alerted_at": "2026-10-12T01:36:47.415102+00:00"
+  },
+  "6a7dd5f2b0fb7302": {
+    "title": "How does Opus use less tokens than Sonnet?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3nlqo/how_does_opus_use_less_tokens_than_sonnet/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T00:13:32+00:00",
+    "first_alerted_at": "2026-10-12T01:36:48.411287+00:00"
+  },
+  "ca4b58313405306e": {
+    "title": "How do you turn a big Claude plan into something you actually build? Also: skills, handoffs, and token use",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3lqah/how_do_you_turn_a_big_claude_plan_into_something/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T22:43:28+00:00",
+    "first_alerted_at": "2026-10-12T01:36:49.480512+00:00"
+  },
+  "874a8a6f5e24c2ba": {
+    "title": "Real time Modding by connecting game to AI agent",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3lc8i/real_time_modding_by_connecting_game_to_ai_agent/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T22:25:17+00:00",
+    "first_alerted_at": "2026-10-12T01:36:50.497031+00:00"
   }
 }
