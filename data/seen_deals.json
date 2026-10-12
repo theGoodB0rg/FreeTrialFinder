@@ -9970,5 +9970,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-12T08:09:28+00:00",
     "first_alerted_at": "2026-10-12T08:53:00.772131+00:00"
+  },
+  "1dfd5e98b441bb5e": {
+    "title": "Sea and OpenAI bring Regional Codex Hackathon to Malaysia with over RM200K in API credits up for grabs - SoyaCincau",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUVXVjJMSlZ0VzF2Y1hqX2xjWTl3dHRaVDFZUy1sS0JpVE1ZRkxkQm9DZVA2clVma25VclVaeWhQSW1MSkZFamM1M05tWGdIaGlONDFEMkdhNHJSRzAzckFCS1NDNFgyMkdKSHg4eVd4eWFTZlZzQU9lQWhoZll4UE9Zbm0xUFpuWkpkVmRTVzVuMUFRZ0ZkaWhySXE3czhwd2wxc05PcTQ5ZFlScHBwSDIwRUo2dkVtVXV2NkRWeG05Z3ZRRmhvOUFVN01tTm96WGlZ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T10:22:00+00:00",
+    "first_alerted_at": "2026-10-12T18:47:49.930030+00:00"
+  },
+  "b80a438ba28ff1ae": {
+    "title": "I built an MCP server (with Claude Code) that gives Claude real NWS weather context: alerts, what changed since yesterday, the forecaster's own reasoning, and decades of historical context. Free, one line to add.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4918g/i_built_an_mcp_server_with_claude_code_that_gives/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T18:01:52+00:00",
+    "first_alerted_at": "2026-10-12T18:47:50.874694+00:00"
+  },
+  "af0650bccb30719a": {
+    "title": "Frustrated with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x485os/frustrated_with_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T17:29:27+00:00",
+    "first_alerted_at": "2026-10-12T18:47:51.819848+00:00"
+  },
+  "20ce38fb3317e5f6": {
+    "title": "Ideal Setup ? Claude Code & Codex & NInfer-4090 (or Deepseek?)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4a4ac/ideal_setup_claude_code_codex_ninfer4090_or/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T18:41:09+00:00",
+    "first_alerted_at": "2026-10-12T18:47:53.103046+00:00"
+  },
+  "c49803a0c657dfea": {
+    "title": "CPN Challenges",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x481i3/cpn_challenges/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T17:25:02+00:00",
+    "first_alerted_at": "2026-10-12T18:47:54.050490+00:00"
+  },
+  "aa822eec41f7bfef": {
+    "title": "HORRIBLE APP UI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x47isg/horrible_app_ui/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T17:05:48+00:00",
+    "first_alerted_at": "2026-10-12T18:47:55.007702+00:00"
+  },
+  "db845f3a35943226": {
+    "title": "Show HN: Authrot – extract your story elements out of chapters and graph them",
+    "url": "https://authrot.app",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T16:47:13+00:00",
+    "first_alerted_at": "2026-10-12T18:47:55.956947+00:00"
+  },
+  "d2a88e24922bae3d": {
+    "title": "Built an isometric toy-city dashboard of my Notion notes with Claude (new Dashboards beta, then Three.js)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x49tvz/built_an_isometric_toycity_dashboard_of_my_notion/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T18:30:45+00:00",
+    "first_alerted_at": "2026-10-12T18:47:56.962498+00:00"
   }
 }
