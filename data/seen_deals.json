@@ -10240,5 +10240,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-13T14:44:17+00:00",
     "first_alerted_at": "2026-10-13T16:18:44.167012+00:00"
+  },
+  "ae1beaed5e92a9f1": {
+    "title": "Show HN: Hatoba, an open-source SSH client with an AI assistant and E2EE sync",
+    "url": "https://github.com/scarletkc/Hatoba",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-13T18:31:33+00:00",
+    "first_alerted_at": "2026-10-13T21:27:36.038075+00:00"
+  },
+  "84080bdedd94f09f": {
+    "title": "You guys made me try Claude Code for video. Here's what $1.28 got me.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x592g3/you_guys_made_me_try_claude_code_for_video_heres/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-13T21:18:23+00:00",
+    "first_alerted_at": "2026-10-13T21:27:37.092256+00:00"
+  },
+  "5984dc88012db290": {
+    "title": "How are you running Claude workflows 24/7 without a laptop? Claude Code on a VPS, n8n + API, Hermes Agent?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x589d5/how_are_you_running_claude_workflows_247_without/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T20:46:23+00:00",
+    "first_alerted_at": "2026-10-13T21:27:38.141625+00:00"
+  },
+  "b9ad77ac23b28907": {
+    "title": "Burning usage like crazy and seeking advice",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x578uj/burning_usage_like_crazy_and_seeking_advice/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T20:06:28+00:00",
+    "first_alerted_at": "2026-10-13T21:27:39.178405+00:00"
+  },
+  "3156eeeee905926b": {
+    "title": "With the cowork/chat merger, branch switching on claude.ai was removed. Here's how to get it back.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x58ibd/with_the_coworkchat_merger_branch_switching_on/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T20:56:25+00:00",
+    "first_alerted_at": "2026-10-13T21:27:40.252072+00:00"
+  },
+  "e02d7db33e4436bd": {
+    "title": "Show HN: Commit-Aware Router, route LLM traffic around your AI/cloud commitments",
+    "url": "https://github.com/tejaspruthi/CommitAwareRouter",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T18:34:37+00:00",
+    "first_alerted_at": "2026-10-13T21:27:41.344444+00:00"
   }
 }
