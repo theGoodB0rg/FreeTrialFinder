@@ -10042,5 +10042,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-12T18:30:45+00:00",
     "first_alerted_at": "2026-10-12T18:47:56.962498+00:00"
+  },
+  "00f856fbb01fd025": {
+    "title": "Looking for an open-source tool or Claude Code plugin to automatically review, trim, and merge 4K videos in bulk",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4fhdn/looking_for_an_opensource_tool_or_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-12T22:08:32+00:00",
+    "first_alerted_at": "2026-10-13T01:10:30.896565+00:00"
+  },
+  "4ae6964787b5931e": {
+    "title": "Sea and OpenAI bring Regional Codex Hackathon to Malaysia with over RM200K in API credits up for grabs - SoyaCincau",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3U5NmVvX1pwNGtYUXNHRW9qeXFjZHpvVkhBa2F0VmtKVGtXNzRMaGJXV0YzRk9jSkZOdTBCZHpFR2V3S3ZGbFBEUEQzcUZwbzEtUFZyWWJIcmxjT2Q4cEJCY2o2WHZkNThvVWhKOTRfZ0t2V0pNLWhxLUFkVjRLbTRjWlN3UFh3OGExYzh2ODU2NjRqQ1ZobHA0SklYZndYeEFNN3pLRXF6eFpqd2oxOUItZFBOSFJkWGVib2dJT3U4SVFiNnFkS1k1d3R4WTY3UXl6YmNKd24?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T09:49:02+00:00",
+    "first_alerted_at": "2026-10-13T01:10:31.869770+00:00"
+  },
+  "3d334d36363a4d01": {
+    "title": "I used Opus 5.5 to build NodeSeq, a music sequencer that runs in the browser",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4hxu5/i_used_opus_55_to_build_nodeseq_a_music_sequencer/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T00:00:32+00:00",
+    "first_alerted_at": "2026-10-13T01:10:32.799971+00:00"
+  },
+  "f6e79c20ad0ed05b": {
+    "title": "My reverse engineering skill for Claude Code: Ghidra headless, Windows DLLs, Electron, Games",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4dxgj/my_reverse_engineering_skill_for_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T21:04:31+00:00",
+    "first_alerted_at": "2026-10-13T01:10:33.746082+00:00"
+  },
+  "cc3d1813f69ce8c9": {
+    "title": "∼21 BILLION tokens per weekly limit on the Max 20x Claude Code usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4inan/21_billion_tokens_per_weekly_limit_on_the_max_20x/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T00:33:58+00:00",
+    "first_alerted_at": "2026-10-13T01:10:34.739457+00:00"
+  },
+  "0f2baf8151c0ead2": {
+    "title": "Do you have more than one Claude subscription or more than one subscription for Codex?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4cexp/do_you_have_more_than_one_claude_subscription_or/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-12T20:05:54+00:00",
+    "first_alerted_at": "2026-10-13T01:10:35.686579+00:00"
+  },
+  "94a75e233366859e": {
+    "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record - RuntimeWire",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDlnRDR0ZTdkZ2Y3OVlEYm5JdmFNLVB6OE1xcTgyV0lMSWVpc2lSRTFTRi1UM184em9NVU9WVTFZaHBBenl2OXNhOEdmbWtwNjRNYUh0MThxWk41MnZRRnAtMzdGd1NIQVZ2NXlXUjlmcVB3UjFSMDU4WWRtN2JjSHNCTFgyNkZkOEFDdXpNbEo2UFotVlU5RllSNDEyQjBETlZFU2xIS1ZESmRtMTdVVndB?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-24T07:00:00+00:00",
+    "first_alerted_at": "2026-10-13T01:10:36.627468+00:00"
+  },
+  "e254836f5045d212": {
+    "title": "What is a good unlimited free AI that compliments Claude Code?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4id8l/what_is_a_good_unlimited_free_ai_that_compliments/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T00:20:21+00:00",
+    "first_alerted_at": "2026-10-13T01:10:37.556422+00:00"
   }
 }
