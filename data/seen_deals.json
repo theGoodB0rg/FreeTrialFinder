@@ -10168,5 +10168,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-08T08:49:34+00:00",
     "first_alerted_at": "2026-10-13T08:16:05.041769+00:00"
+  },
+  "9c623463517062a1": {
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "url": "https://news.ycombinator.com/item?id=50073471",
+    "provider": "Anthropic",
+    "score": 95,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-13T15:41:00+00:00",
+    "first_alerted_at": "2026-10-13T16:18:36.422014+00:00"
+  },
+  "e8e115739f59d5b7": {
+    "title": "I tested the \"Haiku codes, Opus advises\" setup everyone's sharing to save tokens. It was the most expensive of 5 setups.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x50t3c/i_tested_the_haiku_codes_opus_advises_setup/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-13T16:09:30+00:00",
+    "first_alerted_at": "2026-10-13T16:18:37.613574+00:00"
+  },
+  "9a9918acd87ebb1d": {
+    "title": "Show HN: MemorySync – Memory for AI Agents",
+    "url": "https://memorysync.io/try",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T12:35:42+00:00",
+    "first_alerted_at": "2026-10-13T16:18:38.676159+00:00"
+  },
+  "b546633a2c3b9513": {
+    "title": "I built an ear-training app for my son with Claude Code. What it did well, and where it needed me",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x50k3x/i_built_an_eartraining_app_for_my_son_with_claude/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T16:00:31+00:00",
+    "first_alerted_at": "2026-10-13T16:18:39.749676+00:00"
+  },
+  "bfecbe71dbfe52eb": {
+    "title": "Has anybody on Claude Startup been able to activate the Eleven Labs benefit?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4xj1x/has_anybody_on_claude_startup_been_able_to/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T14:03:59+00:00",
+    "first_alerted_at": "2026-10-13T16:18:40.829596+00:00"
+  },
+  "e0e3a7ba21db8abb": {
+    "title": "What’s your favorite coding use case for Claude that feels surprisingly good",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4xss3/whats_your_favorite_coding_use_case_for_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T14:14:53+00:00",
+    "first_alerted_at": "2026-10-13T16:18:41.902046+00:00"
+  },
+  "aa1c4bddc9fc65a3": {
+    "title": "I start remote session in MAX. Claude app remote defaults session to MEDIUM.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4ypr9/i_start_remote_session_in_max_claude_app_remote/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T14:50:39+00:00",
+    "first_alerted_at": "2026-10-13T16:18:42.963880+00:00"
+  },
+  "cba5a90fa8d3c22f": {
+    "title": "I got tired of losing track of usage and missing prompts, so I asked Claude to make itself a desktop avatar. Meet Tok.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4yjzk/i_got_tired_of_losing_track_of_usage_and_missing/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T14:44:17+00:00",
+    "first_alerted_at": "2026-10-13T16:18:44.167012+00:00"
   }
 }
