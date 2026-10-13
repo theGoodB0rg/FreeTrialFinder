@@ -10114,5 +10114,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-13T00:20:21+00:00",
     "first_alerted_at": "2026-10-13T01:10:37.556422+00:00"
+  },
+  "1dab3c0950b8f68f": {
+    "title": "I'm having a loop problem...",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4mmma/im_having_a_loop_problem/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T03:53:21+00:00",
+    "first_alerted_at": "2026-10-13T08:16:00.117410+00:00"
+  },
+  "013720c3cc1a5234": {
+    "title": "Context window always maxxed out",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4plrp/context_window_always_maxxed_out/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T06:46:35+00:00",
+    "first_alerted_at": "2026-10-13T08:16:01.100768+00:00"
+  },
+  "92fd343d836967d8": {
+    "title": "Urban planner here, no coding experience. Built a free Chicago housing simulator with Claude Code to show the housing crisis and how land use policy can fix it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4lqfl/urban_planner_here_no_coding_experience_built_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T03:06:23+00:00",
+    "first_alerted_at": "2026-10-13T08:16:02.078669+00:00"
+  },
+  "c2d543e26dae46b2": {
+    "title": "Open source torus generator with interesting workflow",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4q1o2/open_source_torus_generator_with_interesting/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T07:14:06+00:00",
+    "first_alerted_at": "2026-10-13T08:16:03.047241+00:00"
+  },
+  "6604fceab9c9fa30": {
+    "title": "I made an app with Claude to keep up with my favourite artists without getting stuck scrolling",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4lxib/i_made_an_app_with_claude_to_keep_up_with_my/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T03:16:07+00:00",
+    "first_alerted_at": "2026-10-13T08:16:04.034037+00:00"
+  },
+  "2cc19c11f16cfe27": {
+    "title": "Anthropic offers Indian startups up to $7,000 in Claude credits - ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZmZUNE1VUThrN2x5TTZvbnMtbFkyVm5EdFJxMDJYQkV4c1ExN3NaeUE4S0JKUmRCYXlZd3I3ODh5WnlfSUV4aEN1N3RDbDk3RlNYcHR5bS1IRVVkTm1WT3RGVzBJY0NRdHhqaFhEZGh1b016SEw2bzJLcmpUYWI5OUI4RUdPZkNrRmxyQTZRWTNTdU9mcDE1QXpTUGxKZFE1dkhNbWY5emYzYzZVc1VMcTFTR05GazFVWXJpUDhaall0UHJ2NVZBVmJBQUtYZ1JrSkR2Njl4R0FNMHhFWndncm90dkVXU05vdVhmUEZIazBnSF8zSXdNOHZNdTVCQ0d0NEHSAc4BQVVfeXFMTlJ2a3g0aVdDcm1qUC1ZMnViYnY5VEVxSjczRlZEUzk5T1R2aUNBNkluVkhJcXZqenlmZW4waTdjb1lDUUViNHBNakYzcU11VWxVNlBHcFh0U3RuTHQ4XzRPaVE3RVV1N3ZOZm9XZVN6YmJycDRYZGNndG1ic21RU3V6VDlGd1F4Y3dHSVJ1QWFHSnktY2xpNWxwVi04M0lhVXlfY29nRWtTU195MDduN2ZOWEFxaU9TVmxfSDU0dlZSR3dhYVRlUDZfMlNxenc?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T08:49:34+00:00",
+    "first_alerted_at": "2026-10-13T08:16:05.041769+00:00"
   }
 }
