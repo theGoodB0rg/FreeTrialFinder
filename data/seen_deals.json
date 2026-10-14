@@ -10330,5 +10330,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-13T21:31:56+00:00",
     "first_alerted_at": "2026-10-14T00:32:54.316447+00:00"
+  },
+  "615693812e5d67cd": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/cohere-north-mini-code/\" target=\"_blank\" rel=\"noopener\">Cohere: North Mini Code free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/cohere-north-mini-code/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T05:56:33.717524+00:00",
+    "first_alerted_at": "2026-10-14T05:56:39.021139+00:00"
+  },
+  "0edc6c5bbca8f8bc": {
+    "title": "question about limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5e8d5/question_about_limits/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T01:11:55+00:00",
+    "first_alerted_at": "2026-10-14T05:56:39.953028+00:00"
+  },
+  "a804246656bef37d": {
+    "title": "I wrote a purely in-browser harness (ibh) with Claude and Opus 5.5 one-shotted this demo video for me. It's a little fast but this is literally the first take",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5i1s6/i_wrote_a_purely_inbrowser_harness_ibh_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T04:31:19+00:00",
+    "first_alerted_at": "2026-10-14T05:56:40.855711+00:00"
+  },
+  "137a481433c75e23": {
+    "title": "My son got hooked on Subway Surfers, so I built him my own with Claude Code (free, runs in the browser)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5ev66/my_son_got_hooked_on_subway_surfers_so_i_built/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T01:43:46+00:00",
+    "first_alerted_at": "2026-10-14T05:56:41.775299+00:00"
+  },
+  "67a6d34d78de75c6": {
+    "title": "[Bug] Project file triggers infinite context compression loop — regression, not a known gap",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5g8ky/bug_project_file_triggers_infinite_context/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T02:53:09+00:00",
+    "first_alerted_at": "2026-10-14T05:56:43.237744+00:00"
   }
 }
