@@ -10429,5 +10429,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-14T10:17:22+00:00",
     "first_alerted_at": "2026-10-14T11:39:24.912781+00:00"
+  },
+  "f2b48310cc855397": {
+    "title": "Claude Code + Open Router gave me a professional Commercial",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5vqzp/claude_code_open_router_gave_me_a_professional/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-14T16:25:00+00:00",
+    "first_alerted_at": "2026-10-14T16:52:34.667909+00:00"
+  },
+  "8d49a677873c0deb": {
+    "title": "I built a Claude Code plugin that keeps your prompt cache warm, so you stop paying to rebuild it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5ttwo/i_built_a_claude_code_plugin_that_keeps_your/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-14T15:12:33+00:00",
+    "first_alerted_at": "2026-10-14T16:52:35.602504+00:00"
+  },
+  "7d0dbf2723cb6447": {
+    "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
+    "url": "https://usemerlin.ai",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T14:13:33+00:00",
+    "first_alerted_at": "2026-10-14T16:52:36.598388+00:00"
+  },
+  "62bfe6da2ceeeb86": {
+    "title": "Anyone built something where AI computation get cryptography receipts",
+    "url": "https://news.ycombinator.com/item?id=50089213",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T15:30:42+00:00",
+    "first_alerted_at": "2026-10-14T16:52:37.685167+00:00"
+  },
+  "c37b786b301d9358": {
+    "title": "I build a free, open-source macOS notch app that shows what your AI coding agents are doing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5t3jz/i_build_a_free_opensource_macos_notch_app_that/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T14:44:29+00:00",
+    "first_alerted_at": "2026-10-14T16:52:38.598814+00:00"
+  },
+  "dd8a3170db57ba11": {
+    "title": "Which model does your usage actually go to?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5tnp0/which_model_does_your_usage_actually_go_to/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T15:06:04+00:00",
+    "first_alerted_at": "2026-10-14T16:52:39.554844+00:00"
+  },
+  "15250038823de2ec": {
+    "title": "I built open-source procedural memory so AI coding agents stop re-reading your whole project every session",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5tlwe/i_built_opensource_procedural_memory_so_ai_coding/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T15:04:06+00:00",
+    "first_alerted_at": "2026-10-14T16:52:40.485606+00:00"
+  },
+  "752ce3914b9c394f": {
+    "title": "Opus 4.6 nostalgia",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5tf4m/opus_46_nostalgia/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T14:57:08+00:00",
+    "first_alerted_at": "2026-10-14T16:52:41.428658+00:00"
   }
 }
