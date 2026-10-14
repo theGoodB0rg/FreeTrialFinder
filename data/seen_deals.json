@@ -10375,5 +10375,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-14T02:53:09+00:00",
     "first_alerted_at": "2026-10-14T05:56:43.237744+00:00"
+  },
+  "4e2bd9aab5d132b0": {
+    "title": "I built a free template that gives non-coders a small AI dev team (PM, devs, QA, legal, and one agent whose job is cutting your AI bill)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5nrel/i_built_a_free_template_that_gives_noncoders_a/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T10:32:21+00:00",
+    "first_alerted_at": "2026-10-14T11:39:20.178232+00:00"
+  },
+  "306bfd6de8fe17dd": {
+    "title": "I had Claude Code film my real app from a script. Sharing repo and skill.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5lorc/i_had_claude_code_film_my_real_app_from_a_script/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T08:19:19+00:00",
+    "first_alerted_at": "2026-10-14T11:39:21.125233+00:00"
+  },
+  "3ec09aaf83b7f0c8": {
+    "title": "Show HN: Decision Models in a Game",
+    "url": "https://news.ycombinator.com/item?id=50085535",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T10:49:24+00:00",
+    "first_alerted_at": "2026-10-14T11:39:22.036700+00:00"
+  },
+  "dfd188b94cc0521c": {
+    "title": "How I Got $175 FREE Claude Credits (Not Clickbait) - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zcnpCRUJaMHhxZUI0VThBd3V1ODhJOUdmZVNfX0VLYVBMTW9wdHR4M1VOOGVnb0lGM2VPSDlzanN3SGtxR0YwWHFrME0waEozcU1WcS0tOFN0WEVO?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-14T07:00:00+00:00",
+    "first_alerted_at": "2026-10-14T11:39:23.016246+00:00"
+  },
+  "fe4766c14d5680c5": {
+    "title": "\"ChatGPT and Claude Credits Are Free\"… AI Companies Engage in 'Free Token' Bloodletting War, Why? - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNbFIxdi1yRWcxTGxJdDF4TV9nZ0JvZGl2aTBJNFk4VW45ZWQ0bm9oLXc5SVRkejFUVWJESW50dy1JTC1SY3JTY1llbXdTXzdMNnF6Z2FneXVtRzlLNXJoVExyTnd3Y05LaU9TS3JR?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-17T07:00:00+00:00",
+    "first_alerted_at": "2026-10-14T11:39:23.960067+00:00"
+  },
+  "9f996f75f2972fbe": {
+    "title": "I suggested that my autonomous Claude agents try astronomy on my PC for fun. They found 104 new eclipsing binary stars and came up with a new method for finding them, on their own",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5nid6/i_suggested_that_my_autonomous_claude_agents_try/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T10:17:22+00:00",
+    "first_alerted_at": "2026-10-14T11:39:24.912781+00:00"
   }
 }
