@@ -10294,5 +10294,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-13T18:34:37+00:00",
     "first_alerted_at": "2026-10-13T21:27:41.344444+00:00"
+  },
+  "554ae91b56c3a382": {
+    "title": "AI Plays - Rimworld - Fails - Lots",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5aftp/ai_plays_rimworld_fails_lots/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T22:16:01+00:00",
+    "first_alerted_at": "2026-10-14T00:32:51.374692+00:00"
+  },
+  "debdc400ae07e657": {
+    "title": "I used Claude Code to add an API to darktable (the open-source raw photo editor) so Claude can edit photos in it through MCP",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5a0fe/i_used_claude_code_to_add_an_api_to_darktable_the/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T21:58:00+00:00",
+    "first_alerted_at": "2026-10-14T00:32:52.345855+00:00"
+  },
+  "8e9e7ee7cb743c46": {
+    "title": "We used Claude to build and run an app tool benchmark",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x59bvq/we_used_claude_to_build_and_run_an_app_tool/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T21:28:58+00:00",
+    "first_alerted_at": "2026-10-14T00:32:53.345403+00:00"
+  },
+  "ebe8b98be8a7d57b": {
+    "title": "Update of claude startup program",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x59ehn/update_of_claude_startup_program/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-13T21:31:56+00:00",
+    "first_alerted_at": "2026-10-14T00:32:54.316447+00:00"
   }
 }
