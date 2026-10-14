@@ -10501,5 +10501,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-14T14:57:08+00:00",
     "first_alerted_at": "2026-10-14T16:52:41.428658+00:00"
+  },
+  "963c11512d8f98ad": {
+    "title": "3 months on Max 20x: ~$585 paid, $17,305 at API prices. 20 of my 691 sessions are 93% of it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x61pdw/3_months_on_max_20x_585_paid_17305_at_api_prices/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-14T20:09:46+00:00",
+    "first_alerted_at": "2026-10-14T20:31:31.763001+00:00"
+  },
+  "3a84bc4523e8d0d6": {
+    "title": "Built a Claude Code plugin to cut tokens on big repos. The first version made it worse, so I measured everything",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x615ox/built_a_claude_code_plugin_to_cut_tokens_on_big/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-14T19:48:47+00:00",
+    "first_alerted_at": "2026-10-14T20:31:32.638551+00:00"
+  },
+  "ed60389d533c116d": {
+    "title": "I built an MCP server with Claude Code that lets Claude search and apply to jobs. Here’s how the build went (and what you can learn)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x60bmf/i_built_an_mcp_server_with_claude_code_that_lets/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-14T19:16:03+00:00",
+    "first_alerted_at": "2026-10-14T20:31:33.740833+00:00"
+  },
+  "56d3aa4077c6afe6": {
+    "title": "Claude Max Now Bundles $100–$200 of API Credit a Month: What That Buys on Claude Opus 5.5 - OrcaRouter",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTlE3UUtCaWZ5TDlzUWJQVzQ4WmkycGlDaWZHZnZKR2c2bFZrMUQ2SDdpMlUwMHU0OFplTUFsY0FaUm53RkpwN0xwNTA4bEhZYlFIdzUtNE9zUjFxVk95UlVJUU5aUXJLbGNyZ1otUWJrQUxO?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T01:35:25+00:00",
+    "first_alerted_at": "2026-10-14T20:31:34.669958+00:00"
+  },
+  "171217ccf6fe8b66": {
+    "title": "Not as fancy as others’ showcases, but made this “mushroom meadow” simulator for my son’s 6th birthday, based on his sketch and idea. There’s no goal in the “game,” but you can walk around, seed flowers and mushrooms, watch insects fly around, and do some other fun things",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x625eh/not_as_fancy_as_others_showcases_but_made_this/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T20:27:24+00:00",
+    "first_alerted_at": "2026-10-14T20:31:35.515484+00:00"
+  },
+  "c59b14328296d1c6": {
+    "title": "How can I get a 7-day free trial of Claude Pro?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x61xpk/how_can_i_get_a_7day_free_trial_of_claude_pro/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T20:18:54+00:00",
+    "first_alerted_at": "2026-10-14T20:31:36.396275+00:00"
+  },
+  "ef16886c062967f5": {
+    "title": "AI Plays - Rimworld",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x61jyv/ai_plays_rimworld/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T20:04:02+00:00",
+    "first_alerted_at": "2026-10-14T20:31:37.320150+00:00"
+  },
+  "4e7c4b31de133ae2": {
+    "title": "Turning last week's AI-agent discovery hunts into one reusable toolkit for citizen science (open source, early, help wanted)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x61qzs/turning_last_weeks_aiagent_discovery_hunts_into/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T20:11:29+00:00",
+    "first_alerted_at": "2026-10-14T20:31:38.233818+00:00"
+  },
+  "1300bb41baced651": {
+    "title": "OpenRouter in Python: Use Any LLM with One API Key - Snyk",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEJCNEJuQTlDUXhGYzUwNlA3RWUwT1A3VF83d2RIRHhrelBTazVJbFRXMDVkRnFPdWhWUUtleGJxM1NpNUtrVEpQY1EzN28tYUVMTG4tRTlFZFVWXzZmR1RHQWpTbmlucEcyQVcwTnh2TktNYUlSSWpFVzlYTmRoeA?oc=5",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2025-07-23T12:54:53+00:00",
+    "first_alerted_at": "2026-10-14T20:31:39.183887+00:00"
+  },
+  "d0486f473d6dc50c": {
+    "title": "Built and launched a full social network with Claude: no ads, no algorithm, real users",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x627gg/built_and_launched_a_full_social_network_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T20:29:43+00:00",
+    "first_alerted_at": "2026-10-14T20:31:40.115099+00:00"
   }
 }
