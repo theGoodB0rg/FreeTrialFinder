@@ -10591,5 +10591,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-14T20:29:43+00:00",
     "first_alerted_at": "2026-10-14T20:31:40.115099+00:00"
+  },
+  "a25cb7efbad723cc": {
+    "title": "Before someone says \"just ask Claude to rebuild it\": it took 2.6 billion Claude tokens, about $2,650 at API rates",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x660qx/before_someone_says_just_ask_claude_to_rebuild_it/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-14T23:11:28+00:00",
+    "first_alerted_at": "2026-10-14T23:47:31.071309+00:00"
+  },
+  "af36c0de3b6a9bf3": {
+    "title": "Issues about Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x636tu/issues_about_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T21:09:24+00:00",
+    "first_alerted_at": "2026-10-14T23:47:31.934719+00:00"
+  },
+  "01032ace3c298dcd": {
+    "title": "Stretchtext for Claude Code: a 1967 idea that got more useful as text became generative",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x66prd/stretchtext_for_claude_code_a_1967_idea_that_got/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T23:43:49+00:00",
+    "first_alerted_at": "2026-10-14T23:47:32.772486+00:00"
+  },
+  "423664a1d81bdd61": {
+    "title": "Porting Ghostty to Rust with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x66lyu/porting_ghostty_to_rust_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T23:38:44+00:00",
+    "first_alerted_at": "2026-10-14T23:47:33.648328+00:00"
+  },
+  "3067328b59b62718": {
+    "title": "Opus 5.5 > GPT 6 Astra(ULTRA) coding x10. The difference is insane.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x636mh/opus_55_gpt_6_astraultra_coding_x10_the/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T21:09:10+00:00",
+    "first_alerted_at": "2026-10-14T23:47:34.521024+00:00"
+  },
+  "9f3450f9635d0292": {
+    "title": "Am I using Claude incorrectly?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x62zv5/am_i_using_claude_incorrectly/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-14T21:01:37+00:00",
+    "first_alerted_at": "2026-10-14T23:47:35.364875+00:00"
   }
 }
