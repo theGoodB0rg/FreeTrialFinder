@@ -10780,5 +10780,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-15T15:39:25+00:00",
     "first_alerted_at": "2026-10-15T18:32:05.900476+00:00"
+  },
+  "4a0d26e8335a7806": {
+    "title": "I built a free Claude Code plugin, with Claude Code, after measuring where my tokens actually go (2-min video, every number labelled)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6vtld/i_built_a_free_claude_code_plugin_with_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-15T19:56:07+00:00",
+    "first_alerted_at": "2026-10-15T22:01:31.182721+00:00"
+  },
+  "1468bcdd9db549e1": {
+    "title": "3D recreation of Neo apartment from The Matrix, built 100% using Claude via MCP Blender",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6x6x7/3d_recreation_of_neo_apartment_from_the_matrix/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T20:49:09+00:00",
+    "first_alerted_at": "2026-10-15T22:01:32.138848+00:00"
   }
 }
