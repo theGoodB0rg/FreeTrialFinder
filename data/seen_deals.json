@@ -10645,5 +10645,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-14T21:01:37+00:00",
     "first_alerted_at": "2026-10-14T23:47:35.364875+00:00"
+  },
+  "849e20b9c1ddce6c": {
+    "title": "I made a Claude Code mod that shows your 5-hour and weekly limits above the prompt and warns you before you hit them",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6al0c/i_made_a_claude_code_mod_that_shows_your_5hour/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-15T02:55:55+00:00",
+    "first_alerted_at": "2026-10-15T03:58:39.356681+00:00"
+  },
+  "6a7cd23887df28c2": {
+    "title": "never tried claude subscription plan, should i switch from codex?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x67x8e/never_tried_claude_subscription_plan_should_i/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T00:41:05+00:00",
+    "first_alerted_at": "2026-10-15T03:58:40.325253+00:00"
+  },
+  "f031617abd025011": {
+    "title": "Haiku 5.5 isn't getting enough love",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x67rp3/haiku_55_isnt_getting_enough_love/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T00:33:27+00:00",
+    "first_alerted_at": "2026-10-15T03:58:41.252153+00:00"
   }
 }
