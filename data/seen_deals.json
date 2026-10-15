@@ -10717,5 +10717,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-15T04:50:49+00:00",
     "first_alerted_at": "2026-10-15T09:04:59.857277+00:00"
+  },
+  "635aae072ed8f2b0": {
+    "title": "A Stop hook that writes my handoff 10 minutes before the prompt cache dies",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6m9nv/a_stop_hook_that_writes_my_handoff_10_minutes/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T13:54:09+00:00",
+    "first_alerted_at": "2026-10-15T14:19:59.948806+00:00"
+  },
+  "74b112eece05dbcf": {
+    "title": "Any way for my mac to wake up and run local routines at night?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6iol8/any_way_for_my_mac_to_wake_up_and_run_local/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T11:02:36+00:00",
+    "first_alerted_at": "2026-10-15T14:20:00.833293+00:00"
   }
 }
