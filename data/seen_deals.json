@@ -10735,5 +10735,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-15T11:02:36+00:00",
     "first_alerted_at": "2026-10-15T14:20:00.833293+00:00"
+  },
+  "8d8dc6dbfcabc23b": {
+    "title": "Your Claude Code prompt cache drops from an hour to five minutes the second you pass your plan limit",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6q056/your_claude_code_prompt_cache_drops_from_an_hour/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-15T16:16:23+00:00",
+    "first_alerted_at": "2026-10-15T18:32:02.097887+00:00"
+  },
+  "738c70a9c58bda7a": {
+    "title": "Claude Usage in 20$ Subscription Right now ( Date: 16-10-2026 )",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6t44s/claude_usage_in_20_subscription_right_now_date/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T18:13:08+00:00",
+    "first_alerted_at": "2026-10-15T18:32:03.049501+00:00"
+  },
+  "a3e55659e6d5a7ed": {
+    "title": "Can Codex (Sol 6.1) handle an 8-file feature as reliably as Opus 5.5? I ran both 3 times",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6qy3t/can_codex_sol_61_handle_an_8file_feature_as/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T16:51:38+00:00",
+    "first_alerted_at": "2026-10-15T18:32:04.036597+00:00"
+  },
+  "976e8001c1554f6a": {
+    "title": "Claude writes a daily newspaper from tech Twitter for me. Here's the pipeline.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6r6xs/claude_writes_a_daily_newspaper_from_tech_twitter/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T17:00:57+00:00",
+    "first_alerted_at": "2026-10-15T18:32:04.968214+00:00"
+  },
+  "52a901fe9432d0ec": {
+    "title": "How to save quota/tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6p0xf/how_to_save_quotatokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T15:39:25+00:00",
+    "first_alerted_at": "2026-10-15T18:32:05.900476+00:00"
   }
 }
