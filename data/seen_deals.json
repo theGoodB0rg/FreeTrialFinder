@@ -10672,5 +10672,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-15T00:33:27+00:00",
     "first_alerted_at": "2026-10-15T03:58:41.252153+00:00"
+  },
+  "50d25f0bdaf41fe3": {
+    "title": "Best Claude Workflow",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6flno/best_claude_workflow/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T07:52:20+00:00",
+    "first_alerted_at": "2026-10-15T09:04:56.254263+00:00"
+  },
+  "4b8b88f9a9e30207": {
+    "title": "9,000 commits in two months with Claude Code: 5 things we learned building an agent that's allowed to touch real WordPress and Joomla sites",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6c4hz/9000_commits_in_two_months_with_claude_code_5/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T04:18:54+00:00",
+    "first_alerted_at": "2026-10-15T09:04:57.164881+00:00"
+  },
+  "df65f573ceb2da1e": {
+    "title": "Tips for usage limit?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6geq9/tips_for_usage_limit/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T08:44:53+00:00",
+    "first_alerted_at": "2026-10-15T09:04:58.067931+00:00"
+  },
+  "a2fc72668d5cfac5": {
+    "title": "Building complex Claude Mod UIs - Workflow Conductor",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6f6x3/building_complex_claude_mod_uis_workflow_conductor/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T07:25:09+00:00",
+    "first_alerted_at": "2026-10-15T09:04:58.932666+00:00"
+  },
+  "316050f76ed58686": {
+    "title": "Hot Topic... I have used 119 billion tokens in 30 days on my Max plan, but only 190 billion in 90 days. Is Opus 5.5 using extra tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6cobx/hot_topic_i_have_used_119_billion_tokens_in_30/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T04:50:49+00:00",
+    "first_alerted_at": "2026-10-15T09:04:59.857277+00:00"
   }
 }
