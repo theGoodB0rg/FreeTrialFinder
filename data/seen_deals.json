@@ -10870,5 +10870,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-16T05:07:39+00:00",
     "first_alerted_at": "2026-10-16T05:38:20.385970+00:00"
+  },
+  "8c7a4b272b00717b": {
+    "title": "Stop making your Claude Code sessions message each other: use git notes as a shared timeline",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7bbxb/stop_making_your_claude_code_sessions_message/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T09:08:50+00:00",
+    "first_alerted_at": "2026-10-16T11:02:59.626783+00:00"
+  },
+  "688fbd39900190fc": {
+    "title": "I built a free Claude Code mod to see what all my delegated agents are doing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7b3cd/i_built_a_free_claude_code_mod_to_see_what_all_my/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T08:54:01+00:00",
+    "first_alerted_at": "2026-10-16T11:03:00.652371+00:00"
+  },
+  "f1f70c6f6531d3cf": {
+    "title": "Code users in the Claude Desktop app rely on folder groups, visible context, safe permission defaults and more (summary based on GitHub issues after the latest update)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7agqq/code_users_in_the_claude_desktop_app_rely_on/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T08:12:05+00:00",
+    "first_alerted_at": "2026-10-16T11:03:01.615128+00:00"
+  },
+  "b34f86758ea173fd": {
+    "title": "Skills list constantly repeating throughout context and triggering compaction",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7bmbb/skills_list_constantly_repeating_throughout/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T09:27:28+00:00",
+    "first_alerted_at": "2026-10-16T11:03:02.593130+00:00"
+  },
+  "b654ed078bde7041": {
+    "title": "anthropic tested if small ai models can copy themselves to cheap devices. they ran one on 15 android tv boxes that cost $55 each",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7a9gi/anthropic_tested_if_small_ai_models_can_copy/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T07:59:55+00:00",
+    "first_alerted_at": "2026-10-16T11:03:03.574168+00:00"
   }
 }
