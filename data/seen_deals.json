@@ -10987,5 +10987,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-16T13:26:16+00:00",
     "first_alerted_at": "2026-10-16T15:28:22.179312+00:00"
+  },
+  "f559ea446df3e40d": {
+    "title": "How I make my Claude subscription go further: 28% lower API-equivalent cost using skills to delegate to sub-agents in Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7mrkz/how_i_make_my_claude_subscription_go_further_28/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-16T17:41:18+00:00",
+    "first_alerted_at": "2026-10-16T18:58:01.998450+00:00"
+  },
+  "5d3434991df5ba50": {
+    "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+    "url": "https://news.ycombinator.com/item?id=50121562",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T17:31:42+00:00",
+    "first_alerted_at": "2026-10-16T18:58:02.837257+00:00"
+  },
+  "b6c6785c44eba1b7": {
+    "title": "I have put jev inside claude code's harness to reduce token maxing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7opfh/i_have_put_jev_inside_claude_codes_harness_to/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T18:55:12+00:00",
+    "first_alerted_at": "2026-10-16T18:58:03.695082+00:00"
+  },
+  "365e86451611597e": {
+    "title": "I built a free Windows widget for Claude usage limits with Claude Code — pixel Clawd reacts to your sessions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7o895/i_built_a_free_windows_widget_for_claude_usage/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T18:36:32+00:00",
+    "first_alerted_at": "2026-10-16T18:58:04.589282+00:00"
+  },
+  "689da26db81e3b1f": {
+    "title": "Need Help with Coding a 2D game",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7nyb1/need_help_with_coding_a_2d_game/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T18:26:01+00:00",
+    "first_alerted_at": "2026-10-16T18:58:05.437615+00:00"
+  },
+  "a540713717211887": {
+    "title": "Need a honest feedback on the claude sub grounded on existing setup",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7o65r/need_a_honest_feedback_on_the_claude_sub_grounded/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T18:34:19+00:00",
+    "first_alerted_at": "2026-10-16T18:58:06.288215+00:00"
+  },
+  "891dfe9beabe309f": {
+    "title": "Same prompt, 4 coding agents: build a 3D car configurator from scratch. Which one would you ship?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7m1mx/same_prompt_4_coding_agents_build_a_3d_car/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T17:13:37+00:00",
+    "first_alerted_at": "2026-10-16T18:58:07.157328+00:00"
+  },
+  "98c194cf59f5f9df": {
+    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+    "url": "https://stoke.money",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T18:54:47+00:00",
+    "first_alerted_at": "2026-10-16T18:58:08.019106+00:00"
+  },
+  "5afc8724eda51e89": {
+    "title": "Went from 5× to 20× but actually don't know what to do with it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7lqb2/went_from_5_to_20_but_actually_dont_know_what_to/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T17:01:29+00:00",
+    "first_alerted_at": "2026-10-16T18:58:08.893708+00:00"
   }
 }
