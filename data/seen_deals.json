@@ -10816,5 +10816,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-15T22:18:49+00:00",
     "first_alerted_at": "2026-10-16T00:37:59.617619+00:00"
+  },
+  "1cd05ec016ed430a": {
+    "title": "I benchmarked Haiku 4.5 and 5.5 against GPT-6 Luna, Gemini Flash-Lite and two decision models on 1,000 support chats",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x74mbo/i_benchmarked_haiku_45_and_55_against_gpt6_luna/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T02:32:46+00:00",
+    "first_alerted_at": "2026-10-16T05:38:15.817332+00:00"
+  },
+  "e6c742a0dd9f2cae": {
+    "title": "I built a full DaVinci Resolve-style video editor where Claude Code is the motion designer — open source",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x77w5y/i_built_a_full_davinci_resolvestyle_video_editor/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T05:32:38+00:00",
+    "first_alerted_at": "2026-10-16T05:38:16.684980+00:00"
+  },
+  "05e40fdb61d9ec63": {
+    "title": "Vos setup claude sur workstation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x75gty/vos_setup_claude_sur_workstation/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T03:17:04+00:00",
+    "first_alerted_at": "2026-10-16T05:38:17.589660+00:00"
+  },
+  "9994a1e8838058b3": {
+    "title": "I built a browser extension that's ~2x faster than Claude in Chrome. It's open source and uses your existing Claude and JEV subscriptions.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x739zr/i_built_a_browser_extension_thats_2x_faster_than/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T01:24:03+00:00",
+    "first_alerted_at": "2026-10-16T05:38:18.543742+00:00"
+  },
+  "1969e3dc2867a48c": {
+    "title": "I made a Minecraft mod to prompt agents who build in the world using the existing terrain as specs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x76saz/i_made_a_minecraft_mod_to_prompt_agents_who_build/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T04:28:37+00:00",
+    "first_alerted_at": "2026-10-16T05:38:19.478874+00:00"
+  },
+  "1e1ba7bba3710941": {
+    "title": "Is Claude Opus 5.5 better/stronger than Gemini 3.1 Pro for complex qualitative workflows?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x77gvq/is_claude_opus_55_betterstronger_than_gemini_31/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T05:07:39+00:00",
+    "first_alerted_at": "2026-10-16T05:38:20.385970+00:00"
   }
 }
