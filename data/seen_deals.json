@@ -11068,5 +11068,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-16T17:01:29+00:00",
     "first_alerted_at": "2026-10-16T18:58:08.893708+00:00"
+  },
+  "b6a7782fd4c38ca5": {
+    "title": "Show HN: Putaway – sorts your Mac's Downloads into the folders you have",
+    "url": "https://github.com/devYRPauli/putaway",
+    "provider": "OpenAI",
+    "score": 95,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-16T18:48:37+00:00",
+    "first_alerted_at": "2026-10-16T22:00:22.529898+00:00"
+  },
+  "9d5bb75025e31513": {
+    "title": "I used Claude Code to turn my dead “buy a billboard” website into a full 3D browser game where real shops give out promo codes",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7sphk/i_used_claude_code_to_turn_my_dead_buy_a/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T21:34:46+00:00",
+    "first_alerted_at": "2026-10-16T22:00:23.459225+00:00"
+  },
+  "e11e41b8ee105b34": {
+    "title": "Como conectar MCPs (GitHub, Vercel, etc.) no Claude via API Gateway / Proxy?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7ph10/como_conectar_mcps_github_vercel_etc_no_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T19:24:51+00:00",
+    "first_alerted_at": "2026-10-16T22:00:24.479217+00:00"
+  },
+  "0f75f38876511dcc": {
+    "title": "Before you add a random MCP server to Claude: I checked 8,000 open ones, one of three can change things and 6 % can delete",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7r6lq/before_you_add_a_random_mcp_server_to_claude_i/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T20:31:55+00:00",
+    "first_alerted_at": "2026-10-16T22:00:25.360428+00:00"
+  },
+  "d2bcf1033b06cad3": {
+    "title": "Warning: Axqua VS Code extension is MALWARE",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7ouw1/warning_axqua_vs_code_extension_is_malware/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T19:00:54+00:00",
+    "first_alerted_at": "2026-10-16T22:00:26.230187+00:00"
+  },
+  "ec581eec3108503a": {
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T18:11:42+00:00",
+    "first_alerted_at": "2026-10-16T22:00:27.109860+00:00"
+  },
+  "017c4ba0d773d3a1": {
+    "title": "How do you afford good AI coding agents / APIs as a student ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7q3zy/how_do_you_afford_good_ai_coding_agents_apis_as_a/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T19:49:38+00:00",
+    "first_alerted_at": "2026-10-16T22:00:28.015368+00:00"
   }
 }
