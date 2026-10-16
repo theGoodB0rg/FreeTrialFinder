@@ -10915,5 +10915,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-16T07:59:55+00:00",
     "first_alerted_at": "2026-10-16T11:03:03.574168+00:00"
+  },
+  "2797aebe7af69cdd": {
+    "title": "I built a read-only monitor for Claude Code sub-agents: who's working, who's stuck, who's waiting on you, screensharing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7iegx/i_built_a_readonly_monitor_for_claude_code/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-16T14:55:40+00:00",
+    "first_alerted_at": "2026-10-16T15:28:15.619439+00:00"
+  },
+  "f403a8d9e508fd2f": {
+    "title": "I built a Jarvis-style voice assistant for my Windows laptop with Claude Code, looking for feedback",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7gwf3/i_built_a_jarvisstyle_voice_assistant_for_my/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-16T13:56:00+00:00",
+    "first_alerted_at": "2026-10-16T15:28:16.534637+00:00"
+  },
+  "79e82af5d6d65499": {
+    "title": "Picking a movie was taking me longer than watching one, so I built a movie picker with Claude Code. It's free",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7f3cw/picking_a_movie_was_taking_me_longer_than/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T12:37:40+00:00",
+    "first_alerted_at": "2026-10-16T15:28:17.459909+00:00"
+  },
+  "466cfc5f02299ea6": {
+    "title": "Compaction appears to fire much earlier on accounts with the new update, and the usage tracker shows the context window cut after tool use. Data + how to check yours",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7if1u/compaction_appears_to_fire_much_earlier_on/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T14:56:19+00:00",
+    "first_alerted_at": "2026-10-16T15:28:18.434974+00:00"
+  },
+  "d865e752f52a108d": {
+    "title": "I built a mod that shows your 5h/7d limits against the clock, the prompt cache countdown and what subagents cost (free, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hsin/i_built_a_mod_that_shows_your_5h7d_limits_against/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T14:31:07+00:00",
+    "first_alerted_at": "2026-10-16T15:28:19.353047+00:00"
+  },
+  "2de56e08b3d01468": {
+    "title": "Pro plan vs API for only opus, which is better?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7gl2h/pro_plan_vs_api_for_only_opus_which_is_better/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T13:42:55+00:00",
+    "first_alerted_at": "2026-10-16T15:28:20.301694+00:00"
+  },
+  "08e547b36b1d8fd0": {
+    "title": "Getting Claude Code to check if a library/code was shipped after its cut-off before rebuilding something from scratch",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hef3/getting_claude_code_to_check_if_a_librarycode_was/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T14:15:37+00:00",
+    "first_alerted_at": "2026-10-16T15:28:21.264555+00:00"
+  },
+  "8763bbf81fb4e2ac": {
+    "title": "How are you managing you tokens and context",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7g6pk/how_are_you_managing_you_tokens_and_context/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T13:26:16+00:00",
+    "first_alerted_at": "2026-10-16T15:28:22.179312+00:00"
   }
 }
