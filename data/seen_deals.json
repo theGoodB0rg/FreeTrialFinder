@@ -10798,5 +10798,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-15T20:49:09+00:00",
     "first_alerted_at": "2026-10-15T22:01:32.138848+00:00"
+  },
+  "79ca6a71fd288a9c": {
+    "title": "Week 6 update! Using AI to build a game with no dev experience",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T00:22:41+00:00",
+    "first_alerted_at": "2026-10-16T00:37:58.656624+00:00"
+  },
+  "eac63410106d9e23": {
+    "title": "What is the best way to make prompts?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6zbbe/what_is_the_best_way_to_make_prompts/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T22:18:49+00:00",
+    "first_alerted_at": "2026-10-16T00:37:59.617619+00:00"
   }
 }
