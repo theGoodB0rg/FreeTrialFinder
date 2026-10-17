@@ -11464,5 +11464,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T20:36:59+00:00",
     "first_alerted_at": "2026-10-17T21:39:04.968455+00:00"
+  },
+  "e607cac985bcae1f": {
+    "title": "PSA: OpenCode breach - my stored Anthropic key was used to drain ~$158 overnight. Revoke yours.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8o35r/psa_opencode_breach_my_stored_anthropic_key_was/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T23:16:21+00:00",
+    "first_alerted_at": "2026-10-17T23:52:35.628774+00:00"
+  },
+  "1fc03b24e1ec15ab": {
+    "title": "Agent Mode is now live on InstaLanding.ai. Your coding agent can now use an entire open-source design library.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8mok3/agent_mode_is_now_live_on_instalandingai_your/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T22:10:29+00:00",
+    "first_alerted_at": "2026-10-17T23:52:36.638863+00:00"
+  },
+  "3356e3ff3c4db599": {
+    "title": "Does an \"answer with HTML\" skill actually save tokens? I tested it against plain Claude, and the price came out the same",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8m9yf/does_an_answer_with_html_skill_actually_save/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T21:52:11+00:00",
+    "first_alerted_at": "2026-10-17T23:52:37.662359+00:00"
   }
 }
