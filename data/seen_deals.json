@@ -11221,5 +11221,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T06:41:54+00:00",
     "first_alerted_at": "2026-10-17T09:06:08.472262+00:00"
+  },
+  "3af60931028535ef": {
+    "title": "I logged every Claude Code run for 5 months - roughly $17.50 of API-priced work per 1% of my Max weekly limit",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8637w/i_logged_every_claude_code_run_for_5_months/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-17T09:37:42+00:00",
+    "first_alerted_at": "2026-10-17T13:07:14.854064+00:00"
+  },
+  "424475b07e70ed87": {
+    "title": "Great news: free monthly API credits for Claude Max and Team plans",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x864rc/great_news_free_monthly_api_credits_for_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T09:40:27+00:00",
+    "first_alerted_at": "2026-10-17T13:07:15.834701+00:00"
+  },
+  "0497e9ec734aa799": {
+    "title": "I gave the Clawd Mochi desk toy a new brain: it reacts to Claude Code, shows my usage limits, music, calendar and more",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x88hu2/i_gave_the_clawd_mochi_desk_toy_a_new_brain_it/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T12:00:39+00:00",
+    "first_alerted_at": "2026-10-17T13:07:16.816579+00:00"
+  },
+  "3c1883c622573c0c": {
+    "title": "Mac apps to use Claude API with a clean UI?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x85p70/mac_apps_to_use_claude_api_with_a_clean_ui/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T09:12:27+00:00",
+    "first_alerted_at": "2026-10-17T13:07:17.789295+00:00"
+  },
+  "1df32be030378be4": {
+    "title": "Opus 5 FREE With $127 Claude Credits — No Subscription! - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VNXRETEdVd1Y5eWxWTEl2UVBxN0x2d1lwZDFHNmM2WEROWEFhMzhHSHktUFN1Ql95cEl6RXlFdEdHdl9NY1c0Z0JVOHIzYjNzRDlmUHhwSkVVUzFw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-08-29T07:00:00+00:00",
+    "first_alerted_at": "2026-10-17T13:07:18.837091+00:00"
+  },
+  "824bf09a171a9eaf": {
+    "title": "I gave Claude a photo editor, and the way it works through each image has been amazing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x89ggt/i_gave_claude_a_photo_editor_and_the_way_it_works/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T12:49:40+00:00",
+    "first_alerted_at": "2026-10-17T13:07:19.842308+00:00"
+  },
+  "b3da7b9da8ac4c3e": {
+    "title": "I asked Claude to \"demake\" my Rust/Bevy auto-battler into native Nintendo 64 and Game Boy Advance ROMs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x88me6/i_asked_claude_to_demake_my_rustbevy_autobattler/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T12:07:04+00:00",
+    "first_alerted_at": "2026-10-17T13:07:20.854707+00:00"
   }
 }
