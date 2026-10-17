@@ -11329,5 +11329,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T15:20:58+00:00",
     "first_alerted_at": "2026-10-17T16:36:32.975298+00:00"
+  },
+  "0f4233e899a3f12c": {
+    "title": "Use ClaudeCode with real customer data without the data ever reaching Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8f0gm/use_claudecode_with_real_customer_data_without/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-17T16:48:08+00:00",
+    "first_alerted_at": "2026-10-17T19:07:32.394460+00:00"
+  },
+  "f778e2f0af94b014": {
+    "title": "I built an MCP connection for Claude to search saved research and read a separate profile",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8ibtv/i_built_an_mcp_connection_for_claude_to_search/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T19:03:34+00:00",
+    "first_alerted_at": "2026-10-17T19:07:33.310088+00:00"
+  },
+  "19dca0f7e5c85855": {
+    "title": "What are your experiences using Ultracode on medium effort?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8hxan/what_are_your_experiences_using_ultracode_on/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T18:47:14+00:00",
+    "first_alerted_at": "2026-10-17T19:07:34.229521+00:00"
+  },
+  "30e4f3ef2da390b8": {
+    "title": "I had Claude Code make a full music video: 6 sessions, ~3,700 tool calls, $76.60. The whole production record is open",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8g3ul/i_had_claude_code_make_a_full_music_video_6/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T17:32:25+00:00",
+    "first_alerted_at": "2026-10-17T19:07:35.191292+00:00"
+  },
+  "9a3f357bff89dd66": {
+    "title": "How the Claude Code team reviews 30,000+ changes a day, and the token cost question nobody has answered yet",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8fprl/how_the_claude_code_team_reviews_30000_changes_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T17:16:19+00:00",
+    "first_alerted_at": "2026-10-17T19:07:36.153408+00:00"
+  },
+  "82bef8b02b99800c": {
+    "title": "Claude Code getting stuck for 15+ minutes with no response or token usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8fi7z/claude_code_getting_stuck_for_15_minutes_with_no/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T17:07:59+00:00",
+    "first_alerted_at": "2026-10-17T19:07:37.134287+00:00"
+  },
+  "1367c75ecdf5701c": {
+    "title": "Did a challenge for myself to make a multiplayer shooter in less than 24 hours. Used Claude Code, Meshy 7, and ElevenLabs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8f0lb/did_a_challenge_for_myself_to_make_a_multiplayer/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T16:48:17+00:00",
+    "first_alerted_at": "2026-10-17T19:07:38.056820+00:00"
+  },
+  "2eff7222ff684559": {
+    "title": "Where Claude's plans land vs the other personal agents (pricing + what it can actually touch)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8fa0a/where_claudes_plans_land_vs_the_other_personal/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T16:59:03+00:00",
+    "first_alerted_at": "2026-10-17T19:07:38.972726+00:00"
   }
 }
