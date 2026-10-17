@@ -11401,5 +11401,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T16:59:03+00:00",
     "first_alerted_at": "2026-10-17T19:07:38.972726+00:00"
+  },
+  "267738545ee18fc7": {
+    "title": "3 small Claude Code habits from other people's setups that I liked",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8lae3/3_small_claude_code_habits_from_other_peoples/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T21:08:09+00:00",
+    "first_alerted_at": "2026-10-17T21:38:59.673685+00:00"
+  },
+  "410f3f8c952c9f88": {
+    "title": "My agent loop: a voice brainstorm, a kanban card, and one Claude Code run per usage window",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8k0b1/my_agent_loop_a_voice_brainstorm_a_kanban_card/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T20:13:23+00:00",
+    "first_alerted_at": "2026-10-17T21:39:00.645457+00:00"
+  },
+  "23c307597b840537": {
+    "title": "I built Studiolo with Claude Code: a free Mac design editor that Claude Code drives over MCP",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8jfve/i_built_studiolo_with_claude_code_a_free_mac/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T19:49:57+00:00",
+    "first_alerted_at": "2026-10-17T21:39:01.497545+00:00"
+  },
+  "6788f6d4bd518d4d": {
+    "title": "After 9 episodes of my AI sitcom, my wife finally reluctantly admits it’s funny. Here’s the season trailer",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8ih89/after_9_episodes_of_my_ai_sitcom_my_wife_finally/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T19:09:46+00:00",
+    "first_alerted_at": "2026-10-17T21:39:02.412605+00:00"
+  },
+  "6b42701fdcc73feb": {
+    "title": "Is there really no keyboard shortcut to start dictation in the Claude Mac app?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8if66/is_there_really_no_keyboard_shortcut_to_start/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T19:07:25+00:00",
+    "first_alerted_at": "2026-10-17T21:39:03.280092+00:00"
+  },
+  "019bef281c8dea32": {
+    "title": "What does your AI dev workflow look like?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8knxz/what_does_your_ai_dev_workflow_look_like/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T20:41:44+00:00",
+    "first_alerted_at": "2026-10-17T21:39:04.119486+00:00"
+  },
+  "813e9086d558a8c0": {
+    "title": "Opus 5.5 Taking so long and token usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8kjz6/opus_55_taking_so_long_and_token_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T20:36:59+00:00",
+    "first_alerted_at": "2026-10-17T21:39:04.968455+00:00"
   }
 }
