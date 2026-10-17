@@ -11284,5 +11284,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T12:07:04+00:00",
     "first_alerted_at": "2026-10-17T13:07:20.854707+00:00"
+  },
+  "1457d6e70b2adb21": {
+    "title": "I got tired of guessing how much of my 5-hour window was left, so Claude Code and I built a Dynamic Island for Windows",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8df4e/i_got_tired_of_guessing_how_much_of_my_5hour/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-17T15:44:24+00:00",
+    "first_alerted_at": "2026-10-17T16:36:29.322675+00:00"
+  },
+  "97c546846ee6846b": {
+    "title": "I built an FFT ocean renderer for Godot 4.7 (C#) with Claude Code, starting from a single design doc",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8emfc/i_built_an_fft_ocean_renderer_for_godot_47_c_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T16:32:38+00:00",
+    "first_alerted_at": "2026-10-17T16:36:30.221961+00:00"
+  },
+  "446281f3d50b7c59": {
+    "title": "Self-improve skill / LESSONS_LEARNED.md",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8a2m2/selfimprove_skill_lessons_learnedmd/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T13:19:13+00:00",
+    "first_alerted_at": "2026-10-17T16:36:31.134417+00:00"
+  },
+  "03bb55cade6cf2c9": {
+    "title": "I made a browser FPS with Claude Code, every 3D model in it is code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8dg94/i_made_a_browser_fps_with_claude_code_every_3d/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T15:45:41+00:00",
+    "first_alerted_at": "2026-10-17T16:36:32.036553+00:00"
+  },
+  "6fc1fb93e1345117": {
+    "title": "Surely this workflow exists. How?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8cuty/surely_this_workflow_exists_how/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T15:20:58+00:00",
+    "first_alerted_at": "2026-10-17T16:36:32.975298+00:00"
   }
 }
