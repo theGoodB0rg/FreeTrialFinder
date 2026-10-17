@@ -11158,5 +11158,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-16T22:57:25+00:00",
     "first_alerted_at": "2026-10-17T00:21:03.411515+00:00"
+  },
+  "def7bca1eaccefa5": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nvidia-nemotron-3.5-super-vl/\" target=\"_blank\" rel=\"noopener\">NVIDIA: Nemotron 3.5 Super VL free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3.5-super-vl/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T04:52:46.653706+00:00",
+    "first_alerted_at": "2026-10-17T04:52:51.696753+00:00"
+  },
+  "95afb2980ecfd9f9": {
+    "title": "I have put jev inside claude code's harness to reduce token maxing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7zahd/i_have_put_jev_inside_claude_codes_harness_to/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T02:51:45+00:00",
+    "first_alerted_at": "2026-10-17T04:52:52.716210+00:00"
+  },
+  "7556487bce343525": {
+    "title": "Free plugin I built with Claude Code: subagents on your other Claude accounts, with automatic switching when one hits its limit",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7y05b/free_plugin_i_built_with_claude_code_subagents_on/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T01:43:42+00:00",
+    "first_alerted_at": "2026-10-17T04:52:53.737301+00:00"
+  },
+  "fb8a675c09efd0be": {
+    "title": "Correcting Claude Behavior",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7xvsz/correcting_claude_behavior/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T01:37:18+00:00",
+    "first_alerted_at": "2026-10-17T04:52:54.746904+00:00"
+  },
+  "8c70294ca355c929": {
+    "title": "I had Claude build 13 internal tools from written specs. It passed every check, and exposed 126 gaps in my specs.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7zfzs/i_had_claude_build_13_internal_tools_from_written/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T03:00:20+00:00",
+    "first_alerted_at": "2026-10-17T04:52:55.805601+00:00"
   }
 }
