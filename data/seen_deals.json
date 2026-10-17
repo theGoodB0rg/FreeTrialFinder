@@ -11203,5 +11203,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T03:00:20+00:00",
     "first_alerted_at": "2026-10-17T04:52:55.805601+00:00"
+  },
+  "3e5e0ee9295953bb": {
+    "title": "How Can You Win OpenAI's $25,000 API Credits Challenge? - analyticsindiamag.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWhpcndsSlhTOUg3cU1Qbkk1MnN3NW9oXy1BbVEyRWhrakRlaDNVTXFiNVlfSDh6cVBfZ0VBU1UyZG1BcTNleFBibmFjTmt3Y05UWWJ1Q3VnWW5kV0VXNm5TR1lXQnMxMVM4NE5TOE40N2xtbzBUbkpSV0tBQ2EzZUVBNzFlVG5kX2NJR2JrYko3cnJkeXhZZXdOcExBSEtvR0xhaTl2eUFJWXF5?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2023-10-26T07:00:00+00:00",
+    "first_alerted_at": "2026-10-17T09:06:07.503692+00:00"
+  },
+  "2a3d1e774f61d7f1": {
+    "title": "Developers: Claude Code now silently syncs your claude.ai (web) skills and plugins to your local machine, enabled by default",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x839jo/developers_claude_code_now_silently_syncs_your/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-17T06:41:54+00:00",
+    "first_alerted_at": "2026-10-17T09:06:08.472262+00:00"
   }
 }
