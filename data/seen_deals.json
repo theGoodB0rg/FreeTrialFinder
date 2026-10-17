@@ -11131,5 +11131,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-16T19:49:38+00:00",
     "first_alerted_at": "2026-10-16T22:00:28.015368+00:00"
+  },
+  "69018f2acc786f19": {
+    "title": "Claude weekly roundup (Oct 11–17): Claude found the NIST curve seeds, Code Review goes GA",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7tcj3/claude_weekly_roundup_oct_1117_claude_found_the/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-16T22:01:17+00:00",
+    "first_alerted_at": "2026-10-17T00:21:01.752661+00:00"
+  },
+  "bdc3883ba51dca2c": {
+    "title": "I made a skill that turns complicated workflows into little cities you can poke around in",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7v49y/i_made_a_skill_that_turns_complicated_workflows/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T23:20:34+00:00",
+    "first_alerted_at": "2026-10-17T00:21:02.583184+00:00"
+  },
+  "2cc8b0807532a1c9": {
+    "title": "I had Opus 5.5 make a music video in a traditional hand-drawn 2D style, entirely in code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7um0w/i_had_opus_55_make_a_music_video_in_a_traditional/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-16T22:57:25+00:00",
+    "first_alerted_at": "2026-10-17T00:21:03.411515+00:00"
   }
 }
