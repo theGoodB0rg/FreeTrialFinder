@@ -11491,5 +11491,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-17T21:52:11+00:00",
     "first_alerted_at": "2026-10-17T23:52:37.662359+00:00"
+  },
+  "d580814445989edb": {
+    "title": "Does anyone use cloud agent exclusively?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8p3mb/does_anyone_use_cloud_agent_exclusively/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T00:05:09+00:00",
+    "first_alerted_at": "2026-10-18T03:51:31.177037+00:00"
+  },
+  "44700fd45321a4a5": {
+    "title": "Stopped using Chrome Remote Desktop to start Claude Code sessions: one tap from my phone now.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8su0c/stopped_using_chrome_remote_desktop_to_start/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T03:21:18+00:00",
+    "first_alerted_at": "2026-10-18T03:51:32.096619+00:00"
+  },
+  "42dd689c624d6495": {
+    "title": "Free Qwen 3.6 God Mode in VSCode - OpenRouter Setup - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JekVRVlBQanczM1Nob191aGRoXzlfUTZIRF90OHZaaUZ0T3RWYi1lUmwwQUhhUXRuU09iMF85eEdYNWJ6MWRXSFpod0dHS1hlRHI2NFV1OXVYcThi?oc=5",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-04-01T07:00:00+00:00",
+    "first_alerted_at": "2026-10-18T03:51:33.026878+00:00"
+  },
+  "3f38d4912366653f": {
+    "title": "Safeguard Flag on ML/Kaggle Workflow outside of claudes outputs.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8t98t/safeguard_flag_on_mlkaggle_workflow_outside_of/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T03:45:04+00:00",
+    "first_alerted_at": "2026-10-18T03:51:33.976580+00:00"
+  },
+  "cb37324b1c42214b": {
+    "title": "Can we stop complaining about subscription prices if you use Claude for any business purpose?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8sz1g/can_we_stop_complaining_about_subscription_prices/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T03:29:14+00:00",
+    "first_alerted_at": "2026-10-18T03:51:34.866245+00:00"
+  },
+  "496937b1f9b3fa19": {
+    "title": "Non-technical founder. Can I realistically maintain and extend my app with Claude instead of my dev agency?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8pce7/nontechnical_founder_can_i_realistically_maintain/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T00:17:12+00:00",
+    "first_alerted_at": "2026-10-18T03:51:35.799154+00:00"
+  },
+  "ceb7b013ac19eb42": {
+    "title": "Jumping off Claude to check out Argon for awhile",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8t6h2/jumping_off_claude_to_check_out_argon_for_awhile/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T03:40:40+00:00",
+    "first_alerted_at": "2026-10-18T03:51:36.689834+00:00"
   }
 }
