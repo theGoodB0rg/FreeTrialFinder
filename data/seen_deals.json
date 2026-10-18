@@ -11797,5 +11797,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-18T18:09:09+00:00",
     "first_alerted_at": "2026-10-18T19:20:06.292288+00:00"
+  },
+  "35b9c7cae74323c1": {
+    "title": "Adobe, Office, Outlook, ElevenLabs: AI is cloning all of it in Rust",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-18T20:31:44+00:00",
+    "first_alerted_at": "2026-10-18T21:43:48.440420+00:00"
+  },
+  "74e2a6f21e5f1060": {
+    "title": "I gave a crew of Claude Code agents Star Trek ranks and a 3D Enterprise. They shipped 106 features to my journal app last week while I was on vacation.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9cq67/i_gave_a_crew_of_claude_code_agents_star_trek/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T19:57:43+00:00",
+    "first_alerted_at": "2026-10-18T21:43:49.325837+00:00"
+  },
+  "ec06ba7f1b2cacee": {
+    "title": "I build my ideal version of a CAD software with claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9eakl/i_build_my_ideal_version_of_a_cad_software_with/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T21:01:10+00:00",
+    "first_alerted_at": "2026-10-18T21:43:50.212162+00:00"
+  },
+  "071fc25f2eaf087e": {
+    "title": "I Have To Buy Mac Mini For This?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9e10c/i_have_to_buy_mac_mini_for_this/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T20:50:19+00:00",
+    "first_alerted_at": "2026-10-18T21:43:51.095125+00:00"
   }
 }
