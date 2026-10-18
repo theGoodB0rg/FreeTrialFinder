@@ -11743,5 +11743,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-18T13:57:17+00:00",
     "first_alerted_at": "2026-10-18T16:45:02.907540+00:00"
+  },
+  "795088d5e76d908c": {
+    "title": "Ok I let Claude Code direct my music video. It went better than expected",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x98k3c/ok_i_let_claude_code_direct_my_music_video_it/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-18T17:12:09+00:00",
+    "first_alerted_at": "2026-10-18T19:20:01.472252+00:00"
+  },
+  "7850262ae693facd": {
+    "title": "Output Truncated",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9amt4/output_truncated/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T18:34:15+00:00",
+    "first_alerted_at": "2026-10-18T19:20:02.433255+00:00"
+  },
+  "65798b0565ec2e7a": {
+    "title": "I'm an analyst who built a live AI co-host (an android cat girl) and a science deep-dive series with Claude. Here's how the tech works and where we're taking it.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x99nwe/im_an_analyst_who_built_a_live_ai_cohost_an/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T17:55:55+00:00",
+    "first_alerted_at": "2026-10-18T19:20:03.206306+00:00"
+  },
+  "fb720a7c389ff50f": {
+    "title": "Managed Agents are underrated!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9b344/managed_agents_are_underrated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T18:52:25+00:00",
+    "first_alerted_at": "2026-10-18T19:20:04.239260+00:00"
+  },
+  "a39d33c4ae397945": {
+    "title": "I asked how to check whether my ISP gives me a dynamic IP, and Claude started acting like I was requesting classified nuclear launch codes.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9asvl/i_asked_how_to_check_whether_my_isp_gives_me_a/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T18:41:02+00:00",
+    "first_alerted_at": "2026-10-18T19:20:05.301039+00:00"
+  },
+  "f80e49ab2c408ae2": {
+    "title": "I built a Google Drive media player for Android, Android TV and Linux with Claude Code, and I'm weirdly proud of it 😅",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9a05m/i_built_a_google_drive_media_player_for_android/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T18:09:09+00:00",
+    "first_alerted_at": "2026-10-18T19:20:06.292288+00:00"
   }
 }
