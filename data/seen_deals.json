@@ -11599,5 +11599,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-18T07:50:32+00:00",
     "first_alerted_at": "2026-10-18T08:43:46.680328+00:00"
+  },
+  "29e20baa93ca8740": {
+    "title": "Advice needed: Best workflow to maximize Claude Pro limits alongside Cursor Pro?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8znz0/advice_needed_best_workflow_to_maximize_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-18T10:13:57+00:00",
+    "first_alerted_at": "2026-10-18T13:05:52.125707+00:00"
+  },
+  "5055a69c0053c8e2": {
+    "title": "Week 12 of making my fishing and exploration game - ships in the bottle",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x91f2n/week_12_of_making_my_fishing_and_exploration_game/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T11:57:05+00:00",
+    "first_alerted_at": "2026-10-18T13:05:53.026066+00:00"
+  },
+  "b0de96a636a26530": {
+    "title": "No team, no laptop, no budget: I run two content brands from my phone with Claude. Here's the exact system.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8zu47/no_team_no_laptop_no_budget_i_run_two_content/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T10:24:38+00:00",
+    "first_alerted_at": "2026-10-18T13:05:53.938346+00:00"
+  },
+  "54800e774b11249c": {
+    "title": "I may have discovered an exoplanet using Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x90wkk/i_may_have_discovered_an_exoplanet_using_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T11:28:17+00:00",
+    "first_alerted_at": "2026-10-18T13:05:54.822253+00:00"
+  },
+  "ad20bd216b027beb": {
+    "title": "Claude spends tokens faster than my wife spends my salary, so I decided to optimize it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8zybm/claude_spends_tokens_faster_than_my_wife_spends/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T10:31:54+00:00",
+    "first_alerted_at": "2026-10-18T13:05:55.696515+00:00"
+  },
+  "285a5d47d73df27f": {
+    "title": "I built a War Thunder skin manager with a 3D skin painter with Claude Code, here's what i learned",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8z9sr/i_built_a_war_thunder_skin_manager_with_a_3d_skin/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T09:49:31+00:00",
+    "first_alerted_at": "2026-10-18T13:05:56.555469+00:00"
+  },
+  "52ecd39b9b6ddf4d": {
+    "title": "PSA: back up your CLAUDE.md files, they're usually outside git",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8zotz/psa_back_up_your_claudemd_files_theyre_usually/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T10:15:26+00:00",
+    "first_alerted_at": "2026-10-18T13:05:57.411694+00:00"
+  },
+  "620b91ac28038d16": {
+    "title": "Does claude have a free trial? i really need it but i'm broke rn",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8zcue/does_claude_have_a_free_trial_i_really_need_it/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T09:55:03+00:00",
+    "first_alerted_at": "2026-10-18T13:05:58.327834+00:00"
+  },
+  "e6415d29fa7bd6ad": {
+    "title": "False positive \"violative cyber content\" block on Poe API — no functional appeal path",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8yx94/false_positive_violative_cyber_content_block_on/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T09:26:44+00:00",
+    "first_alerted_at": "2026-10-18T13:05:59.328251+00:00"
+  },
+  "e508f5551f86915b": {
+    "title": "The AI engineer's creed with Claude Code + Opus 5.5 running the whole video pipeline",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8zx1c/the_ai_engineers_creed_with_claude_code_opus_55/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T10:29:49+00:00",
+    "first_alerted_at": "2026-10-18T13:06:00.244623+00:00"
   }
 }
