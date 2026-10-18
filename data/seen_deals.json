@@ -11554,5 +11554,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-18T03:40:40+00:00",
     "first_alerted_at": "2026-10-18T03:51:36.689834+00:00"
+  },
+  "ac2ebf12e1d44822": {
+    "title": "Any automatic schedule tasks to do on Claude Code Pro",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8w230/any_automatic_schedule_tasks_to_do_on_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T06:27:58+00:00",
+    "first_alerted_at": "2026-10-18T08:43:42.915579+00:00"
+  },
+  "5896b036aeb276d2": {
+    "title": "I let Claude handle the software side of my new 3D printer, and it set the whole thing up",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8xz3l/i_let_claude_handle_the_software_side_of_my_new/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T08:25:37+00:00",
+    "first_alerted_at": "2026-10-18T08:43:43.800782+00:00"
+  },
+  "037f84370f48130d": {
+    "title": "Claude API for RAG",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8wxq4/claude_api_for_rag/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T07:21:08+00:00",
+    "first_alerted_at": "2026-10-18T08:43:44.720574+00:00"
+  },
+  "6e1f1a28bfb24e9f": {
+    "title": "How do you choose model + thinking level without wasting tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8xsfo/how_do_you_choose_model_thinking_level_without/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T08:13:35+00:00",
+    "first_alerted_at": "2026-10-18T08:43:45.745245+00:00"
+  },
+  "c721ba793adedad3": {
+    "title": "Anyone else suffering for \"AI Brain Real-World Token Limit\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8xemv/anyone_else_suffering_for_ai_brain_realworld/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T07:50:32+00:00",
+    "first_alerted_at": "2026-10-18T08:43:46.680328+00:00"
   }
 }
