@@ -11932,5 +11932,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-19T02:55:33+00:00",
     "first_alerted_at": "2026-10-19T05:07:52.904248+00:00"
+  },
+  "a5afcb4fefcd8661": {
+    "title": "Harness security evaluations with Claude models",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9s1d9/harness_security_evaluations_with_claude_models/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T09:13:59+00:00",
+    "first_alerted_at": "2026-10-19T11:06:19.324485+00:00"
+  },
+  "0df14ed201db6028": {
+    "title": "I built a tiny pixel office where Claude workers turn GitHub issues into tested pull requests (free, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9oqqv/i_built_a_tiny_pixel_office_where_claude_workers/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T05:46:29+00:00",
+    "first_alerted_at": "2026-10-19T11:06:20.305013+00:00"
+  },
+  "a2b0b47bef99cc15": {
+    "title": "Claude web chat sessions can now load download tools like Claude code?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9rdho/claude_web_chat_sessions_can_now_load_download/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T08:32:24+00:00",
+    "first_alerted_at": "2026-10-19T11:06:21.241921+00:00"
+  },
+  "71f18000a1cefb48": {
+    "title": "Whiterabbit social media platform",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9pm1c/whiterabbit_social_media_platform/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T06:40:41+00:00",
+    "first_alerted_at": "2026-10-19T11:06:22.241601+00:00"
+  },
+  "01f8f73ab080ebf6": {
+    "title": "Multiple AI agents across ~22 GitHub repos: how do you keep structure and avoid collisions?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9ti52/multiple_ai_agents_across_22_github_repos_how_do/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T10:43:10+00:00",
+    "first_alerted_at": "2026-10-19T11:06:23.198402+00:00"
+  },
+  "06f88794be99766b": {
+    "title": "Lifetime AI token usage stats not available for Pro Plan users?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9s8mm/lifetime_ai_token_usage_stats_not_available_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T09:26:24+00:00",
+    "first_alerted_at": "2026-10-19T11:06:24.154284+00:00"
+  },
+  "a8b6a3af63ff395c": {
+    "title": "Is there really a clear and tangible difference between Opus 5.5 and Fable?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9r20j/is_there_really_a_clear_and_tangible_difference/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T08:12:11+00:00",
+    "first_alerted_at": "2026-10-19T11:06:25.144302+00:00"
+  },
+  "44f38771689df68d": {
+    "title": "How to see total ALL TIME tokens used on Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9peyw/how_to_see_total_all_time_tokens_used_on_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T06:27:54+00:00",
+    "first_alerted_at": "2026-10-19T11:06:26.106330+00:00"
+  },
+  "adebf96d0103d45f": {
+    "title": "How do cloud session credits work?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9ow27/how_do_cloud_session_credits_work/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T05:55:27+00:00",
+    "first_alerted_at": "2026-10-19T11:06:27.067131+00:00"
   }
 }
