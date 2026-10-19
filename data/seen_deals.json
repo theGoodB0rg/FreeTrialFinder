@@ -12067,5 +12067,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-19T14:58:57+00:00",
     "first_alerted_at": "2026-10-19T17:40:26.254288+00:00"
+  },
+  "ec16484361c9fe6e": {
+    "title": "I had Claude study 60 posts from this sub through my own MCP before launching here. It says I'm capped at 400 upvotes",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa7nwm/i_had_claude_study_60_posts_from_this_sub_through/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-19T20:11:59+00:00",
+    "first_alerted_at": "2026-10-19T22:09:47.409969+00:00"
+  },
+  "e6a21b8458597b5e": {
+    "title": "How do you test your features done by AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaa0hx/how_do_you_test_your_features_done_by_ai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T21:42:09+00:00",
+    "first_alerted_at": "2026-10-19T22:09:48.267588+00:00"
+  },
+  "e29588f06221f2f0": {
+    "title": "Anthropic offers Indian startups up to $7,000 in Claude credits - ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeHFCTlJ4ZXpqdDdLenVqQm91NEhCSHpyOVhhOVpRQTJYeUVBSHdHWDBJQ29rQi1oVW1BaXNGM2FTcU50b2QtZU9mRHU0YmlacDZKaWtYWU9JU3EyNElQZlYySDBBVG9iV1drZEdwQnRwOVJmRkVFTVpKS2NmNjFrQ2VhWmZpaWJGVENZeEh3VGtLN3JEdGNjUGFheGs0bk5KcjRmMmFid0dzT3laLXg3aGRGSFVoNTdyTnM2VVc5SDEyRFBueHdNZ9IBzgFBVV95cUxOUnZreDRpV0NybWpQLVkydWJidjlURXFKNzNGVkRTOTlPVHZpQ0E2SW5WSElxdmp6eWZlbjBpN2NvWUNRRWI0cE1qRjNxTXVVbFU2UEdwWHRTdG5MdDhfNE9pUTdFVXU3dk5mb1dlU3piYnJwNFhkY2d0bWJzbVFTdXpUOUZ3UXhjd0dJUnVBYUdKeS1jbGk1bHBWLTgzSWFVeV9jb2dFa1NTX3kwN243Zk5YQXFpT1NWbF9INTR2VlJHd2FhVGVQNl8yU3F6dw?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T07:00:00+00:00",
+    "first_alerted_at": "2026-10-19T22:09:49.121340+00:00"
+  },
+  "158111c3e860ba23": {
+    "title": "I built a Christian self-discovery site with quizzes, prayers, and the lives of the saints",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaaftj/i_built_a_christian_selfdiscovery_site_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T21:59:13+00:00",
+    "first_alerted_at": "2026-10-19T22:09:49.970001+00:00"
+  },
+  "1c45236952075e36": {
+    "title": "I made an app that makes you money.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa9ipi/i_made_an_app_that_makes_you_money/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T21:22:02+00:00",
+    "first_alerted_at": "2026-10-19T22:09:50.830277+00:00"
+  },
+  "20ed6bb5a91e0871": {
+    "title": "Old TCL Beyond TV was super slow, so I tried this open-source debloat with Claude and it worked",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa9f5d/old_tcl_beyond_tv_was_super_slow_so_i_tried_this/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T21:18:10+00:00",
+    "first_alerted_at": "2026-10-19T22:09:51.685809+00:00"
+  },
+  "a74f6c12740c9eed": {
+    "title": "Claude Abo - Browservariante - Zugriff auf Browser Addons etc.?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa7irs/claude_abo_browservariante_zugriff_auf_browser/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T20:06:28+00:00",
+    "first_alerted_at": "2026-10-19T22:09:52.535060+00:00"
   }
 }
