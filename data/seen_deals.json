@@ -11887,5 +11887,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-18T22:21:04+00:00",
     "first_alerted_at": "2026-10-19T00:01:31.103467+00:00"
+  },
+  "7a5721162af8d3af": {
+    "title": "We used Claude Code to build a Claude certification prep platform, then discovered our own questions were too easy to game",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9kud3/we_used_claude_code_to_build_a_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T02:10:46+00:00",
+    "first_alerted_at": "2026-10-19T05:07:48.792985+00:00"
+  },
+  "ab379f0e91b4c62a": {
+    "title": "Claude Code on mobile: what happens when the $100 credits run out?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9iayt/claude_code_on_mobile_what_happens_when_the_100/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T00:03:32+00:00",
+    "first_alerted_at": "2026-10-19T05:07:49.807788+00:00"
+  },
+  "d81eb05c3ccffbcd": {
+    "title": "Knu’s VS | UI + Harness for modeling and animations",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9iait/knus_vs_ui_harness_for_modeling_and_animations/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T00:02:57+00:00",
+    "first_alerted_at": "2026-10-19T05:07:50.844167+00:00"
+  },
+  "07044711ce3083c8": {
+    "title": "How do you make AI usage more efficient in business analysis?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9ngz7/how_do_you_make_ai_usage_more_efficient_in/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T04:32:52+00:00",
+    "first_alerted_at": "2026-10-19T05:07:51.863460+00:00"
+  },
+  "1a6df148cab37a0e": {
+    "title": "When Claude realizes the user is what it needs to spend tokens on to manage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9lp6r/when_claude_realizes_the_user_is_what_it_needs_to/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T02:55:33+00:00",
+    "first_alerted_at": "2026-10-19T05:07:52.904248+00:00"
   }
 }
