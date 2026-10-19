@@ -11833,5 +11833,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-18T20:50:19+00:00",
     "first_alerted_at": "2026-10-18T21:43:51.095125+00:00"
+  },
+  "dfab3ae5c4ea67ef": {
+    "title": "I ported a Windows Claude Code usage widget to a native Mac menu bar app, built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9feqf/i_ported_a_windows_claude_code_usage_widget_to_a/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-18T21:48:52+00:00",
+    "first_alerted_at": "2026-10-19T00:01:26.730471+00:00"
+  },
+  "4c598b4cf2d8ef63": {
+    "title": "I made a skill that keeps coding agents on track for multi-session projects (spec + task log in your repo, narrow sub-agent context)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9fo35/i_made_a_skill_that_keeps_coding_agents_on_track/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T22:00:04+00:00",
+    "first_alerted_at": "2026-10-19T00:01:27.597148+00:00"
+  },
+  "d9e40eeb2e35a9b5": {
+    "title": "claude max folks, what do you actually do with the usage left at the weekly reset?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9hldr/claude_max_folks_what_do_you_actually_do_with_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T23:29:31+00:00",
+    "first_alerted_at": "2026-10-19T00:01:28.455636+00:00"
+  },
+  "0dc53fdbcd48f9cf": {
+    "title": "I had a team of Claude agents build two identical spine-leaf labs (eBGP vs OSPF) live on camera, then taught from their lesson. One link flap: OSPF ran SPF 19 times, BGP zero.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9i1wf/i_had_a_team_of_claude_agents_build_two_identical/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T23:52:17+00:00",
+    "first_alerted_at": "2026-10-19T00:01:29.334115+00:00"
+  },
+  "a28a6b5bce0f44e2": {
+    "title": "I’m on the $20/month pro plan. I have a question about the one time purchase of $100 usage credits.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9hrl6/im_on_the_20month_pro_plan_i_have_a_question/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T23:37:59+00:00",
+    "first_alerted_at": "2026-10-19T00:01:30.242988+00:00"
+  },
+  "fed3fc63fb1da326": {
+    "title": "Claude gives 10X Chatgpt Usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9g5hm/claude_gives_10x_chatgpt_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-18T22:21:04+00:00",
+    "first_alerted_at": "2026-10-19T00:01:31.103467+00:00"
   }
 }
