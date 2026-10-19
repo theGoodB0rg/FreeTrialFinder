@@ -12013,5 +12013,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-19T05:55:27+00:00",
     "first_alerted_at": "2026-10-19T11:06:27.067131+00:00"
+  },
+  "7e494eb414609f96": {
+    "title": "Creative ways to spend a $1k professional-development stipend on AI tools + learning?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa1pjw/creative_ways_to_spend_a_1k/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T16:34:05+00:00",
+    "first_alerted_at": "2026-10-19T17:40:21.152018+00:00"
+  },
+  "f9eb1002454756e5": {
+    "title": "5 bugs Claude Code wrote that all ran fine, and the checks I use now",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa1mga/5_bugs_claude_code_wrote_that_all_ran_fine_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T16:30:56+00:00",
+    "first_alerted_at": "2026-10-19T17:40:22.227242+00:00"
+  },
+  "c9d410ba42c5070a": {
+    "title": "Six models built the new Tesla Roadster with rocket thrusters. Drive them yourself.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa1g6a/six_models_built_the_new_tesla_roadster_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T16:24:15+00:00",
+    "first_alerted_at": "2026-10-19T17:40:23.217075+00:00"
+  },
+  "d073fbcd484cbaac": {
+    "title": "What skills / MCPs are you actually using for SEO work? Audits, content briefs, keyword data without paying Semrush prices",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa3d96/what_skills_mcps_are_you_actually_using_for_seo/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T17:35:00+00:00",
+    "first_alerted_at": "2026-10-19T17:40:24.239785+00:00"
+  },
+  "db898a87e3d4102d": {
+    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "url": "https://github.com/kividbio/kividb",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T13:53:52+00:00",
+    "first_alerted_at": "2026-10-19T17:40:25.309759+00:00"
+  },
+  "f1e6f80975106391": {
+    "title": "Fable 5.1 vs Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9z61a/fable_51_vs_opus_55/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-19T14:58:57+00:00",
+    "first_alerted_at": "2026-10-19T17:40:26.254288+00:00"
   }
 }
