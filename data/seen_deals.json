@@ -12130,5 +12130,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-19T20:06:28+00:00",
     "first_alerted_at": "2026-10-19T22:09:52.535060+00:00"
+  },
+  "7a247f5ea4b6f4ca": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/minimax-minimax-m3.1-flash/\" target=\"_blank\" rel=\"noopener\">MiniMax: MiniMax M3.1 Flash free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/minimax-minimax-m3.1-flash/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T06:25:05.136819+00:00",
+    "first_alerted_at": "2026-10-20T06:25:10.574925+00:00"
+  },
+  "5960b9ce25e3c66e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/minimax-minimax-m3.1-flash/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T06:25:05.135690+00:00",
+    "first_alerted_at": "2026-10-20T06:25:11.484574+00:00"
+  },
+  "069d7fa0fa13d1f5": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3.5-super-vl/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T06:25:05.135704+00:00",
+    "first_alerted_at": "2026-10-20T06:25:12.445743+00:00"
+  },
+  "33b1bc54ea994228": {
+    "title": "How do you guys manage the 5-hour limit on Pro without wasting so much usage?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xakl7o/how_do_you_guys_manage_the_5hour_limit_on_pro/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T06:21:10+00:00",
+    "first_alerted_at": "2026-10-20T06:25:13.380904+00:00"
+  },
+  "2484133c4fd11e17": {
+    "title": "Sandboxed Claude agents wrote 159 of my 188 PRs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xagj87/sandboxed_claude_agents_wrote_159_of_my_188_prs/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T02:37:45+00:00",
+    "first_alerted_at": "2026-10-20T06:25:14.274908+00:00"
   }
 }
