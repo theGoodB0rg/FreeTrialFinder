@@ -12328,5 +12328,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-20T14:18:13+00:00",
     "first_alerted_at": "2026-10-20T16:48:37.982805+00:00"
+  },
+  "1115501e6adb822b": {
+    "title": "Ok I let Claude Code direct my music video. It went better than expected",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xazr4h/ok_i_let_claude_code_direct_my_music_video_it/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T18:16:44+00:00",
+    "first_alerted_at": "2026-10-20T20:20:23.706626+00:00"
+  },
+  "5c8c1d21cbe9bff8": {
+    "title": "Letting Claude manage Fantasy Premier League teams for research",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb0oth/letting_claude_manage_fantasy_premier_league/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T18:52:01+00:00",
+    "first_alerted_at": "2026-10-20T20:20:24.564689+00:00"
+  },
+  "1639d79e9ed3447a": {
+    "title": "Half my marketing team gave up on adding custom connectors to Claude. How are non developers getting tools into it?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaz2pe/half_my_marketing_team_gave_up_on_adding_custom/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T17:52:22+00:00",
+    "first_alerted_at": "2026-10-20T20:20:25.390670+00:00"
+  },
+  "5a19f2801a5008db": {
+    "title": "How do you keep track of your work with Claude? Output, parallel sessions, connectors, planning",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb25tm/how_do_you_keep_track_of_your_work_with_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T19:46:44+00:00",
+    "first_alerted_at": "2026-10-20T20:20:26.240161+00:00"
+  },
+  "073dd9150d1c0776": {
+    "title": "Cowork using 100% of my limit after every reset, but no tasks visible anywhere. Anyone fixed this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb1mxt/cowork_using_100_of_my_limit_after_every_reset/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T19:27:11+00:00",
+    "first_alerted_at": "2026-10-20T20:20:27.189959+00:00"
   }
 }
