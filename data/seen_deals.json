@@ -12373,5 +12373,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-20T19:27:11+00:00",
     "first_alerted_at": "2026-10-20T20:20:27.189959+00:00"
+  },
+  "0c822adc5d7a9276": {
+    "title": "Web-based Pipe IDE released – built with Claude across design, research, and coding",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb5p1o/webbased_pipe_ide_released_built_with_claude/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-20T22:07:19+00:00",
+    "first_alerted_at": "2026-10-20T23:18:27.323047+00:00"
+  },
+  "1e9998b73ed84bc5": {
+    "title": "My Claude Code skill for cutting context mid-session: log, next steps, /clear, resume",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb5ll3/my_claude_code_skill_for_cutting_context/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T22:03:13+00:00",
+    "first_alerted_at": "2026-10-20T23:18:28.158231+00:00"
+  },
+  "bb1962e273a7cd05": {
+    "title": "App redesign killed subagent orchestration",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb4szk/app_redesign_killed_subagent_orchestration/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T21:30:29+00:00",
+    "first_alerted_at": "2026-10-20T23:18:29.005775+00:00"
+  },
+  "376e2c9fdf98bd9f": {
+    "title": "Sonnet 4.6 to Sonnet 5 on the same 191 requests: the list price fell 33% and our bill rose 4%",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb49v6/sonnet_46_to_sonnet_5_on_the_same_191_requests/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T21:08:58+00:00",
+    "first_alerted_at": "2026-10-20T23:18:29.846942+00:00"
+  },
+  "3ec9c7201c47ef18": {
+    "title": "Stop using subagents or buying 5x?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb3ycs/stop_using_subagents_or_buying_5x/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T20:56:31+00:00",
+    "first_alerted_at": "2026-10-20T23:18:30.679405+00:00"
   }
 }
