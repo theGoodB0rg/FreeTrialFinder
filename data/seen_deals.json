@@ -12175,5 +12175,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-20T02:37:45+00:00",
     "first_alerted_at": "2026-10-20T06:25:14.274908+00:00"
+  },
+  "7612eb1329e30c6a": {
+    "title": "New updates about Claude Fable 5.5 model",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaon9k/new_updates_about_claude_fable_55_model/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-20T10:35:08+00:00",
+    "first_alerted_at": "2026-10-20T11:58:07.639380+00:00"
+  },
+  "d07257d3973c3636": {
+    "title": "For those running Claude Code on large monorepos , how are you structuring your CLAUDE.md without bloating context?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xalih0/for_those_running_claude_code_on_large_monorepos/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T07:17:23+00:00",
+    "first_alerted_at": "2026-10-20T11:58:08.695537+00:00"
+  },
+  "1bbf7e53640b5bd8": {
+    "title": "I’m having Claude and ChatGPT compete",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xapdag/im_having_claude_and_chatgpt_compete/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T11:15:14+00:00",
+    "first_alerted_at": "2026-10-20T11:58:09.816954+00:00"
+  },
+  "3078714d8941d73f": {
+    "title": "How do you do QA for the stuff you build with AI? Here’s the one thing that works for me.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaozoo/how_do_you_do_qa_for_the_stuff_you_build_with_ai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T10:55:03+00:00",
+    "first_alerted_at": "2026-10-20T11:58:10.820048+00:00"
+  },
+  "d6c4a6e1b66a480f": {
+    "title": "How I make sure a leaked Anthropic API key can't cost me more than $50",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xalsld/how_i_make_sure_a_leaked_anthropic_api_key_cant/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T07:35:46+00:00",
+    "first_alerted_at": "2026-10-20T11:58:11.846102+00:00"
+  },
+  "19eb44b12b3823a3": {
+    "title": "Claude Team vs 20x",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xal30z/claude_team_vs_20x/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T06:51:55+00:00",
+    "first_alerted_at": "2026-10-20T11:58:12.992333+00:00"
   }
 }
