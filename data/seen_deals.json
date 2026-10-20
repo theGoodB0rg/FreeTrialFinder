@@ -12229,5 +12229,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-20T06:51:55+00:00",
     "first_alerted_at": "2026-10-20T11:58:12.992333+00:00"
+  },
+  "97b4e1430b7205c5": {
+    "title": "Show HN: PatchWave - Add static analysis and automerge to Dependabot",
+    "url": "https://patchwave.ai/",
+    "provider": "AWS Bedrock",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-20T14:08:09+00:00",
+    "first_alerted_at": "2026-10-20T16:48:29.027671+00:00"
+  },
+  "850f9cb3f6475bde": {
+    "title": "We let Claude Code map Claude's C Compiler: 351 Rust files, 19 architecture boards, 13 findings",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xau9hs/we_let_claude_code_map_claudes_c_compiler_351/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T14:53:42+00:00",
+    "first_alerted_at": "2026-10-20T16:48:29.894431+00:00"
+  },
+  "8c62b9d78d9f077d": {
+    "title": "Recently, my company started trialling Claude Code. I don't know who effective it will be because higher-ups do not understand GenAI...",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xatrmg/recently_my_company_started_trialling_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T14:33:51+00:00",
+    "first_alerted_at": "2026-10-20T16:48:30.808173+00:00"
+  },
+  "424a464581546fe4": {
+    "title": "Worked the past months to make a point-and-click adventure game engine with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavx10/worked_the_past_months_to_make_a_pointandclick/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T15:56:11+00:00",
+    "first_alerted_at": "2026-10-20T16:48:31.660887+00:00"
+  },
+  "1e60bb3b753190b9": {
+    "title": "What am I actually qualified to do? Systems biologist / biotech founder, 3 years of daily agentic-AI building, no CS background. Pull no punches.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavgn9/what_am_i_actually_qualified_to_do_systems/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T15:39:10+00:00",
+    "first_alerted_at": "2026-10-20T16:48:32.569936+00:00"
+  },
+  "657f6818c7e84fe9": {
+    "title": "i made a small audio recorder",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xats1m/i_made_a_small_audio_recorder/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T14:34:21+00:00",
+    "first_alerted_at": "2026-10-20T16:48:33.466246+00:00"
+  },
+  "6a8e0dadfdab62e4": {
+    "title": "I used Claude (Opus 5.5) to create a custom UI renderer to create a promo video for PyNode",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xatk1e/i_used_claude_opus_55_to_create_a_custom_ui/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T14:25:32+00:00",
+    "first_alerted_at": "2026-10-20T16:48:34.401899+00:00"
+  },
+  "f9441e031b6ab4d9": {
+    "title": "Give me your tips for using Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xawglj/give_me_your_tips_for_using_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T16:15:28+00:00",
+    "first_alerted_at": "2026-10-20T16:48:35.249765+00:00"
+  },
+  "4465c4a915676cef": {
+    "title": "What is Haiku 5.5 best suited for?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaur97/what_is_haiku_55_best_suited_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T15:12:25+00:00",
+    "first_alerted_at": "2026-10-20T16:48:36.165341+00:00"
+  },
+  "3b5ca114f021bc7b": {
+    "title": "1 to 3 accounts per credit card, is it true?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaud1p/1_to_3_accounts_per_credit_card_is_it_true/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T14:57:33+00:00",
+    "first_alerted_at": "2026-10-20T16:48:37.096867+00:00"
+  },
+  "ab1061b2d911fd8e": {
+    "title": "Upgrade from Pro to Max on AppStore",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xatdjt/upgrade_from_pro_to_max_on_appstore/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T14:18:13+00:00",
+    "first_alerted_at": "2026-10-20T16:48:37.982805+00:00"
   }
 }
