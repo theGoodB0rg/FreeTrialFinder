@@ -12517,5 +12517,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-21T02:13:19+00:00",
     "first_alerted_at": "2026-10-21T07:19:40.076293+00:00"
+  },
+  "70655fd86daba83e": {
+    "title": "Claude Code workflow: why /compact after a break costs so much, and the handoff-file routine I use instead",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbm6yw/claude_code_workflow_why_compact_after_a_break/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-21T12:46:21+00:00",
+    "first_alerted_at": "2026-10-21T13:06:38.943759+00:00"
+  },
+  "4037c23bc8c1e339": {
+    "title": "I built a free link-sharing page for music with Claude Code, so your friends can open a song in whatever service they use",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xblg9d/i_built_a_free_linksharing_page_for_music_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T12:11:51+00:00",
+    "first_alerted_at": "2026-10-21T13:06:39.880396+00:00"
+  },
+  "b2c98e485a3b5806": {
+    "title": "Made an app where an Claude agent does the CAD for me, first time open sourcing something",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbke4m/made_an_app_where_an_claude_agent_does_the_cad/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T11:17:29+00:00",
+    "first_alerted_at": "2026-10-21T13:06:40.837034+00:00"
+  },
+  "1f5cff19706582e6": {
+    "title": "I’ve built a data engine using Claude to replace Markdown files for storing memories and documentation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbk3fl/ive_built_a_data_engine_using_claude_to_replace/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T11:01:46+00:00",
+    "first_alerted_at": "2026-10-21T13:06:41.952071+00:00"
+  },
+  "0a39465ea9952209": {
+    "title": "I made Claude Code my marketing team",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbmam7/i_made_claude_code_my_marketing_team/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T12:50:55+00:00",
+    "first_alerted_at": "2026-10-21T13:06:42.951278+00:00"
   }
 }
