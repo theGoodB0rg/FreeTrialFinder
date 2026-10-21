@@ -12625,5 +12625,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-21T16:42:33+00:00",
     "first_alerted_at": "2026-10-21T18:11:46.877141+00:00"
+  },
+  "c1d5fffcfe78c334": {
+    "title": "I built a text editor for the original PlayStation with support for Claude and other AIs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbxsjp/i_built_a_text_editor_for_the_original/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-21T20:02:39+00:00",
+    "first_alerted_at": "2026-10-21T21:54:59.116957+00:00"
+  },
+  "7ddee726223e791b": {
+    "title": "I made Claude write down what it rejected, not just what it built",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbyg3k/i_made_claude_write_down_what_it_rejected_not/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T20:27:42+00:00",
+    "first_alerted_at": "2026-10-21T21:55:00.045137+00:00"
+  },
+  "d5bb540b3855952c": {
+    "title": "Every new model made my MMORPG better, so I never released it. Finally Open-sourcing it today before Fable 5.5 drops or I will be doomed.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc049i/every_new_model_made_my_mmorpg_better_so_i_never/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T21:32:14+00:00",
+    "first_alerted_at": "2026-10-21T21:55:00.957755+00:00"
+  },
+  "978436ba99d5f562": {
+    "title": "I ported Ares (the classic 90s Mac space strategy game) to Windows, with some modern upgrades",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbxzzj/i_ported_ares_the_classic_90s_mac_space_strategy/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T20:10:22+00:00",
+    "first_alerted_at": "2026-10-21T21:55:01.875900+00:00"
   }
 }
