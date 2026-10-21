@@ -12418,5 +12418,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-20T20:56:31+00:00",
     "first_alerted_at": "2026-10-20T23:18:30.679405+00:00"
+  },
+  "0896564f158dc96f": {
+    "title": "Murmur: Claude Code (and other CLI) sessions talking to each other",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbgbxx/murmur_claude_code_and_other_cli_sessions_talking/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-21T07:10:30+00:00",
+    "first_alerted_at": "2026-10-21T07:19:29.598785+00:00"
+  },
+  "1cba30d5c5308f2a": {
+    "title": "Built an entire AI dev squad for my game and now im spending more time managing AIs than coding",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbfnf0/built_an_entire_ai_dev_squad_for_my_game_and_now/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-21T06:28:51+00:00",
+    "first_alerted_at": "2026-10-21T07:19:30.650006+00:00"
+  },
+  "37fafba01732e526": {
+    "title": "Cline Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-solar-mini4/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T07:19:24.321082+00:00",
+    "first_alerted_at": "2026-10-21T07:19:31.695146+00:00"
+  },
+  "f3ae62b1140d547b": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-nemotron-3-5-super-vl/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T07:19:24.321110+00:00",
+    "first_alerted_at": "2026-10-21T07:19:32.710787+00:00"
+  },
+  "dfd82525202befdf": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/cline-free-minimax-m3-1-flash/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T07:19:24.321138+00:00",
+    "first_alerted_at": "2026-10-21T07:19:33.825206+00:00"
+  },
+  "f2626f1fcafb2b12": {
+    "title": "Claude Campus Ambassador Program 2026 🚀 | $3,600 Stipend + API Credits |Eligibility & Details|Part 1 Manchester United F.c. (KZxjpVO5tw) - Unisba Media",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SYUxGY3Z5Z2hCOVRnR3VqdTgwMFdQenpodWFzRGs4ZG5vN1ZKbHJCbDNMdzdIelFXRWE1XzBLb2ZPU1lfZHFjNGg0eWxUSWg0aEZ2NmxseEVWZnd5TEwxdzhWcHlUQQ?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T18:21:03+00:00",
+    "first_alerted_at": "2026-10-21T07:19:34.859013+00:00"
+  },
+  "554e33dced3fa01c": {
+    "title": "Stop Claude logout after xx days in Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbfrss/stop_claude_logout_after_xx_days_in_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T06:36:16+00:00",
+    "first_alerted_at": "2026-10-21T07:19:35.981989+00:00"
+  },
+  "659a5ca61490764e": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/minimax-minimax-m3.1-flash/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T07:19:24.319792+00:00",
+    "first_alerted_at": "2026-10-21T07:19:37.004055+00:00"
+  },
+  "4588c7cc8ad03c23": {
+    "title": "Why does claud code in claude session feel better than local session?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbfrrx/why_does_claud_code_in_claude_session_feel_better/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T06:36:13+00:00",
+    "first_alerted_at": "2026-10-21T07:19:38.044304+00:00"
+  },
+  "97fd8814d8dcee6a": {
+    "title": "Hello claude user's.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbbyti/hello_claude_users/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T03:02:07+00:00",
+    "first_alerted_at": "2026-10-21T07:19:39.062167+00:00"
+  },
+  "3a50fe113cef6467": {
+    "title": "$100 of Claude cloud session credits expiring Nov 5. How would you use them for a job search + starting a small tutoring business?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbazgr/100_of_claude_cloud_session_credits_expiring_nov/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T02:13:19+00:00",
+    "first_alerted_at": "2026-10-21T07:19:40.076293+00:00"
   }
 }
