@@ -12562,5 +12562,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-21T12:50:55+00:00",
     "first_alerted_at": "2026-10-21T13:06:42.951278+00:00"
+  },
+  "82062af44375b412": {
+    "title": "I built a CLI to give each Claude Code session its own git worktree across multiple repos",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbtq8c/i_built_a_cli_to_give_each_claude_code_session/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-21T17:34:37+00:00",
+    "first_alerted_at": "2026-10-21T18:11:40.510236+00:00"
+  },
+  "c5a5b0d245b99813": {
+    "title": "Show HN: Jev drives a browser – HN login and search in 8s for half a cent",
+    "url": "https://jev-browser.rovira.sh",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T14:01:57+00:00",
+    "first_alerted_at": "2026-10-21T18:11:41.533020+00:00"
+  },
+  "9199af1e5779da4d": {
+    "title": "We designed site in Claude Design, exported the HTML, and Claude Code turned it into WordPress site with Gutenberg blocks in under 2 hours",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbrqd0/we_designed_site_in_claude_design_exported_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T16:22:15+00:00",
+    "first_alerted_at": "2026-10-21T18:11:42.663579+00:00"
+  },
+  "925407dc7a3f954d": {
+    "title": "Tested: what each lever really saves on Claude Code tokens (model switch, auto-compact, rules)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbqojp/tested_what_each_lever_really_saves_on_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T15:44:29+00:00",
+    "first_alerted_at": "2026-10-21T18:11:43.688576+00:00"
+  },
+  "658874aeccbfbcde": {
+    "title": "Paying for the top plan and getting less every week",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbt23v/paying_for_the_top_plan_and_getting_less_every/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T17:10:41+00:00",
+    "first_alerted_at": "2026-10-21T18:11:44.731355+00:00"
+  },
+  "166339a9d4d50ca6": {
+    "title": "Made Opus 5.5 experiment with 3D for my music-video renderer",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbslen/made_opus_55_experiment_with_3d_for_my_musicvideo/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T16:53:36+00:00",
+    "first_alerted_at": "2026-10-21T18:11:45.814246+00:00"
+  },
+  "7aeed10b572d02c7": {
+    "title": "It says I have $100 free Claude cloud session credit, but how do I use it with my connected repo?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbsab7/it_says_i_have_100_free_claude_cloud_session/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T16:42:33+00:00",
+    "first_alerted_at": "2026-10-21T18:11:46.877141+00:00"
   }
 }
