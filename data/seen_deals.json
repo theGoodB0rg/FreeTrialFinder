@@ -12805,5 +12805,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-22T15:03:15+00:00",
     "first_alerted_at": "2026-10-22T16:00:36.139162+00:00"
+  },
+  "5452a71a3f9bcc6b": {
+    "title": "Show HN: Mnemolith – AI coding memory that goes stale when your code changes",
+    "url": "https://github.com/anishchugh05/mnemolith",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T18:59:50+00:00",
+    "first_alerted_at": "2026-10-22T19:59:25.731494+00:00"
+  },
+  "7c5c92098f21f663": {
+    "title": "Pro isn't enough, Max 5x is too much. Can I combine two Pro accounts?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcqv17/pro_isnt_enough_max_5x_is_too_much_can_i_combine/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T18:37:20+00:00",
+    "first_alerted_at": "2026-10-22T19:59:26.618714+00:00"
+  },
+  "ce2da5dd96a04bba": {
+    "title": "Claude was taking 22s per iOS screen check, now it's 2s",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcsqmt/claude_was_taking_22s_per_ios_screen_check_now/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T19:46:57+00:00",
+    "first_alerted_at": "2026-10-22T19:59:27.531182+00:00"
+  },
+  "94338969cc201c0f": {
+    "title": "Thank you Claude. As a teacher...",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcrcsz/thank_you_claude_as_a_teacher/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T18:55:35+00:00",
+    "first_alerted_at": "2026-10-22T19:59:28.397311+00:00"
+  },
+  "5840349ca8647346": {
+    "title": "Claude resets expire at an arbitrary time during deadline day",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcr1ko/claude_resets_expire_at_an_arbitrary_time_during/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T18:44:05+00:00",
+    "first_alerted_at": "2026-10-22T19:59:29.273276+00:00"
   }
 }
