@@ -12679,5 +12679,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-21T22:32:51+00:00",
     "first_alerted_at": "2026-10-22T00:30:36.793581+00:00"
+  },
+  "1fbb2a45e2231cfb": {
+    "title": "I built a multilingual discussion site in about a week with Claude Code — people post in any language and everyone reads/replies in their own",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc8fzk/i_built_a_multilingual_discussion_site_in_about_a/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T04:01:24+00:00",
+    "first_alerted_at": "2026-10-22T05:52:40.140531+00:00"
+  },
+  "497aa36ac32bd381": {
+    "title": "I built a learning app with Claude Code that lets me go down rabbit holes without losing the course",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc4r3y/i_built_a_learning_app_with_claude_code_that_lets/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T00:58:30+00:00",
+    "first_alerted_at": "2026-10-22T05:52:41.030139+00:00"
+  },
+  "11a3bc1b18458271": {
+    "title": "I made a Claude Code setup that suggests a model and effort before a new task",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc916a/i_made_a_claude_code_setup_that_suggests_a_model/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T04:32:55+00:00",
+    "first_alerted_at": "2026-10-22T05:52:41.925093+00:00"
+  },
+  "2d84e012a05a1e28": {
+    "title": "Show HN: AI-built browser games, collected in one place",
+    "url": "https://playgroundarcade.com/",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-20T15:45:56+00:00",
+    "first_alerted_at": "2026-10-22T05:52:42.819391+00:00"
+  },
+  "7d37bd8184fccdce": {
+    "title": "Course recommendations to learn Claude from scratch? (Udemy/YouTube)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc6iad/course_recommendations_to_learn_claude_from/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T02:22:49+00:00",
+    "first_alerted_at": "2026-10-22T05:52:43.717996+00:00"
+  },
+  "971a3efc687008ae": {
+    "title": "showcase: i used claude to build a skill that interviews you about your design taste before writing any css",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc6km6/showcase_i_used_claude_to_build_a_skill_that/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T02:25:48+00:00",
+    "first_alerted_at": "2026-10-22T05:52:44.638051+00:00"
   }
 }
