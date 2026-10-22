@@ -12850,5 +12850,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-22T18:44:05+00:00",
     "first_alerted_at": "2026-10-22T19:59:29.273276+00:00"
+  },
+  "d9f76aaec334d523": {
+    "title": "I have 580 tools in Claude Code. Claude still finds the ones I turn off",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcwrp1/i_have_580_tools_in_claude_code_claude_still/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-22T22:26:20+00:00",
+    "first_alerted_at": "2026-10-22T23:15:21.536415+00:00"
+  },
+  "453b1953fbd2a0a9": {
+    "title": "Claude helped me finish my app!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcur2c/claude_helped_me_finish_my_app/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-22T21:03:01+00:00",
+    "first_alerted_at": "2026-10-22T23:15:22.504968+00:00"
+  },
+  "2e82f51c81a00ae4": {
+    "title": "I gave Claude a YouTube channel a month ago. This week it built a game where everyone's runs race each other on Sunday.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcwvrr/i_gave_claude_a_youtube_channel_a_month_ago_this/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T22:31:17+00:00",
+    "first_alerted_at": "2026-10-22T23:15:23.463223+00:00"
+  },
+  "93f5defbee8e5045": {
+    "title": "I got tired of capturing my VS Code window on stream, so I made an extension that puts the actual code on the overlay (themes, 3D tilt, zoom on mouse)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcxg2v/i_got_tired_of_capturing_my_vs_code_window_on/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T22:56:43+00:00",
+    "first_alerted_at": "2026-10-22T23:15:24.456960+00:00"
+  },
+  "1c922e37f997575e": {
+    "title": "Muse is surprisingly good. Might even switch completely.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xctsa1/muse_is_surprisingly_good_might_even_switch/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T20:25:29+00:00",
+    "first_alerted_at": "2026-10-22T23:15:25.405344+00:00"
+  },
+  "71558bb1a1b1a2a9": {
+    "title": "Built a mini-AWS with Claude for Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcup8x/built_a_miniaws_with_claude_for_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T21:01:02+00:00",
+    "first_alerted_at": "2026-10-22T23:15:26.364949+00:00"
+  },
+  "d6bfbdb9aac6c467": {
+    "title": "OpenRouter data shows most AI token consumption is now driven by everyday users not developers - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaUhsaUNYN1NXWGM5eEx6dFB1NDgzQTYzcC1PMTNQNG9RVHZLTkFERU41QjRiSjBpX1MtQXFWTEpwLUhPaUc1MDN1ck9tQzZLQ1B3U21IeDMtN1B3QlJBU09IbDVzbWtadVRObWUtbWRoVWJjV0R6ZzctTzU1SkFGRThNV1Vzbnl1eC1vUnBFa1loTDFUNlJPM0xudWlxTzhuRzRiTmt4Q0QtbVNsbHdxaUtWeXoxQURpM2N4YTdPUQ?oc=5",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-04-21T07:00:00+00:00",
+    "first_alerted_at": "2026-10-22T23:15:27.340445+00:00"
   }
 }
