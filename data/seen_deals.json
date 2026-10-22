@@ -12733,5 +12733,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-22T02:25:48+00:00",
     "first_alerted_at": "2026-10-22T05:52:44.638051+00:00"
+  },
+  "4422a1a64fef7aa6": {
+    "title": "Title: Claude Code vs Codex vs Cursor vs GitHub Copilot vs Gemini CLI — Which AI coding tool actually delivers the best performance for the money in 2026?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce54z/title_claude_code_vs_codex_vs_cursor_vs_github/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-22T09:44:58+00:00",
+    "first_alerted_at": "2026-10-22T11:27:51.004290+00:00"
+  },
+  "c236ad07328de177": {
+    "title": "Show HN: Open-source Claude skills to replace Higgsfield",
+    "url": "https://github.com/SupercmoHQ/superCMO-skills",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T06:03:55+00:00",
+    "first_alerted_at": "2026-10-22T11:27:51.983467+00:00"
   }
 }
