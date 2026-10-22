@@ -12661,5 +12661,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-21T20:10:22+00:00",
     "first_alerted_at": "2026-10-21T21:55:01.875900+00:00"
+  },
+  "e692da2ad6be0f36": {
+    "title": "I built 5 Claude Code skills that make game assets as code: pixel art, vector art, 3D, textures and sound (one scene made with all of them)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc30xk/i_built_5_claude_code_skills_that_make_game/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T23:37:34+00:00",
+    "first_alerted_at": "2026-10-22T00:30:35.786733+00:00"
+  },
+  "984d32434d76ff96": {
+    "title": "If you use Railway for Claude Hosted Apps, Disable you API Keys used there, they are being harvested.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc1l52/if_you_use_railway_for_claude_hosted_apps_disable/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-21T22:32:51+00:00",
+    "first_alerted_at": "2026-10-22T00:30:36.793581+00:00"
   }
 }
