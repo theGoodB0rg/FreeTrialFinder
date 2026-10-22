@@ -12751,5 +12751,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-22T06:03:55+00:00",
     "first_alerted_at": "2026-10-22T11:27:51.983467+00:00"
+  },
+  "8ce413fd84437db1": {
+    "title": "I kept losing Claude Code sessions that were waiting on me in some terminal tab, so I built a dashboard for all of them",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcl9m7/i_kept_losing_claude_code_sessions_that_were/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-22T15:12:29+00:00",
+    "first_alerted_at": "2026-10-22T16:00:30.846438+00:00"
+  },
+  "cadd4151254cc4a6": {
+    "title": "Free API credits are building the AI startup ecosystem and that is a more serious problem than it sounds - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUN5Rkc1NmcyVDFpbHFQZXNLSHkycUpQNERxNlhOSlFzbl9hMTFPaXdTbEMxYm5Lam1Eal9NX3NKSDhFZWRmWTVyY2dHSi04dk05Wmc3QTdsTUV6M0I2eENQOVVsSmtXM2FhWmNPQTczR3Baa2QtQUJmbTIxNmRYUVNUY0tnYUZOXzFjcm9hLWw1Q2E2WWtGN1VrRTBIVEFhNkVILVZSRjJaZWU1cDkzR1pEaV9raHVFeC1XUFhFRzBadkpoVXVQYlJpdGk?oc=5",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-05-03T07:00:00+00:00",
+    "first_alerted_at": "2026-10-22T16:00:31.909691+00:00"
+  },
+  "1a93c849b7df155f": {
+    "title": "I built a notch app with Claude Code that tells me which session needs me",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcmdzc/i_built_a_notch_app_with_claude_code_that_tells/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T15:53:50+00:00",
+    "first_alerted_at": "2026-10-22T16:00:32.959516+00:00"
+  },
+  "d2be8843d4bd7534": {
+    "title": "Does delegating save Claude quota? I measured 6 setups on 28 real tasks: Haiku alone passed every check for 93% less, handing work to cheaper models cost more",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xclm8k/does_delegating_save_claude_quota_i_measured_6/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T15:25:01+00:00",
+    "first_alerted_at": "2026-10-22T16:00:33.996557+00:00"
+  },
+  "df876334800a29df": {
+    "title": "Open-source Garmin MCP connector",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcjdh5/opensource_garmin_mcp_connector/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T14:00:11+00:00",
+    "first_alerted_at": "2026-10-22T16:00:35.108657+00:00"
+  },
+  "7e47c491d1eb2da0": {
+    "title": "Claude made my roku tv amazing!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcl0vj/claude_made_my_roku_tv_amazing/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-22T15:03:15+00:00",
+    "first_alerted_at": "2026-10-22T16:00:36.139162+00:00"
   }
 }
