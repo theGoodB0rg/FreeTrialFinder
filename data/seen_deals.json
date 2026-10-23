@@ -13147,5 +13147,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-23T18:59:11+00:00",
     "first_alerted_at": "2026-10-23T21:12:26.083843+00:00"
+  },
+  "e32641201382cc7d": {
+    "title": "Show HN: Dánwò – Open-source E2E testing with emulators and fault injection",
+    "url": "https://github.com/carbonmeai/danwo",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-23T20:06:32+00:00",
+    "first_alerted_at": "2026-10-23T23:56:27.829803+00:00"
+  },
+  "d91ff3afcb08aeb5": {
+    "title": "I gave Claude access to my task manager, with guardrails. An MCP server and a Claude Code plugin for self-hosted tasks.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdt08o/i_gave_claude_access_to_my_task_manager_with/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T23:11:57+00:00",
+    "first_alerted_at": "2026-10-23T23:56:28.755859+00:00"
+  },
+  "6c98e64d4026c7cb": {
+    "title": "Show HN: Conference / expo / trade show finder plus MCP",
+    "url": "https://www.conferencefindr.com",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T21:22:57+00:00",
+    "first_alerted_at": "2026-10-23T23:56:29.638474+00:00"
   }
 }
