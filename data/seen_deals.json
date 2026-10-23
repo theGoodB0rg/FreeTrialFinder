@@ -12976,5 +12976,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-23T02:21:11+00:00",
     "first_alerted_at": "2026-10-23T07:13:48.229544+00:00"
+  },
+  "31f122ae322e06ca": {
+    "title": "I made a Claude Code plugin that masks API keys, emails, passwords and IDs in your prompt before it's sent",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdbgdb/i_made_a_claude_code_plugin_that_masks_api_keys/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-23T11:30:00+00:00",
+    "first_alerted_at": "2026-10-23T12:47:38.213512+00:00"
+  },
+  "d699cda009255d28": {
+    "title": "To my knowledge the first published randomised controlled trial with Claude as the intervention in patient care. 300 neurosurgical patients, NEJM AI, published this month.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdcne4/to_my_knowledge_the_first_published_randomised/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T12:28:03+00:00",
+    "first_alerted_at": "2026-10-23T12:47:39.246627+00:00"
+  },
+  "72d827d81c00f45a": {
+    "title": "I'm positively surprised by the 20$ Subscription",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdcsjz/im_positively_surprised_by_the_20_subscription/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T12:34:39+00:00",
+    "first_alerted_at": "2026-10-23T12:47:40.270655+00:00"
+  },
+  "7e8545aabb74a138": {
+    "title": "Turn every Claude Code session into an interactive story: each prompt linked to the code it changed, with diffs, plain-language explanations, and an honest report of what’s done, what failed, and what it cost.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd97pu/turn_every_claude_code_session_into_an/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T09:21:19+00:00",
+    "first_alerted_at": "2026-10-23T12:47:41.278711+00:00"
+  },
+  "a7502b0c98fc8e57": {
+    "title": "Fresh Claude Code session \"knows the facts but doesn't work that way\"? What fixed it for me was moving working style out of the handoff doc",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdcz9h/fresh_claude_code_session_knows_the_facts_but/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T12:43:13+00:00",
+    "first_alerted_at": "2026-10-23T12:47:42.353039+00:00"
   }
 }
