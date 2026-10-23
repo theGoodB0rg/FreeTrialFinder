@@ -12913,5 +12913,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-04-21T07:00:00+00:00",
     "first_alerted_at": "2026-10-22T23:15:27.340445+00:00"
+  },
+  "8a1947786b7bfbba": {
+    "title": "Opus 5.5 orchestrated three local models and spent $2",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xczls1/opus_55_orchestrated_three_local_models_and_spent/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T00:33:48+00:00",
+    "first_alerted_at": "2026-10-23T01:47:44.360815+00:00"
   }
 }
