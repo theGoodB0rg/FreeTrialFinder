@@ -13021,5 +13021,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-23T12:43:13+00:00",
     "first_alerted_at": "2026-10-23T12:47:42.353039+00:00"
+  },
+  "814baca02b536130": {
+    "title": "I left a local Qwen coding overnight to stress-test an Opus-orchestrated agent setup. Six days later it's a real-time space 4X you can play in your browser",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdjjjo/i_left_a_local_qwen_coding_overnight_to/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-23T16:56:11+00:00",
+    "first_alerted_at": "2026-10-23T17:47:58.893352+00:00"
+  },
+  "009db44b60865930": {
+    "title": "Show HN: ParaGraFX – An iOS app for reading and illustrating ePub books",
+    "url": "https://apps.apple.com/us/app/paragrafx-illustrate-books/id6795768929",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T14:27:01+00:00",
+    "first_alerted_at": "2026-10-23T17:47:59.932006+00:00"
+  },
+  "1b5075bd4bdaaefb": {
+    "title": "Do u think if anthropic ipo happens next month are we in for treats?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdhtw2/do_u_think_if_anthropic_ipo_happens_next_month/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T15:52:59+00:00",
+    "first_alerted_at": "2026-10-23T17:48:00.954150+00:00"
+  },
+  "63d3bb98d868a7a5": {
+    "title": "No coding or gamedev background, 6 weeks with Opus 5.5 + Godot — from drawings to a playable game",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdhkzb/no_coding_or_gamedev_background_6_weeks_with_opus/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T15:43:39+00:00",
+    "first_alerted_at": "2026-10-23T17:48:01.980776+00:00"
+  },
+  "8c4eec0ddd5c03c9": {
+    "title": "What Claude Code skill do you use for web app security audits?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdhi0r/what_claude_code_skill_do_you_use_for_web_app/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T15:40:22+00:00",
+    "first_alerted_at": "2026-10-23T17:48:03.103614+00:00"
+  },
+  "a728810fb779a1b8": {
+    "title": "I built an open-source MCP tool specifically for Claude Code to delegate tasks to Codex and other subagents",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdgpze/i_built_an_opensource_mcp_tool_specifically_for/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T15:10:46+00:00",
+    "first_alerted_at": "2026-10-23T17:48:04.255343+00:00"
+  },
+  "d2096e964ba5947d": {
+    "title": "Show HN: Loudwalk – Review your Anki deck out loud on a walk",
+    "url": "https://loudwalk.com/?from=hn",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T14:08:33+00:00",
+    "first_alerted_at": "2026-10-23T17:48:05.281648+00:00"
   }
 }
