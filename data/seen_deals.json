@@ -12922,5 +12922,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-23T00:33:48+00:00",
     "first_alerted_at": "2026-10-23T01:47:44.360815+00:00"
+  },
+  "3103ce4da05d1f0c": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/reflection-beam-free/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T07:13:37.131960+00:00",
+    "first_alerted_at": "2026-10-23T07:13:43.581950+00:00"
+  },
+  "62f966390889fa35": {
+    "title": "weird form in claude api key registration",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd286h/weird_form_in_claude_api_key_registration/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T02:41:44+00:00",
+    "first_alerted_at": "2026-10-23T07:13:44.513444+00:00"
+  },
+  "1cc0da853a11d5c8": {
+    "title": "Why is there no $50 plan between Pro and Max?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd1q0o/why_is_there_no_50_plan_between_pro_and_max/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T02:16:44+00:00",
+    "first_alerted_at": "2026-10-23T07:13:45.429760+00:00"
+  },
+  "07869c9a4c7a6183": {
+    "title": "Claude Pricing 2026: Plans, API Costs, Claude Code, Bedrock - Fello AI",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DbDN4X0xqeWxDUUZFU1k2cW1NcnhMZUUyaUNzR3VMYlV3Um1Pb2hLb2xMT0NTRE9kTk1YdDIwbnZ4SHZrZnBrcnBOSQ?oc=5",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-15T07:00:00+00:00",
+    "first_alerted_at": "2026-10-23T07:13:46.362917+00:00"
+  },
+  "2b657809e9ea5e52": {
+    "title": "Turned a flat poster into a parallax animation by splitting it into layers first",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd265z/turned_a_flat_poster_into_a_parallax_animation_by/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T02:39:09+00:00",
+    "first_alerted_at": "2026-10-23T07:13:47.294000+00:00"
+  },
+  "dab4d1e821afa695": {
+    "title": "Hit my usage cap after 4 days, swapped to Haiku since the 6am reset just to see if I'd notice. IT CAN COOK!!!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd1tb3/hit_my_usage_cap_after_4_days_swapped_to_haiku/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T02:21:11+00:00",
+    "first_alerted_at": "2026-10-23T07:13:48.229544+00:00"
   }
 }
