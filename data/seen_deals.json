@@ -13084,5 +13084,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-23T14:08:33+00:00",
     "first_alerted_at": "2026-10-23T17:48:05.281648+00:00"
+  },
+  "7b95d66874de40fe": {
+    "title": "Every wanted a solid context layer for all your agents? I got Opus 5.5 and GPT Astra to create one",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdncol/every_wanted_a_solid_context_layer_for_all_your/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T19:19:04+00:00",
+    "first_alerted_at": "2026-10-23T21:12:20.996304+00:00"
+  },
+  "be55abb14c0ecce9": {
+    "title": "Tested Kimi K3.1 against Opus 5.5, Kimi ended up being 3.5x cheaper on this test",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdp2rg/tested_kimi_k31_against_opus_55_kimi_ended_up/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T20:25:51+00:00",
+    "first_alerted_at": "2026-10-23T21:12:21.844833+00:00"
+  },
+  "ed98704cfddf4eac": {
+    "title": "I let Claude Code run my coloring site for a week. It found the bug that made 1 in 4 phone users rage-tap.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdpno8/i_let_claude_code_run_my_coloring_site_for_a_week/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T20:49:03+00:00",
+    "first_alerted_at": "2026-10-23T21:12:22.686041+00:00"
+  },
+  "e38d3e8280e0020c": {
+    "title": "Without a lessons file, Claude reviewing a rounding change said \"ask someone\". With one, it said \"it reverses a decision the team recorded on purpose\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdpeju/without_a_lessons_file_claude_reviewing_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T20:39:05+00:00",
+    "first_alerted_at": "2026-10-23T21:12:23.524293+00:00"
+  },
+  "277051605fb69ba8": {
+    "title": "Am I really supposed to outsmart Claude to avoid wasting tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdpdky/am_i_really_supposed_to_outsmart_claude_to_avoid/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T20:37:57+00:00",
+    "first_alerted_at": "2026-10-23T21:12:24.354355+00:00"
+  },
+  "57ced8789a987660": {
+    "title": "I built three Windows apps with Claude Code! Limit Notch keeps your Claude 5-hour and weekly usage in sight (plus two movie apps)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdp4mt/i_built_three_windows_apps_with_claude_code_limit/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T20:27:59+00:00",
+    "first_alerted_at": "2026-10-23T21:12:25.207193+00:00"
+  },
+  "a800060be8249423": {
+    "title": "Which model in Claude is the best for creative writing that doesn't consume much tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdmt7s/which_model_in_claude_is_the_best_for_creative/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T18:59:11+00:00",
+    "first_alerted_at": "2026-10-23T21:12:26.083843+00:00"
   }
 }
