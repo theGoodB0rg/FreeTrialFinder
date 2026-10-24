@@ -13174,5 +13174,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-23T21:22:57+00:00",
     "first_alerted_at": "2026-10-23T23:56:29.638474+00:00"
+  },
+  "e910b4a9d4d816fe": {
+    "title": "A question for Claude users from GPT user",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdvubu/a_question_for_claude_users_from_gpt_user/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T01:28:41+00:00",
+    "first_alerted_at": "2026-10-24T04:18:12.276538+00:00"
+  },
+  "87898fe184de2f21": {
+    "title": "Gonka Broker Free API / Developer Tier",
+    "url": "https://freellm.net/models/gonka-broker/minimaxai-minimax-m2-7/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.878550+00:00",
+    "first_alerted_at": "2026-10-24T04:18:13.092283+00:00"
+  },
+  "99d99cc6ecd08d3b": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/gonka-broker/deepseek-ai-deepseek-v4-flash-0731/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.878570+00:00",
+    "first_alerted_at": "2026-10-24T04:18:13.970375+00:00"
+  },
+  "e26c36dbbd41ff5c": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/gonka-broker/zai-org-glm-5-3-flash/\"",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.878587+00:00",
+    "first_alerted_at": "2026-10-24T04:18:14.814857+00:00"
+  },
+  "423d9ed060e8b9d9": {
+    "title": "A year building a stock research MCP with Claude Code: what I kept getting wrong",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdxi4g/a_year_building_a_stock_research_mcp_with_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T02:55:36+00:00",
+    "first_alerted_at": "2026-10-24T04:18:15.695604+00:00"
+  },
+  "a7dbd190e449c730": {
+    "title": "Anthropic’s new guide (Oct 22) argues most agents should have fewer subagents: one main loop, skills and tool search instead. Includes “we cut Claude Code’s system prompt by over 80%”",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwquj/anthropics_new_guide_oct_22_argues_most_agents/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T02:15:23+00:00",
+    "first_alerted_at": "2026-10-24T04:18:16.622765+00:00"
+  },
+  "9a74e611ec085a51": {
+    "title": "Gonka Broker Free API / Developer Tier",
+    "url": "https://app.gonkabroker.com/signup\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.876571+00:00",
+    "first_alerted_at": "2026-10-24T04:18:17.561668+00:00"
+  },
+  "2e26478770fd8976": {
+    "title": "Gonka Broker Free API / Developer Tier",
+    "url": "https://proxy.gonkabroker.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.877126+00:00",
+    "first_alerted_at": "2026-10-24T04:18:18.475741+00:00"
+  },
+  "90b917a9e0e3ecc9": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/nvidia-nemotron-3-nano-omni-30b-a3b-reasoning-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.877705+00:00",
+    "first_alerted_at": "2026-10-24T04:18:19.307783+00:00"
+  },
+  "814fd82b6474bab8": {
+    "title": "SiliconFlow Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/tencent-hunyuan-mt-7b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.878324+00:00",
+    "first_alerted_at": "2026-10-24T04:18:20.152098+00:00"
+  },
+  "714e02f399d75f12": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/siliconflow/xingchenagi-xing4-0-29b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T04:18:07.878344+00:00",
+    "first_alerted_at": "2026-10-24T04:18:20.978224+00:00"
+  },
+  "60df3ff26bacde74": {
+    "title": "Claude pro vs Claude max 5x",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdy7s9/claude_pro_vs_claude_max_5x/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T03:33:48+00:00",
+    "first_alerted_at": "2026-10-24T04:18:21.815897+00:00"
   }
 }
