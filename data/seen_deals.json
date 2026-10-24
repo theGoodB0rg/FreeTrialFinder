@@ -13309,5 +13309,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T08:50:58+00:00",
     "first_alerted_at": "2026-10-24T09:02:20.213339+00:00"
+  },
+  "4ca74bba699859e4": {
+    "title": "Using Claude Haiku 4.5 for the first time",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe83t8/using_claude_haiku_45_for_the_first_time/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T13:02:53+00:00",
+    "first_alerted_at": "2026-10-24T13:30:54.844255+00:00"
+  },
+  "a08e0be65530c50c": {
+    "title": "Update to Papermorph: All I wanted was a few math worksheets for kids. Opus 5.5 made it wild.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe4e6c/update_to_papermorph_all_i_wanted_was_a_few_math/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T09:38:57+00:00",
+    "first_alerted_at": "2026-10-24T13:30:55.793545+00:00"
+  },
+  "b4b84c33faee2b81": {
+    "title": "How can I improve my token usage?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe7rgu/how_can_i_improve_my_token_usage/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T12:47:03+00:00",
+    "first_alerted_at": "2026-10-24T13:30:56.739065+00:00"
+  },
+  "77aed31659abffd0": {
+    "title": "I built a free internal linking tool with Claude Code. It found 77 missing links on my blog.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe6eom/i_built_a_free_internal_linking_tool_with_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T11:38:04+00:00",
+    "first_alerted_at": "2026-10-24T13:30:57.713380+00:00"
+  },
+  "0a28fcb65a9106b7": {
+    "title": "Trying to use Dictation on MacOS with Claude app unintrusively",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe5xge/trying_to_use_dictation_on_macos_with_claude_app/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T11:11:06+00:00",
+    "first_alerted_at": "2026-10-24T13:30:58.710757+00:00"
   }
 }
