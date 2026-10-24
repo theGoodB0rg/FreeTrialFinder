@@ -13354,5 +13354,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T11:11:06+00:00",
     "first_alerted_at": "2026-10-24T13:30:58.710757+00:00"
+  },
+  "697f8021ce1a5467": {
+    "title": "Searching the web with Claude successfully",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xedmoh/searching_the_web_with_claude_successfully/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-24T16:52:10+00:00",
+    "first_alerted_at": "2026-10-24T17:16:28.698313+00:00"
+  },
+  "00a29d293d5de2f4": {
+    "title": "I built /paint — a free pixel art & sprite editor mod that lives inside a Claude Code pane (built with Claude Code)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xebr5u/i_built_paint_a_free_pixel_art_sprite_editor_mod/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T15:36:31+00:00",
+    "first_alerted_at": "2026-10-24T17:16:29.585181+00:00"
+  },
+  "57e1ffdba8777216": {
+    "title": "This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9sri/this_is_not_a_masterpiece_its_a_claudesterpiece/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T14:15:59+00:00",
+    "first_alerted_at": "2026-10-24T17:16:30.628471+00:00"
+  },
+  "70a0d51381cfd7ad": {
+    "title": "How are you getting a daily X + Reddit digest into Claude?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xedprw/how_are_you_getting_a_daily_x_reddit_digest_into/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T16:55:38+00:00",
+    "first_alerted_at": "2026-10-24T17:16:31.563983+00:00"
+  },
+  "aa3753593a10c6c5": {
+    "title": "How I ship iPhone apps solo with Claude Code agents: design, code, App Store release and marketing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xea9j1/how_i_ship_iphone_apps_solo_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T14:35:41+00:00",
+    "first_alerted_at": "2026-10-24T17:16:32.707496+00:00"
+  },
+  "ad1271a2f3bcdca3": {
+    "title": "Am I wasting too many tokens using Claude Code for web development? Looking for some advice",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9gb7/am_i_wasting_too_many_tokens_using_claude_code/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T14:01:35+00:00",
+    "first_alerted_at": "2026-10-24T17:16:33.598834+00:00"
   }
 }
