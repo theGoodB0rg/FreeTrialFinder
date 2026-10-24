@@ -13435,5 +13435,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T17:58:14+00:00",
     "first_alerted_at": "2026-10-24T19:41:14.190072+00:00"
+  },
+  "f0022019dc4a3a52": {
+    "title": "Measured: Usage consumption of different models",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xek9hi/measured_usage_consumption_of_different_models/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T21:22:29+00:00",
+    "first_alerted_at": "2026-10-24T22:19:10.866509+00:00"
+  },
+  "def1b3b40e9f069f": {
+    "title": "Day 22. Opus 5.5 is not better at everything",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xek9bj/day_22_opus_55_is_not_better_at_everything/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T21:22:19+00:00",
+    "first_alerted_at": "2026-10-24T22:19:11.702356+00:00"
+  },
+  "377c06fa26eda5a1": {
+    "title": "I want to use Claude, but the response style is so jarring, what can I do to improve it?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeirbx/i_want_to_use_claude_but_the_response_style_is_so/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T20:18:32+00:00",
+    "first_alerted_at": "2026-10-24T22:19:12.531239+00:00"
   }
 }
