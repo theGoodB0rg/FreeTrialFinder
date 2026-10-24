@@ -13282,5 +13282,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T03:33:48+00:00",
     "first_alerted_at": "2026-10-24T04:18:21.815897+00:00"
+  },
+  "cd27d1d7073910eb": {
+    "title": "Is it me who is thinking Claude actually the closest thing we have to AGI, or are we just coping?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe0xb6/is_it_me_who_is_thinking_claude_actually_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T06:05:28+00:00",
+    "first_alerted_at": "2026-10-24T09:02:18.154935+00:00"
+  },
+  "7096ef3bfeff0791": {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUw1T3diMDBtTXdtdnJ1bk5DdUpfUWtuYzJaVjF2M0lUMjJkeXYxZUN0bEQ5bU45OGM5OXZXUzJGZFJKSHhRaHRlbk80dnZlMEpNaGZfT1JfWmhnRmtpMGJ0dWNlaFRNd0FWVUNQVGRoeVhJVmk5clNPMkRZWmNnLUZSRmlZeXN5bEtvNW51WmlSazMxcHhPODdIV2lZYnNyWDBRUk1nRW5KMklkaHpwSFQ5M0NOS2l2dlow?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-06T07:00:00+00:00",
+    "first_alerted_at": "2026-10-24T09:02:19.231985+00:00"
+  },
+  "12575e85571fd5bf": {
+    "title": "Help explaining Claude promotional credits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe3mic/help_explaining_claude_promotional_credits/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T08:50:58+00:00",
+    "first_alerted_at": "2026-10-24T09:02:20.213339+00:00"
   }
 }
