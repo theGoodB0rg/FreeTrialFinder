@@ -13408,5 +13408,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T14:01:35+00:00",
     "first_alerted_at": "2026-10-24T17:16:33.598834+00:00"
+  },
+  "29f703a08bc3cabf": {
+    "title": "Built a tool to optimize my Claude Code usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xef4ed/built_a_tool_to_optimize_my_claude_code_usage/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T17:52:21+00:00",
+    "first_alerted_at": "2026-10-24T19:41:12.250438+00:00"
+  },
+  "905a4016d2afb65e": {
+    "title": "ok opus 5.5, the news network worked. now create the city around it...",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xehm9a/ok_opus_55_the_news_network_worked_now_create_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T19:31:51+00:00",
+    "first_alerted_at": "2026-10-24T19:41:13.220537+00:00"
+  },
+  "a03fe114d2e15b8f": {
+    "title": "How many real coding tasks fit in one 5-hour window on the $20 plans? I measured it: Sonnet ~33, Haiku ~20, Codex ~18, Opus ~6",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xef9sl/how_many_real_coding_tasks_fit_in_one_5hour/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T17:58:14+00:00",
+    "first_alerted_at": "2026-10-24T19:41:14.190072+00:00"
   }
 }
