@@ -13462,5 +13462,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T20:18:32+00:00",
     "first_alerted_at": "2026-10-24T22:19:12.531239+00:00"
+  },
+  "96f01498d8e8a861": {
+    "title": "Claude Haiku 5.5 Cuts Prices and Adds API Credits - Brief IA",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFJDcU1SMWwzM1hMUGQyZ1NBa0c5YVM3d3d2VWhDdHdnODA1cU90VjRtQ3h5RU9yUTBLNDlQYmQ3ZU1YV2RaZGNYLWJTQkhqV1R6d0I0UWtJZXBUS3U1aGVPZnNtUUM2NHFrQ1FMOXNDdzgzQkRxX0JFYW1FQlprTkkwdkhFQ0tVUU1r?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-07T07:00:00+00:00",
+    "first_alerted_at": "2026-10-25T00:27:43.106053+00:00"
+  },
+  "0a335f0c4f8a9e1f": {
+    "title": "I turned my sessions and workday into a retro office game",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xen9ax/i_turned_my_sessions_and_workday_into_a_retro/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-24T23:40:40+00:00",
+    "first_alerted_at": "2026-10-25T00:27:43.976582+00:00"
   }
 }
