@@ -13633,5 +13633,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-25T16:08:26+00:00",
     "first_alerted_at": "2026-10-25T18:16:07.739584+00:00"
+  },
+  "0ae121efc9532698": {
+    "title": "I built an open-source MCP server for EU VAT validation, looking for feedback",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfcgcf/i_built_an_opensource_mcp_server_for_eu_vat/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T20:10:31+00:00",
+    "first_alerted_at": "2026-10-25T21:08:07.304630+00:00"
+  },
+  "addc73831375d73c": {
+    "title": "Postman desktop automatically installed a Claude Code plugin on my Mac. Logs, config and installer source evidence.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfauxa/postman_desktop_automatically_installed_a_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T19:07:57+00:00",
+    "first_alerted_at": "2026-10-25T21:08:08.149821+00:00"
+  },
+  "4c05c2923d526b8a": {
+    "title": "Building a visualizer",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfcztu/building_a_visualizer/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T20:32:05+00:00",
+    "first_alerted_at": "2026-10-25T21:08:09.014669+00:00"
+  },
+  "c397b6f0715e62af": {
+    "title": "How to get motion graphic results like these?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfcu4r/how_to_get_motion_graphic_results_like_these/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T20:25:34+00:00",
+    "first_alerted_at": "2026-10-25T21:08:09.872148+00:00"
+  },
+  "32da53868e970c8c": {
+    "title": "Claude API too expensive :/ any getarounds ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfb86r/claude_api_too_expensive_any_getarounds/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T19:22:25+00:00",
+    "first_alerted_at": "2026-10-25T21:08:10.712340+00:00"
+  },
+  "491366f2bc32cbb1": {
+    "title": "Hi everyone, I've never used Claude Models, even though I use about 500m tokens/day.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfd60c/hi_everyone_ive_never_used_claude_models_even/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T20:38:57+00:00",
+    "first_alerted_at": "2026-10-25T21:08:11.565961+00:00"
+  },
+  "a6d8075f92a8ffd7": {
+    "title": "Anyone else having serious quality issues with Claude lately?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfcot1/anyone_else_having_serious_quality_issues_with/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T20:19:37+00:00",
+    "first_alerted_at": "2026-10-25T21:08:12.426182+00:00"
   }
 }
