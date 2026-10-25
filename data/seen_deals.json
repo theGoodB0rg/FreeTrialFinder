@@ -13696,5 +13696,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-25T20:19:37+00:00",
     "first_alerted_at": "2026-10-25T21:08:12.426182+00:00"
+  },
+  "ae8abf520715b95c": {
+    "title": "Same game built twice: Opus alone vs Opus planning + local Qwen coding. 16 min vs 42 min, $2.52 vs $0.62",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfgyl1/same_game_built_twice_opus_alone_vs_opus_planning/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T23:21:58+00:00",
+    "first_alerted_at": "2026-10-25T23:28:24.686898+00:00"
+  },
+  "4195ce70a0c1ce0f": {
+    "title": "Claude x Github integration recommendations?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfh28g/claude_x_github_integration_recommendations/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T23:26:35+00:00",
+    "first_alerted_at": "2026-10-25T23:28:25.593807+00:00"
   }
 }
