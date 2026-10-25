@@ -13480,5 +13480,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-24T23:40:40+00:00",
     "first_alerted_at": "2026-10-25T00:27:43.976582+00:00"
+  },
+  "1d4e19d5a60034d0": {
+    "title": "You are probably burning half your api budget on discarded code patterns (and how to fix it)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xes162/you_are_probably_burning_half_your_api_budget_on/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-25T03:41:15+00:00",
+    "first_alerted_at": "2026-10-25T05:10:30.556872+00:00"
+  },
+  "4d19177f76d54335": {
+    "title": "Claude Max API credits: amounts and eligibility - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUR6bzFWQ0dKTm5UZ1RiRmMxYW9HYngyWTJDdkJNNDExWC1VR3Z1aXNwa2RLS0UzdjNTUkxpeTIydmdMZzkzTGlSRGd4cFZTdWQyMklITmhYeFFxWTNlTkFmTVYxVkFFN1p0U1ZvRVRSRkx5UTRMYWVoR1ZOekpidGNPczJER2stdUxNdXkwd2hoMlRHenc?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-09T07:00:00+00:00",
+    "first_alerted_at": "2026-10-25T05:10:31.375735+00:00"
+  },
+  "0ce1feb7ee6fa9be": {
+    "title": "Unified Claude (chat + Cowork in one) is now GA for Enterprise plans, with four new admin cost controls including an “Efficient mode”",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeq9ps/unified_claude_chat_cowork_in_one_is_now_ga_for/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T02:08:50+00:00",
+    "first_alerted_at": "2026-10-25T05:10:32.316750+00:00"
+  },
+  "b1e7cdaa3c10ccbd": {
+    "title": "I built a tool that helps customizing Claude Desktop theme 😀",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeqizw/i_built_a_tool_that_helps_customizing_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T02:22:15+00:00",
+    "first_alerted_at": "2026-10-25T05:10:33.126148+00:00"
+  },
+  "586495bab0daeddd": {
+    "title": "Claude weekly roundup (Oct 19–25): two Claude Code leads exit before the IPO, and Anthropic says \"use fewer subagents\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xenuvt/claude_weekly_roundup_oct_1925_two_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T00:08:44+00:00",
+    "first_alerted_at": "2026-10-25T05:10:33.940048+00:00"
+  },
+  "5f744446e06ebb69": {
+    "title": "How would you use a lot of tokens as a solo founder",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xes9ue/how_would_you_use_a_lot_of_tokens_as_a_solo/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T03:54:13+00:00",
+    "first_alerted_at": "2026-10-25T05:10:34.747356+00:00"
+  },
+  "4602f3378084512d": {
+    "title": "Usage cap advice for the non-technical",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeozdj/usage_cap_advice_for_the_nontechnical/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T01:03:51+00:00",
+    "first_alerted_at": "2026-10-25T05:10:35.566307+00:00"
   }
 }
