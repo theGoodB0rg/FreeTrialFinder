@@ -13561,5 +13561,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-25T07:13:08+00:00",
     "first_alerted_at": "2026-10-25T10:03:11.217617+00:00"
+  },
+  "118fb2e0bff45fc3": {
+    "title": "I built an open-source App Store and Google Play rank tracker with Claude Code. Here's how the work is split",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf3oo6/i_built_an_opensource_app_store_and_google_play/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-25T14:23:47+00:00",
+    "first_alerted_at": "2026-10-25T14:31:02.799648+00:00"
+  },
+  "33e807797a7c582b": {
+    "title": "Add-ons/skills for Claude desktop that reduce token consumption without decreasing the quality of answers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf3t77/addonsskills_for_claude_desktop_that_reduce_token/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T14:28:57+00:00",
+    "first_alerted_at": "2026-10-25T14:31:03.833779+00:00"
+  },
+  "7a22afb2ad3bc84e": {
+    "title": "Regarding reverse engineering TVs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf2l6b/regarding_reverse_engineering_tvs/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T13:37:18+00:00",
+    "first_alerted_at": "2026-10-25T14:31:04.734424+00:00"
   }
 }
