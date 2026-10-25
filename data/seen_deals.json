@@ -13543,5 +13543,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-25T01:03:51+00:00",
     "first_alerted_at": "2026-10-25T05:10:35.566307+00:00"
+  },
+  "be7cccc12e1f9f6d": {
+    "title": "Are we getting 100/200$ api credits on Claude pro or max",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xev4ct/are_we_getting_100200_api_credits_on_claude_pro/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T06:38:08+00:00",
+    "first_alerted_at": "2026-10-25T10:03:10.334320+00:00"
+  },
+  "73cad0af0f5013e7": {
+    "title": "Claude Code's questions were hard for me to follow (dyslexia), so I built a form it sends instead",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xevpnb/claude_codes_questions_were_hard_for_me_to_follow/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T07:13:08+00:00",
+    "first_alerted_at": "2026-10-25T10:03:11.217617+00:00"
   }
 }
