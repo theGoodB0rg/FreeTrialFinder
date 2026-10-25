@@ -13588,5 +13588,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-25T13:37:18+00:00",
     "first_alerted_at": "2026-10-25T14:31:04.734424+00:00"
+  },
+  "9e671a3a0f6f6964": {
+    "title": "Claude for startups is an amazing program",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf5ugq/claude_for_startups_is_an_amazing_program/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T15:51:26+00:00",
+    "first_alerted_at": "2026-10-25T18:16:04.119197+00:00"
+  },
+  "90ac592a1c2d71ec": {
+    "title": "Get more from Claude: A portal to AI you can own and expand (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf7stw/get_more_from_claude_a_portal_to_ai_you_can_own/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T17:07:00+00:00",
+    "first_alerted_at": "2026-10-25T18:16:05.013554+00:00"
+  },
+  "ccceea7ddbe22d9e": {
+    "title": "I built a Claude Code plugin that shows where your tokens go",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf7uxf/i_built_a_claude_code_plugin_that_shows_where/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T17:09:16+00:00",
+    "first_alerted_at": "2026-10-25T18:16:05.975608+00:00"
+  },
+  "dd21b9d9f96fff01": {
+    "title": "I kept missing when Claude Code finished, so I built a tiny moon in my MacBook notch that cheers when it's done",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf8my4/i_kept_missing_when_claude_code_finished_so_i/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T17:40:00+00:00",
+    "first_alerted_at": "2026-10-25T18:16:06.860579+00:00"
+  },
+  "fcaff69220753743": {
+    "title": "I'm working on a fairly big coding reconstruction on a free account and just have a question.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xf6amw/im_working_on_a_fairly_big_coding_reconstruction/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T16:08:26+00:00",
+    "first_alerted_at": "2026-10-25T18:16:07.739584+00:00"
   }
 }
