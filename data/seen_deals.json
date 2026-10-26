@@ -13732,5 +13732,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-26T00:02:33+00:00",
     "first_alerted_at": "2026-10-26T01:35:06.182117+00:00"
+  },
+  "54ab4f41ef248b68": {
+    "title": "I accidentally spent $2,400 in AI credits generating pictures of a depressed penguin",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfn8x1/i_accidentally_spent_2400_in_ai_credits/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-26T04:27:59+00:00",
+    "first_alerted_at": "2026-10-26T07:35:58.801262+00:00"
+  },
+  "c2b852e9f9ec4039": {
+    "title": "Is there a way to rewrite the claude cli temperature without getting banned?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfnqhx/is_there_a_way_to_rewrite_the_claude_cli/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T04:56:04+00:00",
+    "first_alerted_at": "2026-10-26T07:35:59.744076+00:00"
+  },
+  "8b153b22c9df2695": {
+    "title": "I built a free Firefox extension (with Claude Code) that searches the full text of all my claude.ai chats",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfq9w4/i_built_a_free_firefox_extension_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:34:12+00:00",
+    "first_alerted_at": "2026-10-26T07:36:00.616605+00:00"
+  },
+  "0d12ef14eca992a1": {
+    "title": "What Claude Code actually runs for my one-person company after six weeks, and the five things it still cannot do",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfkozw/what_claude_code_actually_runs_for_my_oneperson/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T02:15:07+00:00",
+    "first_alerted_at": "2026-10-26T07:36:01.495315+00:00"
+  },
+  "7167f3fa1440c18a": {
+    "title": "Opus 5.5 writes slop code, but succeeds anyways. A research project inspired by SlopCodeBench",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfkhum/opus_55_writes_slop_code_but_succeeds_anyways_a/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T02:05:20+00:00",
+    "first_alerted_at": "2026-10-26T07:36:02.489078+00:00"
+  },
+  "552d6f42b9b6e26b": {
+    "title": "ChatGPT和Claude怎么选",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfkvlc/chatgpt和claude怎么选/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T02:24:07+00:00",
+    "first_alerted_at": "2026-10-26T07:36:03.395519+00:00"
+  },
+  "442704ff43255243": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/poolside-laguna-s-2-1-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:35:53.813504+00:00",
+    "first_alerted_at": "2026-10-26T07:36:04.264698+00:00"
+  },
+  "63abb992edf149f8": {
+    "title": "Ollama Cloud Free API / Developer Tier",
+    "url": "https://freellm.net/models/ollama-cloud/gpt-oss-120b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:35:53.813632+00:00",
+    "first_alerted_at": "2026-10-26T07:36:05.168981+00:00"
+  },
+  "fae343d2d69d12a5": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ollama-cloud/nemotron-3-ultra/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:35:53.813650+00:00",
+    "first_alerted_at": "2026-10-26T07:36:06.064000+00:00"
+  },
+  "0134f27b67851c0f": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ollama-cloud/deepseek-v4-pro/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:35:53.813666+00:00",
+    "first_alerted_at": "2026-10-26T07:36:06.941801+00:00"
+  },
+  "8a677c38dc6232aa": {
+    "title": "Show HN: pw-repl – A Playwright-powered REPL for you and your agents to share",
+    "url": "https://github.com/arcanemachine/pw-repl",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:28:33+00:00",
+    "first_alerted_at": "2026-10-26T07:36:07.841980+00:00"
+  },
+  "897828147c36a3f1": {
+    "title": "I had some extra credits to burn so I asked Opus for an AI takeover scenario and this it what it came up with: The Settling",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfmp0t/i_had_some_extra_credits_to_burn_so_i_asked_opus/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T03:58:17+00:00",
+    "first_alerted_at": "2026-10-26T07:36:08.722308+00:00"
   }
 }
