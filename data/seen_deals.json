@@ -13840,5 +13840,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-26T03:58:17+00:00",
     "first_alerted_at": "2026-10-26T07:36:08.722308+00:00"
+  },
+  "1b0d15b929ad62c0": {
+    "title": "I gave Claude Opus 5.5, Gemini 4 Argon and Kimi K3.1 $25 each to make a horror game that scares me. Opus put my own face on a funeral photo",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfx9y2/i_gave_claude_opus_55_gemini_4_argon_and_kimi_k31/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-26T13:46:28+00:00",
+    "first_alerted_at": "2026-10-26T15:00:02.680017+00:00"
+  },
+  "1591258b4055c948": {
+    "title": "Claude Max and Team plans now include API credits you cannot spend on Claude Code - MIXED News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXU2YTFTUklZUG95RUN1Y2tKcHBPVWtNcXhuZFFyUUNCeE9EbEI5cjgzSjJ2WXVYVTdXeU9WUDZNRUN4cXlCOXhwU0FoQzNoeGh4MGtlZjJ6azRvdE5wUG1TbzhNVzFBS2NZdnJuNmFrcE9XZXBJbTJMV3BRdmY3aG94NFE?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T07:00:00+00:00",
+    "first_alerted_at": "2026-10-26T15:00:03.543148+00:00"
+  },
+  "c62f7206a7d2578a": {
+    "title": "Is there an efficient way for Claude to search LinkedIn jobs?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfweja/is_there_an_efficient_way_for_claude_to_search/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T13:11:20+00:00",
+    "first_alerted_at": "2026-10-26T15:00:04.467285+00:00"
+  },
+  "82ee905cb80555d9": {
+    "title": "I built a Mac meeting recorder with Claude Code, and Claude can now answer \"what did we decide?\" from my calls, with the minute",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfxmvo/i_built_a_mac_meeting_recorder_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T14:00:35+00:00",
+    "first_alerted_at": "2026-10-26T15:00:05.460799+00:00"
+  },
+  "5e6f8718dcaa2a90": {
+    "title": "I added screen sharing to my Claude Code agents monitor: each agent shows its tasks, tests, diffs and browser live",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfx68z/i_added_screen_sharing_to_my_claude_code_agents/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T13:42:27+00:00",
+    "first_alerted_at": "2026-10-26T15:00:06.340198+00:00"
+  },
+  "5aafb7d27d78c818": {
+    "title": "Great agent harness with 242k start on Git ( possibly from one of the winner Claude Code hackathon)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfxmt2/great_agent_harness_with_242k_start_on_git/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T14:00:32+00:00",
+    "first_alerted_at": "2026-10-26T15:00:07.208552+00:00"
+  },
+  "1a10403a9d84d5fa": {
+    "title": "A local layer that strips names, keys and IPs before prompts reach Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfwkkc/a_local_layer_that_strips_names_keys_and_ips/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T13:18:13+00:00",
+    "first_alerted_at": "2026-10-26T15:00:08.095585+00:00"
+  },
+  "55d7e7f4107a340a": {
+    "title": "Question about Claude Pro",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfypls/question_about_claude_pro/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T14:41:22+00:00",
+    "first_alerted_at": "2026-10-26T15:00:09.011131+00:00"
+  },
+  "29c8c848072d2fbb": {
+    "title": "Show HN: pw-repl - A Playwright-powered REPL for you and your agents to share",
+    "url": "https://github.com/arcanemachine/pw-repl",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T07:28:33+00:00",
+    "first_alerted_at": "2026-10-26T15:00:09.898703+00:00"
+  },
+  "05b58feed7ebaaf4": {
+    "title": "Montage vidéo avec Claude ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfy9uq/montage_vidéo_avec_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T14:24:43+00:00",
+    "first_alerted_at": "2026-10-26T15:00:10.764360+00:00"
+  },
+  "91824c3f27d93a04": {
+    "title": "Hey needed to know a rough idea regarding token usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfxwrf/hey_needed_to_know_a_rough_idea_regarding_token/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T14:10:39+00:00",
+    "first_alerted_at": "2026-10-26T15:00:11.683803+00:00"
+  },
+  "34cdb3d0e7d8a3db": {
+    "title": "PullMD update: half a year later, still turning URLs into clean Markdown for Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfx9g7/pullmd_update_half_a_year_later_still_turning/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T13:45:54+00:00",
+    "first_alerted_at": "2026-10-26T15:00:12.567032+00:00"
   }
 }
