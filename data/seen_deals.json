@@ -13948,5 +13948,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-26T13:45:54+00:00",
     "first_alerted_at": "2026-10-26T15:00:12.567032+00:00"
+  },
+  "1497394d5a02720f": {
+    "title": "Show HN: Mainplane – Agent in Go that lives on your old PC, drives your laptop",
+    "url": "https://github.com/mainplane-ai/mainplane",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T16:37:03+00:00",
+    "first_alerted_at": "2026-10-26T20:26:06.796299+00:00"
+  },
+  "70ae181699d245e4": {
+    "title": "Built a Claude Skill to Re-Design any Codebase from First Principles (Using your own brain)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg5pz9/built_a_claude_skill_to_redesign_any_codebase/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T18:55:39+00:00",
+    "first_alerted_at": "2026-10-26T20:26:07.740533+00:00"
+  },
+  "f4d605788d4ed35a": {
+    "title": "Waterfall method version 2?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg3ty9/waterfall_method_version_2/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T17:46:15+00:00",
+    "first_alerted_at": "2026-10-26T20:26:08.697752+00:00"
+  },
+  "bb127ac0c604660e": {
+    "title": "11 Claude Code builds of the same app: a one-paragraph prompt lost a third of the product decisions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6qmz/11_claude_code_builds_of_the_same_app_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T19:32:45+00:00",
+    "first_alerted_at": "2026-10-26T20:26:09.609262+00:00"
+  },
+  "060bb788d5cce8a8": {
+    "title": "claude built this launch video for my open-source design studio",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg7nuh/claude_built_this_launch_video_for_my_opensource/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T20:07:00+00:00",
+    "first_alerted_at": "2026-10-26T20:26:10.506115+00:00"
+  },
+  "9f17e5d82f34271c": {
+    "title": "Work in ever lasting progress: Album of the Day Club",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg3xeh/work_in_ever_lasting_progress_album_of_the_day/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T17:49:44+00:00",
+    "first_alerted_at": "2026-10-26T20:26:11.408732+00:00"
+  },
+  "6ab9b354178acdfa": {
+    "title": "I made an Amazon concept ad in French with Claude code, even though I’m not fluent",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg4i6b/i_made_an_amazon_concept_ad_in_french_with_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T18:10:11+00:00",
+    "first_alerted_at": "2026-10-26T20:26:12.336183+00:00"
   }
 }
