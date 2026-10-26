@@ -13714,5 +13714,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-25T23:26:35+00:00",
     "first_alerted_at": "2026-10-25T23:28:25.593807+00:00"
+  },
+  "94bb034fb56926c4": {
+    "title": "built a google analytics alternative with claude code. every visitor shows up on a 3d globe in under a second",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfhprr/built_a_google_analytics_alternative_with_claude/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-25T23:56:50+00:00",
+    "first_alerted_at": "2026-10-26T01:35:05.263964+00:00"
+  },
+  "6cb4cbabcdd9d95f": {
+    "title": "I built UTD, a live board where Claude Code and I work the same backlog (open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfhv7t/i_built_utd_a_live_board_where_claude_code_and_i/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T00:02:33+00:00",
+    "first_alerted_at": "2026-10-26T01:35:06.182117+00:00"
   }
 }
