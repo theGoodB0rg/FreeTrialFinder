@@ -14137,5 +14137,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-27T10:09:06+00:00",
     "first_alerted_at": "2026-10-27T10:50:32.860697+00:00"
+  },
+  "58a94dd30979c399": {
+    "title": "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+    "url": "https://sectr.dev",
+    "provider": "OpenAI",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-27T15:40:07+00:00",
+    "first_alerted_at": "2026-10-27T16:17:37.645939+00:00"
+  },
+  "f52209f1f6698c6f": {
+    "title": "I built a J.A.R.V.I.S.-style HUD for Claude Code: live context and quota gauges, warnings before big file reads, and auto-compact at 85%",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgupbt/i_built_a_jarvisstyle_hud_for_claude_code_live/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-27T14:54:37+00:00",
+    "first_alerted_at": "2026-10-27T16:17:38.537502+00:00"
+  },
+  "cf26386ee046ded8": {
+    "title": "I built an open-source app that runs Claude Code as persistent agents with their own browser and a 2FA vault",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgtcvj/i_built_an_opensource_app_that_runs_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-27T14:01:21+00:00",
+    "first_alerted_at": "2026-10-27T16:17:40.172709+00:00"
+  },
+  "ec01e094989ccfd9": {
+    "title": "I built a Claude Code plugin that turns your agent's tool calls into MilkDrop visuals, with a gauge for when it is stuck",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgtgey/i_built_a_claude_code_plugin_that_turns_your/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T14:05:14+00:00",
+    "first_alerted_at": "2026-10-27T16:17:41.027974+00:00"
+  },
+  "4f16619c5829fa1c": {
+    "title": "Claude is performing 3.8x poorer compared to last week based on my claude code token analysis",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xguw7r/claude_is_performing_38x_poorer_compared_to_last/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T15:01:48+00:00",
+    "first_alerted_at": "2026-10-27T16:17:41.934899+00:00"
+  },
+  "9d634ddd2afdb50c": {
+    "title": "I built a platform where my non-dev colleagues deploy their Claude Code apps. Here’s how it went",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xguj8m/i_built_a_platform_where_my_nondev_colleagues/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T14:48:04+00:00",
+    "first_alerted_at": "2026-10-27T16:17:42.791703+00:00"
+  },
+  "44dbf55a33ccd14a": {
+    "title": "3 standing rules that stop Claude from burning through my weekly limit",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgt5hm/3_standing_rules_that_stop_claude_from_burning/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T13:53:30+00:00",
+    "first_alerted_at": "2026-10-27T16:17:43.660765+00:00"
+  },
+  "75172004ae09923d": {
+    "title": "I let Claude color-match 64 AI-generated shots in Resolve Studio via MCP – what worked and what didn't",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgv5jh/i_let_claude_colormatch_64_aigenerated_shots_in/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T15:11:35+00:00",
+    "first_alerted_at": "2026-10-27T16:17:44.531588+00:00"
+  },
+  "68b252f62c119049": {
+    "title": "Discussion Hub for new Claude incident: Elevated errors for Claude Sonnet 5.5 on Oct 27, 2026",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgv524/discussion_hub_for_new_claude_incident_elevated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T15:11:04+00:00",
+    "first_alerted_at": "2026-10-27T16:17:45.406524+00:00"
+  },
+  "053975257323a44a": {
+    "title": "I made an online WW2 dogfight game that runs in the browser with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgw3vd/i_made_an_online_ww2_dogfight_game_that_runs_in/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T15:47:02+00:00",
+    "first_alerted_at": "2026-10-27T16:17:47.448549+00:00"
+  },
+  "5b28eab2a52a7c0d": {
+    "title": "Claude Sonnet and Opus built 11 from-scratch C# libraries (1.14M lines) in 6 days. Here's the agent setup.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgv8br/claude_sonnet_and_opus_built_11_fromscratch_c/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T15:14:29+00:00",
+    "first_alerted_at": "2026-10-27T16:17:48.326273+00:00"
   }
 }
