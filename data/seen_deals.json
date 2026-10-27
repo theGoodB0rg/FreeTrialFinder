@@ -14047,5 +14047,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-26T22:29:12+00:00",
     "first_alerted_at": "2026-10-27T00:02:17.762989+00:00"
+  },
+  "9811f62fb58f463b": {
+    "title": "A few days ago I shared kuron (Claude plays the whole app instead of writing it). I'd love your honest feedback on where to take it next",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgk0s2/a_few_days_ago_i_shared_kuron_claude_plays_the/",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-27T05:21:26+00:00",
+    "first_alerted_at": "2026-10-27T05:26:17.818018+00:00"
+  },
+  "88cf0f039eaa434f": {
+    "title": "Handling 4 Claude accounts simultaneously? Use Allowance Bar to track their usage (and Codex, and Cursor, and Gemini, and…)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgjof9/handling_4_claude_accounts_simultaneously_use/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-27T05:01:35+00:00",
+    "first_alerted_at": "2026-10-27T05:26:18.766145+00:00"
+  },
+  "48991b6b2c2d513d": {
+    "title": "Used Claude Code to patch MLB The Show 16 on RPCS3 so I could play online with a friend again",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgjfvg/used_claude_code_to_patch_mlb_the_show_16_on/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T04:48:20+00:00",
+    "first_alerted_at": "2026-10-27T05:26:19.717174+00:00"
+  },
+  "4271cc6b3be41b15": {
+    "title": "I built a Tamagotchi for Claude Code that eats your tokens: 12 days, 346 commits, and Claude Code wrote almost all of it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgijef/i_built_a_tamagotchi_for_claude_code_that_eats/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T03:59:35+00:00",
+    "first_alerted_at": "2026-10-27T05:26:20.720956+00:00"
+  },
+  "f98da55550c0d9e7": {
+    "title": "Question about Claude and Vibe coding",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xghtjw/question_about_claude_and_vibe_coding/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T03:22:27+00:00",
+    "first_alerted_at": "2026-10-27T05:26:21.813942+00:00"
+  },
+  "94c1f092c6cc4c71": {
+    "title": "Claude caught Claude wasting tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xghc4s/claude_caught_claude_wasting_tokens/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T02:58:49+00:00",
+    "first_alerted_at": "2026-10-27T05:26:22.766754+00:00"
+  },
+  "eb93c1d191adb01e": {
+    "title": "Anthropic released a Claude for Nonprofits plugin (Oct 26): auto-installed on nonprofit Team and Enterprise plans, Claude Code included at no extra cost",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xggxay/anthropic_released_a_claude_for_nonprofits_plugin/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T02:38:46+00:00",
+    "first_alerted_at": "2026-10-27T05:26:23.735470+00:00"
+  },
+  "83939425411b839e": {
+    "title": "AI enable your Sand Table",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xghtnl/ai_enable_your_sand_table/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T03:22:34+00:00",
+    "first_alerted_at": "2026-10-27T05:26:24.688055+00:00"
+  },
+  "5f7efc64090b6c84": {
+    "title": "left claude running overnight on a big task, $398 bill in the morning (worth it tho)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xggvd1/left_claude_running_overnight_on_a_big_task_398/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T02:36:18+00:00",
+    "first_alerted_at": "2026-10-27T05:26:25.638370+00:00"
   }
 }
