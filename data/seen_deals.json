@@ -14011,5 +14011,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-26T18:10:11+00:00",
     "first_alerted_at": "2026-10-26T20:26:12.336183+00:00"
+  },
+  "2f298f9063d09932": {
+    "title": "Kanzo, a tiny self-hosted kanban board you and your coding agents can share (~5k lines, one 4 MB binary)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgbl62/kanzo_a_tiny_selfhosted_kanban_board_you_and_your/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T22:41:29+00:00",
+    "first_alerted_at": "2026-10-27T00:02:15.284045+00:00"
+  },
+  "5d26499494d6f0d5": {
+    "title": "I'm a backend dev and made my first game with a team of claude code subagents (free, runs in the browser)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg940n/im_a_backend_dev_and_made_my_first_game_with_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T21:02:08+00:00",
+    "first_alerted_at": "2026-10-27T00:02:16.100566+00:00"
+  },
+  "b5348c405df88b6b": {
+    "title": "My Video Written in Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xganrh/my_video_written_in_code/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T22:02:46+00:00",
+    "first_alerted_at": "2026-10-27T00:02:16.933650+00:00"
+  },
+  "515cd431a90931f5": {
+    "title": "CVP / Defense - an uphill battle",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgbak3/cvp_defense_an_uphill_battle/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-26T22:29:12+00:00",
+    "first_alerted_at": "2026-10-27T00:02:17.762989+00:00"
   }
 }
