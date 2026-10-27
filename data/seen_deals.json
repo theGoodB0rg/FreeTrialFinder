@@ -14236,5 +14236,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-27T15:14:29+00:00",
     "first_alerted_at": "2026-10-27T16:17:48.326273+00:00"
+  },
+  "946144324abc6012": {
+    "title": "Claude Code usage exploded 8x today. Anthropic confirmed service errors consume our paid limits — and they won't compensate users",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh3yyu/claude_code_usage_exploded_8x_today_anthropic/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-27T20:34:10+00:00",
+    "first_alerted_at": "2026-10-27T20:52:26.458311+00:00"
+  },
+  "7129bd4350bb33c2": {
+    "title": "What a joke!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh2ig9/what_a_joke/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T19:40:16+00:00",
+    "first_alerted_at": "2026-10-27T20:52:27.419688+00:00"
+  },
+  "0e3921035223f761": {
+    "title": "Token maxxing: a guide to running unlimited agents without drowning in slop.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh0zpx/token_maxxing_a_guide_to_running_unlimited_agents/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T18:44:13+00:00",
+    "first_alerted_at": "2026-10-27T20:52:28.387614+00:00"
+  },
+  "bdeefa17cba0d090": {
+    "title": "Show HN: Instance – A clean-room reimplementation of GameMaker 8.1 in Rust",
+    "url": "https://github.com/groverburger/instance",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T16:38:47+00:00",
+    "first_alerted_at": "2026-10-27T20:52:29.353565+00:00"
+  },
+  "468034d824be4168": {
+    "title": "Built a human-in-the-loop agent workflow on a Claude artifact dashboard. Works great for me, breaks for my colleagues. How would you architect this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh1goj/built_a_humanintheloop_agent_workflow_on_a_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T19:01:12+00:00",
+    "first_alerted_at": "2026-10-27T20:52:30.348192+00:00"
+  },
+  "1ed98a4776d436c5": {
+    "title": "Claude Limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgzgqs/claude_limits/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T17:48:49+00:00",
+    "first_alerted_at": "2026-10-27T20:52:31.330542+00:00"
+  },
+  "4109c2f6d12cb303": {
+    "title": "Show HN: I built a Lovable Alternative that runs in the browser",
+    "url": "https://playplanet.dev/",
+    "provider": "OpenRouter",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T16:47:20+00:00",
+    "first_alerted_at": "2026-10-27T20:52:32.296391+00:00"
+  },
+  "cfb995c04e7ffc6b": {
+    "title": "Using Claude Duet to analyze my Pokémon Showdown battles",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh3v6r/using_claude_duet_to_analyze_my_pokémon_showdown/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T20:30:37+00:00",
+    "first_alerted_at": "2026-10-27T20:52:33.264171+00:00"
+  },
+  "24c07bb1048d43a9": {
+    "title": "Hamel Husain walks through the new auto eval tool in Claude Code's claude-api plugin",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh09py/hamel_husain_walks_through_the_new_auto_eval_tool/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T18:17:47+00:00",
+    "first_alerted_at": "2026-10-27T20:52:34.230499+00:00"
+  },
+  "9cadfd51aed554b5": {
+    "title": "Best way to make 3D assets with claude?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgz98a/best_way_to_make_3d_assets_with_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T17:41:05+00:00",
+    "first_alerted_at": "2026-10-27T20:52:35.197490+00:00"
   }
 }
