@@ -14128,5 +14128,14 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-27T02:36:18+00:00",
     "first_alerted_at": "2026-10-27T05:26:25.638370+00:00"
+  },
+  "a118a56f74d97f84": {
+    "title": "Week 13 of making fishing and exploration game - demo almost finished",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xgoj4i/week_13_of_making_fishing_and_exploration_game/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T10:09:06+00:00",
+    "first_alerted_at": "2026-10-27T10:50:32.860697+00:00"
   }
 }
