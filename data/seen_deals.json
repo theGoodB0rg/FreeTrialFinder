@@ -14326,5 +14326,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-27T17:41:05+00:00",
     "first_alerted_at": "2026-10-27T20:52:35.197490+00:00"
+  },
+  "8e5a7b31a2b0d238": {
+    "title": "Opus 5.5 in 3 roles on the same coding task: solo in Claude Code, team lead in Paseo, planner over local workers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh6950/opus_55_in_3_roles_on_the_same_coding_task_solo/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T22:02:27+00:00",
+    "first_alerted_at": "2026-10-28T00:20:21.850106+00:00"
+  },
+  "7441c7c8bab26abc": {
+    "title": "Claude + Desktop Commander Workstream",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh4qgq/claude_desktop_commander_workstream/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T21:03:09+00:00",
+    "first_alerted_at": "2026-10-28T00:20:22.697419+00:00"
+  },
+  "d7a807207861e4a8": {
+    "title": "Building a company-wide CRM with Claude — is Claude Code Desktop + GitHub + Vercel + Supabase the right approach?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh851a/building_a_companywide_crm_with_claude_is_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-27T23:20:52+00:00",
+    "first_alerted_at": "2026-10-28T00:20:23.562523+00:00"
   }
 }
