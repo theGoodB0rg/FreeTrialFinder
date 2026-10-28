@@ -14353,5 +14353,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-27T23:20:52+00:00",
     "first_alerted_at": "2026-10-28T00:20:23.562523+00:00"
+  },
+  "e11bf27bd0205d7e": {
+    "title": "I built Corvid, a dashboard for running a bunch of Claude Code agents at once (built with Claude Code, free, source-available)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhal6s/i_built_corvid_a_dashboard_for_running_a_bunch_of/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-28T01:08:41+00:00",
+    "first_alerted_at": "2026-10-28T06:07:02.260980+00:00"
+  },
+  "ff4a6a4cd33a5b62": {
+    "title": "Claude Code needs support for read-aloud plugin",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhcur5/claude_code_needs_support_for_readaloud_plugin/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T02:56:54+00:00",
+    "first_alerted_at": "2026-10-28T06:07:03.150903+00:00"
+  },
+  "35192b86f516dff9": {
+    "title": "Windows users: Claude Code still steals focus and interrupts typing. Issue open since Sept 1.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhc4wn/windows_users_claude_code_still_steals_focus_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T02:21:40+00:00",
+    "first_alerted_at": "2026-10-28T06:07:04.028915+00:00"
+  },
+  "d035192f6be39cc4": {
+    "title": "I made a rowing/crew app for new parents and clubs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhb3ng/i_made_a_rowingcrew_app_for_new_parents_and_clubs/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T01:32:48+00:00",
+    "first_alerted_at": "2026-10-28T06:07:04.930088+00:00"
+  },
+  "1e6e6f7e12f1a1a6": {
+    "title": "Setup para Advogado + Claude (acho que para outras IAs funcionariam tb)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xha7h2/setup_para_advogado_claude_acho_que_para_outras/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T00:51:32+00:00",
+    "first_alerted_at": "2026-10-28T06:07:05.861633+00:00"
+  },
+  "d2c3b0128c663986": {
+    "title": "I have 100$ of credits that expires on 5th of november. what might be the best usage for them ?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhg1z1/i_have_100_of_credits_that_expires_on_5th_of/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T05:54:36+00:00",
+    "first_alerted_at": "2026-10-28T06:07:06.790630+00:00"
+  },
+  "d6ede86de0bcc934": {
+    "title": "PSA for vibe coders: stop prompting tweaks, make Claude build you a remote control",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xha250/psa_for_vibe_coders_stop_prompting_tweaks_make/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T00:44:28+00:00",
+    "first_alerted_at": "2026-10-28T06:07:07.684376+00:00"
   }
 }
