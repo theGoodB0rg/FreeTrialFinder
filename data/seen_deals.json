@@ -14416,5 +14416,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-28T00:44:28+00:00",
     "first_alerted_at": "2026-10-28T06:07:07.684376+00:00"
+  },
+  "4d96cd5a1497a997": {
+    "title": "How to use claude startup api credits to continue current session in claude code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhn14p/how_to_use_claude_startup_api_credits_to_continue/",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-28T12:43:24+00:00",
+    "first_alerted_at": "2026-10-28T13:24:15.273092+00:00"
+  },
+  "645a9ae29fb650d6": {
+    "title": "I built a 3D Magna-Tiles builder where Claude rebuilds tile builds from Instagram and YouTube videos",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhn6fl/i_built_a_3d_magnatiles_builder_where_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T12:50:20+00:00",
+    "first_alerted_at": "2026-10-28T13:24:16.148301+00:00"
+  },
+  "48f66d0b886b236d": {
+    "title": "I used Claude Code to audit ~21k Product Hunt launch sites. 69 were shipping critical live secret keys to the browser",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhmtya/i_used_claude_code_to_audit_21k_product_hunt/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T12:34:14+00:00",
+    "first_alerted_at": "2026-10-28T13:24:17.008960+00:00"
+  },
+  "d506742d99a6e312": {
+    "title": "Temporary rules for Claude Code: make the block mechanical and the expiry human",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhlrdj/temporary_rules_for_claude_code_make_the_block/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T11:42:26+00:00",
+    "first_alerted_at": "2026-10-28T13:24:17.864510+00:00"
+  },
+  "b899e69034e82553": {
+    "title": "How I configure subagents so the cost stays predictable",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhkq8k/how_i_configure_subagents_so_the_cost_stays/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T10:48:42+00:00",
+    "first_alerted_at": "2026-10-28T13:24:18.752711+00:00"
+  },
+  "dd0d4345649fd18f": {
+    "title": "Claude Haiku 5.5 only?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhnioe/claude_haiku_55_only/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T13:04:39+00:00",
+    "first_alerted_at": "2026-10-28T13:24:19.621910+00:00"
+  },
+  "e1d6dac74e7edf6b": {
+    "title": "Am I crazy or do projects burn through my tokens faster and are generally worse than just making a group of regular chats",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhm2cc/am_i_crazy_or_do_projects_burn_through_my_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T11:58:10+00:00",
+    "first_alerted_at": "2026-10-28T13:24:20.511115+00:00"
   }
 }
