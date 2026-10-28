@@ -14515,5 +14515,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-28T16:52:46+00:00",
     "first_alerted_at": "2026-10-28T19:01:11.846363+00:00"
+  },
+  "397dbd7df22dabb9": {
+    "title": "I built an open source meta-harness that runs my Claude Code sessions as a mesh of peers across every machine I own",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi2uzv/i_built_an_open_source_metaharness_that_runs_my/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T22:37:36+00:00",
+    "first_alerted_at": "2026-10-28T23:25:56.073839+00:00"
+  },
+  "3b655ff8384ff1b3": {
+    "title": "I let Claude run 3 YouTube channels for a month, here are the real numbers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi1w3s/i_let_claude_run_3_youtube_channels_for_a_month/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T21:58:52+00:00",
+    "first_alerted_at": "2026-10-28T23:25:57.080828+00:00"
+  },
+  "3183bb0da1499e19": {
+    "title": "Is anyone actually running Claude Code or Codex with a different company’s model? Does it hold up? e.g. CC with Geminig, Codex with Opus etc.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi1hmw/is_anyone_actually_running_claude_code_or_codex/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T21:42:38+00:00",
+    "first_alerted_at": "2026-10-28T23:25:58.105226+00:00"
+  },
+  "49bb413a8ebb4a4e": {
+    "title": "Anthropic Gives NSF, Simons and 16 More Free Claude Credits - FourWeekMBA",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2REa3VKNW9taUVvbkw4TS1IVmZ4QXdBSU9QRTFVVmRIZjhMbGJBV29LQndtcGJ1QUZWc01jR0hjbVdjdExta1JQXzE0WGdVRjRxOFlfQlNqQnRxcHlDZU54THBmZG5WNzhUQnY5RGJ3QzVYdmplNGY2UVdOdGRNcGlibFp0c3hGRFJkOE82QQ?oc=5",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T20:30:51+00:00",
+    "first_alerted_at": "2026-10-28T23:25:59.116217+00:00"
+  },
+  "6a2aa2eaa549a93c": {
+    "title": "UK funds AI biosecurity lab with OpenAI credits - Briefs Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTDhlbVVFUVM0SVgxaXFRMVZMN1NTaFVmUlVLUFlZZHYzUUMzLVg3NDBKY1B5WlpHdjltMUZnVG5UcU5yQWxua1ZMUGZlZmo2cEpvZWVkcngwQ0NrbGU5ZHBRdzAzdGt5M2otNE4wbmh6eXZZc2dyTF9WVjBQTjhKZ0ZRd2ZQa1AzOUZuOVhlS2t1UQ?oc=5",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-23T22:46:52+00:00",
+    "first_alerted_at": "2026-10-28T23:26:00.139971+00:00"
+  },
+  "5d7fce85a50b47c8": {
+    "title": "Claude said no to its own author",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi14j6/claude_said_no_to_its_own_author/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T21:28:01+00:00",
+    "first_alerted_at": "2026-10-28T23:26:01.158274+00:00"
   }
 }
