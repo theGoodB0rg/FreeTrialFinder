@@ -14479,5 +14479,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-28T11:58:10+00:00",
     "first_alerted_at": "2026-10-28T13:24:20.511115+00:00"
+  },
+  "557162d7731f87ae": {
+    "title": "OpenVision 2.14.0 runs Ray-Ban Meta glasses on a ChatGPT subscription, not API credits - MIXED News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3ZPZFRwWlVxaHVjTEw5bVFPUmhDNndhWFVjVlg0WmJHWXp4d25ZVm9hX3p6U3Vjc0JBeFcxNmFrRzRPQXBBSDR6SzhwZDUwVlJuNzByY09XQUUyUllPNHd0eFlHY25seGpfQ0ZweDFxSFFiMXk2RWRmbmJ4TGkta1J5WkpsOXM5VjJ1N1FTMXotNDhuYXc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-05T07:00:00+00:00",
+    "first_alerted_at": "2026-10-28T19:01:09.060149+00:00"
+  },
+  "5355e8fc51d042fd": {
+    "title": "I think in pictures, so I taught Claude Code to draw mermaid in the terminal",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xht43m/i_think_in_pictures_so_i_taught_claude_code_to/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T16:36:35+00:00",
+    "first_alerted_at": "2026-10-28T19:01:09.993244+00:00"
+  },
+  "fa8bb8a7a86156b4": {
+    "title": "Is Claude Ignoring Scheduled Task Models for you?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhwi07/is_claude_ignoring_scheduled_task_models_for_you/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T18:36:59+00:00",
+    "first_alerted_at": "2026-10-28T19:01:10.931570+00:00"
+  },
+  "f1d956b6f87b509f": {
+    "title": "Using Claude Subscriptions with Grok Bot allowed?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhtk56/using_claude_subscriptions_with_grok_bot_allowed/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T16:52:46+00:00",
+    "first_alerted_at": "2026-10-28T19:01:11.846363+00:00"
   }
 }
