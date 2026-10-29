@@ -14641,5 +14641,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-28T23:45:25+00:00",
     "first_alerted_at": "2026-10-29T02:43:48.077424+00:00"
+  },
+  "1e1fa3ead4e93893": {
+    "title": "Is OpenAI Giving Away Free Money? Claim Up to $500 Monthly OpenAI API Credits Now - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwc1R2cmpXY3luN2Jac2FBZE4wLUFvTmVtcFNBbnhJYjJXOTFYM2czaWhMUzZQRHJkVnptdk9JRlVndFVjczN2TFlFRXAwQ3pOcUY0?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T08:21:24+00:00",
+    "first_alerted_at": "2026-10-29T09:39:46.181234+00:00"
+  },
+  "965c2699f9aaf7b8": {
+    "title": "OpenAI announces up to $500 a month in API credits for ChatGPT Pro and Business - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejBsSXB4UVkyQlpvY1VOS0F3SXQ5VFpwYUpQT3ZYRklGNlNIbExWbWVpbmxCVmVZUU50eGRnSWwyRlV4RUYyOXoyakRtdWtyd1J3dXFiaGFRSEE2alVFX3pkUnNQcVRVZ2ZLczdQYlh6LTlaSnJxNExzb2VtSmJqNVFOUlRmR3hROGlB?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T07:48:42+00:00",
+    "first_alerted_at": "2026-10-29T09:39:47.132226+00:00"
+  },
+  "baad08312915f7d3": {
+    "title": "ChatGPT Pro Now Includes API Credits Equal to Its Full Price - FourWeekMBA",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzgwQjU0LU5zak9jaWxOWlBxVHd4NlQwZ0FtWXlSaXhLVkpCc1BIemljS29jbVF1RmFGc0l5VHpNY3ZQLXotci1JNE5DMDlQMDB0Tnk3WXBEU3NMaXU2V05oaVUwU1RDa3BabjMwdTc0Z2h4b19JREFtczdNOFN1UWpzbnFMNU1JMmZsVmRzTzl2QQ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T01:09:46+00:00",
+    "first_alerted_at": "2026-10-29T09:39:48.116525+00:00"
+  },
+  "b2b0824975c3f64e": {
+    "title": "Desktop Chat App that works with Claude Subscription & ChatGPT Sub",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xie849/desktop_chat_app_that_works_with_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T08:23:35+00:00",
+    "first_alerted_at": "2026-10-29T09:39:49.110900+00:00"
+  },
+  "1ab1b73a2198f2cd": {
+    "title": "BackGo to ClaudeAIr/ClaudeAI•3h agou/EdenisbA fly-through of my AI roleplay engine’s memory substrate every turn, NPC and place is a node. (Created with Claude)Built with Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xib4ff/backgo_to_claudeairclaudeai3h_agouedenisba/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T05:11:32+00:00",
+    "first_alerted_at": "2026-10-29T09:39:50.039664+00:00"
+  },
+  "94637df12854e8be": {
+    "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+    "url": "https://www.fabivo.app/en",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T05:21:10+00:00",
+    "first_alerted_at": "2026-10-29T09:39:50.999148+00:00"
+  },
+  "0eee33ebf91cdc4d": {
+    "title": "Got to say I LOVE Claude.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xideep/got_to_say_i_love_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T07:31:11+00:00",
+    "first_alerted_at": "2026-10-29T09:39:51.959408+00:00"
+  },
+  "8d73810ba44f4fe0": {
+    "title": "Claude Opus vs Sonnet and Medium vs Low experiment",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xicmqt/claude_opus_vs_sonnet_and_medium_vs_low_experiment/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T06:42:53+00:00",
+    "first_alerted_at": "2026-10-29T09:39:52.891050+00:00"
   }
 }
