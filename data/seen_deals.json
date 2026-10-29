@@ -14713,5 +14713,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-29T06:42:53+00:00",
     "first_alerted_at": "2026-10-29T09:39:52.891050+00:00"
+  },
+  "ec3387fa320a07a2": {
+    "title": "I asked Claude to make a joke project and it also generated itself a trailer.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xim656/i_asked_claude_to_make_a_joke_project_and_it_also/",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-29T14:53:24+00:00",
+    "first_alerted_at": "2026-10-29T16:46:34.233021+00:00"
+  },
+  "b886acf81aa5fab5": {
+    "title": "Max plan promo API credits vanished from my Billing page. Anyone else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xilgva/max_plan_promo_api_credits_vanished_from_my/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-29T14:25:58+00:00",
+    "first_alerted_at": "2026-10-29T16:46:35.104451+00:00"
+  },
+  "d8488ed595e615fe": {
+    "title": "Show HN: StrictLLM – For when you need human-in-the-loop",
+    "url": "https://strictllm.com",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-29T15:35:07+00:00",
+    "first_alerted_at": "2026-10-29T16:46:35.944077+00:00"
+  },
+  "f3aefb1bb808754d": {
+    "title": "Claude Code sends each working background agent's full transcript to Opus every ~30 s for a 3-5 word status line. No off switch. Data + workaround",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiozm7/claude_code_sends_each_working_background_agents/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-29T16:36:59+00:00",
+    "first_alerted_at": "2026-10-29T16:46:36.814433+00:00"
+  },
+  "cd9c3f7e9c48f656": {
+    "title": "My agent writes specs faster than I can read them, so I built decipher",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1ximls8/my_agent_writes_specs_faster_than_i_can_read_them/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-29T15:09:40+00:00",
+    "first_alerted_at": "2026-10-29T16:46:37.648578+00:00"
+  },
+  "45c5daaa10425e10": {
+    "title": "OpenAI Gives Pro and Business Subscribers Free API Credits Worth Up to $500 a Month - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KR1dScXJMdVVQMlowZjh4T19BeFJkX1Z2WC1lc241Nk5rZkZnZTZYZlA4TVpIOUZQdGg1WFdWQU5tSlRET2p0OGQ2Uy1GNG8welhfUnFoMHF1cC1rQVFaZUhTREh1ZWp4UFI1Wld5cm8tRmRUbnc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T08:25:00+00:00",
+    "first_alerted_at": "2026-10-29T16:46:38.488292+00:00"
+  },
+  "60bed055e60dd0ff": {
+    "title": "Opus 5.5 created a music video for my song",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xip6jj/opus_55_created_a_music_video_for_my_song/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T16:44:03+00:00",
+    "first_alerted_at": "2026-10-29T16:46:39.343581+00:00"
+  },
+  "154ca4ed33a63168": {
+    "title": "This is not Linux",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xingg1/this_is_not_linux/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T15:41:21+00:00",
+    "first_alerted_at": "2026-10-29T16:46:40.227266+00:00"
+  },
+  "edc99131e875b890": {
+    "title": "Claude Code burns ~15-20% of your tokens on a 3-word status line",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin646/claude_code_burns_1520_of_your_tokens_on_a_3word/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T15:30:26+00:00",
+    "first_alerted_at": "2026-10-29T16:46:41.193055+00:00"
+  },
+  "45c451a6ae9c9c95": {
+    "title": "Show HN: Fast agentic video editing in the browser (Tella)",
+    "url": "https://news.ycombinator.com/item?id=50291424",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T16:14:33+00:00",
+    "first_alerted_at": "2026-10-29T16:46:42.149322+00:00"
+  },
+  "58d1ead3469adcc2": {
+    "title": "Ask HN: Sitting on unused OpenAI / Anthropic / AWS credits that will expire?",
+    "url": "https://news.ycombinator.com/item?id=50291687",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T16:28:05+00:00",
+    "first_alerted_at": "2026-10-29T16:46:43.025463+00:00"
   }
 }
