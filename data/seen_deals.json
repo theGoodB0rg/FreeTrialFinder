@@ -14569,5 +14569,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-28T21:28:01+00:00",
     "first_alerted_at": "2026-10-28T23:26:01.158274+00:00"
+  },
+  "1ec1db6620bec6e3": {
+    "title": "OpenAI API Credits of 100/200/500 on Pro Plans",
+    "url": "https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions#credit-amounts",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T02:36:19+00:00",
+    "first_alerted_at": "2026-10-29T02:43:42.318684+00:00"
+  },
+  "c45750ff7aa0c82a": {
+    "title": "OpenAI Offers Up to $500 in Monthly API Credits for ChatGPT Pro and Business Users - KuCoin",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlRhR3NSaEI2enRZcnV6bF9fV0lZOHdMRUlUcWlZRWNnZV9ZWFlFazJBS3I3ZG51YzVCQWJ3bmkxdUNPSEpLZVZ4bWcwMTRHeGtxUGYwMHE4Ymp0ZUdnVWpfZG1JQ1hNU0RxdWY0SXExRkxCWU5sUF9uV2ctUlR3VVRWdkEzN1FGNlhyLXNEekxlZEpnS3kyWXVxaFdIYkJMbGdRdjRvU09TUEdja0tLbFVR?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T01:59:59+00:00",
+    "first_alerted_at": "2026-10-29T02:43:43.134092+00:00"
+  },
+  "23e8b5b30d6a6b51": {
+    "title": "OpenAI offers up to $500 in monthly API credits to ChatGPT Pro and Business subscribers - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qdjhnamtVSlhkMzVfY2xhbGxsOXNiNlF5R3l4MmM3d0xFU2pRQXlQSnl2M2ZaNVJVUEl0aEZmaXd3c1ZDVC0zNzZPcXRtTWlmTzcxc2lGZlFkeFR3T0Z1TDhJTVlic2E5UHd1b1lxaE01eVJLbXc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T23:30:47+00:00",
+    "first_alerted_at": "2026-10-29T02:43:43.953243+00:00"
+  },
+  "118b3185f8edaccd": {
+    "title": "I built a small AI-powered business operating system using Claude Code and ChatGPT. Am I overengineering this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi7y5z/i_built_a_small_aipowered_business_operating/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T02:23:56+00:00",
+    "first_alerted_at": "2026-10-29T02:43:44.772600+00:00"
+  },
+  "bead328a5e1955dd": {
+    "title": "pixtuoid got a new look 👀 (real 2.5D pixel office for your AI agents)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi7aj1/pixtuoid_got_a_new_look_real_25d_pixel_office_for/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T01:52:33+00:00",
+    "first_alerted_at": "2026-10-29T02:43:45.586990+00:00"
+  },
+  "90d250d607e71492": {
+    "title": "I built a comparison PPT across Anthropic, OpenAI, and Chinese AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi81nk/i_built_a_comparison_ppt_across_anthropic_openai/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T02:28:38+00:00",
+    "first_alerted_at": "2026-10-29T02:43:46.434828+00:00"
+  },
+  "241d6af596e83158": {
+    "title": "First-time solo dev (app built mostly with Claude Code): how do I get a human to review my code?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi6053/firsttime_solo_dev_app_built_mostly_with_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T00:53:00+00:00",
+    "first_alerted_at": "2026-10-29T02:43:47.250098+00:00"
+  },
+  "7321fcc02646a2f1": {
+    "title": "Which Claude effort level should I use? How I think about it now (it's less about how hard the task is than I assumed)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi4gk1/which_claude_effort_level_should_i_use_how_i/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T23:45:25+00:00",
+    "first_alerted_at": "2026-10-29T02:43:48.077424+00:00"
   }
 }
