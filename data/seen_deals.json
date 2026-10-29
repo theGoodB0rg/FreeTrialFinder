@@ -14812,5 +14812,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-29T16:28:05+00:00",
     "first_alerted_at": "2026-10-29T16:46:43.025463+00:00"
+  },
+  "3ce035a80b6ac532": {
+    "title": "OpenAI’s subscription API credits have separate eligibility and expiry rules - OpenTools",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU3I2dWx2RHk2b0YyM1JsTEFHbThka3MtNUdiZ2FTU3g1cWpOdEYyM1htUWNRNFFldkdualJKT0k0NW9HME9TQ042QWRDNnBac0owVU5HMzc2dHNUS09DYlV0cFlKVUJzNEtpMUF3SlhMYU5tNHMwTXBVazByTFNLZjFvQnE3U3dZckJsZw?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T20:51:54+00:00",
+    "first_alerted_at": "2026-10-29T21:40:50.239996+00:00"
+  },
+  "8b45e38bac8f08b5": {
+    "title": "Is it worth switching from GPT to Claude?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiudqe/is_it_worth_switching_from_gpt_to_claude/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T19:56:45+00:00",
+    "first_alerted_at": "2026-10-29T21:40:51.077435+00:00"
+  },
+  "4f3409a41fcde31c": {
+    "title": "Giving Claude Code an inbox, a sandbox and memory: what I found checking 73 agent tools",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xisx44/giving_claude_code_an_inbox_a_sandbox_and_memory/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T19:01:19+00:00",
+    "first_alerted_at": "2026-10-29T21:40:51.897077+00:00"
+  },
+  "b720cdd457a4703e": {
+    "title": "i do most of my work in claude code and run grok bots for small stuff - needed a central place for data and views",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiwuki/i_do_most_of_my_work_in_claude_code_and_run_grok/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T21:30:26+00:00",
+    "first_alerted_at": "2026-10-29T21:40:52.718466+00:00"
+  },
+  "b361f0363679105a": {
+    "title": "Anthropic: you need to fix these awful usability in Claude CLI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xitijy/anthropic_you_need_to_fix_these_awful_usability/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T19:24:09+00:00",
+    "first_alerted_at": "2026-10-29T21:40:53.538906+00:00"
+  },
+  "1f0e818b67f1d566": {
+    "title": "I built Baton with Claude Code: a shared task board my Claude Code accounts use to hand work to each other at usage and context limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xis53s/i_built_baton_with_claude_code_a_shared_task/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T18:32:16+00:00",
+    "first_alerted_at": "2026-10-29T21:40:54.354934+00:00"
+  },
+  "f610b98955a27e7c": {
+    "title": "Wasted three weeks of Claude on x5 subscription. I was not working as much or needed a lot of manual reading and understanding.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xisgxh/wasted_three_weeks_of_claude_on_x5_subscription_i/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T18:44:50+00:00",
+    "first_alerted_at": "2026-10-29T21:40:55.184260+00:00"
+  },
+  "9497e389d6ffc7c7": {
+    "title": "Moving my workflow entirely to Claude: How to automate Android APK builds and stay efficient?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiwx6j/moving_my_workflow_entirely_to_claude_how_to/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T21:33:25+00:00",
+    "first_alerted_at": "2026-10-29T21:40:56.006527+00:00"
+  },
+  "e353770c74982c27": {
+    "title": "Which is the way to go? Claude Code Max 20x or split the work between 5x and Codex Pro 100?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiuzcl/which_is_the_way_to_go_claude_code_max_20x_or/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T20:18:21+00:00",
+    "first_alerted_at": "2026-10-29T21:40:56.826221+00:00"
   }
 }
