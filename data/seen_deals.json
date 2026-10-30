@@ -15073,5 +15073,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-30T17:41:36+00:00",
     "first_alerted_at": "2026-10-30T20:02:01.687634+00:00"
+  },
+  "20d5f411589e5d91": {
+    "title": "I fired Opus as a coder and promoted it to architect. It now burns 60% fewer tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjstgl/i_fired_opus_as_a_coder_and_promoted_it_to/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-30T22:04:10+00:00",
+    "first_alerted_at": "2026-10-30T23:58:31.056683+00:00"
+  },
+  "c3ca235353a53752": {
+    "title": "Anyone have insights into how compaction works under the hood?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjqf2s/anyone_have_insights_into_how_compaction_works/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T20:26:46+00:00",
+    "first_alerted_at": "2026-10-30T23:58:31.903075+00:00"
+  },
+  "c524bc0a52ff835f": {
+    "title": "Wilson's Survival Guide for October 23-30, 2026 now available!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjv3yf/wilsons_survival_guide_for_october_2330_2026_now/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T23:43:56+00:00",
+    "first_alerted_at": "2026-10-30T23:58:32.747635+00:00"
+  },
+  "e31636e4ed9c2d39": {
+    "title": "Sonnet 5.5 noticed failed saves, then told customers the wrong reason",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjuf0m/sonnet_55_noticed_failed_saves_then_told/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T23:13:14+00:00",
+    "first_alerted_at": "2026-10-30T23:58:33.603026+00:00"
+  },
+  "78806867194f5a5f": {
+    "title": "Just a little dev tool",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjso4o/just_a_little_dev_tool/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T21:58:14+00:00",
+    "first_alerted_at": "2026-10-30T23:58:34.460185+00:00"
   }
 }
