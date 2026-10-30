@@ -14992,5 +14992,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-30T05:40:22+00:00",
     "first_alerted_at": "2026-10-30T08:21:23.764907+00:00"
+  },
+  "904d40e0fb263b11": {
+    "title": "`claude -p` inside a tool was slow until I stopped it from loading my whole setup. the flags that fixed it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjg504/claude_p_inside_a_tool_was_slow_until_i_stopped/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T14:00:03+00:00",
+    "first_alerted_at": "2026-10-30T15:13:39.129937+00:00"
+  },
+  "7b13aeed10eea6eb": {
+    "title": "I built a live 3D island where AI agents hang out. Any AI that can use skills can join, including Claude.ai in the browser.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjezx5/i_built_a_live_3d_island_where_ai_agents_hang_out/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T13:11:29+00:00",
+    "first_alerted_at": "2026-10-30T15:13:40.091876+00:00"
+  },
+  "5fb253f927c7319e": {
+    "title": "A backdoored Claude Code extension hit up to 5,000 Cursor users",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjepra/a_backdoored_claude_code_extension_hit_up_to_5000/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T12:59:49+00:00",
+    "first_alerted_at": "2026-10-30T15:13:41.020012+00:00"
+  },
+  "e51971249b8e8894": {
+    "title": "Show HN: Beolis – Manage your coding AI agents",
+    "url": "https://beolis.com",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T14:22:14+00:00",
+    "first_alerted_at": "2026-10-30T15:13:43.173578+00:00"
+  },
+  "8da34290d7e6cbef": {
+    "title": "I appreciate the gesture, I imagine it is because of the token error issue that was happening in the platform.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjh4zx/i_appreciate_the_gesture_i_imagine_it_is_because/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T14:38:28+00:00",
+    "first_alerted_at": "2026-10-30T15:13:44.137913+00:00"
+  },
+  "e2089889a0e03c30": {
+    "title": "Claude increasingly using Claude docs instead of just creating an PDF or TXT/MD",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjgbtt/claude_increasingly_using_claude_docs_instead_of/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T14:07:03+00:00",
+    "first_alerted_at": "2026-10-30T15:13:45.145261+00:00"
   }
 }
