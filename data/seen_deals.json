@@ -14947,5 +14947,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-30T00:06:34+00:00",
     "first_alerted_at": "2026-10-30T01:45:15.316884+00:00"
+  },
+  "65a293b1ea4e6dcb": {
+    "title": "Tired of explaining your own code to Claude every new session? Same. So I built this.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj8gmc/tired_of_explaining_your_own_code_to_claude_every/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-30T07:02:05+00:00",
+    "first_alerted_at": "2026-10-30T08:21:20.445615+00:00"
+  },
+  "85bbf71510479ab1": {
+    "title": "Tips to save usage (and how it's actually calculated).",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj6245/tips_to_save_usage_and_how_its_actually_calculated/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T04:35:29+00:00",
+    "first_alerted_at": "2026-10-30T08:21:21.281936+00:00"
+  },
+  "1ad1964c6f51a0f7": {
+    "title": "How to stop Claude Code loading a skill automatically",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj49xc/how_to_stop_claude_code_loading_a_skill/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T03:02:19+00:00",
+    "first_alerted_at": "2026-10-30T08:21:22.113161+00:00"
+  },
+  "5262b24daf2c059f": {
+    "title": "Building a Custom AI Business Automation System",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj48g7/building_a_custom_ai_business_automation_system/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T03:00:20+00:00",
+    "first_alerted_at": "2026-10-30T08:21:22.943217+00:00"
+  },
+  "fde79df65154254a": {
+    "title": "I gave Claude a hologram body and a seat across my table so it could play chess with me",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj764h/i_gave_claude_a_hologram_body_and_a_seat_across/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T05:40:22+00:00",
+    "first_alerted_at": "2026-10-30T08:21:23.764907+00:00"
   }
 }
