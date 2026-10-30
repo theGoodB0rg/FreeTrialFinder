@@ -14893,5 +14893,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-29T20:18:21+00:00",
     "first_alerted_at": "2026-10-29T21:40:56.826221+00:00"
+  },
+  "87067b0175aa32f5": {
+    "title": "Does anyone ever get usage anxiety?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiyfsk/does_anyone_ever_get_usage_anxiety/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-29T22:34:17+00:00",
+    "first_alerted_at": "2026-10-30T01:45:10.283998+00:00"
+  },
+  "f8e879213cf2bee1": {
+    "title": "Using Claude to put all Global Law into Git",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiz1vy/using_claude_to_put_all_global_law_into_git/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T23:00:29+00:00",
+    "first_alerted_at": "2026-10-30T01:45:11.287987+00:00"
+  },
+  "a63cca6c2bf2e863": {
+    "title": "We built Conecto, one connector that gives Claude a back office, from CRM to e-signatures",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiyfwk/we_built_conecto_one_connector_that_gives_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T22:34:26+00:00",
+    "first_alerted_at": "2026-10-30T01:45:12.306074+00:00"
+  },
+  "388db2aebe6773a2": {
+    "title": "I built a tiny reaper to keep track of my Claude Code subagents. He's open source now, just in time for Halloween",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiyf2v/i_built_a_tiny_reaper_to_keep_track_of_my_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T22:33:28+00:00",
+    "first_alerted_at": "2026-10-30T01:45:13.297712+00:00"
+  },
+  "eab6bca7fa39633a": {
+    "title": "Claude.ai is a black box in two aspects: usage limits and model availability",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj2bel/claudeai_is_a_black_box_in_two_aspects_usage/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T01:27:17+00:00",
+    "first_alerted_at": "2026-10-30T01:45:14.304969+00:00"
+  },
+  "f03ececf6f3fe646": {
+    "title": "Read Aloud starts saying random words",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj0lr2/read_aloud_starts_saying_random_words/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T00:06:34+00:00",
+    "first_alerted_at": "2026-10-30T01:45:15.316884+00:00"
   }
 }
