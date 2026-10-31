@@ -15307,5 +15307,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-31T13:19:54+00:00",
     "first_alerted_at": "2026-10-31T16:16:00.211513+00:00"
+  },
+  "99534c0ce280a3d5": {
+    "title": "Built an agent with Claude Code that cleans the negativity out of my Reddit feed,",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkf5gh/built_an_agent_with_claude_code_that_cleans_the/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T16:50:40+00:00",
+    "first_alerted_at": "2026-10-31T20:12:07.713454+00:00"
+  },
+  "b8d60e5a56fa5e2a": {
+    "title": "Avatar in Apple Memoji style",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkijrl/avatar_in_apple_memoji_style/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T19:06:26+00:00",
+    "first_alerted_at": "2026-10-31T20:12:08.675323+00:00"
+  },
+  "0a28a2ceba1e34fb": {
+    "title": "Not paid attention and Haiku was shipping to the production",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkhbp4/not_paid_attention_and_haiku_was_shipping_to_the/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T18:16:48+00:00",
+    "first_alerted_at": "2026-10-31T20:12:09.663228+00:00"
   }
 }
