@@ -15235,5 +15235,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-31T05:50:38+00:00",
     "first_alerted_at": "2026-10-31T11:05:49.220733+00:00"
+  },
+  "35e98ecfb6c9e2b2": {
+    "title": "76 agents, 4.7M tokens, 3 wrong answers. 1 agent, 77k tokens, right answer. The rules I added to CLAUDE.md after.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkc4ps/76_agents_47m_tokens_3_wrong_answers_1_agent_77k/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T14:48:24+00:00",
+    "first_alerted_at": "2026-10-31T16:15:53.006863+00:00"
+  },
+  "d60666a01b7b52e7": {
+    "title": "Max/Ultra rename, read side by side from the pricing page and Help Center: what actually changed and what did not",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkb8i6/maxultra_rename_read_side_by_side_from_the/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T14:11:06+00:00",
+    "first_alerted_at": "2026-10-31T16:15:53.915279+00:00"
+  },
+  "8d220aa5533025dc": {
+    "title": "how do you separate Claude API spending between staging and production?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkcjql/how_do_you_separate_claude_api_spending_between/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T15:05:16+00:00",
+    "first_alerted_at": "2026-10-31T16:15:54.806988+00:00"
+  },
+  "25d22e4658e762b5": {
+    "title": "How to connect two Claude Code sessions without copying findings between terminals",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk95j8/how_to_connect_two_claude_code_sessions_without/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T12:38:29+00:00",
+    "first_alerted_at": "2026-10-31T16:15:56.765849+00:00"
+  },
+  "5b82dd4f4af0ac39": {
+    "title": "turned a paid api for ai agents into a single prompt for claude, looking for people to try it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk91rh/turned_a_paid_api_for_ai_agents_into_a_single/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T12:33:15+00:00",
+    "first_alerted_at": "2026-10-31T16:15:57.597623+00:00"
+  },
+  "54773c97e44c1200": {
+    "title": "With no coding experience, I used Claude to build a commercially viable consumer app. It's taken about 10 months to build and set up with Claude and Claude Code - did I do good?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkd40z/with_no_coding_experience_i_used_claude_to_build/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T15:28:18+00:00",
+    "first_alerted_at": "2026-10-31T16:15:58.565346+00:00"
+  },
+  "24658eced393a5cb": {
+    "title": "The irony of \"Constitutional AI\": How Opus 5.5 traded genuine nuance for compulsive contrarianism and a judgmental tone",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkak9i/the_irony_of_constitutional_ai_how_opus_55_traded/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T13:42:28+00:00",
+    "first_alerted_at": "2026-10-31T16:15:59.389882+00:00"
+  },
+  "ac5cbd57e9caaadc": {
+    "title": "I stress-tested 10 configurations of Claude 5.5 (Opus/Sonnet) vs GPT-6.1 Sol & GPT-6 Astra for an MCP AI Film Production pipeline.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xka1pb/i_stresstested_10_configurations_of_claude_55/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T13:19:54+00:00",
+    "first_alerted_at": "2026-10-31T16:16:00.211513+00:00"
   }
 }
