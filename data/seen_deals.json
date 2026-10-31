@@ -15118,5 +15118,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-30T21:58:14+00:00",
     "first_alerted_at": "2026-10-30T23:58:34.460185+00:00"
+  },
+  "cb7d91ea330e8ec8": {
+    "title": "Max 20x is now “Ultra” and verified Ultra accounts have no 5-hour limit anymore. Max 5x is just “Max”. Prices unchanged.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk018y/max_20x_is_now_ultra_and_verified_ultra_accounts/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T03:41:27+00:00",
+    "first_alerted_at": "2026-10-31T05:21:43.542610+00:00"
+  },
+  "3be31ca10695ed90": {
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-17T16:14:04+00:00",
+    "first_alerted_at": "2026-10-31T05:21:44.537911+00:00"
+  },
+  "940fdcf3125bd3cb": {
+    "title": "Best harness for maximum throughput/productivity?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk0i5x/best_harness_for_maximum_throughputproductivity/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T04:05:55+00:00",
+    "first_alerted_at": "2026-10-31T05:21:45.545377+00:00"
+  },
+  "dca202a42f7cd61e": {
+    "title": "I built a free catch-up tool for Warframe with Claude, using specs instead of vibe coding",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjx6ut/i_built_a_free_catchup_tool_for_warframe_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T01:17:04+00:00",
+    "first_alerted_at": "2026-10-31T05:21:46.492617+00:00"
+  },
+  "44110eafe6a48539": {
+    "title": "Is there a low-token way to create a new thread inside a Project within Claude Desktop?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk0heu/is_there_a_lowtoken_way_to_create_a_new_thread/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T04:04:53+00:00",
+    "first_alerted_at": "2026-10-31T05:21:47.521867+00:00"
+  },
+  "8e7b4d9174ceac0a": {
+    "title": "Claude Max 20x: Does that first 24-hour usage window happen again when you renew?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxie2/claude_max_20x_does_that_first_24hour_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T01:32:44+00:00",
+    "first_alerted_at": "2026-10-31T05:21:48.478448+00:00"
   }
 }
