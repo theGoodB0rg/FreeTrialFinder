@@ -15334,5 +15334,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-31T18:16:48+00:00",
     "first_alerted_at": "2026-10-31T20:12:09.663228+00:00"
+  },
+  "ac4bf13bdec5b83a": {
+    "title": "3D Printed RC Skid Steer with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xknolj/3d_printed_rc_skid_steer_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T22:52:42+00:00",
+    "first_alerted_at": "2026-10-31T23:35:10.787448+00:00"
+  },
+  "9c0a79988dc9bf02": {
+    "title": "Flight Simulator 95/98 running on Windows 10 and 11 - Alternate method by Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xknrj3/flight_simulator_9598_running_on_windows_10_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T22:56:35+00:00",
+    "first_alerted_at": "2026-10-31T23:35:11.743027+00:00"
+  },
+  "6d96c56f13375dfc": {
+    "title": "Comparing Upgrade to Max(x5) or Teams: Weekly Token Difference?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkmbsy/comparing_upgrade_to_maxx5_or_teams_weekly_token/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T21:49:01+00:00",
+    "first_alerted_at": "2026-10-31T23:35:12.646495+00:00"
   }
 }
