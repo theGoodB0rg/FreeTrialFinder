@@ -15172,5 +15172,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-31T01:32:44+00:00",
     "first_alerted_at": "2026-10-31T05:21:48.478448+00:00"
+  },
+  "a3a421c6821be91d": {
+    "title": "Solo founder hitting Ultra weekly limits early in the week. What did you do?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk564o/solo_founder_hitting_ultra_weekly_limits_early_in/",
+    "provider": "Anthropic",
+    "score": 95,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T08:51:09+00:00",
+    "first_alerted_at": "2026-10-31T11:05:43.652500+00:00"
+  },
+  "ca9b6f31f03f49d6": {
+    "title": "I built a multiplayer word game with Claude Code where Claude (and other models) can take any seat. Here's what worked and what didn't",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk4w6v/i_built_a_multiplayer_word_game_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-10-31T08:33:05+00:00",
+    "first_alerted_at": "2026-10-31T11:05:44.573349+00:00"
+  },
+  "735906d9fbb40e22": {
+    "title": "How to sync development workflow between personal Mac Mini (Claude) and work MacBook (ChatGPT Plus) using GitHub?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk760i/how_to_sync_development_workflow_between_personal/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T10:52:48+00:00",
+    "first_alerted_at": "2026-10-31T11:05:45.519568+00:00"
+  },
+  "5ffafaa2f4adad4f": {
+    "title": "PotionUI: an open-source generation studio built with Claude Code subagents working in parallel git worktrees",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk6i49/potionui_an_opensource_generation_studio_built/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T10:13:46+00:00",
+    "first_alerted_at": "2026-10-31T11:05:46.427793+00:00"
+  },
+  "dc4af78d0eaa7409": {
+    "title": "I only wanted Ctrl+C+1. Claude turned it into a production app on Mac and Windows.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk59rm/i_only_wanted_ctrlc1_claude_turned_it_into_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T08:57:31+00:00",
+    "first_alerted_at": "2026-10-31T11:05:47.336720+00:00"
+  },
+  "f73aee29f2363e45": {
+    "title": "Curious how everyone is using Claude Code right now: CLI or Desktop?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk4dax/curious_how_everyone_is_using_claude_code_right/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T07:59:15+00:00",
+    "first_alerted_at": "2026-10-31T11:05:48.338232+00:00"
+  },
+  "9220ce349d865f73": {
+    "title": "Where do you go when Claude ultra isn’t enough",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk2bst/where_do_you_go_when_claude_ultra_isnt_enough/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-31T05:50:38+00:00",
+    "first_alerted_at": "2026-10-31T11:05:49.220733+00:00"
   }
 }
