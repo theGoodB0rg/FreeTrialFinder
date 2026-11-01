@@ -15361,5 +15361,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-31T21:49:01+00:00",
     "first_alerted_at": "2026-10-31T23:35:12.646495+00:00"
+  },
+  "2dfb817177a5c59d": {
+    "title": "I gave Claude Opus 5.5, Gemini 4 Argon and Kimi K3.1 $25 each to build their own Five Nights at Freddy's. Opus made the only one I could beat",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkuog9/i_gave_claude_opus_55_gemini_4_argon_and_kimi_k31/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T05:06:30+00:00",
+    "first_alerted_at": "2026-11-01T05:17:59.971986+00:00"
+  },
+  "564d34b1f8b86be4": {
+    "title": "Things that quietly break your prompt cache in Claude Code (and a few that don’t)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xksgor/things_that_quietly_break_your_prompt_cache_in/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T02:58:58+00:00",
+    "first_alerted_at": "2026-11-01T05:18:00.940417+00:00"
+  },
+  "e1c2ef3dd237e96c": {
+    "title": "Case.exe",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkqwsa/caseexe/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T01:33:50+00:00",
+    "first_alerted_at": "2026-11-01T05:18:01.970519+00:00"
+  },
+  "2c2e040500209841": {
+    "title": "How do you decide which rules to delete from CLAUDE.md?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkrln3/how_do_you_decide_which_rules_to_delete_from/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T02:11:15+00:00",
+    "first_alerted_at": "2026-11-01T05:18:02.932336+00:00"
+  },
+  "681c6b0facb8cc58": {
+    "title": "Tell HN: ChatGPT and Codex usage will be combined",
+    "url": "https://news.ycombinator.com/item?id=50321622",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T00:28:26+00:00",
+    "first_alerted_at": "2026-11-01T05:18:03.871738+00:00"
+  },
+  "d11b0e63e395f01c": {
+    "title": "Does Claude Duet use cloud session credits?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkqeqq/does_claude_duet_use_cloud_session_credits/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T01:07:23+00:00",
+    "first_alerted_at": "2026-11-01T05:18:04.825963+00:00"
   }
 }
