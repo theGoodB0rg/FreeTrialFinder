@@ -15568,5 +15568,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-01T16:14:10+00:00",
     "first_alerted_at": "2026-11-01T17:53:23.784509+00:00"
+  },
+  "a2df65fb3e13527f": {
+    "title": "Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models",
+    "url": "https://calvinyz.github.io/corollary/",
+    "provider": "OpenAI",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T21:45:36+00:00",
+    "first_alerted_at": "2026-11-01T21:51:51.877153+00:00"
+  },
+  "8826728dc879c71d": {
+    "title": "Non-web senior developer, trying to build web app securely and failing HARD",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlakfg/nonweb_senior_developer_trying_to_build_web_app/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T18:31:28+00:00",
+    "first_alerted_at": "2026-11-01T21:51:52.983979+00:00"
+  },
+  "41d6633349d0a440": {
+    "title": "Senior programmer (non web), cannot seem to build secure web apps with help of AI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlagon/senior_programmer_non_web_cannot_seem_to_build/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T18:27:27+00:00",
+    "first_alerted_at": "2026-11-01T21:51:54.117494+00:00"
+  },
+  "9e435ca2aa6068d6": {
+    "title": "In an effort to leave Windows, me and Claude built an OS designed for Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlal06/in_an_effort_to_leave_windows_me_and_claude_built/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T18:32:08+00:00",
+    "first_alerted_at": "2026-11-01T21:51:55.242674+00:00"
+  },
+  "ebcb771ee29d34eb": {
+    "title": "Optimizing Claude for retro game decompilation & porting: Projects vs. Sessions, context bloat, and token limits?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlezfz/optimizing_claude_for_retro_game_decompilation/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T21:28:24+00:00",
+    "first_alerted_at": "2026-11-01T21:51:56.295424+00:00"
+  },
+  "a873e4a6e5debbd8": {
+    "title": "Re new projects vs clause code: how best to handle massive vibe coding projects in the cloud",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlbsfu/re_new_projects_vs_clause_code_how_best_to_handle/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T19:19:31+00:00",
+    "first_alerted_at": "2026-11-01T21:51:57.334259+00:00"
+  },
+  "1def6a9269e36e37": {
+    "title": "I created a RDR2 Mod in code, which allowed me to have a time traveling, movie quoting AI controlled companion. Claude controls in real time",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xle862/i_created_a_rdr2_mod_in_code_which_allowed_me_to/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T20:57:22+00:00",
+    "first_alerted_at": "2026-11-01T21:51:58.368126+00:00"
+  },
+  "2e7e002cd3a1e6bd": {
+    "title": "I built a desktop app that takes a ticket and drives Claude Code from plan to landed code, after a code review went 56 rounds. Free open beta, Linux and Windows.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlb3rm/i_built_a_desktop_app_that_takes_a_ticket_and/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T18:52:48+00:00",
+    "first_alerted_at": "2026-11-01T21:51:59.402731+00:00"
   }
 }
