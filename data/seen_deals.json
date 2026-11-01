@@ -15478,5 +15478,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-01T10:17:18+00:00",
     "first_alerted_at": "2026-11-01T11:58:31.169653+00:00"
+  },
+  "c170b3c179400d0a": {
+    "title": "CS Student Dilemma: ChatGPT Plus (Codex / Work) vs Claude Pro — which one is worth paying for coding?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl4bth/cs_student_dilemma_chatgpt_plus_codex_work_vs/",
+    "provider": "Anthropic",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T14:23:59+00:00",
+    "first_alerted_at": "2026-11-01T17:53:14.552280+00:00"
+  },
+  "948ed95304aeca5c": {
+    "title": "Never get blindsided by a Claude Code usage limit again: your 5h and weekly limits, live in your terminal (free, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl60dr/never_get_blindsided_by_a_claude_code_usage_limit/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T15:33:31+00:00",
+    "first_alerted_at": "2026-11-01T17:53:15.548980+00:00"
+  },
+  "ba5c5f20289d8529": {
+    "title": "Show HN: Shroom – screen recording and sharing, your own Cloudflare, 10M setup",
+    "url": "https://shroom.am",
+    "provider": "General AI",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T13:53:13+00:00",
+    "first_alerted_at": "2026-11-01T17:53:16.593281+00:00"
+  },
+  "59c2eb33ccb01621": {
+    "title": "The 20x ultra plan limits is utter insanity",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl5wab/the_20x_ultra_plan_limits_is_utter_insanity/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T15:28:54+00:00",
+    "first_alerted_at": "2026-11-01T17:53:17.682560+00:00"
+  },
+  "33f10075cff275a1": {
+    "title": "Deepdumb - a benchmark to measure AI's response to persistent stupidity",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl96h6/deepdumb_a_benchmark_to_measure_ais_response_to/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T17:37:42+00:00",
+    "first_alerted_at": "2026-11-01T17:53:18.673858+00:00"
+  },
+  "540de6efba9cb702": {
+    "title": "I have issues with Claude and it needing always my permission to log into things or grab an API key.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl80vt/i_have_issues_with_claude_and_it_needing_always/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T16:53:24+00:00",
+    "first_alerted_at": "2026-11-01T17:53:19.727606+00:00"
+  },
+  "4589bbfcb4a3432a": {
+    "title": "Show HN: Learn to beatmatch on Winamp-skinned decks (vibe-coded, desktop only)",
+    "url": "https://bit-cheer.com/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T13:02:20+00:00",
+    "first_alerted_at": "2026-11-01T17:53:20.716095+00:00"
+  },
+  "e5c03771effadb82": {
+    "title": "Forget the usual Claude tips. What are the strange things you do that actually help?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl9c92/forget_the_usual_claude_tips_what_are_the_strange/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T17:43:53+00:00",
+    "first_alerted_at": "2026-11-01T17:53:21.778401+00:00"
+  },
+  "333a8b4c07e159e0": {
+    "title": "Should I run Fable?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl79m0/should_i_run_fable/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T16:23:31+00:00",
+    "first_alerted_at": "2026-11-01T17:53:22.778013+00:00"
+  },
+  "0f663cd9bb745657": {
+    "title": "No coding experience, new AI user",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl719c/no_coding_experience_new_ai_user/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T16:14:10+00:00",
+    "first_alerted_at": "2026-11-01T17:53:23.784509+00:00"
   }
 }
