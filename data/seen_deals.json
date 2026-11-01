@@ -15415,5 +15415,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-01T01:07:23+00:00",
     "first_alerted_at": "2026-11-01T05:18:04.825963+00:00"
+  },
+  "8d994230de57bbb9": {
+    "title": "Set up T3 Code with Claude Code since it’s trending. One default setting you’ll want to change first",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl0grs/set_up_t3_code_with_claude_code_since_its/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T11:11:28+00:00",
+    "first_alerted_at": "2026-11-01T11:58:25.007990+00:00"
+  },
+  "641fc8df0f96d72b": {
+    "title": "OpenAI Offers ChatGPT Pro and Business Users Monthly API Credits - ShiftDelete.Net",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG5YeU1PVktQNW4zV0dNOHZtM3IwWDNGalQ3SlhXQVNhOTY1MmVTbEVVaUdicVdMbmljb1gxcjFSUkduLUhvdDBfYUZueHNZZGlnZlRWT0I3Y05LWWJ5WjVSSl93ZHNHMEljOWNDakJmcmctQmUyaGFZUXd3Z2tza01SdnZpQlpIQS1PdG4yeF9odkFISGc?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T19:31:10+00:00",
+    "first_alerted_at": "2026-11-01T11:58:26.069321+00:00"
+  },
+  "c1c2155191251a6f": {
+    "title": "Notes on the Claude text watermark: I built a /reword slash command for Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl023x/notes_on_the_claude_text_watermark_i_built_a/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T10:47:21+00:00",
+    "first_alerted_at": "2026-11-01T11:58:27.064174+00:00"
+  },
+  "f5685ba728497f60": {
+    "title": "Claude just leak its internal CDS",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xl0mvp/claude_just_leak_its_internal_cds/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T11:21:29+00:00",
+    "first_alerted_at": "2026-11-01T11:58:28.128461+00:00"
+  },
+  "cfd9469717f23505": {
+    "title": "Best plugins/skills/apps",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkxsvc/best_pluginsskillsapps/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T08:23:41+00:00",
+    "first_alerted_at": "2026-11-01T11:58:29.132544+00:00"
+  },
+  "97810a3a6b3b429c": {
+    "title": "A simpler way to put ChatGPT to work (A shared allowance for ChatGPT and Codex)",
+    "url": "https://news.ycombinator.com/item?id=50324512",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T11:13:45+00:00",
+    "first_alerted_at": "2026-11-01T11:58:30.179432+00:00"
+  },
+  "5897186984cf09e6": {
+    "title": "Building an RTS with no coding experience, what's an efficient workflow?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkzki0/building_an_rts_with_no_coding_experience_whats/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T10:17:18+00:00",
+    "first_alerted_at": "2026-11-01T11:58:31.169653+00:00"
   }
 }
