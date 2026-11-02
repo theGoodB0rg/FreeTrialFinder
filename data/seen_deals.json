@@ -15694,5 +15694,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-01T23:05:03+00:00",
     "first_alerted_at": "2026-11-02T01:23:11.123396+00:00"
+  },
+  "2e7ad1440d1e23b3": {
+    "title": "Been making this game for 3 months using only AI (Everything coded with Opus 5.5)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlr3u8/been_making_this_game_for_3_months_using_only_ai/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-02T07:43:48+00:00",
+    "first_alerted_at": "2026-11-02T08:04:13.320875+00:00"
+  },
+  "c863e1bea78ca1f8": {
+    "title": "Claude Code made my app's 54-second 4K60 launch film from real screen recordings. Here's what made it look expensive",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlltev/claude_code_made_my_apps_54second_4k60_launch/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T02:44:17+00:00",
+    "first_alerted_at": "2026-11-02T08:04:14.347966+00:00"
+  },
+  "edea8e2f1c4007f1": {
+    "title": "I built a shared knowledge store for agents with Claude Code; it's free to try as a Claude connector",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlllyx/i_built_a_shared_knowledge_store_for_agents_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T02:33:51+00:00",
+    "first_alerted_at": "2026-11-02T08:04:15.405231+00:00"
+  },
+  "97d1962f2254453c": {
+    "title": "What I've learned over the weekend by taking a repo with almost 700 issues and 69 PRs (nice) (written by me)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlmoie/what_ive_learned_over_the_weekend_by_taking_a/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T03:28:12+00:00",
+    "first_alerted_at": "2026-11-02T08:04:16.427881+00:00"
+  },
+  "6442aba9b423c79e": {
+    "title": "ChatGPT: Chat and Work are coming together in one experience",
+    "url": "https://news.ycombinator.com/item?id=50332302",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T02:16:05+00:00",
+    "first_alerted_at": "2026-11-02T08:04:17.424056+00:00"
+  },
+  "1b536300775529a1": {
+    "title": "Ask HN: Why is AWS such a pain for using Bedrock?",
+    "url": "https://news.ycombinator.com/item?id=50333216",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T04:44:05+00:00",
+    "first_alerted_at": "2026-11-02T08:04:18.440989+00:00"
+  },
+  "0af9542f11cbea6c": {
+    "title": "I benchmarked 10 open-source AI memory systems on BEAM (100K) with Claude. Two matched full context while reading 24–35x less text",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlo7ls/i_benchmarked_10_opensource_ai_memory_systems_on/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T04:50:47+00:00",
+    "first_alerted_at": "2026-11-02T08:04:19.425259+00:00"
+  },
+  "9c55b5e990dc9066": {
+    "title": "5 ways to see token usage in Claude Code and what each one counts",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlo1mh/5_ways_to_see_token_usage_in_claude_code_and_what/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T04:41:28+00:00",
+    "first_alerted_at": "2026-11-02T08:04:20.450107+00:00"
   }
 }
