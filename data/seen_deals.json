@@ -15640,5 +15640,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-01T18:52:48+00:00",
     "first_alerted_at": "2026-11-01T21:51:59.402731+00:00"
+  },
+  "3da5449838e93048": {
+    "title": "High effort mostly cut false alarms in my Claude code reviews",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlgzdz/high_effort_mostly_cut_false_alarms_in_my_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-01T22:54:17+00:00",
+    "first_alerted_at": "2026-11-02T01:23:06.934243+00:00"
+  },
+  "58a373ba93b7574e": {
+    "title": "How are people giving Claude access to Reddit now that new API apps are blocked?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlicaz/how_are_people_giving_claude_access_to_reddit_now/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T23:56:32+00:00",
+    "first_alerted_at": "2026-11-02T01:23:07.772858+00:00"
+  },
+  "b97822d3c68e7778": {
+    "title": "Developers keep hitting the same problem: the agent forgets them, their rules and their project details. I tried to fix it with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlgogc/developers_keep_hitting_the_same_problem_the/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T22:40:29+00:00",
+    "first_alerted_at": "2026-11-02T01:23:08.602641+00:00"
+  },
+  "76fcac95459591d7": {
+    "title": "An AI that can't hear made music out of one night of real star positions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xliyb6/an_ai_that_cant_hear_made_music_out_of_one_night/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T00:23:52+00:00",
+    "first_alerted_at": "2026-11-02T01:23:09.435492+00:00"
+  },
+  "9354f2f1164ab3ff": {
+    "title": "What do you keep on a dashboard so you don't have to ask Claude?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlie8m/what_do_you_keep_on_a_dashboard_so_you_dont_have/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T23:59:05+00:00",
+    "first_alerted_at": "2026-11-02T01:23:10.269658+00:00"
+  },
+  "2cf04472bd9210dc": {
+    "title": "Multiple claude instances to the same subscription",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlh81q/multiple_claude_instances_to_the_same_subscription/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-01T23:05:03+00:00",
+    "first_alerted_at": "2026-11-02T01:23:11.123396+00:00"
   }
 }
