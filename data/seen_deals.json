@@ -15766,5 +15766,122 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-02T04:41:28+00:00",
     "first_alerted_at": "2026-11-02T08:04:20.450107+00:00"
+  },
+  "b72a0d686f27c2ce": {
+    "title": "Show HN: Nomos – A Go harness that stops coding agents from cheating on tests",
+    "url": "https://github.com/mgantlett/nomos",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-02T14:35:12+00:00",
+    "first_alerted_at": "2026-11-02T18:43:48.941159+00:00"
+  },
+  "c89f7e21d6dc7c8e": {
+    "title": "OpenAI Adds API Credits Benefit for Eligible ChatGPT Subscriptions, Following Anthropic - remio",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTNTN1U1ZUg0SjVyeWY0ZktxY0ZCRnRkeWtkR2U0ZV9hR1c2LXRZMWRZOVFjeHJJbHgxZWhPUmFMY2ZieXhwS2JpZV9BMkItcDc4V29GeTNWeklHSndLOVBNclJIclNtczRrckhmOXFnNUlxWXBidXJoR0ZmRENTTWl6SXVEUUwwWEoxSGxjb0xYTTFMQVRqbjgtYzFoQU1QdmhUdkN3NTN2dw?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-30T04:45:35+00:00",
+    "first_alerted_at": "2026-11-02T18:43:49.806056+00:00"
+  },
+  "5b07526b3298e873": {
+    "title": "Show HN: Mind Made Many – Platform to organize your agents into orgs",
+    "url": "https://mindmademany.com/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T16:25:00+00:00",
+    "first_alerted_at": "2026-11-02T18:43:50.691628+00:00"
+  },
+  "2a460cd39f2bcce2": {
+    "title": "I couldn't keep up with Claude changes, so I built a feed for them with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm471k/i_couldnt_keep_up_with_claude_changes_so_i_built/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:52:54+00:00",
+    "first_alerted_at": "2026-11-02T18:43:51.554269+00:00"
+  },
+  "5e90a89d076f88b0": {
+    "title": "Follow-up: I tested AI code review on 40 real bugs and on build/fix tasks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm2xkm/followup_i_tested_ai_code_review_on_40_real_bugs/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:07:53+00:00",
+    "first_alerted_at": "2026-11-02T18:43:52.384789+00:00"
+  },
+  "1f46f5273f1ad2d9": {
+    "title": "I was tired of searching for a remote PC controller, so I built mine with Claude Code: phone app + PC agent, Windows and Linux",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm0qnd/i_was_tired_of_searching_for_a_remote_pc/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T15:47:49+00:00",
+    "first_alerted_at": "2026-11-02T18:43:53.273862+00:00"
+  },
+  "22fd0bc6941fc461": {
+    "title": "I turned my job search tool into an MCP server, so now I just ask Claude what's new",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm0fnq/i_turned_my_job_search_tool_into_an_mcp_server_so/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T15:36:11+00:00",
+    "first_alerted_at": "2026-11-02T18:43:54.155878+00:00"
+  },
+  "5b5c83bad55741d7": {
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "url": "https://momentic.ai/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:05:25+00:00",
+    "first_alerted_at": "2026-11-02T18:43:55.076729+00:00"
+  },
+  "a9da219b0117efb2": {
+    "title": "Anyone else's claude letting them work after weekly limit?(no i don't have usage credits on)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm3snp/anyone_elses_claude_letting_them_work_after/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:38:23+00:00",
+    "first_alerted_at": "2026-11-02T18:43:55.957895+00:00"
+  },
+  "1a5b47726e62932b": {
+    "title": "Stop blowing through your usage - Pace your agents with skills/hooks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm39bk/stop_blowing_through_your_usage_pace_your_agents/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:19:20+00:00",
+    "first_alerted_at": "2026-11-02T18:43:56.888498+00:00"
+  },
+  "566c58e0c3f0b51c": {
+    "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm2sej/anthropics_internal_ai_use_valued_at_retail/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:02:44+00:00",
+    "first_alerted_at": "2026-11-02T18:43:57.730392+00:00"
+  },
+  "994c61e833905ebe": {
+    "title": "Finally upgrading to Claude Max!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm2qur/finally_upgrading_to_claude_max/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T17:01:10+00:00",
+    "first_alerted_at": "2026-11-02T18:43:58.554879+00:00"
+  },
+  "78c3014d218c3e11": {
+    "title": "i built a mac app that shells out to claude code to edit my instagram reels from the clips i shot. how the pipeline works",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm0vcb/i_built_a_mac_app_that_shells_out_to_claude_code/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T15:52:52+00:00",
+    "first_alerted_at": "2026-11-02T18:43:59.384154+00:00"
   }
 }
