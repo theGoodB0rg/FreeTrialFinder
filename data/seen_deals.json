@@ -16180,5 +16180,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-03T15:32:07+00:00",
     "first_alerted_at": "2026-11-03T16:55:05.867082+00:00"
+  },
+  "097a12c640fe053d": {
+    "title": "The Binance theft started as a coding assignment. I’ve been sent the same kind of repo all year. All were exploits.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn3cr5/the_binance_theft_started_as_a_coding_assignment/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-03T19:57:15+00:00",
+    "first_alerted_at": "2026-11-03T22:14:16.783938+00:00"
+  },
+  "b34a3a2d287c0ba8": {
+    "title": "I’m not a developer. I built a job-search agent with Claude Code, and the job-board list its users find gets shared with everyone",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn514n/im_not_a_developer_i_built_a_jobsearch_agent_with/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-03T21:00:25+00:00",
+    "first_alerted_at": "2026-11-03T22:14:17.681340+00:00"
+  },
+  "477963d3a338d2b7": {
+    "title": "Student who got Claude Max 20x + $10k API credits free for a year. How would you use it?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn63j3/student_who_got_claude_max_20x_10k_api_credits/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T21:41:40+00:00",
+    "first_alerted_at": "2026-11-03T22:14:18.577586+00:00"
+  },
+  "774fd124910594c7": {
+    "title": "What did your security team check before approving Claude Code?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn3bcs/what_did_your_security_team_check_before/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T19:55:50+00:00",
+    "first_alerted_at": "2026-11-03T22:14:19.490594+00:00"
+  },
+  "34d6c60379b4b65a": {
+    "title": "Show HN: Mallard: Git for the age of AI agents",
+    "url": "https://mallard-ai.com/home",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T20:18:39+00:00",
+    "first_alerted_at": "2026-11-03T22:14:20.379343+00:00"
+  },
+  "0c2cc4b54c0e1fd7": {
+    "title": "My Claude Code loop: spec → apply → CI → merge → archive. 347 changes and 649 merged PRs in 24 days on one open-source app",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6jm1/my_claude_code_loop_spec_apply_ci_merge_archive/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T21:59:44+00:00",
+    "first_alerted_at": "2026-11-03T22:14:21.265847+00:00"
+  },
+  "0c2dab1b6721eb38": {
+    "title": "“MCP Is Dead”? We Got 20,000 email Signups in Two Weeks.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn4hxu/mcp_is_dead_we_got_20000_email_signups_in_two/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T20:39:42+00:00",
+    "first_alerted_at": "2026-11-03T22:14:22.155895+00:00"
+  },
+  "814507f77a023549": {
+    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "url": "https://hackertv.org",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T01:18:09+00:00",
+    "first_alerted_at": "2026-11-03T22:14:23.035594+00:00"
   }
 }
