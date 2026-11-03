@@ -16081,5 +16081,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-03T02:44:15+00:00",
     "first_alerted_at": "2026-11-03T08:30:37.546124+00:00"
+  },
+  "59ffb81b8b0a40fb": {
+    "title": "I spent 9 months building local code search tool for Claude Code / 200 held-out SWE-rebench tasks: 5–11% cheaper, same no. of tasks solved. Open source (sweet-search)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmy1m0/i_spent_9_months_building_local_code_search_tool/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-03T16:45:49+00:00",
+    "first_alerted_at": "2026-11-03T16:54:55.230753+00:00"
+  },
+  "7a70a7ef8f383e7f": {
+    "title": "I built a seamless account switcher for Claude Code and other CLIs,",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmteq5/i_built_a_seamless_account_switcher_for_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-03T13:49:34+00:00",
+    "first_alerted_at": "2026-11-03T16:54:56.246022+00:00"
+  },
+  "8460d713361ac669": {
+    "title": "I asked Claude which database to use 612 times, then had Claude Code and Cursor build the same apps. In 4 of 7 jobs they built something else.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmxjiy/i_asked_claude_which_database_to_use_612_times/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T16:27:05+00:00",
+    "first_alerted_at": "2026-11-03T16:54:57.197346+00:00"
+  },
+  "bb6c808734207f32": {
+    "title": "What I do when Claude Code says the 5 hour limit is reached",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmy3q7/what_i_do_when_claude_code_says_the_5_hour_limit/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T16:48:03+00:00",
+    "first_alerted_at": "2026-11-03T16:54:58.131473+00:00"
+  },
+  "927d571fbe5ab826": {
+    "title": "I wager that the $100 or $250 promotional cloud credits will be removed before their scheduled expiry.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmtcsj/i_wager_that_the_100_or_250_promotional_cloud/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T13:47:13+00:00",
+    "first_alerted_at": "2026-11-03T16:55:00.187286+00:00"
+  },
+  "4d9e53d4725e2910": {
+    "title": "They need to make integrated voice pucks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmx1ub/they_need_to_make_integrated_voice_pucks/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T16:09:09+00:00",
+    "first_alerted_at": "2026-11-03T16:55:01.133862+00:00"
+  },
+  "cfb61ce1b809bf85": {
+    "title": "I gave Claude one sentence and it made a 15 second Thanksgiving ad through MCP: script, Nano Banana 2.1 keyframes, Seedance 2.5 shots, MiniMax Music 3.0",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmwr7a/i_gave_claude_one_sentence_and_it_made_a_15/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T15:58:34+00:00",
+    "first_alerted_at": "2026-11-03T16:55:02.091008+00:00"
+  },
+  "2f5cd8ecf3ae975f": {
+    "title": "A second brain that tags and connects its content automatically exposing everything with MCP in an Apple native app",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmsgwx/a_second_brain_that_tags_and_connects_its_content/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T13:07:29+00:00",
+    "first_alerted_at": "2026-11-03T16:55:03.034814+00:00"
+  },
+  "0c024e23429645a6": {
+    "title": "Gave Claude three floor plan images and Blender. The 3D model matched every dimension that was measured",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmsg23/gave_claude_three_floor_plan_images_and_blender/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T13:06:16+00:00",
+    "first_alerted_at": "2026-11-03T16:55:03.980322+00:00"
+  },
+  "a4eb87603a25d5f4": {
+    "title": "Show HN: Agent Trace, let agents query Codex and CC chat histories",
+    "url": "https://github.com/wcook04/agent-trace-mechanism",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T15:20:20+00:00",
+    "first_alerted_at": "2026-11-03T16:55:04.915592+00:00"
+  },
+  "955d6d2e5de4b8fc": {
+    "title": "Claude never says no to a feature, so I built a skill that makes it argue for deleting one",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmw242/claude_never_says_no_to_a_feature_so_i_built_a/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T15:32:07+00:00",
+    "first_alerted_at": "2026-11-03T16:55:05.867082+00:00"
   }
 }
