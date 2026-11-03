@@ -15982,5 +15982,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-02T23:05:41+00:00",
     "first_alerted_at": "2026-11-03T01:28:53.784433+00:00"
+  },
+  "3e5698463b06c199": {
+    "title": "Anthropic added “message threads” to the Messages API (public beta): send the conversation once, then only new messages. Already on by default in Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmh012/anthropic_added_message_threads_to_the_messages/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-03T02:27:09+00:00",
+    "first_alerted_at": "2026-11-03T08:30:29.100016+00:00"
+  },
+  "ba3d07105706e6f2": {
+    "title": "Ultra plan's $200 monthly API credit shows on claude.ai but not in my Console balance. Anyone else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmm13u/ultra_plans_200_monthly_api_credit_shows_on/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T06:51:39+00:00",
+    "first_alerted_at": "2026-11-03T08:30:29.934471+00:00"
+  },
+  "73632dca2d42227d": {
+    "title": "\"(Claude) Model is not the bottleneck\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmkbzo/claude_model_is_not_the_bottleneck/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T05:14:06+00:00",
+    "first_alerted_at": "2026-11-03T08:30:30.757208+00:00"
+  },
+  "297e684dec715127": {
+    "title": "a Mac DAW where Claude can run the whole session, using Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmhrd7/a_mac_daw_where_claude_can_run_the_whole_session/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T03:03:05+00:00",
+    "first_alerted_at": "2026-11-03T08:30:31.586235+00:00"
+  },
+  "a5a774035c0719df": {
+    "title": "AgentFlow runs the ticket workflow around Claude Code, Codex or Copilot CLI. Your agent stays the same.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmm3bo/agentflow_runs_the_ticket_workflow_around_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T06:55:26+00:00",
+    "first_alerted_at": "2026-11-03T08:30:32.410088+00:00"
+  },
+  "47275c2eaf9550e2": {
+    "title": "Vercel Agent Desktop with Claude Code: reading and clicking Mac apps worked in the background, saving didn’t",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmkd40/vercel_agent_desktop_with_claude_code_reading_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T05:15:44+00:00",
+    "first_alerted_at": "2026-11-03T08:30:33.235019+00:00"
+  },
+  "288b4f1edbecc4af": {
+    "title": "Server-side experiment (tengu_clever_orbit) seems to have replaced WebFetch tool with a subagent. Anyone else in the test group?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmht0f/serverside_experiment_tengu_clever_orbit_seems_to/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T03:05:14+00:00",
+    "first_alerted_at": "2026-11-03T08:30:34.086631+00:00"
+  },
+  "322948b60a0e5ef4": {
+    "title": "How Claude Code reacts when a repo has a no-AI contribution policy",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmgzia/how_claude_code_reacts_when_a_repo_has_a_noai/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T02:26:28+00:00",
+    "first_alerted_at": "2026-11-03T08:30:34.950695+00:00"
+  },
+  "7a9b1cd588249a8e": {
+    "title": "I created a “Lie Room” for Claude, Codex and Grok. Claude was the best liar.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmidbx/i_created_a_lie_room_for_claude_codex_and_grok/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T03:32:18+00:00",
+    "first_alerted_at": "2026-11-03T08:30:35.820244+00:00"
+  },
+  "ea46fb8d99c0c591": {
+    "title": "What the hel is happening with limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmmmte/what_the_hel_is_happening_with_limits/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T07:28:34+00:00",
+    "first_alerted_at": "2026-11-03T08:30:36.666504+00:00"
+  },
+  "0bded59802a227ef": {
+    "title": "Where do your agent’s tokens actually go on backend tasks?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmhctx/where_do_your_agents_tokens_actually_go_on/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T02:44:15+00:00",
+    "first_alerted_at": "2026-11-03T08:30:37.546124+00:00"
   }
 }
