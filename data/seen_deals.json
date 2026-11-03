@@ -15883,5 +15883,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-02T15:52:52+00:00",
     "first_alerted_at": "2026-11-02T18:43:59.384154+00:00"
+  },
+  "ba7dfe309e0b7ba1": {
+    "title": "Pro to Max: At what point did you finally pull the trigger? What’s your story?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmdoc2/pro_to_max_at_what_point_did_you_finally_pull_the/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T23:55:00+00:00",
+    "first_alerted_at": "2026-11-03T01:28:44.602312+00:00"
+  },
+  "260c19bb90852d02": {
+    "title": "Official Claude Code Extension Compromise: Security Advisory",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmdwop/official_claude_code_extension_compromise/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T00:03:57+00:00",
+    "first_alerted_at": "2026-11-03T01:28:45.517269+00:00"
+  },
+  "fc2aa7fef9dff0e5": {
+    "title": "A Solo Developer Built This in 4 Days With Opus 5.5 + Godot. This Is Getting Ridiculous",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmdih0/a_solo_developer_built_this_in_4_days_with_opus/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T23:47:43+00:00",
+    "first_alerted_at": "2026-11-03T01:28:46.442107+00:00"
+  },
+  "65449364d2368c68": {
+    "title": "Got my \"closed ecosystem\" alarm-controlled shutters into Home Assistant, locally, without touching a wire. Thanks Claude! :)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmc6en/got_my_closed_ecosystem_alarmcontrolled_shutters/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T22:51:12+00:00",
+    "first_alerted_at": "2026-11-03T01:28:47.355189+00:00"
+  },
+  "b8b981b243247cac": {
+    "title": "Using the entire weekly limit of an ultra plan in less than two hours on purpose, and why you should too.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmfny8/using_the_entire_weekly_limit_of_an_ultra_plan_in/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T01:24:35+00:00",
+    "first_alerted_at": "2026-11-03T01:28:48.267671+00:00"
+  },
+  "56bd17f76e73d312": {
+    "title": "If you recognize this problem with your Claude sessions, I may have a solution for you.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmc08q/if_you_recognize_this_problem_with_your_claude/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T22:44:04+00:00",
+    "first_alerted_at": "2026-11-03T01:28:49.175862+00:00"
+  },
+  "e5913df11cf751fb": {
+    "title": "Interesting idea that is impossible for me to implement",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmbwum/interesting_idea_that_is_impossible_for_me_to/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T22:40:13+00:00",
+    "first_alerted_at": "2026-11-03T01:28:50.094549+00:00"
+  },
+  "0c1147f240cf4b1b": {
+    "title": "Show HN: HackerTV – HN's most-recommended YT videos as 24/7 TV channels",
+    "url": "https://hackertv.org",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T01:18:09+00:00",
+    "first_alerted_at": "2026-11-03T01:28:51.000142+00:00"
+  },
+  "62b4d22e7347a4db": {
+    "title": "Using Claude + Canva MCP for real product photos — how do you get your own images into the design?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmel1v/using_claude_canva_mcp_for_real_product_photos/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T00:34:24+00:00",
+    "first_alerted_at": "2026-11-03T01:28:51.929593+00:00"
+  },
+  "120cf94029459089": {
+    "title": "How to make AI sound more human: what held up for us after 1,000+ hours on our writing skill and hundreds of blind A/B tests",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmea8t/how_to_make_ai_sound_more_human_what_held_up_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T00:20:35+00:00",
+    "first_alerted_at": "2026-11-03T01:28:52.858494+00:00"
+  },
+  "67b3f3dbcdb00a6c": {
+    "title": "weave all together - collaborate with everyone",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmciqj/weave_all_together_collaborate_with_everyone/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-02T23:05:41+00:00",
+    "first_alerted_at": "2026-11-03T01:28:53.784433+00:00"
   }
 }
