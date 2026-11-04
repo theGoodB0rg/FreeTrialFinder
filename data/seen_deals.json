@@ -16297,5 +16297,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-03T22:27:33+00:00",
     "first_alerted_at": "2026-11-04T02:35:51.409306+00:00"
+  },
+  "a36eb9fdd37e710a": {
+    "title": "Une équipe d'agents IA dans VS Code, supervisée par Claude Code dans VScode: retour d'expérience",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnh8a9/une_équipe_dagents_ia_dans_vs_code_supervisée_par/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-04T06:37:25+00:00",
+    "first_alerted_at": "2026-11-04T10:40:27.132643+00:00"
+  },
+  "5f0f4893d46b07cf": {
+    "title": "Is the $100 Claude Max plan worth it for building an app in 1 month using Claude Code without getting blocked?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnkj7h/is_the_100_claude_max_plan_worth_it_for_building/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T10:09:10+00:00",
+    "first_alerted_at": "2026-11-04T10:40:28.100060+00:00"
+  },
+  "c86dc72fb17931df": {
+    "title": "MCP vs API vs CLI — How Should AI Agents Connect to Your App?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnkv6c/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T10:29:49+00:00",
+    "first_alerted_at": "2026-11-04T10:40:29.024499+00:00"
+  },
+  "00dced3ae85ceb0e": {
+    "title": "Startup program people, did you just get a weekly limit too?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnkqjo/startup_program_people_did_you_just_get_a_weekly/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T10:21:37+00:00",
+    "first_alerted_at": "2026-11-04T10:40:29.977338+00:00"
+  },
+  "24bcc4ff1f0840a2": {
+    "title": "How can I try Claude Pro without using my credit card?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnierb/how_can_i_try_claude_pro_without_using_my_credit/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T07:50:35+00:00",
+    "first_alerted_at": "2026-11-04T10:40:30.898082+00:00"
+  },
+  "5f38048dd13254b2": {
+    "title": "GTA VI and Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xni1ki/gta_vi_and_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T07:27:09+00:00",
+    "first_alerted_at": "2026-11-04T10:40:31.859656+00:00"
   }
 }
