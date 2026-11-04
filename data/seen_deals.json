@@ -16351,5 +16351,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-04T07:27:09+00:00",
     "first_alerted_at": "2026-11-04T10:40:31.859656+00:00"
+  },
+  "a539c74181f9be5e": {
+    "title": "Claude Code can test web. Why not mobile?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnuiav/claude_code_can_test_web_why_not_mobile/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-04T17:38:17+00:00",
+    "first_alerted_at": "2026-11-04T18:30:52.972689+00:00"
+  },
+  "ab3345b9494d6332": {
+    "title": "I built SuperTerminal: your real shell, but anything that isn't a command gets turned into one by Claude (open source, Haiku 5.5 by default)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnvpt6/i_built_superterminal_your_real_shell_but/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T18:23:27+00:00",
+    "first_alerted_at": "2026-11-04T18:30:53.968268+00:00"
+  },
+  "ad0bd7c84b1e2076": {
+    "title": "paper-lector: a skill I built with Claude Code that tries to refute your research claim against prior work",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnvfaq/paperlector_a_skill_i_built_with_claude_code_that/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T18:12:27+00:00",
+    "first_alerted_at": "2026-11-04T18:30:55.016703+00:00"
+  },
+  "282013d45c36b866": {
+    "title": "I gave Claude raw 3DS machine code with no source, and it found a deleted 3D renderer inside Minecraft, reimplemented it.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnqrp2/i_gave_claude_raw_3ds_machine_code_with_no_source/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T15:15:38+00:00",
+    "first_alerted_at": "2026-11-04T18:30:56.083345+00:00"
+  },
+  "f7510a3739663c44": {
+    "title": "I built “J.A.R.V.I.S.” a voice assistant for iPhone and Apple Watch that can do tasks on my PC with help from Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnvg1w/i_built_jarvis_a_voice_assistant_for_iphone_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T18:13:14+00:00",
+    "first_alerted_at": "2026-11-04T18:30:57.167746+00:00"
+  },
+  "8207506a8044b52a": {
+    "title": "Interesting Claude Pro Yearly/Monthly Limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xntrrs/interesting_claude_pro_yearlymonthly_limits/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T17:11:09+00:00",
+    "first_alerted_at": "2026-11-04T18:30:58.257698+00:00"
+  },
+  "a359492a2b555beb": {
+    "title": "I bought an RTX5080 for games that I don't play anymore, so now it makes images when I ask Claude.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnuiua/i_bought_an_rtx5080_for_games_that_i_dont_play/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T17:38:51+00:00",
+    "first_alerted_at": "2026-11-04T18:30:59.304978+00:00"
   }
 }
