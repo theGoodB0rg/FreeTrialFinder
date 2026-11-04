@@ -16252,5 +16252,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-03T01:18:09+00:00",
     "first_alerted_at": "2026-11-03T22:14:23.035594+00:00"
+  },
+  "925d0e0929fa8cca": {
+    "title": "Anthropic shipped message threads (beta): Claude Code now sends only new messages per turn, about 35% lower time to first token on 500k to 1M token requests",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnc4ew/anthropic_shipped_message_threads_beta_claude/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-04T02:07:50+00:00",
+    "first_alerted_at": "2026-11-04T02:35:47.318245+00:00"
+  },
+  "d67e23f7ada53714": {
+    "title": "Haiku 5.5 kept thinking when I set thinking \"off\". When I really turned it off, it wrote the answer first and argued with it afterwards.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnad7d/haiku_55_kept_thinking_when_i_set_thinking_off/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T00:44:02+00:00",
+    "first_alerted_at": "2026-11-04T02:35:48.339537+00:00"
+  },
+  "f0b34471c98112da": {
+    "title": "I built an MCP connector that sends your Claude work straight to clients for feedback",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xna6ug/i_built_an_mcp_connector_that_sends_your_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T00:35:53+00:00",
+    "first_alerted_at": "2026-11-04T02:35:49.344434+00:00"
+  },
+  "606bfb64a5e2aa35": {
+    "title": "Hardware-in-the-loop for Claude: AI builds the PCB, firmware, picks the sensors, SoCs; designs the CAD, and then iterates the designs against a virtual twin (Isaac Sim / Unreal)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn8gpz/hardwareintheloop_for_claude_ai_builds_the_pcb/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T23:19:01+00:00",
+    "first_alerted_at": "2026-11-04T02:35:50.389932+00:00"
+  },
+  "141f5c8fc8a58bba": {
+    "title": "I built a free and fun open-source MTG deckbuilder with Claude as a handly lil helper",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn78r2/i_built_a_free_and_fun_opensource_mtg_deckbuilder/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-03T22:27:33+00:00",
+    "first_alerted_at": "2026-11-04T02:35:51.409306+00:00"
   }
 }
