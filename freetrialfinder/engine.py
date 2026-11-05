@@ -19,7 +19,11 @@ class FinderEngine:
         notifiers: Optional[List[BaseNotifier]] = None,
         state_file: str = "data/seen_deals.json",
         min_score: int = 40,
+        verifier=None,
+        agent_max_per_run: int = 10,
     ):
+        self.verifier = verifier
+        self.agent_max_per_run = agent_max_per_run
         self.sources = sources if sources is not None else [
             GitHubCuratedSource(),
             HackerNewsSource(),
@@ -58,6 +62,9 @@ class FinderEngine:
         # Prioritize highest scoring deals first
         new_deals.sort(key=lambda d: d.score, reverse=True)
 
+        # Borderline deals get a second opinion from the verification agent.
+        new_deals = self.apply_agent(new_deals)
+
         # Dispatch alerts for new deals with pacing to respect API rate limits
         import time
         for i, deal in enumerate(new_deals):
@@ -71,6 +78,38 @@ class FinderEngine:
                 time.sleep(0.5)
 
         return new_deals
+
+    def apply_agent(self, deals: List[DealItem]) -> List[DealItem]:
+        """Run the verifier on POTENTIAL deals. Rejected deals are recorded as seen
+        (so they are not re-verified) but not alerted. KEEP and UNSURE still alert;
+        UNSURE fails open so an agent outage never hides a deal."""
+        if self.verifier is None:
+            return deals
+        from freetrialfinder.agent.verifier import Decision
+
+        kept: List[DealItem] = []
+        budget = self.agent_max_per_run
+        for deal in deals:
+            if deal.confidence != ConfidenceLevel.POTENTIAL or budget <= 0:
+                kept.append(deal)
+                continue
+            budget -= 1
+            try:
+                verdict = self.verifier.verify(deal)
+            except Exception:
+                deal.reasons.append("agent_error")
+                kept.append(deal)
+                continue
+            if verdict.decision == Decision.REJECT:
+                self.state_manager.record_deal(deal)
+                continue
+            if verdict.decision == Decision.KEEP:
+                deal.reasons.append("agent_verified")
+                deal.summary = f"Agent check: {verdict.reason}\n{deal.summary}".strip()
+            else:
+                deal.reasons.append("agent_unsure")
+            kept.append(deal)
+        return kept
 
     def inspect(self) -> List[DealItem]:
         """Runs a dry-run check without sending alerts or mutating saved state."""

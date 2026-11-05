@@ -174,6 +174,46 @@ Because the repository is public, workflow execution incurs **zero cost and util
 
 ---
 
+## Verification Agent (optional)
+
+Keyword heuristics cannot tell a real offer from a Reddit thread that merely mentions "free credits". Deals in the `POTENTIAL` tier (score 40-74) can be handed to a small tool-calling agent that reads the page and decides.
+
+```text
+POTENTIAL deal --> DealVerifier --(fetch_page)--> page text
+                        |                              |
+                        +<-------- model reads --------+
+                        |
+                  submit_verdict: keep | reject | unsure
+                        |
+     keep -> alert with "Agent check: <reason>"
+     reject -> recorded as seen, no alert
+     unsure -> alert as before (fails open)
+```
+
+Guardrails (all in `freetrialfinder/agent/`, all unit-tested offline with a scripted fake model):
+
+- **Bounded loop**: at most 5 model turns and 2 page fetches per deal, plus a per-run budget (`AGENT_MAX_PER_RUN`).
+- **Tool allowlist**: only `fetch_page` and `submit_verdict` execute; any other tool name is refused and flagged.
+- **SSRF guard**: `fetch_page` allows only http(s) to public hosts, re-checks after redirects, blocks localhost, private, link-local and cloud metadata addresses, caps size and time, and strips scripts before the model sees the text.
+- **Grounded verdicts**: the verdict's `evidence` must be an exact quote from text the agent actually saw. Invented quotes downgrade the verdict to `unsure`. A `keep` without programmatic access is also downgraded.
+- **Fail open**: API errors, bad JSON or hitting a limit yield `unsure`, so an agent outage never hides a deal.
+
+Observability and evaluation:
+
+```powershell
+# Every model turn, tool call, guard trip and verdict is one JSON line in data/agent_traces.jsonl
+python -m freetrialfinder.cli traces --last 10
+
+# Score the agent against hand-labelled real deals (evals/labelled_deals.jsonl)
+python -m freetrialfinder.cli eval
+```
+
+`eval` reports accuracy on decided deals, false-keep rate (spam that would be alerted), false-reject rate (real deals missed), unsure rate, and average tool calls per deal as a cost proxy.
+
+Enable it with `ENABLE_AGENT=true` and `OPENROUTER_API_KEY` in `.env` (any OpenAI-compatible endpoint works via `AGENT_BASE_URL`; free `:free` OpenRouter models cost nothing).
+
+---
+
 ## Test Suite
 
 The test suite follows test-driven development practices and verifies scoring heuristics, XML/RSS parsing, markdown table extraction, deduplication persistence, and notification payload formats:

@@ -21,12 +21,31 @@ def build_notifiers(include_console: bool = True):
         notifiers.append(ConsoleNotifier())
     return notifiers
 
+def build_verifier(required: bool = False):
+    """Return a DealVerifier when the agent is enabled and a key is set, else None."""
+    api_key = settings.agent_api_key or settings.openrouter_api_key
+    if not (api_key and (settings.enable_agent or required)):
+        if required:
+            Console().print("[red]Set AGENT_API_KEY (or OPENROUTER_API_KEY) in .env to use the agent.[/]")
+        return None
+    from freetrialfinder.agent import DealVerifier, JsonlTracer
+    from freetrialfinder.agent.llm import OpenAICompatibleClient
+
+    llm = OpenAICompatibleClient(
+        api_key=api_key,
+        model=settings.agent_model,
+        base_url=settings.agent_base_url,
+    )
+    return DealVerifier(llm=llm, tracer=JsonlTracer(settings.agent_trace_file))
+
 def handle_poll(args) -> int:
     notifiers = build_notifiers(include_console=True)
     engine = FinderEngine(
         notifiers=notifiers,
         state_file=args.state_file,
         min_score=args.min_score,
+        verifier=build_verifier(),
+        agent_max_per_run=settings.agent_max_per_run,
     )
     new_deals = engine.run_cycle()
     console = Console()
@@ -100,6 +119,53 @@ def handle_test_notify(args) -> int:
             console.print(f"[bold red][x] Failed to send test alert via {n_name}. Please verify credentials.[/]")
     return 0
 
+def handle_eval(args) -> int:
+    import json
+    from freetrialfinder.agent.evaluate import load_labelled, run_eval
+
+    verifier = build_verifier(required=True)
+    if verifier is None:
+        return 1
+    console = Console()
+    rows = load_labelled(args.labels)
+    console.print(f"Evaluating agent on [cyan]{len(rows)}[/] labelled deals with model [magenta]{settings.agent_model}[/]...")
+    report = run_eval(verifier, rows)
+
+    table = Table(title="Per-deal results", show_lines=False)
+    for col in ("Label", "Agent", "Tools", "Flags", "Title"):
+        table.add_column(col)
+    for r in report["results"]:
+        ok = r["decision"] == r["label"]
+        style = "green" if ok else ("yellow" if r["decision"] == "unsure" else "red")
+        table.add_row(r["label"], f"[{style}]{r['decision']}[/]", str(r["tool_calls"]), ",".join(r["flags"]) or "-", r["title"][:60])
+    console.print(table)
+    console.print_json(json.dumps(report["metrics"]))
+    if args.out:
+        with open(args.out, "w", encoding="utf-8") as fh:
+            json.dump(report, fh, indent=2)
+        console.print(f"Saved report to [cyan]{args.out}[/]")
+    return 0
+
+def handle_traces(args) -> int:
+    import json
+    from collections import Counter
+
+    console = Console()
+    try:
+        with open(settings.agent_trace_file, encoding="utf-8") as fh:
+            events = [json.loads(line) for line in fh if line.strip()]
+    except FileNotFoundError:
+        console.print("[yellow]No traces yet.[/]")
+        return 0
+    verdicts = [e for e in events if e["kind"] == "verdict"]
+    guards = Counter(e["rule"] for e in events if e["kind"] == "guard")
+    flags = Counter(f for v in verdicts for f in v.get("flags", []))
+    console.print(f"Runs: [cyan]{len(verdicts)}[/]  Decisions: {dict(Counter(v['decision'] for v in verdicts))}")
+    console.print(f"Guard trips: {dict(guards) or '-'}  Flags: {dict(flags) or '-'}")
+    for v in verdicts[-args.last:]:
+        console.print(f"[dim]{v['ts']} {v['run_id']}[/] [bold]{v['decision']}[/] tools={v['tool_calls']} :: {v['reason'][:120]}")
+    return 0
+
 def main(args: Optional[List[str]] = None) -> int:
     parent_parser = argparse.ArgumentParser(add_help=False)
     parent_parser.add_argument(
@@ -130,6 +196,15 @@ def main(args: Optional[List[str]] = None) -> int:
 
     test_parser = subparsers.add_parser("test-notify", parents=[parent_parser], help="Send a test notification to configured Telegram/Discord channels")
     test_parser.set_defaults(func=handle_test_notify)
+
+    eval_parser = subparsers.add_parser("eval", parents=[parent_parser], help="Score the verification agent against hand-labelled deals")
+    eval_parser.add_argument("--labels", default="evals/labelled_deals.jsonl", help="Path to labelled JSONL file")
+    eval_parser.add_argument("--out", default="evals/last_report.json", help="Where to save the full report")
+    eval_parser.set_defaults(func=handle_eval)
+
+    traces_parser = subparsers.add_parser("traces", parents=[parent_parser], help="Summarise recorded agent traces")
+    traces_parser.add_argument("--last", type=int, default=10, help="How many recent verdicts to show")
+    traces_parser.set_defaults(func=handle_traces)
 
     parsed = parser.parse_args(args)
     if not parsed.command:
