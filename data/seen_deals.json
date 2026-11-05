@@ -16513,5 +16513,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-05T03:53:00+00:00",
     "first_alerted_at": "2026-11-05T07:13:03.309705+00:00"
+  },
+  "a078effff512dedf": {
+    "title": "I built a shop for AI agents with Claude. Then I gave Claude a $5 wallet and one sentence",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xokp9i/i_built_a_shop_for_ai_agents_with_claude_then_i/",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-05T14:55:56+00:00",
+    "first_alerted_at": "2026-11-05T15:42:40.375806+00:00"
+  },
+  "7e0ed1cabc757ec7": {
+    "title": "What I learned trying to stop Claude from “forgetting” my projects between sessions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xokef5/what_i_learned_trying_to_stop_claude_from/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-05T14:43:52+00:00",
+    "first_alerted_at": "2026-11-05T15:42:41.295807+00:00"
+  },
+  "3697de24c733174e": {
+    "title": "I shipped a Steam game in about three weeks with Claude Code: a desktop civilization that worships your mouse cursor",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xokx7t/i_shipped_a_steam_game_in_about_three_weeks_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T15:04:10+00:00",
+    "first_alerted_at": "2026-11-05T15:42:42.221477+00:00"
+  },
+  "f57adc9e1a42d56f": {
+    "title": "Claude Desktop and Claude Code ignore MCP tool order and sort tools alphabetically",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xok6n0/claude_desktop_and_claude_code_ignore_mcp_tool/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T14:34:51+00:00",
+    "first_alerted_at": "2026-11-05T15:42:43.139897+00:00"
+  },
+  "caafdc10485d059d": {
+    "title": "Show HN: Penthera, offline pentest security scanner (open-source, rule-based)",
+    "url": "https://github.com/danoszz/penthera",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T14:37:58+00:00",
+    "first_alerted_at": "2026-11-05T15:42:44.038461+00:00"
+  },
+  "d97aea5a9e6dfdf9": {
+    "title": "The Next User Pays - A Preregistered Study",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoij4s/the_next_user_pays_a_preregistered_study/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T13:23:27+00:00",
+    "first_alerted_at": "2026-11-05T15:42:44.943929+00:00"
+  },
+  "bb360fb5afcac767": {
+    "title": "Claude agents keeps dragging around irrelevant history from tasks it has already finished, so I built a harness to deal with it.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xohmn5/claude_agents_keeps_dragging_around_irrelevant/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T12:39:58+00:00",
+    "first_alerted_at": "2026-11-05T15:42:45.847859+00:00"
+  },
+  "db6b24be17f4e711": {
+    "title": "Multiple Pro accounts allowed on Claude desktop app?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoh748/multiple_pro_accounts_allowed_on_claude_desktop/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T12:17:26+00:00",
+    "first_alerted_at": "2026-11-05T15:42:46.758658+00:00"
   }
 }
