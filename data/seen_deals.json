@@ -16414,5 +16414,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-04T17:38:51+00:00",
     "first_alerted_at": "2026-11-04T18:30:59.304978+00:00"
+  },
+  "c266295802a410db": {
+    "title": "OpenAI's AI agents built 948 working Linux root exploits in one run, for $1.2M in API credits - Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlcwYTZqVlFMRHRDelV5UDh6YkNIZGpTWXZMOFFnNjdZb0JaamdmUTY1LUpEMGtqRjdCbWRFb0lRQU1raEpHRjRTTDBQZUNnU1F6eVN5SU9aN21CX2hkcFF6ekw0NVdpLUxXMG5BMGN1X0NWRTFyd2RpM2RXV3ViMEVzVGk5WTF1WV84RzQ1bUs3UWlna0dGaGF5RWFoZ1UwX0E1cWlaNGxwSTRiQ2JZNDRZRWNKSlN3OUtxZW5WMlV1eDg?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T00:06:46+00:00",
+    "first_alerted_at": "2026-11-05T00:13:42.217628+00:00"
+  },
+  "a2d125a97e227914": {
+    "title": "How I audit my site's security every week (as a non-technical builder)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnyozh/how_i_audit_my_sites_security_every_week_as_a/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T20:18:04+00:00",
+    "first_alerted_at": "2026-11-05T00:13:43.031166+00:00"
+  },
+  "6d15e0b05bb5fa0f": {
+    "title": "PSA - Free cloud session credits expiring soon (Expires 8:59 AM GMT+1, November 5)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo35yp/psa_free_cloud_session_credits_expiring_soon/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T23:19:50+00:00",
+    "first_alerted_at": "2026-11-05T00:13:43.848795+00:00"
+  },
+  "7fa20e312b625385": {
+    "title": "Fable is incredible!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xny4fi/fable_is_incredible/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T19:56:26+00:00",
+    "first_alerted_at": "2026-11-05T00:13:44.680711+00:00"
+  },
+  "b7a523143683ef75": {
+    "title": "How do you structure Claude Project Knowledge to prevent context bloat in long-running projects?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xny4a7/how_do_you_structure_claude_project_knowledge_to/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T19:56:18+00:00",
+    "first_alerted_at": "2026-11-05T00:13:45.539131+00:00"
+  },
+  "bc425cbc3bbed8a6": {
+    "title": "Adding More Usage to Team Premium Account",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo14xu/adding_more_usage_to_team_premium_account/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-04T21:54:56+00:00",
+    "first_alerted_at": "2026-11-05T00:13:46.439976+00:00"
   }
 }
