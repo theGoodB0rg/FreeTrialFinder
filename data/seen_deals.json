@@ -16585,5 +16585,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-05T12:17:26+00:00",
     "first_alerted_at": "2026-11-05T15:42:46.758658+00:00"
+  },
+  "c9e82af35cd70fc1": {
+    "title": "I've used the Big Three of the AI industry and here's what I think as an average human",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xotkqg/ive_used_the_big_three_of_the_ai_industry_and/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T20:37:21+00:00",
+    "first_alerted_at": "2026-11-05T21:50:35.297930+00:00"
+  },
+  "0617f5d64c9c47ce": {
+    "title": "Show HN: Ski Voice-First Multilingual Neutral Coding Harness",
+    "url": "https://justski.it/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T18:56:40+00:00",
+    "first_alerted_at": "2026-11-05T21:50:36.210026+00:00"
+  },
+  "7d391a5eb5729c57": {
+    "title": "I built a desktop pet that follows my Claude Code sessions: 9 moods, a usage footer, and yes, you can boop him (free, open source)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xouo0c/i_built_a_desktop_pet_that_follows_my_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T21:21:02+00:00",
+    "first_alerted_at": "2026-11-05T21:50:37.142781+00:00"
+  },
+  "57c0c0c192648853": {
+    "title": "Which Claude Code skills are actually useful for game development? Here’s what I use on a solo Unity project",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xou972/which_claude_code_skills_are_actually_useful_for/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T21:04:49+00:00",
+    "first_alerted_at": "2026-11-05T21:50:38.221013+00:00"
+  },
+  "e8d1b028ba6666a8": {
+    "title": "Missing claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xou02b/missing_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T20:54:38+00:00",
+    "first_alerted_at": "2026-11-05T21:50:39.140150+00:00"
   }
 }
