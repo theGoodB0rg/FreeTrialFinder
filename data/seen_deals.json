@@ -16468,5 +16468,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-04T21:54:56+00:00",
     "first_alerted_at": "2026-11-05T00:13:46.439976+00:00"
+  },
+  "4a3941af0c7b21d2": {
+    "title": "I gave claudecode eyes on my running app it clicks a button and gets back every frontend and backend line that ran.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo9byj/i_gave_claudecode_eyes_on_my_running_app_it/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T04:16:14+00:00",
+    "first_alerted_at": "2026-11-05T07:12:59.716299+00:00"
+  },
+  "d99c074d96fc8ec2": {
+    "title": "The $100 Claude Code cloud credits expired early — the UTC timezone trap and misleading UI need to be fixed",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoaa00/the_100_claude_code_cloud_credits_expired_early/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T05:08:36+00:00",
+    "first_alerted_at": "2026-11-05T07:13:00.615748+00:00"
+  },
+  "df58e9efef7e231e": {
+    "title": "Claude Cost/Performance",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xobh2h/claude_costperformance/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T06:18:56+00:00",
+    "first_alerted_at": "2026-11-05T07:13:01.503133+00:00"
+  },
+  "6f7433d05b69e34c": {
+    "title": "Use Max plan for my own app?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xobcx9/use_max_plan_for_my_own_app/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T06:12:18+00:00",
+    "first_alerted_at": "2026-11-05T07:13:02.420893+00:00"
+  },
+  "4ac0aa94aae40b85": {
+    "title": "Day 5 making my dream game: free roam galaxy",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xo8vqg/day_5_making_my_dream_game_free_roam_galaxy/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T03:53:00+00:00",
+    "first_alerted_at": "2026-11-05T07:13:03.309705+00:00"
   }
 }
