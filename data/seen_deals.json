@@ -16846,5 +16846,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T16:31:27+00:00",
     "first_alerted_at": "2026-11-06T17:16:12.515786+00:00"
+  },
+  "adab37d15df3df0f": {
+    "title": "OpenClaw, Dots, Duet, Your Own Agent. Help Me Figure It out!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpkiz3/openclaw_dots_duet_your_own_agent_help_me_figure/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-06T18:38:55+00:00",
+    "first_alerted_at": "2026-11-06T22:16:41.099113+00:00"
+  },
+  "fc9b457a7719d51a": {
+    "title": "Show HN: Makoda: reuse your Codex or Claude subscriptions as API",
+    "url": "https://makoda.ai/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T19:08:44+00:00",
+    "first_alerted_at": "2026-11-06T22:16:41.920868+00:00"
+  },
+  "c0e871fe2ee7cc30": {
+    "title": "I’m not a backend developer, so I used Claude Code to build one. It now looks after my real server",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpmnsd/im_not_a_backend_developer_so_i_used_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T20:03:32+00:00",
+    "first_alerted_at": "2026-11-06T22:16:42.785651+00:00"
+  },
+  "d4b4c7aad0c72b05": {
+    "title": "SmarterCompact: reducing cost and hallucination by trimming instead of summarizing compaction",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xplxhw/smartercompact_reducing_cost_and_hallucination_by/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T19:33:56+00:00",
+    "first_alerted_at": "2026-11-06T22:16:43.619145+00:00"
+  },
+  "558ac14b478d2a33": {
+    "title": "I’m experimenting with Codex and Claude Code working on the same project. Here’s what I’m trying to solve.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpp347/im_experimenting_with_codex_and_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T21:44:07+00:00",
+    "first_alerted_at": "2026-11-06T22:16:44.444126+00:00"
+  },
+  "ec4d322993457a43": {
+    "title": "I am a nook with Claude Code!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpm7as/i_am_a_nook_with_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T19:45:07+00:00",
+    "first_alerted_at": "2026-11-06T22:16:45.285469+00:00"
   }
 }
