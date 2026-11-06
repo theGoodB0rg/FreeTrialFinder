@@ -16747,5 +16747,104 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T07:19:59+00:00",
     "first_alerted_at": "2026-11-06T09:43:32.210221+00:00"
+  },
+  "3d739bf55468159c": {
+    "title": "Show HN: Jev vs. OpenAI Decision vs. Small Financial World Models: FinBench [video]",
+    "url": "https://www.youtube.com/watch?v=UN1LIF01uHQ",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T16:54:21+00:00",
+    "first_alerted_at": "2026-11-06T17:16:03.896681+00:00"
+  },
+  "b954d44b367add05": {
+    "title": "Show HN: Botel – always reachable agents you pay for only while they're working",
+    "url": "https://botel.dev",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T15:46:21+00:00",
+    "first_alerted_at": "2026-11-06T17:16:04.766591+00:00"
+  },
+  "97e3db2873da6c6e": {
+    "title": "ANNOYED of wasted Tokens & Money by AGENTS on WEB Searches so sharing Personal FREE Rust Tool",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpf4nc/annoyed_of_wasted_tokens_money_by_agents_on_web/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T15:09:06+00:00",
+    "first_alerted_at": "2026-11-06T17:16:05.620570+00:00"
+  },
+  "3c607c6c87b0da8b": {
+    "title": "I made a Claude Code mod that lets you see what your agents and subagents are doing live without leaving Claude.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpesbb/i_made_a_claude_code_mod_that_lets_you_see_what/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T14:55:26+00:00",
+    "first_alerted_at": "2026-11-06T17:16:06.458951+00:00"
+  },
+  "842fcb836c85e85b": {
+    "title": "We counted AI-signed PRs in 450 popular GitHub repos. Claude Code signs the most in 279 of 383",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpdmtr/we_counted_aisigned_prs_in_450_popular_github/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T14:05:48+00:00",
+    "first_alerted_at": "2026-11-06T17:16:07.346179+00:00"
+  },
+  "35fb02f7169573c8": {
+    "title": "4 Anthropic updates from this week that cut your bill",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpdhfn/4_anthropic_updates_from_this_week_that_cut_your/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T13:59:56+00:00",
+    "first_alerted_at": "2026-11-06T17:16:08.171131+00:00"
+  },
+  "39721f7116af84b8": {
+    "title": "MATCH DAY (The AI Bubble Is Bursting) - Animated Entirely in Claude in about 14 hours, feedback welcome",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xph8gg/match_day_the_ai_bubble_is_bursting_animated/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T16:32:31+00:00",
+    "first_alerted_at": "2026-11-06T17:16:09.104835+00:00"
+  },
+  "1c0dfe6c261aef2a": {
+    "title": "How to Get Free API Key from OpenRouter - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ubGlpTkFncmRCUUlGZ1l1R19BQmVyRjN1dWxETG0xUGhvZFAtQmpUU2dXVkFxNE5sZllULXFDdl9fUmpJYlBlNVJiakdWMnpPWFM2bGVFalR3eHh2?oc=5",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-13T07:00:00+00:00",
+    "first_alerted_at": "2026-11-06T17:16:09.945230+00:00"
+  },
+  "65b2644afa80a938": {
+    "title": "Some coding agents set up archived MCP servers from memory. 5 commands to check yours",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpi4n0/some_coding_agents_set_up_archived_mcp_servers/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T17:06:45+00:00",
+    "first_alerted_at": "2026-11-06T17:16:10.839344+00:00"
+  },
+  "9b2583409c21ec90": {
+    "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
+    "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T13:57:16+00:00",
+    "first_alerted_at": "2026-11-06T17:16:11.670697+00:00"
+  },
+  "e4f0d024d2d2aace": {
+    "title": "A 5-step check that stops Claude from saying \"done\" before it has run anything",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xph7id/a_5step_check_that_stops_claude_from_saying_done/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T16:31:27+00:00",
+    "first_alerted_at": "2026-11-06T17:16:12.515786+00:00"
   }
 }
