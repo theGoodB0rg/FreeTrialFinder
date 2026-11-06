@@ -16630,5 +16630,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-05T20:54:38+00:00",
     "first_alerted_at": "2026-11-05T21:50:39.140150+00:00"
+  },
+  "bae33de694d629af": {
+    "title": "Docker SBX native macOS app",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xowocx/docker_sbx_native_macos_app/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T22:44:33+00:00",
+    "first_alerted_at": "2026-11-06T02:06:22.508986+00:00"
+  },
+  "58b57ccaab87d541": {
+    "title": "I built a calorie-tracking app where Claude analyzes your meal photos, and used Claude Code to help build it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xowvfi/i_built_a_calorietracking_app_where_claude/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T22:53:19+00:00",
+    "first_alerted_at": "2026-11-06T02:06:23.475182+00:00"
+  },
+  "e149469470a6f334": {
+    "title": "Claude usage limit hasn't reset even though the reset time has passed. Anyone else experiencing this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xovwio/claude_usage_limit_hasnt_reset_even_though_the/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T22:11:05+00:00",
+    "first_alerted_at": "2026-11-06T02:06:24.427070+00:00"
+  },
+  "784ecd16f4ce9c9d": {
+    "title": "Good alternative to astra?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp098y/good_alternative_to_astra/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T01:29:03+00:00",
+    "first_alerted_at": "2026-11-06T02:06:25.379782+00:00"
+  },
+  "a893f6b634f9846c": {
+    "title": "I went into the waters AI psychosis lives in and came back with a writing skill!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xowqep/i_went_into_the_waters_ai_psychosis_lives_in_and/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T22:46:59+00:00",
+    "first_alerted_at": "2026-11-06T02:06:26.370677+00:00"
+  },
+  "b653ad1444f5a2f6": {
+    "title": "Agent factories vs. one agent with clear goals and a map of your context: where we've landed",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xoweci/agent_factories_vs_one_agent_with_clear_goals_and/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T22:32:05+00:00",
+    "first_alerted_at": "2026-11-06T02:06:27.323442+00:00"
+  },
+  "2d784dfea22a2111": {
+    "title": "resurrect-anything: for some fun and nostalgia, bring things back to life from whatever tidbits exist about it online",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xovqd0/resurrectanything_for_some_fun_and_nostalgia/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-05T22:03:44+00:00",
+    "first_alerted_at": "2026-11-06T02:06:28.304344+00:00"
   }
 }
