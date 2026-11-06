@@ -16693,5 +16693,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-05T22:03:44+00:00",
     "first_alerted_at": "2026-11-06T02:06:28.304344+00:00"
+  },
+  "ab131dcae80d2afb": {
+    "title": "I built CogniCore with Claude Code: free, open-source shared memory between Claude Code, Claude.ai and Codex",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp8o0c/i_built_cognicore_with_claude_code_free/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T09:32:02+00:00",
+    "first_alerted_at": "2026-11-06T09:43:27.985668+00:00"
+  },
+  "7e6a2b52851e692d": {
+    "title": "Docker SBX native macOS app",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp5ymz/docker_sbx_native_macos_app/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T06:34:21+00:00",
+    "first_alerted_at": "2026-11-06T09:43:28.823665+00:00"
+  },
+  "02f23dff1d90534a": {
+    "title": "I built a self-hosted LLM Wiki that Claude Code reads and writes over MCP, and that keeps itself fresh overnight",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp6ibb/i_built_a_selfhosted_llm_wiki_that_claude_code/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T07:08:34+00:00",
+    "first_alerted_at": "2026-11-06T09:43:29.699658+00:00"
+  },
+  "ee0eb926c7a75502": {
+    "title": "What I learned switching from vibes to running evals on an LLM feature: model swap +1%, system prompt fixes 38% → 80%",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp815k/what_i_learned_switching_from_vibes_to_running/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T08:49:59+00:00",
+    "first_alerted_at": "2026-11-06T09:43:30.553294+00:00"
+  },
+  "e98cbc2984cd108e": {
+    "title": "In The Next Update:Claude Code reading X in my own Chrome tab on Windows, through screen tools I built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xp7fiy/in_the_next_updateclaude_code_reading_x_in_my_own/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T08:09:08+00:00",
+    "first_alerted_at": "2026-11-06T09:43:31.394142+00:00"
+  },
+  "44b2022d304d39df": {
+    "title": "Ask HN: If you had unlimited Claude credits, what would you build and why?",
+    "url": "https://news.ycombinator.com/item?id=50389207",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T07:19:59+00:00",
+    "first_alerted_at": "2026-11-06T09:43:32.210221+00:00"
   }
 }
