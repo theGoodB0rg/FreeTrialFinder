@@ -17071,5 +17071,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T16:25:17+00:00",
     "first_alerted_at": "2026-11-07T20:01:47.586460+00:00"
+  },
+  "104734509478a140": {
+    "title": "I built CodeChroma with Claude Code, from product design through implementation",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqgwcg/i_built_codechroma_with_claude_code_from_product/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T21:04:39+00:00",
+    "first_alerted_at": "2026-11-07T23:49:49.125465+00:00"
+  },
+  "953012e46140b07d": {
+    "title": "is Opus 5.5 nerfed?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqke2n/is_opus_55_nerfed/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T23:47:45+00:00",
+    "first_alerted_at": "2026-11-07T23:49:49.989394+00:00"
+  },
+  "69a8443c880dc04e": {
+    "title": "I built a Mac app with Claude Code that coaches you to use Claude Code better",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqjb21/i_built_a_mac_app_with_claude_code_that_coaches/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T22:55:31+00:00",
+    "first_alerted_at": "2026-11-07T23:49:50.844423+00:00"
+  },
+  "372046f5f078e50a": {
+    "title": "Claude me sorprende cada día",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqhu4v/claude_me_sorprende_cada_día/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T21:47:14+00:00",
+    "first_alerted_at": "2026-11-07T23:49:51.693739+00:00"
   }
 }
