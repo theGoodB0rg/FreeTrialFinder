@@ -16936,5 +16936,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T23:57:49+00:00",
     "first_alerted_at": "2026-11-07T02:13:54.678955+00:00"
+  },
+  "7d59a4535868beb3": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/recursive-flint-v1.0/\" target=\"_blank\" rel=\"noopener\">Recursive: Flint free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/recursive-flint-v1.0/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T09:05:34.003836+00:00",
+    "first_alerted_at": "2026-11-07T09:05:39.850591+00:00"
+  },
+  "c5c0836b593f93f5": {
+    "title": "Claude get smarter?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpz2sv/claude_get_smarter/",
+    "provider": "Anthropic",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T06:00:55+00:00",
+    "first_alerted_at": "2026-11-07T09:05:40.763520+00:00"
+  },
+  "95e9de72c776e4f2": {
+    "title": "Claude Code built my open-source AI voice studio, then made its 7-minute trailer too",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpz4o7/claude_code_built_my_opensource_ai_voice_studio/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T06:03:51+00:00",
+    "first_alerted_at": "2026-11-07T09:05:41.708941+00:00"
+  },
+  "7edbfc9a542274f0": {
+    "title": "I built a tiny helper that lives in my MacBook notch, works along with Claude Code and jumps for joy when it's done",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxe0l/i_built_a_tiny_helper_that_lives_in_my_macbook/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T04:25:46+00:00",
+    "first_alerted_at": "2026-11-07T09:05:42.629778+00:00"
+  },
+  "4c7ce29800735a88": {
+    "title": "Best saas arhitecutre",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpwdng/best_saas_arhitecutre/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T03:31:02+00:00",
+    "first_alerted_at": "2026-11-07T09:05:43.594727+00:00"
+  },
+  "289d507f618481b9": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/google-gemini/gemini-3-5-flash-lite/\"",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T09:05:34.002268+00:00",
+    "first_alerted_at": "2026-11-07T09:05:44.511133+00:00"
+  },
+  "2fbd11ce4297bb64": {
+    "title": "How long do your Claude Code / Cursor sessions run, and does anything check security? (student research, 3 quick Qs)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq1qdb/how_long_do_your_claude_code_cursor_sessions_run/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T08:46:09+00:00",
+    "first_alerted_at": "2026-11-07T09:05:45.432583+00:00"
+  },
+  "37dd0ac18c27c8de": {
+    "title": "token usage graph",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq1fkb/token_usage_graph/",
+    "provider": "OpenAI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T08:26:37+00:00",
+    "first_alerted_at": "2026-11-07T09:05:46.355206+00:00"
+  },
+  "a03790f0650a02f1": {
+    "title": "Claude ai usage is INSANE! (See body post)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxlzr/claude_ai_usage_is_insane_see_body_post/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T04:37:59+00:00",
+    "first_alerted_at": "2026-11-07T09:05:47.328709+00:00"
+  },
+  "4085fbbf1f35fc49": {
+    "title": "Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T03:04:25+00:00",
+    "first_alerted_at": "2026-11-07T09:05:48.257928+00:00"
   }
 }
