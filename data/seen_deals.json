@@ -17044,5 +17044,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T14:51:22+00:00",
     "first_alerted_at": "2026-11-07T15:50:57.779417+00:00"
+  },
+  "df4b9eef3ddaf1d3": {
+    "title": "Claude Code's \"Don't ask again\" can save commands containing secrets — how are you handling this?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqep49/claude_codes_dont_ask_again_can_save_commands/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T19:28:21+00:00",
+    "first_alerted_at": "2026-11-07T20:01:45.623022+00:00"
+  },
+  "2950c143e79ef70b": {
+    "title": "Hit v232 on a solo pixel art game project built entirely in a single Claude chat. How do I migrate before context degradation hits me?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqeung/hit_v232_on_a_solo_pixel_art_game_project_built/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T19:34:57+00:00",
+    "first_alerted_at": "2026-11-07T20:01:46.593212+00:00"
+  },
+  "334a9c263d58c38e": {
+    "title": "Sales and Project (job) tracker",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqacp8/sales_and_project_job_tracker/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T16:25:17+00:00",
+    "first_alerted_at": "2026-11-07T20:01:47.586460+00:00"
   }
 }
