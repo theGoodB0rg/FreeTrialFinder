@@ -17026,5 +17026,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T03:04:25+00:00",
     "first_alerted_at": "2026-11-07T09:05:48.257928+00:00"
+  },
+  "479f8b62e7a1d88f": {
+    "title": "Claude doesn't write our games' code. It writes a 451-token spec. What we learned building a prompt-to-game platform on the API",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq6kv3/claude_doesnt_write_our_games_code_it_writes_a/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-07T13:38:14+00:00",
+    "first_alerted_at": "2026-11-07T15:50:56.612266+00:00"
+  },
+  "0390769cc0b217aa": {
+    "title": "A simple request for well-behaved agents",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq85po/a_simple_request_for_wellbehaved_agents/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T14:51:22+00:00",
+    "first_alerted_at": "2026-11-07T15:50:57.779417+00:00"
   }
 }
