@@ -16900,5 +16900,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-06T19:45:07+00:00",
     "first_alerted_at": "2026-11-06T22:16:45.285469+00:00"
+  },
+  "b4a89747bab772cd": {
+    "title": "I built clibridge: use your Claude Code login in OpenAI/LangChain SDKs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xprwze/i_built_clibridge_use_your_claude_code_login_in/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T23:50:10+00:00",
+    "first_alerted_at": "2026-11-07T02:13:51.898230+00:00"
+  },
+  "2bfbce802852cda3": {
+    "title": "Claude usage credits purchased after Dec 7 will expire 12 months after purchase",
+    "url": "https://news.ycombinator.com/item?id=50399909",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T23:27:15+00:00",
+    "first_alerted_at": "2026-11-07T02:13:52.837281+00:00"
+  },
+  "c91cf605615eb372": {
+    "title": "I got an old HP touchscreen PC that was collecting dust. What would you turn it into?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpt1sb/i_got_an_old_hp_touchscreen_pc_that_was/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-07T00:43:19+00:00",
+    "first_alerted_at": "2026-11-07T02:13:53.739072+00:00"
+  },
+  "4a924b9d22bf0972": {
+    "title": "So not exactly a fan of the new \"no 5 hour\" window exactly for this reason",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xps2kv/so_not_exactly_a_fan_of_the_new_no_5_hour_window/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-06T23:57:49+00:00",
+    "first_alerted_at": "2026-11-07T02:13:54.678955+00:00"
   }
 }
