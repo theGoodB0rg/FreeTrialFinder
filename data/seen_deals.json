@@ -17107,5 +17107,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-07T21:47:14+00:00",
     "first_alerted_at": "2026-11-07T23:49:51.693739+00:00"
+  },
+  "e76a8f82b8480d31": {
+    "title": "I built a bug-capture connector for Claude with Claude Code. It just got through the connector directory review, here's what I learned",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqq1sz/i_built_a_bugcapture_connector_for_claude_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T04:45:26+00:00",
+    "first_alerted_at": "2026-11-08T05:22:09.631336+00:00"
+  },
+  "1c6bebf02c14c936": {
+    "title": "What is your normal starting context size in Claude Code (Desktop App)?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqq39j/what_is_your_normal_starting_context_size_in/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T04:47:45+00:00",
+    "first_alerted_at": "2026-11-08T05:22:10.539262+00:00"
+  },
+  "cd2ab8391e980cd9": {
+    "title": "Sick of semantic substitution",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqp2l0/sick_of_semantic_substitution/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T03:49:58+00:00",
+    "first_alerted_at": "2026-11-08T05:22:11.423501+00:00"
+  },
+  "5b652a264ade0339": {
+    "title": "Project vs code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqn70w/project_vs_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T02:07:42+00:00",
+    "first_alerted_at": "2026-11-08T05:22:12.306919+00:00"
+  },
+  "a9b16eb98e0d8620": {
+    "title": "Using Claude to unify Global Legislation and Caselaw in Git",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqkygu/using_claude_to_unify_global_legislation_and/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T00:13:58+00:00",
+    "first_alerted_at": "2026-11-08T05:22:13.208994+00:00"
   }
 }
