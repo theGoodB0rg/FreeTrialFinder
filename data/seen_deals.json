@@ -17314,5 +17314,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T12:06:36.130609+00:00",
     "first_alerted_at": "2026-11-08T12:06:57.143899+00:00"
+  },
+  "2f5bbd8daec1bcf5": {
+    "title": "Show HN: Velork – Design and Code, Together",
+    "url": "https://velork.com",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T15:31:19+00:00",
+    "first_alerted_at": "2026-11-08T18:01:40.217842+00:00"
+  },
+  "2e46473d6df87550": {
+    "title": "A lot of you asked how I checked my Claude Code usage. Here’s how to check yours.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr1d3p/a_lot_of_you_asked_how_i_checked_my_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T15:44:41+00:00",
+    "first_alerted_at": "2026-11-08T18:01:41.201987+00:00"
+  },
+  "e127f6d4c69977e7": {
+    "title": "I found a offer of 100M tokens for 10 bucks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr075k/i_found_a_offer_of_100m_tokens_for_10_bucks/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T14:52:56+00:00",
+    "first_alerted_at": "2026-11-08T18:01:42.085828+00:00"
+  },
+  "e5d4443720a4cd5d": {
+    "title": "Get $175 Free Claude Code API Credits | AgentRouter Free API Tutorial - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xdE1IV2RRNURrTFF4ZTUtLUNzcHpBU29jd1NFREdkQ19mTHpKWC14b3pnWjlCbGlhbHZPUnlWNWYxOG4ySWNaaGRLYzJfZ0xvMzdtM2cwWHZpQmp2?oc=5",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-20T07:00:00+00:00",
+    "first_alerted_at": "2026-11-08T18:01:42.975746+00:00"
+  },
+  "f4e6b5f61d43295c": {
+    "title": "Advanced software specification and development with Agentic Software Engineering (ASE) inside Claude Code CLI",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr07xt/advanced_software_specification_and_development/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:53:58+00:00",
+    "first_alerted_at": "2026-11-08T18:01:43.854699+00:00"
+  },
+  "daa0b935addd6d39": {
+    "title": "I built Orchestra, a free Windows terminal for running many Claude Code sessions at once",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr0616/i_built_orchestra_a_free_windows_terminal_for/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:51:30+00:00",
+    "first_alerted_at": "2026-11-08T18:01:44.736435+00:00"
+  },
+  "2458b6cd39a78b72": {
+    "title": "My MCP server said \"typed, verified\" and the text never arrived. 20 rounds of Claude and Gemini reviewing each other's code missed it; a real-device run caught it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqz95g/my_mcp_server_said_typed_verified_and_the_text/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:08:38+00:00",
+    "first_alerted_at": "2026-11-08T18:01:45.683230+00:00"
+  },
+  "528dcb1febae0ce1": {
+    "title": "I am trying to replicate a specific SaaS promo motion graphics style",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqzatg/i_am_trying_to_replicate_a_specific_saas_promo/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T14:10:48+00:00",
+    "first_alerted_at": "2026-11-08T18:01:46.564369+00:00"
   }
 }
