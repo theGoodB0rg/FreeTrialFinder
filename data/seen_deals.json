@@ -17386,5 +17386,86 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T14:10:48+00:00",
     "first_alerted_at": "2026-11-08T18:01:46.564369+00:00"
+  },
+  "c357d8dbff12b3a8": {
+    "title": "OpenAI's Indirect \"Price Cut\": ChatGPT Pro and Business Users Can Claim Up to $500 in Monthly API Credits - 深潮TechFlow",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94cGItNE9hSjlkNHJPR1J4VVdXMDdZNG1kOTJPeHVZRno1eExwLWlSMmp6QVNUTWxmZFdMZlB2M043aW04UmxSMnhmVldSVVM1Y3RBNnFaODVIUE1i?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T05:31:16+00:00",
+    "first_alerted_at": "2026-11-08T22:21:57.803611+00:00"
+  },
+  "147b0ff529c24d3f": {
+    "title": "Claude trains on your code and saves your conversation for 5 years if you give feedback or report a bug",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr8sbp/claude_trains_on_your_code_and_saves_your/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T20:51:21+00:00",
+    "first_alerted_at": "2026-11-08T22:21:58.636860+00:00"
+  },
+  "273120ae94c2265d": {
+    "title": "Stuck building your app in Base44? I was. Here's how I got out using Claude, and what I'd tell anyone stuck right now",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr85j4/stuck_building_your_app_in_base44_i_was_heres_how/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T20:23:57+00:00",
+    "first_alerted_at": "2026-11-08T22:21:59.473839+00:00"
+  },
+  "5650679535b93ab1": {
+    "title": "Built with Claude: once a day, a Claude Code session filters AI news down from over a hundred stories to the ones that check out, then sits on a ten-model jury that grades them, with its own vote struck out on Anthropic stories",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr9upo/built_with_claude_once_a_day_a_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T21:37:11+00:00",
+    "first_alerted_at": "2026-11-08T22:22:00.308810+00:00"
+  },
+  "3a949697b23b739f": {
+    "title": "Like Google Analytics, but for your Claude Code sessions and projects (free, runs locally)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr5xhy/like_google_analytics_but_for_your_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:53:39+00:00",
+    "first_alerted_at": "2026-11-08T22:22:01.157516+00:00"
+  },
+  "19949fedf1c96add": {
+    "title": "Built a WoW treadmill integration",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr88vb/built_a_wow_treadmill_integration/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T20:27:58+00:00",
+    "first_alerted_at": "2026-11-08T22:22:01.991333+00:00"
+  },
+  "ca714db97f5293b6": {
+    "title": "I shipped a 3D zombie survival game to the App Store in 8 weeks with Claude writing most of the code. What worked, and what cost me.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr9r9v/i_shipped_a_3d_zombie_survival_game_to_the_app/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T21:33:03+00:00",
+    "first_alerted_at": "2026-11-08T22:22:02.843504+00:00"
+  },
+  "ed681065ce4fc49a": {
+    "title": "Prompting too much of the same things, I built a prompt library app that one-click pastes: Promptline",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr7c9l/prompting_too_much_of_the_same_things_i_built_a/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T19:50:39+00:00",
+    "first_alerted_at": "2026-11-08T22:22:03.685945+00:00"
+  },
+  "af50fb616d931046": {
+    "title": "If you had one month and unlimited opus 5.5 tokens, what would you build?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr5yps/if_you_had_one_month_and_unlimited_opus_55_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T18:55:01+00:00",
+    "first_alerted_at": "2026-11-08T22:22:04.567453+00:00"
   }
 }
