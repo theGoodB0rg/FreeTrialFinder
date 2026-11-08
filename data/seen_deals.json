@@ -17152,5 +17152,167 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T00:13:58+00:00",
     "first_alerted_at": "2026-11-08T05:22:13.208994+00:00"
+  },
+  "b3b0fe5f8419dec0": {
+    "title": "I priced 194 of my Claude Code sessions at Opus 5.5 API rates. 66% of the cost is cache reads, not output",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqw6pa/i_priced_194_of_my_claude_code_sessions_at_opus/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T11:19:16+00:00",
+    "first_alerted_at": "2026-11-08T12:06:41.547539+00:00"
+  },
+  "ce760a1bf2b56150": {
+    "title": "I made a management game where Claude Code does the work and you deal with the office drama",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqus4b/i_made_a_management_game_where_claude_code_does/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T09:47:05+00:00",
+    "first_alerted_at": "2026-11-08T12:06:42.452521+00:00"
+  },
+  "9f6fa320ea5104da": {
+    "title": "Any reason that Claude Code still doesn't have Dynamic Context Pruning mod inspired by opencode plugin?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqu7yq/any_reason_that_claude_code_still_doesnt_have/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-08T09:08:39+00:00",
+    "first_alerted_at": "2026-11-08T12:06:43.367859+00:00"
+  },
+  "cc19b787a8f3b381": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cline/nvidia-nemotron-3-5-lightning-free/\"",
+    "provider": "General AI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.131303+00:00",
+    "first_alerted_at": "2026-11-08T12:06:44.289966+00:00"
+  },
+  "220f2095f25ec611": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/stealth-crouton-alpha/\" target=\"_blank\" rel=\"noopener\">Crouton Alpha</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-crouton-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.131675+00:00",
+    "first_alerted_at": "2026-11-08T12:06:45.236519+00:00"
+  },
+  "c76cbf3a1a38e3f3": {
+    "title": "How could the 100 and 200$ in API credits of MAX and Ultra be used?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqwah6/how_could_the_100_and_200_in_api_credits_of_max/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T11:26:09+00:00",
+    "first_alerted_at": "2026-11-08T12:06:46.124543+00:00"
+  },
+  "06dd9060fda376b3": {
+    "title": "Kept hitting my Claude Code limit mid-task, so I built an Android widget for it with Claude Code. Looking for testers",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqwkdt/kept_hitting_my_claude_code_limit_midtask_so_i/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T11:43:59+00:00",
+    "first_alerted_at": "2026-11-08T12:06:47.024308+00:00"
+  },
+  "3d2e5e32b8cd34fd": {
+    "title": "I reran 56 real commits with Haiku, Sonnet and Opus 5.5 in Claude Code (984 runs). Here's the cost per solved task",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqw0ps/i_reran_56_real_commits_with_haiku_sonnet_and/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T11:08:35+00:00",
+    "first_alerted_at": "2026-11-08T12:06:47.941278+00:00"
+  },
+  "26382a2785eed2a0": {
+    "title": "Is Claude Max worth it if I already have ChatGPT Pro?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqunr6/is_claude_max_worth_it_if_i_already_have_chatgpt/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T09:38:38+00:00",
+    "first_alerted_at": "2026-11-08T12:06:48.851668+00:00"
+  },
+  "4937f7d979317985": {
+    "title": "Claude goes Rogue on local machine :-(",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqud78/claude_goes_rogue_on_local_machine/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T09:18:23+00:00",
+    "first_alerted_at": "2026-11-08T12:06:49.777634+00:00"
+  },
+  "446de6593def200c": {
+    "title": "Google Gemini Free API / Developer Tier",
+    "url": "https://api.aionlabs.ai/v1`",
+    "provider": "Google",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.129680+00:00",
+    "first_alerted_at": "2026-11-08T12:06:50.711523+00:00"
+  },
+  "c69405b83d0025b6": {
+    "title": "OpenRouter Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/stealth-crouton-alpha/\"",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.130211+00:00",
+    "first_alerted_at": "2026-11-08T12:06:51.600441+00:00"
+  },
+  "bba9eddc2e6b4dfd": {
+    "title": "Is there any way to stop claude from being a bitch?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqwdbp/is_there_any_way_to_stop_claude_from_being_a_bitch/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T11:31:20+00:00",
+    "first_alerted_at": "2026-11-08T12:06:52.491646+00:00"
+  },
+  "40bc007f9079e591": {
+    "title": "Claude Code 2.1.319: new denyInsteadOfPrompting setting, MCP tasks go to the background, /loop behavior change",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqvimf/claude_code_21319_new_denyinsteadofprompting/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T10:35:34+00:00",
+    "first_alerted_at": "2026-11-08T12:06:53.399416+00:00"
+  },
+  "e623fcb47febabf5": {
+    "title": "Cohere Free API / Developer Tier",
+    "url": "https://api.aionlabs.ai/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.129757+00:00",
+    "first_alerted_at": "2026-11-08T12:06:54.336180+00:00"
+  },
+  "9eb49ec03ca4fe43": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/cohere-north-mini-code-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.130423+00:00",
+    "first_alerted_at": "2026-11-08T12:06:55.248388+00:00"
+  },
+  "ecbfa23d34dcd2da": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/llm7-io/nemotron-3-nano-30b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.130470+00:00",
+    "first_alerted_at": "2026-11-08T12:06:56.254259+00:00"
+  },
+  "abe8e6653019f58d": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/ovhcloud-ai-endpoints/gpt-oss-120b/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T12:06:36.130609+00:00",
+    "first_alerted_at": "2026-11-08T12:06:57.143899+00:00"
   }
 }
