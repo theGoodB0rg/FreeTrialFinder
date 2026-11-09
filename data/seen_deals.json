@@ -17467,5 +17467,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T18:55:01+00:00",
     "first_alerted_at": "2026-11-08T22:22:04.567453+00:00"
+  },
+  "48205e04fba28e46": {
+    "title": "Paying ~18¢ per shop for an AI agent to call two APIs. What’s the cheaper way to get the same info?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrdbr8/paying_18_per_shop_for_an_ai_agent_to_call_two/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T00:15:01+00:00",
+    "first_alerted_at": "2026-11-09T01:51:21.759278+00:00"
+  },
+  "f73b402860a46d4c": {
+    "title": "Built with Claude Code: a step-by-step explainer of how Claude Code works, made from its own recorded sessions",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrcdib/built_with_claude_code_a_stepbystep_explainer_of/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T23:30:25+00:00",
+    "first_alerted_at": "2026-11-09T01:51:22.817876+00:00"
+  },
+  "1f6c527b303cdefe": {
+    "title": "Built with Claude Code: an AI that runs on my Apple Watch, with its own hearing and voice running on the Watch",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrazjr/built_with_claude_code_an_ai_that_runs_on_my/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-08T22:26:43+00:00",
+    "first_alerted_at": "2026-11-09T01:51:23.814547+00:00"
   }
 }
