@@ -17494,5 +17494,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-08T22:26:43+00:00",
     "first_alerted_at": "2026-11-09T01:51:23.814547+00:00"
+  },
+  "60215b4223028a4c": {
+    "title": "15 weeks of making game with Claude Opus in Godot",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrkks4/15_weeks_of_making_game_with_claude_opus_in_godot/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T06:35:46+00:00",
+    "first_alerted_at": "2026-11-09T09:26:07.974396+00:00"
+  },
+  "b66c603b2a5b149c": {
+    "title": "Over the last two years, I've noticed vibe-coded audio plugins all sound the same since they're using the same stock parts, so I've created an agentic engine to help stop the slop tsunami",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrlcrk/over_the_last_two_years_ive_noticed_vibecoded/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T07:23:39+00:00",
+    "first_alerted_at": "2026-11-09T09:26:08.939821+00:00"
+  },
+  "c27add89823a1139": {
+    "title": "I’m a network engineer, not a programmer. I built a free network scanner for Mac and Windows with Claude Code because I wasn't happy with what was available.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrjvwv/im_a_network_engineer_not_a_programmer_i_built_a/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T05:55:34+00:00",
+    "first_alerted_at": "2026-11-09T09:26:09.897116+00:00"
+  },
+  "5b51af01c6fa3adc": {
+    "title": "Claude kept making me click \"Allow remote debugging\" on every step, so I made it run the whole browser task on one connection",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrhp6v/claude_kept_making_me_click_allow_remote/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T03:54:58+00:00",
+    "first_alerted_at": "2026-11-09T09:26:10.922248+00:00"
+  },
+  "a4ffd486838ad440": {
+    "title": "Fabel 5.1 Can Write AI Model Weights Directly Without Training",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrmui5/fabel_51_can_write_ai_model_weights_directly/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T08:59:29+00:00",
+    "first_alerted_at": "2026-11-09T09:26:11.890762+00:00"
+  },
+  "13f814c7138122b0": {
+    "title": "Which local LLM to use?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrml2a/which_local_llm_to_use/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T08:41:48+00:00",
+    "first_alerted_at": "2026-11-09T09:26:12.941105+00:00"
+  },
+  "fe9abd02ffcf123a": {
+    "title": "Be a Smart Monkey -- Build & Use Tools",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrmgl3/be_a_smart_monkey_build_use_tools/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T08:33:17+00:00",
+    "first_alerted_at": "2026-11-09T09:26:13.964903+00:00"
+  },
+  "ecb3bbf6f19dd8db": {
+    "title": "Browser automation including handling passwords",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrj6iy/browser_automation_including_handling_passwords/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T05:15:17+00:00",
+    "first_alerted_at": "2026-11-09T09:26:14.941074+00:00"
   }
 }
