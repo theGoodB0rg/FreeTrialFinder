@@ -17566,5 +17566,95 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-09T05:15:17+00:00",
     "first_alerted_at": "2026-11-09T09:26:14.941074+00:00"
+  },
+  "9b1018ed1f216284": {
+    "title": "I built a live file explorer for Claude Code: see what Claude reads and edits, open any file, and watch your PR's checks without leaving the chat",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0hen/i_built_a_live_file_explorer_for_claude_code_see/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-09T19:04:01+00:00",
+    "first_alerted_at": "2026-11-09T19:58:39.116288+00:00"
+  },
+  "d46ca9f00933b39a": {
+    "title": "I connected Claude to LinkedIn using MCP. Here's how to set it up",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrxukc/i_connected_claude_to_linkedin_using_mcp_heres/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T17:27:30+00:00",
+    "first_alerted_at": "2026-11-09T19:58:40.270046+00:00"
+  },
+  "703709506a36b9fe": {
+    "title": "Most of my Claude Code tokens went to subagents re-reading their own context. This CLAUDE.md section fixed it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs1d5y/most_of_my_claude_code_tokens_went_to_subagents/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T19:35:41+00:00",
+    "first_alerted_at": "2026-11-09T19:58:41.317478+00:00"
+  },
+  "a43387753eac8b96": {
+    "title": "Upgraded from Max $100 to Ultra $200 and somehow my weekly usage drains faster?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrzqw0/upgraded_from_max_100_to_ultra_200_and_somehow_my/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T18:36:38+00:00",
+    "first_alerted_at": "2026-11-09T19:58:42.323398+00:00"
+  },
+  "a995e7668eaf840e": {
+    "title": "I measured what actually drives Claude Code cost on a big repo. It's the number of turns, not how much it reads",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrzdu9/i_measured_what_actually_drives_claude_code_cost/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T18:23:29+00:00",
+    "first_alerted_at": "2026-11-09T19:58:43.370702+00:00"
+  },
+  "46948cc823d7ed31": {
+    "title": "Show HN: Product Analytics for your agent. 100x+ cheaper analytics/BI",
+    "url": "https://slurp.run/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T14:30:22+00:00",
+    "first_alerted_at": "2026-11-09T19:58:44.364957+00:00"
+  },
+  "c77599ccba554a23": {
+    "title": "I don't reread my whole career every morning. Why does my coding agent?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrxmcx/i_dont_reread_my_whole_career_every_morning_why/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T17:19:04+00:00",
+    "first_alerted_at": "2026-11-09T19:58:45.441498+00:00"
+  },
+  "75e4b1af74bcd6ee": {
+    "title": "Show HN: Thrum – run Claude Code, Codex and other coding agents as one team",
+    "url": "https://thrum.team/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T14:59:42+00:00",
+    "first_alerted_at": "2026-11-09T19:58:46.444296+00:00"
+  },
+  "3084a960113729cf": {
+    "title": "Built two free Polymarket tools with Claude Dashboards + Supabase: a market board and a virtual-betting lab (no real money)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs1uaz/built_two_free_polymarket_tools_with_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T19:53:31+00:00",
+    "first_alerted_at": "2026-11-09T19:58:47.433948+00:00"
+  },
+  "43d660d6fce4fa7d": {
+    "title": "Anthropic open-sourced a way to prove which model actually answered your request (and it targets exactly the \"is my provider serving a quantized model?\" problem)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrydq5/anthropic_opensourced_a_way_to_prove_which_model/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T17:47:11+00:00",
+    "first_alerted_at": "2026-11-09T19:58:48.499143+00:00"
   }
 }
