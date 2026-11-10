@@ -17746,5 +17746,41 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-10T17:00:41+00:00",
     "first_alerted_at": "2026-11-10T18:31:16.246545+00:00"
+  },
+  "274d0b19dfd2de3e": {
+    "title": "Ravenseat - I built an open-source harness and agent orchestrator",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt0s0w/ravenseat_i_built_an_opensource_harness_and_agent/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-10T22:30:52+00:00",
+    "first_alerted_at": "2026-11-10T23:57:08.904179+00:00"
+  },
+  "95390ed35eeb5396": {
+    "title": "Quality has dipped so much in last 2 weeks",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt1asu/quality_has_dipped_so_much_in_last_2_weeks/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T22:52:55+00:00",
+    "first_alerted_at": "2026-11-10T23:57:09.746108+00:00"
+  },
+  "204220c17289ea92": {
+    "title": "Fable 5.2 Made this",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt0vlm/fable_52_made_this/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T22:35:00+00:00",
+    "first_alerted_at": "2026-11-10T23:57:10.569142+00:00"
+  },
+  "587283bf445d9f22": {
+    "title": "Por qué desapareció mi registro de uso semanal: analicé una sesión y gran parte de ella consistió en reconstrucciones de caché, no en mi trabajo propiamente dicho.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt1dkd/por_qué_desapareció_mi_registro_de_uso_semanal/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T22:56:23+00:00",
+    "first_alerted_at": "2026-11-10T23:57:11.492118+00:00"
   }
 }
