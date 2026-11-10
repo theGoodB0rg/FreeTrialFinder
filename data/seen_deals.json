@@ -17656,5 +17656,23 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-09T17:47:11+00:00",
     "first_alerted_at": "2026-11-09T19:58:48.499143+00:00"
+  },
+  "09ea46b76c94c912": {
+    "title": "Show HN: Brick Atlas: Explore 1000+ LEGO sets on one zoomable canvas",
+    "url": "https://showcase.zoomhub.net/ecommerce/brick-atlas",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-09T21:52:44+00:00",
+    "first_alerted_at": "2026-11-10T02:39:15.504188+00:00"
+  },
+  "101b54475ee9f0d7": {
+    "title": "OpenAI reopens Pro plan, halves API credits amid pay-per-use shift - TechGig",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHJsUUVHcV96Y1QzVXVSenNJZjdfeFJFanBycVpUZ0hnMUJuczQxcG9YQ3RYdm9RN0xvMkpQUEhld0cySldicnhUYm1VMWItVEt0M0hGeE1yc2dUOXFqN3F6azRzRmwyYXM3cHRyOVlWYlVNSWkyMm9BSGxCZjR6dWZZa3AxOWNvOGo3Zm1Yd3FQSzFaOTZ0V21JREgtakFyOUHSAacBQVVfeXFMT1RONnVxcU9OeDNBOGd2VTBKYjlJbnhQRWFWUnd0T0JrUUhabmRtWjBYTm1PQl9abmd0ZjR2ZjgzaVUwN3ZzcXBDbkEwcTBwRnlTYkoxdVFqdDBFWmJnUTc0bmZoem5wRzl6QnZweTdVWnpmZTdIS2VnbFZ4R2dra1JDcHlCRUNtak5venlZeXp2bzVHWWZWbC11eVNRczdDM1JRZms4aE0?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-01T07:00:00+00:00",
+    "first_alerted_at": "2026-11-10T02:39:16.348313+00:00"
   }
 }
