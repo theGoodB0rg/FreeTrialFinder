@@ -17701,5 +17701,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-10T10:35:01+00:00",
     "first_alerted_at": "2026-11-10T10:53:46.695633+00:00"
+  },
+  "5138c1f394c20aba": {
+    "title": "Fable 5.2 Low vs Opus 5.5 Med | Pelican Test | \"Go all out\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsufmg/fable_52_low_vs_opus_55_med_pelican_test_go_all/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T18:22:25+00:00",
+    "first_alerted_at": "2026-11-10T18:31:11.829304+00:00"
+  },
+  "06774ccd5019a8f3": {
+    "title": "Someone used $167 on my Anthropic API keys (limit was $30), and the key was never in my code. How could it leak?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsudl0/someone_used_167_on_my_anthropic_api_keys_limit/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T18:20:15+00:00",
+    "first_alerted_at": "2026-11-10T18:31:12.747187+00:00"
+  },
+  "3d950808d68ea6c4": {
+    "title": "What's your agentic workflow?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsuln3/whats_your_agentic_workflow/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T18:28:17+00:00",
+    "first_alerted_at": "2026-11-10T18:31:14.399826+00:00"
+  },
+  "14915179bfbabfde": {
+    "title": "Parallel coding agents on Windows: leaked kernel tokens cost me over 2 GB of RAM a day. One setting fixed most of it",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsthvj/parallel_coding_agents_on_windows_leaked_kernel/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T17:48:03+00:00",
+    "first_alerted_at": "2026-11-10T18:31:15.331082+00:00"
+  },
+  "a3064fe6b37c5241": {
+    "title": "Character creation process from 2D to 3D",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xss8rk/character_creation_process_from_2d_to_3d/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T17:00:41+00:00",
+    "first_alerted_at": "2026-11-10T18:31:16.246545+00:00"
   }
 }
