@@ -17674,5 +17674,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-10-01T07:00:00+00:00",
     "first_alerted_at": "2026-11-10T02:39:16.348313+00:00"
+  },
+  "a37680246abdc6de": {
+    "title": "Claude Fable 5.2 is out at $8/$40 per million tokens. The API changes worth checking before you switch",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xshu6a/claude_fable_52_is_out_at_840_per_million_tokens/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-10T08:41:14+00:00",
+    "first_alerted_at": "2026-11-10T10:53:44.845651+00:00"
+  },
+  "76c9b09f91427694": {
+    "title": "OpenAI reopens Pro plan, halves API credits amid pay-per-use shift - TechGig",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVE42dXFxT054M0E4Z3ZVMEpiOUlueFBFYVZSd3RPQmtRSFpuZG1aMFhObU9CX1puZ3RmNHZmODNpVTA3dnNxcENuQTBxMHBGeVNiSjF1UWp0MEVaYmdRNzRuZmh6bnBHOXpCdnB5N1VaemZlN0hLZWdsVnhHZ2trUkNweUJFQ21qTm96eVl5enZvNUdZZlZsLXV5U1FzN0MzUlFmazhoTdIBpwFBVV95cUxPVE42dXFxT054M0E4Z3ZVMEpiOUlueFBFYVZSd3RPQmtRSFpuZG1aMFhObU9CX1puZ3RmNHZmODNpVTA3dnNxcENuQTBxMHBGeVNiSjF1UWp0MEVaYmdRNzRuZmh6bnBHOXpCdnB5N1VaemZlN0hLZWdsVnhHZ2trUkNweUJFQ21qTm96eVl5enZvNUdZZlZsLXV5U1FzN0MzUlFmazhoTQ?oc=5",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-09-30T07:00:00+00:00",
+    "first_alerted_at": "2026-11-10T10:53:45.777993+00:00"
+  },
+  "fd0a4a6d68bb5c36": {
+    "title": "I let Claude Code run a fault-injection test-and-fix loop on Ceph for two weeks: 55 real bugs, $840, and what went wrong",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsjmgm/i_let_claude_code_run_a_faultinjection_testandfix/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T10:35:01+00:00",
+    "first_alerted_at": "2026-11-10T10:53:46.695633+00:00"
   }
 }
