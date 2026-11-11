@@ -17836,5 +17836,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-11T03:25:46+00:00",
     "first_alerted_at": "2026-11-11T05:55:14.240611+00:00"
+  },
+  "32ef93f8fdbf6b00": {
+    "title": "I used Claude Code to sort 5,087 Claude Code skills into 13 categories, with install commands",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xti4sx/i_used_claude_code_to_sort_5087_claude_code/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-11T13:46:06+00:00",
+    "first_alerted_at": "2026-11-11T13:51:48.769876+00:00"
+  },
+  "ab7fa6428848d60e": {
+    "title": "Built a Claude MCP Servers Directory with Claude Code: 636 servers, with the context cost of each one’s tools measured",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtfaqg/built_a_claude_mcp_servers_directory_with_claude/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T11:22:19+00:00",
+    "first_alerted_at": "2026-11-11T13:51:49.665734+00:00"
+  },
+  "0954f832f7392443": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/qwen-qwen3-8-27b/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T13:51:44.696906+00:00",
+    "first_alerted_at": "2026-11-11T13:51:50.506695+00:00"
+  },
+  "6fbf08b438e3b487": {
+    "title": "Fable is literally a proper beast when it comes to making videos",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtgq74/fable_is_literally_a_proper_beast_when_it_comes/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T12:40:11+00:00",
+    "first_alerted_at": "2026-11-11T13:51:51.366906+00:00"
+  },
+  "0758a37d2a1b2138": {
+    "title": "How are you guys coming up with these random DIY projects?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xthqj0/how_are_you_guys_coming_up_with_these_random_diy/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T13:28:17+00:00",
+    "first_alerted_at": "2026-11-11T13:51:52.225049+00:00"
+  },
+  "349b5ea9234faf47": {
+    "title": "Sonnet 5 for less token consumption",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtgi46/sonnet_5_for_less_token_consumption/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T12:28:57+00:00",
+    "first_alerted_at": "2026-11-11T13:51:53.094186+00:00"
+  },
+  "b7d4d05445788708": {
+    "title": "Fable 5.2 vs Opus 5.5 on the snow globe prompt: Fable took 19 min and 837K tokens, Opus 8 min and 482K. Same cabin, same snowman.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtg4pk/fable_52_vs_opus_55_on_the_snow_globe_prompt/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T12:09:09+00:00",
+    "first_alerted_at": "2026-11-11T13:51:53.947861+00:00"
   }
 }
