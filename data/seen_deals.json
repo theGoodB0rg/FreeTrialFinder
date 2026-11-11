@@ -17782,5 +17782,59 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-10T22:56:23+00:00",
     "first_alerted_at": "2026-11-10T23:57:11.492118+00:00"
+  },
+  "d4c92e8f019ce26f": {
+    "title": "Ask Claude \"who raised a seed round this week?\" with a custom connector I built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt940g/ask_claude_who_raised_a_seed_round_this_week_with/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-11T05:05:36+00:00",
+    "first_alerted_at": "2026-11-11T05:55:09.770061+00:00"
+  },
+  "e761d30056147a70": {
+    "title": "I built and launched a full Roblox game with Claude Code running as 3 parallel sessions (code, art, marketing)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt5mv9/i_built_and_launched_a_full_roblox_game_with/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T02:08:47+00:00",
+    "first_alerted_at": "2026-11-11T05:55:10.641775+00:00"
+  },
+  "b59f2d33a633c1ee": {
+    "title": "If you could only spend 100 dollars a month on AI and only use one model, what would you buy? Chat GPT Pro (100 dollars), Gemini Ultra, Claude Max (100 dollars) or something else?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt9d9t/if_you_could_only_spend_100_dollars_a_month_on_ai/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T05:19:25+00:00",
+    "first_alerted_at": "2026-11-11T05:55:11.539151+00:00"
+  },
+  "861262fb322fd3c8": {
+    "title": "Show HN: Zeus – Claude Code for AI voice agents",
+    "url": "https://thunderphone.com/blog/introducing-zeus",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T20:20:03+00:00",
+    "first_alerted_at": "2026-11-11T05:55:12.405763+00:00"
+  },
+  "0f16eb5102391e50": {
+    "title": "How do you actually get the absolute most out of Claude? (Looking to move past basic prompt/review workflows)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt8pdh/how_do_you_actually_get_the_absolute_most_out_of/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T04:43:46+00:00",
+    "first_alerted_at": "2026-11-11T05:55:13.289087+00:00"
+  },
+  "12cfd35ab9c7c716": {
+    "title": "Help from those smarter",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt77ns/help_from_those_smarter/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T03:25:46+00:00",
+    "first_alerted_at": "2026-11-11T05:55:14.240611+00:00"
   }
 }
