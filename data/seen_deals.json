@@ -17899,5 +17899,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-11T12:09:09+00:00",
     "first_alerted_at": "2026-11-11T13:51:53.947861+00:00"
+  },
+  "e4a6544cdc768e15": {
+    "title": "Local service business full stack",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtr6xs/local_service_business_full_stack/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-11T19:30:24+00:00",
+    "first_alerted_at": "2026-11-11T21:08:39.350243+00:00"
+  },
+  "85447b3bbaf11437": {
+    "title": "Show HN: Llmtee – Lightweight LLM Proxy",
+    "url": "https://github.com/garritfra/llmtee",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T10:55:46+00:00",
+    "first_alerted_at": "2026-11-11T21:08:40.203699+00:00"
+  },
+  "050ed900140c0b31": {
+    "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+    "url": "https://github.com/OpenTSLM/TimeNet",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-10T17:16:09+00:00",
+    "first_alerted_at": "2026-11-11T21:08:41.064257+00:00"
+  },
+  "59ac0f7b758b3e84": {
+    "title": "Show HN: Web Crawl Platformer Game",
+    "url": "https://game.commoncrawl.org/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T17:01:44+00:00",
+    "first_alerted_at": "2026-11-11T21:08:41.932810+00:00"
+  },
+  "bfd444e3795531d7": {
+    "title": "how to save money on Cache with api routing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtsrn4/how_to_save_money_on_cache_with_api_routing/",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T20:30:37+00:00",
+    "first_alerted_at": "2026-11-11T21:08:43.179712+00:00"
+  },
+  "502ce69ce680df4d": {
+    "title": "PSA: Claude Code now automatically syncs claude.ai web skills and plugins to local machines (enabled by default)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtrrxf/psa_claude_code_now_automatically_syncs_claudeai/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T19:52:29+00:00",
+    "first_alerted_at": "2026-11-11T21:08:44.699678+00:00"
+  },
+  "bd3e1b1ce0cabe13": {
+    "title": "Custom benchmarking of Fable 5.2 and Opus 5.5",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtq03o/custom_benchmarking_of_fable_52_and_opus_55/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T18:46:02+00:00",
+    "first_alerted_at": "2026-11-11T21:08:45.578630+00:00"
+  },
+  "e0c95214bfa99966": {
+    "title": "Fable 5.2 tip with opus",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtpsco/fable_52_tip_with_opus/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-11T18:38:02+00:00",
+    "first_alerted_at": "2026-11-11T21:08:46.416716+00:00"
   }
 }
