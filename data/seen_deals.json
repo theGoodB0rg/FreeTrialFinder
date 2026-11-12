@@ -18016,5 +18016,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-12T00:12:23+00:00",
     "first_alerted_at": "2026-11-12T02:24:37.267115+00:00"
+  },
+  "ed3c60566433a8b4": {
+    "title": "I built a read-only MCP server for Claude over a spreadsheet + the PDFs that sit next to it (made almost entirely with Claude Code)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu3gvf/i_built_a_readonly_mcp_server_for_claude_over_a/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-12T04:33:37+00:00",
+    "first_alerted_at": "2026-11-12T10:07:42.717273+00:00"
+  },
+  "48d40c0572d50586": {
+    "title": "How can I get more value out of my Claude Startup credits? Looking for optimization tips.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu7e2g/how_can_i_get_more_value_out_of_my_claude_startup/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T08:23:25+00:00",
+    "first_alerted_at": "2026-11-12T10:07:43.668002+00:00"
+  },
+  "331d12dfd8192fb7": {
+    "title": "Looking for Advice: AI-Powered Software Reverse Engineering",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu5lo7/looking_for_advice_aipowered_software_reverse/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T06:33:14+00:00",
+    "first_alerted_at": "2026-11-12T10:07:44.532697+00:00"
+  },
+  "0300e0f00c6d1724": {
+    "title": "Building a voice-to-prompt app in Claude: speak a messy idea, get a perfectly structured prompt back?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu4586/building_a_voicetoprompt_app_in_claude_speak_a/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T05:10:05+00:00",
+    "first_alerted_at": "2026-11-12T10:07:45.425930+00:00"
+  },
+  "6afadd7197315a92": {
+    "title": "Claude desktop: how do you turn claude.ai connectors off only in Code (per project), but keep them in chat and Cowork?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu8q4o/claude_desktop_how_do_you_turn_claudeai/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T09:50:02+00:00",
+    "first_alerted_at": "2026-11-12T10:07:46.342928+00:00"
   }
 }
