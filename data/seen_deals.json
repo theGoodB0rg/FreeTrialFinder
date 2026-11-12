@@ -17971,5 +17971,50 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-11T18:38:02+00:00",
     "first_alerted_at": "2026-11-11T21:08:46.416716+00:00"
+  },
+  "10b5421b2127d76f": {
+    "title": "Will They Nerf Fable 5.2? LiveNerf Day 3 Update for Fable 5.2",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu01lm/will_they_nerf_fable_52_livenerf_day_3_update_for/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-12T01:42:34+00:00",
+    "first_alerted_at": "2026-11-12T02:24:33.765970+00:00"
+  },
+  "de230be2f2489e97": {
+    "title": "My partner asked me to be her accountability buddy, so I built us a to-do app with Claude. A few things I learnt along the way",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu0d4x/my_partner_asked_me_to_be_her_accountability/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T01:58:17+00:00",
+    "first_alerted_at": "2026-11-12T02:24:34.658173+00:00"
+  },
+  "9257803b5452a0e9": {
+    "title": "I built Untether with Claude Code: a task queue for your Mac where agents work in worktrees, get reviewed and tested, and merge on their own while you watch from your phone (free, MIT)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu0m6k/i_built_untether_with_claude_code_a_task_queue/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T02:10:23+00:00",
+    "first_alerted_at": "2026-11-12T02:24:35.527736+00:00"
+  },
+  "1f6ba7e801d4ab78": {
+    "title": "I built my wife a tutor with Claude Code because her AI prompts were never the problem",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu015l/i_built_my_wife_a_tutor_with_claude_code_because/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T01:41:59+00:00",
+    "first_alerted_at": "2026-11-12T02:24:36.403219+00:00"
+  },
+  "cb31222dc5971319": {
+    "title": "My experience with ChatGPT vs Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xty43o/my_experience_with_chatgpt_vs_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T00:12:23+00:00",
+    "first_alerted_at": "2026-11-12T02:24:37.267115+00:00"
   }
 }
