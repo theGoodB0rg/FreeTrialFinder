@@ -18061,5 +18061,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-12T09:50:02+00:00",
     "first_alerted_at": "2026-11-12T10:07:46.342928+00:00"
+  },
+  "42d552a4306dc88b": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/thinkingmachines-inkling-2-small/\" target=\"_blank\" rel=\"noopener\">Thinking Machines: Inkling 2 Small free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/thinkingmachines-inkling-2-small/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T18:30:55.632610+00:00",
+    "first_alerted_at": "2026-11-12T18:31:16.277043+00:00"
+  },
+  "de22b56f408bf3b5": {
+    "title": "Blip ! I made Claude Code talk like in a video game: every letter gets a \"blip\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xugx67/blip_i_made_claude_code_talk_like_in_a_video_game/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T16:14:38+00:00",
+    "first_alerted_at": "2026-11-12T18:31:17.322903+00:00"
+  },
+  "610eda3720c92611": {
+    "title": "Real-world test: Opus vs Fable vs Sonnet vs Haiku on every agent of a production pipeline",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xujhrk/realworld_test_opus_vs_fable_vs_sonnet_vs_haiku/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T17:49:54+00:00",
+    "first_alerted_at": "2026-11-12T18:31:18.376243+00:00"
+  },
+  "f3c0b69ae48e4216": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/llm7-io/codestral-latest/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T18:30:55.630238+00:00",
+    "first_alerted_at": "2026-11-12T18:31:19.388071+00:00"
+  },
+  "164ffd712b719c12": {
+    "title": "I made Claude Fable 5.2 play 80 games of Codenames against Opus, Sonnet, Gemini Flash and GPT-6 Astra",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xujm3f/i_made_claude_fable_52_play_80_games_of_codenames/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T17:54:13+00:00",
+    "first_alerted_at": "2026-11-12T18:31:20.408911+00:00"
+  },
+  "227a5d904d62985c": {
+    "title": "Minimize token usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuiun7/minimize_token_usage/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T17:25:56+00:00",
+    "first_alerted_at": "2026-11-12T18:31:21.474169+00:00"
+  },
+  "a5473ecbabc09d0f": {
+    "title": "Claude animation?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xui0g0/claude_animation/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T16:55:30+00:00",
+    "first_alerted_at": "2026-11-12T18:31:22.495141+00:00"
+  },
+  "a8c5454264ad95e7": {
+    "title": "Braincell: two little Mac menu bar creatures who show up when you and a friend are both actively using Claude Code. That's all. (It's free.)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuhtwv/braincell_two_little_mac_menu_bar_creatures_who/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T16:48:56+00:00",
+    "first_alerted_at": "2026-11-12T18:31:23.503162+00:00"
   }
 }
