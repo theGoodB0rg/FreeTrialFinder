@@ -18313,5 +18313,131 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T14:50:59.096692+00:00",
     "first_alerted_at": "2026-11-13T14:51:09.453037+00:00"
+  },
+  "7590e3bb25e50994": {
+    "title": "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+    "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-13T15:10:20+00:00",
+    "first_alerted_at": "2026-11-13T21:18:21.140997+00:00"
+  },
+  "75fbdbf383dd64ad": {
+    "title": "Is it me or is Opus actually more of a footgun than sonnet",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvj61w/is_it_me_or_is_opus_actually_more_of_a_footgun/",
+    "provider": "Anthropic",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T20:43:55+00:00",
+    "first_alerted_at": "2026-11-13T21:18:22.064521+00:00"
+  },
+  "bece40a32a1398cf": {
+    "title": "Do you ever run Claude API from Claude desktop?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvgod2/do_you_ever_run_claude_api_from_claude_desktop/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T19:07:25+00:00",
+    "first_alerted_at": "2026-11-13T21:18:22.971776+00:00"
+  },
+  "2e8cf7ebd5029f50": {
+    "title": "Question about Claude usage",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvirwp/question_about_claude_usage/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T20:28:32+00:00",
+    "first_alerted_at": "2026-11-13T21:18:23.896414+00:00"
+  },
+  "0a5111aaedca4b7e": {
+    "title": "I built an MCP server with Claude Code that lets Claude hand light work to a local Ollama model",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvguud/i_built_an_mcp_server_with_claude_code_that_lets/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T19:14:11+00:00",
+    "first_alerted_at": "2026-11-13T21:18:24.811512+00:00"
+  },
+  "225fb33d23627368": {
+    "title": "Show HN: Port of Context – Token efficient MCP context layer",
+    "url": "https://portofcontext.com",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T18:43:40+00:00",
+    "first_alerted_at": "2026-11-13T21:18:25.722728+00:00"
+  },
+  "293ee5f43dfa6d94": {
+    "title": "Does Duet work like Muse with custom connectors?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xviknm/does_duet_work_like_muse_with_custom_connectors/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T20:20:32+00:00",
+    "first_alerted_at": "2026-11-13T21:18:26.658474+00:00"
+  },
+  "45239644aceae1b1": {
+    "title": "Fable 5.2 painting in MS Paint",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T19:00:14+00:00",
+    "first_alerted_at": "2026-11-13T21:18:27.598632+00:00"
+  },
+  "18940d4b128345d5": {
+    "title": "Claude reverted a teammate's change through an MCP server, then told the user \"the other keys are unchanged\"",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvg6vb/claude_reverted_a_teammates_change_through_an_mcp/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T18:49:22+00:00",
+    "first_alerted_at": "2026-11-13T21:18:28.509325+00:00"
+  },
+  "96367a838dc81b76": {
+    "title": "Show HN: Agent-plan a CLI that automatically commits your agent's plans",
+    "url": "https://github.com/ghmeier/agent-plan",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T15:23:59+00:00",
+    "first_alerted_at": "2026-11-13T21:18:29.433471+00:00"
+  },
+  "b7d9a37496e72d60": {
+    "title": "Is there a skill or plugin that.....",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvj0n9/is_there_a_skill_or_plugin_that/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T20:38:07+00:00",
+    "first_alerted_at": "2026-11-13T21:18:30.339508+00:00"
+  },
+  "256435057a8b8203": {
+    "title": "Is ccusage correct?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvi3nx/is_ccusage_correct/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T20:01:39+00:00",
+    "first_alerted_at": "2026-11-13T21:18:31.283420+00:00"
+  },
+  "1d9efe1a8922f778": {
+    "title": "How to use 2 accounts on 1 project (not using Claude Code)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvguzu/how_to_use_2_accounts_on_1_project_not_using/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T19:14:21+00:00",
+    "first_alerted_at": "2026-11-13T21:18:32.217835+00:00"
+  },
+  "a5fef4df16f46ca6": {
+    "title": "Having agents reset context around 225K tokens dropped cosr by 50-75% for me",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvgier/having_agents_reset_context_around_225k_tokens/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T19:01:08+00:00",
+    "first_alerted_at": "2026-11-13T21:18:33.147963+00:00"
   }
 }
