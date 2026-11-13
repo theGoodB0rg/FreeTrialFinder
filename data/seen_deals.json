@@ -18241,5 +18241,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T02:04:36+00:00",
     "first_alerted_at": "2026-11-13T06:27:12.643744+00:00"
+  },
+  "3e9790be0ee44d46": {
+    "title": "I built MCP-Bridge (with Claude's help) - a free open-source Windows hub to connect local stdio MCP servers to Claude Web and Claude Code without eating context limits",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv7ykl/i_built_mcpbridge_with_claudes_help_a_free/",
+    "provider": "Anthropic",
+    "score": 80,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-13T13:32:02+00:00",
+    "first_alerted_at": "2026-11-13T14:51:03.488022+00:00"
+  },
+  "9832858a12d504e5": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/baidu-ernie-5.5-flash-preview/\" target=\"_blank\" rel=\"noopener\">Baidu: ERNIE-5.5-Flash-Preview free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/baidu-ernie-5.5-flash-preview/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T14:50:59.100461+00:00",
+    "first_alerted_at": "2026-11-13T14:51:04.318453+00:00"
+  },
+  "692c9b51bdeaa871": {
+    "title": "Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat",
+    "url": "https://wonderchat.io/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T06:59:21+00:00",
+    "first_alerted_at": "2026-11-13T14:51:05.267322+00:00"
+  },
+  "bfa4f5e885747374": {
+    "title": "Herdr or Not? That is kinda the question.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv8933/herdr_or_not_that_is_kinda_the_question/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T13:44:44+00:00",
+    "first_alerted_at": "2026-11-13T14:51:06.107296+00:00"
+  },
+  "8475c75e16b7b5ab": {
+    "title": "4 new Anthropic updates that matter for your bill this week",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv92bz/4_new_anthropic_updates_that_matter_for_your_bill/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T14:17:56+00:00",
+    "first_alerted_at": "2026-11-13T14:51:06.972894+00:00"
+  },
+  "984a973b02b44e64": {
+    "title": "Anthropic removed the subagentStatusLine setting in Claude Code version 2.1.323",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv6nvo/anthropic_removed_the_subagentstatusline_setting/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T12:32:07+00:00",
+    "first_alerted_at": "2026-11-13T14:51:07.811649+00:00"
+  },
+  "93f947a809cb5033": {
+    "title": "Discussion Hub for new Claude incident: Elevated errors on claude.ai, the Claude API, and Claude Code on Nov 13, 2026",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv7hxz/discussion_hub_for_new_claude_incident_elevated/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T13:11:13+00:00",
+    "first_alerted_at": "2026-11-13T14:51:08.634996+00:00"
+  },
+  "c626555f64e2d918": {
+    "title": "Ollama Cloud Free API / Developer Tier",
+    "url": "https://ollama.com/v1`",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T14:50:59.096692+00:00",
+    "first_alerted_at": "2026-11-13T14:51:09.453037+00:00"
   }
 }
