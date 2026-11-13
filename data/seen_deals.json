@@ -18169,5 +18169,77 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-12T21:19:22+00:00",
     "first_alerted_at": "2026-11-13T00:00:55.999371+00:00"
+  },
+  "57d08a5a764b95c4": {
+    "title": "What is the difference between using Claude in Open in Agents mode vscode vs the vs Claude code extension for vscode?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuzxau/what_is_the_difference_between_using_claude_in/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T05:51:40+00:00",
+    "first_alerted_at": "2026-11-13T06:27:06.375689+00:00"
+  },
+  "a0545f4a70ca9cb2": {
+    "title": "I split job applications across 5 Claude Code subagents. Here's what worked, what broke, and what I'd do differently",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuy0of/i_split_job_applications_across_5_claude_code/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T04:07:56+00:00",
+    "first_alerted_at": "2026-11-13T06:27:07.315430+00:00"
+  },
+  "ffc951ea8f0c18bb": {
+    "title": "A 10-minute 'manual dreaming' pass for your CLAUDE.md and memory files",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuwooe/a_10minute_manual_dreaming_pass_for_your_claudemd/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T03:00:20+00:00",
+    "first_alerted_at": "2026-11-13T06:27:08.206574+00:00"
+  },
+  "d90a5a6b0c7c4afa": {
+    "title": "Claude Managed Agents can now be self-hosted (private beta): harness, sandboxes, credentials and session history all run in your own cloud",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuwdfs/claude_managed_agents_can_now_be_selfhosted/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:45:06+00:00",
+    "first_alerted_at": "2026-11-13T06:27:09.093030+00:00"
+  },
+  "70b34fbe3dc10d47": {
+    "title": "Claude Managed Agents can now run self-hosted, inside your own perimeter (private beta)",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuw68g/claude_managed_agents_can_now_run_selfhosted/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:35:19+00:00",
+    "first_alerted_at": "2026-11-13T06:27:09.986380+00:00"
+  },
+  "0adb5b38aba5ecc3": {
+    "title": "Company gaves me a Team Standard license - how to reduce the amount of tokens?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuzuh9/company_gaves_me_a_team_standard_license_how_to/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T05:47:13+00:00",
+    "first_alerted_at": "2026-11-13T06:27:10.870539+00:00"
+  },
+  "6a0c328f4e2973cd": {
+    "title": "Fable 5.2 vs. Opus 5.5: one more pass, 6.7% fewer output tokens, and $16.34 vs. $8.55",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuwc6o/fable_52_vs_opus_55_one_more_pass_67_fewer_output/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:43:21+00:00",
+    "first_alerted_at": "2026-11-13T06:27:11.761963+00:00"
+  },
+  "6fabf637bd5d648d": {
+    "title": "I used Claude to build an AI design tool for social & marketing posts and I'm already using it for my side gigs",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuvjdv/i_used_claude_to_build_an_ai_design_tool_for/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T02:04:36+00:00",
+    "first_alerted_at": "2026-11-13T06:27:12.643744+00:00"
   }
 }
