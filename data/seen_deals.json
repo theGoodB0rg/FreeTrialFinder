@@ -18529,5 +18529,203 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-14T06:05:02+00:00",
     "first_alerted_at": "2026-11-14T08:46:33.104561+00:00"
+  },
+  "6d7bae913b6cbd4b": {
+    "title": "<a href=\"https://freellm.net/models/openrouter/nvidia-nemotron-3-nano-omni-30b-a3b-reasoning/\" target=\"_blank\" rel=\"noopener\">NVIDIA: Nemotron 3 Nano Omni free</a> Free API / Developer Tier",
+    "url": "https://freellm.net/models/openrouter/nvidia-nemotron-3-nano-omni-30b-a3b-reasoning/\"",
+    "provider": "OpenRouter",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.497256+00:00",
+    "first_alerted_at": "2026-11-14T15:39:56.693426+00:00"
+  },
+  "e11f3de6d47f71c1": {
+    "title": "signals - using claude as a proactive tool for your career",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2xcu/signals_using_claude_as_a_proactive_tool_for_your/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T13:52:47+00:00",
+    "first_alerted_at": "2026-11-14T15:39:57.686660+00:00"
+  },
+  "598db3db157bd16e": {
+    "title": "I turned Karpathy's \"80% of the way to ASD-STE100\" tip into a Claude skill that makes AI text readable",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T13:29:46+00:00",
+    "first_alerted_at": "2026-11-14T15:39:58.659187+00:00"
+  },
+  "ce0272f6b6b38339": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-openai-gpt-oss-120b/\"",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495817+00:00",
+    "first_alerted_at": "2026-11-14T15:39:59.627838+00:00"
+  },
+  "d7eab1ee8db39a36": {
+    "title": "Groq Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/qwen-qwen3-8-27b/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.496410+00:00",
+    "first_alerted_at": "2026-11-14T15:40:00.601268+00:00"
+  },
+  "031067a344215f7e": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/whisper-large-v3/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.496428+00:00",
+    "first_alerted_at": "2026-11-14T15:40:01.707962+00:00"
+  },
+  "e08a9731ed0fa686": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/groq/whisper-large-v3-turbo/\"",
+    "provider": "Groq",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.496447+00:00",
+    "first_alerted_at": "2026-11-14T15:40:02.716065+00:00"
+  },
+  "6e7fd00601112b51": {
+    "title": "How can I create animated video on some topic?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw49az/how_can_i_create_animated_video_on_some_topic/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T14:52:05+00:00",
+    "first_alerted_at": "2026-11-14T15:40:03.679393+00:00"
+  },
+  "3ab96e3b3249271b": {
+    "title": "I checked the tools people asked Claude for this week. One of them reads your bank account",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw3qw0/i_checked_the_tools_people_asked_claude_for_this/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T14:29:34+00:00",
+    "first_alerted_at": "2026-11-14T15:40:04.660832+00:00"
+  },
+  "463578147f1dfba7": {
+    "title": "NVIDIA NIM Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/poolside-laguna-xs-2-1/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495716+00:00",
+    "first_alerted_at": "2026-11-14T15:40:05.623496+00:00"
+  },
+  "8b9a4ae4111656fe": {
+    "title": "Cloudflare Workers AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-meta-llama-3-3-70b-instruct-fp8-fast/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495779+00:00",
+    "first_alerted_at": "2026-11-14T15:40:06.633816+00:00"
+  },
+  "087f1db6f321a2b2": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/cloudflare-workers-ai/cf-meta-llama-4-scout-17b-16e-instruct/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495799+00:00",
+    "first_alerted_at": "2026-11-14T15:40:08.801152+00:00"
+  },
+  "821600aa59ca3036": {
+    "title": "ModelScope Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/medaibase-antangelmed/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495834+00:00",
+    "first_alerted_at": "2026-11-14T15:40:09.762682+00:00"
+  },
+  "c75fbe535ec366b5": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/meituan-longcat-longcat-flash-lite/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495856+00:00",
+    "first_alerted_at": "2026-11-14T15:40:10.738725+00:00"
+  },
+  "b6390bab8b52c6bb": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/modelscope/minimax-minimax-m1-80k/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495873+00:00",
+    "first_alerted_at": "2026-11-14T15:40:11.709004+00:00"
+  },
+  "b68fa605d0a25fdc": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/nemotron-3.5-lightning-free/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495913+00:00",
+    "first_alerted_at": "2026-11-14T15:40:12.678906+00:00"
+  },
+  "7ff6f78320dc9b18": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/opencode/deepseek-v4-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.495930+00:00",
+    "first_alerted_at": "2026-11-14T15:40:13.656251+00:00"
+  },
+  "d828a0fae57fede4": {
+    "title": "Z AI Zhipu AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-5-air/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.496683+00:00",
+    "first_alerted_at": "2026-11-14T15:40:14.658230+00:00"
+  },
+  "639c53fd2c4d4063": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-7-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.496701+00:00",
+    "first_alerted_at": "2026-11-14T15:40:15.834170+00:00"
+  },
+  "f26abe219b74a054": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/z-ai-zhipu-ai/glm-4-5-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:39:51.496717+00:00",
+    "first_alerted_at": "2026-11-14T15:40:16.806010+00:00"
+  },
+  "9846a7056ca8cc73": {
+    "title": "Show HN: Yet another agent manager (but we needed it)",
+    "url": "https://varinomics.com/logonomic/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T13:44:19+00:00",
+    "first_alerted_at": "2026-11-14T15:40:17.796190+00:00"
+  },
+  "9dd551bb7c195345": {
+    "title": "claude setup-token usage in git pipeline",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw5bwf/claude_setuptoken_usage_in_git_pipeline/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T15:37:46+00:00",
+    "first_alerted_at": "2026-11-14T15:40:18.849316+00:00"
   }
 }
