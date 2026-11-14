@@ -18439,5 +18439,68 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T19:01:08+00:00",
     "first_alerted_at": "2026-11-13T21:18:33.147963+00:00"
+  },
+  "58a397f1acde4047": {
+    "title": "Nightshift: a plugin for long-running coding agents claude , codex and cursor",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvpavc/nightshift_a_plugin_for_longrunning_coding_agents/",
+    "provider": "Anthropic",
+    "score": 100,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-14T01:07:21+00:00",
+    "first_alerted_at": "2026-11-14T01:38:16.535937+00:00"
+  },
+  "a4f860f8a6d36cd4": {
+    "title": "Wilson's Survival Guide for November 6-13, 2026 now available!",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnhjz/wilsons_survival_guide_for_november_613_2026_now/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T23:43:46+00:00",
+    "first_alerted_at": "2026-11-14T01:38:17.480756+00:00"
+  },
+  "4bc55d482f570e8f": {
+    "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+    "url": "https://news.ycombinator.com/item?id=50491841",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T23:50:03+00:00",
+    "first_alerted_at": "2026-11-14T01:38:18.442208+00:00"
+  },
+  "8319ccbc8efc439c": {
+    "title": "Help prevent me being dumb",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvkaws/help_prevent_me_being_dumb/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T21:28:18+00:00",
+    "first_alerted_at": "2026-11-14T01:38:19.391630+00:00"
+  },
+  "c22d7c2e1e7aa48e": {
+    "title": "I built a memory layer where a grammar parser decides what's stored. Level with Mem0 on LoCoMo with Qwen3-14B, and 0 model calls to store.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvow4c/i_built_a_memory_layer_where_a_grammar_parser/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T00:47:42+00:00",
+    "first_alerted_at": "2026-11-14T01:38:20.354994+00:00"
+  },
+  "b33c29435b9f403e": {
+    "title": "**Title:** Is plan mode still worth using in Claude Code on Fable 5.2?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnijo/title_is_plan_mode_still_worth_using_in_claude/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T23:45:03+00:00",
+    "first_alerted_at": "2026-11-14T01:38:21.318393+00:00"
+  },
+  "78a12f8d4ee6c562": {
+    "title": "Opus 5.5 vs Fable 5.2 made Animation from a single prompt. Who Won Blind Test?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvkctp/opus_55_vs_fable_52_made_animation_from_a_single/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-13T21:30:30+00:00",
+    "first_alerted_at": "2026-11-14T01:38:22.285282+00:00"
   }
 }
