@@ -35,3 +35,19 @@ def test_github_curated_source_network_error(mock_get):
     source = GitHubCuratedSource()
     deals = source.fetch()
     assert deals == []
+
+
+def test_html_rows_with_blank_provider_cells():
+    md = """
+| Provider | Model | ID |
+| --- | --- | --- |
+| Groq | <a href="https://freellm.net/models/groq/llama/" target="_blank">Llama 3.3 70B</a> | `llama` |
+|  | <a href="https://freellm.net/models/groq/whisper/" target="_blank">whisper-large-v3</a> | `whisper` |
+| [NVIDIA NIM](https://build.nvidia.com) | Many | [Get Key →](https://build.nvidia.com/keys) |
+"""
+    deals = GitHubCuratedSource()._parse_markdown(md, "repo")
+    assert [(d.title, d.url) for d in deals] == [
+        ("Groq: Llama 3.3 70B Free API / Developer Tier", "https://freellm.net/models/groq/llama/"),
+        ("Groq: whisper-large-v3 Free API / Developer Tier", "https://freellm.net/models/groq/whisper/"),
+        ("NVIDIA NIM Free API / Developer Tier", "https://build.nvidia.com"),
+    ]

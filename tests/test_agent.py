@@ -1,4 +1,5 @@
 import json
+from datetime import datetime, timedelta, timezone
 from unittest.mock import MagicMock
 
 import pytest
@@ -8,7 +9,7 @@ from freetrialfinder.agent.evaluate import score
 from freetrialfinder.agent.llm import LLMError
 from freetrialfinder.agent.tools import ToolError, html_to_text, validate_url
 from freetrialfinder.engine import FinderEngine
-from freetrialfinder.models import ConfidenceLevel, DealItem, RawDeal
+from freetrialfinder.models import ConfidenceLevel, DealItem, RawDeal, Route
 
 
 PAGE = "Sign up today and get $25 in free API credits. Use the OpenAI-compatible endpoint from any IDE."
@@ -150,14 +151,19 @@ def test_html_to_text_drops_scripts():
 
 
 class FixedVerifier:
+    """decisions maps title -> Decision, or -> a Verdict, or -> an Exception to raise."""
+
     def __init__(self, decisions):
         self.decisions = decisions
         self.calls = []
 
     def verify(self, deal):
-        self.calls.append(deal.title)
         from freetrialfinder.agent.verifier import Verdict
-        return Verdict(decision=self.decisions[deal.title], reason="checked")
+        self.calls.append(deal.title)
+        d = self.decisions[deal.title]
+        if isinstance(d, Exception):
+            raise d
+        return d if isinstance(d, Verdict) else Verdict(decision=d, reason="checked")
 
 
 class DummySource:
@@ -168,45 +174,95 @@ class DummySource:
         return self.items
 
 
-def test_engine_uses_agent_only_on_potential_deals(tmp_path):
-    ide = RawDeal(title="OpenRouter free $20 credits for Claude Sonnet", url="https://openrouter.ai/promo",
-                  source="dummy", content="OpenAI-compatible base_url for Aide and Cursor IDE.")
-    maybe_good = RawDeal(title="Free $10 Gemini API credits", url="https://a.example/gemini", source="dummy",
-                         content="Get free credits for the Gemini API")
-    maybe_bad = RawDeal(title="Claude Pro free trial for 30 days", url="https://b.example/claude", source="dummy",
-                        content="Anthropic offers a free trial of Claude Pro with credits")
-    engine = FinderEngine(sources=[DummySource([ide, maybe_good, maybe_bad])], notifiers=[MagicMock()],
-                          state_file=str(tmp_path / "seen.json"), min_score=40,
-                          verifier=None)
-    tiers = {d.title: d.confidence for d in engine.evaluate_deals([ide, maybe_good, maybe_bad])}
-    potentials = [t for t, c in tiers.items() if c == ConfidenceLevel.POTENTIAL]
-    assert potentials, "fixture needs at least one POTENTIAL deal"
+def raw(title, days_old=0):
+    return RawDeal(title=title, url="https://x.example/" + title.replace(" ", "-"), source="dummy",
+                   content="Get free credits for the Gemini API",
+                   discovered_at=datetime.now(timezone.utc) - timedelta(days=days_old))
 
-    verifier = FixedVerifier({t: (Decision.REJECT if "Claude" in t else Decision.KEEP) for t in potentials})
+
+def engine_for(tmp_path, raws, verifier, notifier=None, **kw):
+    return FinderEngine(sources=[DummySource(raws)], notifiers=[notifier or MagicMock()],
+                        state_file=str(tmp_path / "seen.json"), min_score=40, verifier=verifier, **kw)
+
+
+def test_engine_routes_every_deal_by_verdict(tmp_path):
+    from freetrialfinder.agent.verifier import Verdict
+    urgent = Verdict(decision=Decision.KEEP, urgent=True, reason="ok", headline="Gemini: $10 free API credits",
+                     why="Free calls for your agent.", promo_code="GEM10")
+    raws = [raw("Free Gemini API credits now"), raw("Free Gemini API credits later"), raw("Free Gemini API chatter")]
+    verifier = FixedVerifier({raws[0].title: urgent, raws[1].title: Decision.KEEP, raws[2].title: Decision.REJECT})
     notifier = MagicMock()
-    engine = FinderEngine(sources=[DummySource([ide, maybe_good, maybe_bad])], notifiers=[notifier],
-                          state_file=str(tmp_path / "seen2.json"), min_score=40, verifier=verifier)
-    sent = engine.run_cycle()
+    engine = engine_for(tmp_path, raws, verifier, notifier)
 
-    assert sorted(verifier.calls) == sorted(potentials)          # DIRECT_IDE skipped the agent
-    sent_titles = [d.title for d in sent]
-    assert ide.title in sent_titles
-    for t in potentials:
-        assert (t in sent_titles) == ("Claude" not in t)         # rejected deals are not alerted
-    # Rejected deals are remembered, so the next cycle neither re-verifies nor alerts them.
+    routed = {d.title: d for d in engine.run_cycle()}
+
+    assert {t: d.route for t, d in routed.items()} == {
+        raws[0].title: Route.NOW, raws[1].title: Route.DIGEST, raws[2].title: Route.DROP}
+    assert notifier.send.call_count == 1                      # only the urgent one interrupts
+    sent = notifier.send.call_args[0][0]
+    assert sent.headline == "Gemini: $10 free API credits" and sent.promo_code == "GEM10" and sent.verified
+    # Everything is remembered: the next cycle neither re-verifies nor alerts.
     verifier.calls.clear()
-    assert engine.run_cycle() == []
-    assert verifier.calls == []
+    assert engine.run_cycle() == [] and verifier.calls == []
+
+    # The digest goes out once, with only the DIGEST deal.
+    assert engine.send_digest() == 1
+    digest_deals = notifier.send_digest.call_args[0][0]
+    assert [d.title for d in digest_deals] == [raws[1].title]
+    assert engine.send_digest() == 0
+    assert not engine.digest_due(timedelta(hours=20)) and engine.digest_due(timedelta(0))
+
+
+def test_heuristic_scorer_alone_never_reaches_the_phone_without_ai(tmp_path):
+    potential = raw("Free Gemini API credits")
+    notifier = MagicMock()
+    routed = engine_for(tmp_path, [potential], verifier=None, notifier=notifier).run_cycle()
+    assert routed[0].confidence == ConfidenceLevel.POTENTIAL and routed[0].route == Route.DIGEST
+    notifier.send.assert_not_called()
+
+
+def test_ai_outage_defers_then_digests_old_deals(tmp_path):
+    fresh = [raw(f"Free Gemini API credits {i}") for i in range(4)]
+    old = raw("Free Gemini API credits old", days_old=5)
+    verifier = FixedVerifier({r.title: LLMError("down") for r in fresh + [old]})
+    engine = engine_for(tmp_path, fresh + [old], verifier)
+
+    routed = engine.run_cycle()
+
+    assert len(verifier.calls) == 2                            # circuit breaker after 2 failures
+    assert [d.title for d in routed] == [old.title]            # fresh deals wait for the next run
+    assert routed[0].route == Route.DIGEST and "ai_unavailable" in routed[0].reasons
+    assert all(not engine.state_manager.is_seen(r.id) for r in fresh)
+
+
+def test_llm_error_verdict_counts_as_outage(tmp_path):
+    from freetrialfinder.agent.verifier import Verdict
+    failed = Verdict(decision=Decision.UNSURE, reason="model call failed", flags=["llm_error"])
+    r = raw("Free Gemini API credits")
+    engine = engine_for(tmp_path, [r], FixedVerifier({r.title: failed}))
+    assert engine.run_cycle() == [] and not engine.state_manager.is_seen(r.id)
+
+
+def test_failed_delivery_is_retried_next_run(tmp_path):
+    from freetrialfinder.agent.verifier import Verdict
+    r = raw("Free Gemini API credits")
+    notifier = MagicMock()
+    notifier.send.return_value = False
+    keep = Verdict(decision=Decision.KEEP, urgent=True, reason="ok")
+    engine = engine_for(tmp_path, [r], FixedVerifier({r.title: keep}), notifier)
+    engine.run_cycle()
+    assert not engine.state_manager.is_seen(r.id)
 
 
 def test_engine_respects_agent_budget(tmp_path):
+    # Deals beyond the budget are not routed or recorded; the next run picks them up.
     raws = [RawDeal(title=f"Free $10 Gemini API credits batch {i}", url=f"https://x.example/{i}", source="dummy",
                     content="Get free credits for the Gemini API") for i in range(5)]
     verifier = FixedVerifier({r.title: Decision.KEEP for r in raws})
     engine = FinderEngine(sources=[DummySource(raws)], notifiers=[MagicMock()],
                           state_file=str(tmp_path / "seen.json"), verifier=verifier, agent_max_per_run=2)
-    engine.run_cycle()
-    assert len(verifier.calls) == 2
+    routed = engine.run_cycle()
+    assert len(verifier.calls) == 2 and len(routed) == 2
 
 
 def test_eval_scoring():
@@ -297,3 +353,34 @@ def test_llm_does_not_wait_out_daily_quota(monkeypatch):
     with pytest.raises(LLMError):
         client.chat([], [])
     assert waits == []
+
+
+def verdict_call_with(evidence="$25 in free API credits", **extra):
+    args = {"decision": "keep", "usable_from_code": True, "reason": "Real API credit offer.", "evidence": evidence, **extra}
+    return {"content": "", "tool_calls": [call("submit_verdict", args, "c2")]}
+
+
+def test_promo_code_must_appear_in_what_the_agent_read():
+    v = DealVerifier(ScriptedLLM([FETCH, verdict_call_with(promo_code="FAKE99")]), fetcher=fetcher).verify(deal())
+    assert v.promo_code == "" and "code_not_found" in v.flags
+    page = "Sign up and enter code DEV25 to get $25 in free API credits from any IDE."
+    v = DealVerifier(ScriptedLLM([FETCH, verdict_call_with(promo_code="DEV25", evidence="enter code DEV25 to get $25 in free API credits")]),
+                     fetcher=lambda u: {"url": u, "status": "200", "text": page}).verify(deal())
+    assert v.promo_code == "DEV25" and v.decision == Decision.KEEP
+
+
+def test_only_a_grounded_keep_can_be_urgent():
+    v = DealVerifier(ScriptedLLM([FETCH, verdict_call_with(urgent=True, evidence="invented quote that is nowhere at all")]),
+                     fetcher=fetcher).verify(deal())
+    assert v.decision == Decision.UNSURE and v.urgent is False
+
+
+def test_long_editorial_text_is_clipped_not_rejected():
+    v = DealVerifier(ScriptedLLM([FETCH, verdict_call_with(headline="x" * 500, why=None)]), fetcher=fetcher).verify(deal())
+    assert v.decision == Decision.KEEP and len(v.headline) == 90 and v.why == ""
+
+
+def test_profile_is_added_to_system_prompt():
+    llm = ScriptedLLM([verdict_call()])
+    DealVerifier(llm, fetcher=fetcher, profile="I only use Groq.").verify(deal())
+    assert "I only use Groq." in llm.seen[0][0]["content"]

@@ -37,48 +37,67 @@ class GitHubCuratedSource(BaseSource):
         return deals
 
     def _parse_markdown(self, markdown_text: str, repo_url: str) -> List[RawDeal]:
+        """One deal per table row that has a link. Handles markdown and HTML links,
+        and tables where a blank first cell means 'same provider as the row above'."""
         deals: List[RawDeal] = []
-        lines = markdown_text.splitlines()
+        last_provider = ""
+        for line in markdown_text.splitlines():
+            row = line.strip()
+            if not (row.startswith("|") and row.endswith("|")):
+                continue
+            parts = [p.strip() for p in row.split("|")[1:-1]]
+            if len(parts) < 3 or all(set(p) <= set("-: ") for p in parts):
+                continue
+            link = _first_link(row)
+            if not link:
+                continue
+            url, link_text = link
+            if link_text.lower().strip(" →»>") in _GENERIC_LINK_TEXT or not re.search(r"[A-Za-z0-9]", link_text):
+                link_text = ""
+            first_cell = _plain(parts[0])
+            if first_cell.lower() in {"provider", "name", "service", "model"}:
+                continue
 
-        for line in lines:
-            line_str = line.strip()
-            # Check for Markdown table row with at least 3 columns
-            if line_str.startswith("|") and line_str.endswith("|"):
-                parts = [p.strip() for p in line_str.split("|")[1:-1]]
-                # Skip header and separator lines
-                if len(parts) >= 3 and not all(set(p).issubset({"-", ":", " "}) for p in parts):
-                    provider_col = parts[0]
-                    # Check if provider contains markdown link
-                    link_match = re.search(r"\[([^\]]+)\]\((https?://[^\)]+)\)", provider_col)
-                    if not link_match and len(parts) >= 5:
-                        # Check last column for link
-                        link_match = re.search(r"\[([^\]]+)\]\((https?://[^\)]+)\)", parts[-1]) or re.search(r"(https?://[^\s]+)", parts[-1])
-                    
-                    if link_match:
-                        name = link_match.group(1) if len(link_match.groups()) >= 2 else parts[0]
-                        url = link_match.group(2) if len(link_match.groups()) >= 2 else link_match.group(1)
-                    else:
-                        url_search = re.search(r"https?://[^\s|]+", line_str)
-                        if not url_search:
-                            continue
-                        url = url_search.group(0)
-                        name = parts[0]
-
-                    clean_name = re.sub(r"[\[\]\(\)]", "", name).strip()
-                    if clean_name.lower() in {"provider", "name", "service"}:
-                        continue
-
-                    details = " | ".join(parts[1:])
-                    title = f"{clean_name} Free API / Developer Tier"
-                    full_content = f"{title}. Details: {details}. Source repo: {repo_url}"
-
-                    deals.append(
-                        RawDeal(
-                            title=title,
-                            url=url,
-                            source=self.name,
-                            content=full_content,
-                        )
-                    )
-
+            if _first_link(parts[0]):
+                provider, name = "", link_text or first_cell
+                last_provider = first_cell
+            elif first_cell:
+                provider, name = first_cell, link_text
+                last_provider = first_cell
+            else:
+                provider, name = last_provider, link_text
+            if not name:
+                provider, name = "", provider
+            if not name:
+                continue
+            label = f"{provider}: {name}" if provider and provider.lower() not in name.lower() else name
+            title = f"{label} Free API / Developer Tier"
+            details = " | ".join(_plain(p) for p in parts[1:])
+            deals.append(RawDeal(title=title, url=url, source=self.name,
+                                 content=f"{title}. Details: {details}. Source repo: {repo_url}"))
         return deals
+
+
+_GENERIC_LINK_TEXT = {"", "get key", "get api key", "api key", "docs", "doc", "signup", "sign up", "console",
+                      "link", "website", "site", "here", "try it", "visit"}
+_MD_LINK = re.compile(r"\[([^\]]*)\]\((https?://[^)\s]+)\)")
+_HTML_LINK = re.compile(r"<a\s[^>]*href=[\"'](https?://[^\"']+)[\"'][^>]*>(.*?)</a>", re.I)
+_BARE_URL = re.compile(r"https?://[^\s|<>\"'`)]+")
+
+
+def _plain(text: str) -> str:
+    """Cell text without HTML tags or markdown link syntax."""
+    text = _HTML_LINK.sub(lambda m: m.group(2), text)
+    text = _MD_LINK.sub(lambda m: m.group(1), text)
+    return re.sub(r"<[^>]+>|[`*]", "", text).strip()
+
+
+def _first_link(text: str):
+    """(url, link_text) for the first link in text, or None."""
+    found = [(m.start(), m.group(2), _plain(m.group(1))) for m in _MD_LINK.finditer(text)]
+    found += [(m.start(), m.group(1), _plain(m.group(2))) for m in _HTML_LINK.finditer(text)]
+    if found:
+        _, url, label = min(found)
+        return url, label
+    bare = _BARE_URL.search(text)
+    return (bare.group(0), "") if bare else None

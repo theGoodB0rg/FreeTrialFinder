@@ -11,6 +11,11 @@ class ConfidenceLevel(str, Enum):
     POTENTIAL = "POTENTIAL"          # AI trial / promo needing user review (lenient)
     REJECTED = "REJECTED"            # Unrelated spam / non-AI / locked browser only
 
+class Route(str, Enum):
+    NOW = "now"          # pushed to the phone immediately
+    DIGEST = "digest"    # held for the daily digest
+    DROP = "drop"        # recorded as seen, never sent
+
 class DealCategory(str, Enum):
     API_CREDITS = "api_credits"
     PROMO_CODE = "promo_code"
@@ -59,6 +64,18 @@ class DealItem(BaseModel):
     estimated_value: Optional[str] = None
     summary: str = ""
     discovered_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
+    # Set by triage. The editorial fields are written by the AI; empty without it.
+    route: Optional[Route] = None
+    verified: bool = False
+    headline: str = ""
+    why: str = ""
+    action: str = ""
+    expires: str = ""
+
+    @property
+    def display_title(self) -> str:
+        return self.headline or self.title
 
     @property
     def is_ide_usable(self) -> bool:

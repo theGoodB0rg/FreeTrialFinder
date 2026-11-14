@@ -2,24 +2,40 @@ name: Poll AI Trials & Credits
 
 on:
   schedule:
-    # Run every 30 minutes (100% free with unlimited minutes on public repositories)
+    # GitHub runs busy free-tier schedules late or skips them; in practice this fires a few times a day.
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
+  workflow_dispatch:
+    inputs:
+      force_digest:
+        description: 'Send the digest now even if one went out recently'
+        type: boolean
+        default: false
+
+# One run at a time: every run commits data/seen_deals.json.
+concurrency:
+  group: freetrialfinder-state
+  cancel-in-progress: false
+
+permissions:
+  contents: read
 
 jobs:
   poll-and-notify:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     permissions:
-      contents: write # Needed to commit updated seen_deals.json state
+      contents: write # commit the updated seen_deals.json state
 
     steps:
+      # Third-party actions are pinned to a commit SHA, since this job can push to the repo.
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: '3.12'
+          cache: pip
 
       - name: Install dependencies
         run: |
@@ -27,22 +43,43 @@ jobs:
           pip install -r requirements.txt
           pip install -e .
 
-      - name: Run Test Suite
-        run: |
-          python -m pytest -v
+      # Tests run without any secrets in their environment.
+      - name: Run test suite
+        run: python -m pytest -q
 
-      - name: Run FreeTrialFinder Poller
+      - name: Poll, triage with AI, alert
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          MIN_SCORE: 40
+          AGENT_API_KEY: ${{ secrets.AGENT_API_KEY }}
+          PROFILE: ${{ secrets.PROFILE }} # optional; overrides profile.md when set
+          ENABLE_AGENT: 'true'
+          AGENT_BASE_URL: ${{ vars.AGENT_BASE_URL || 'https://api.groq.com/openai/v1' }}
+          AGENT_MODEL: ${{ vars.AGENT_MODEL || 'openai/gpt-oss-120b' }}
+          AGENT_MAX_PER_RUN: ${{ vars.AGENT_MAX_PER_RUN || '15' }}
+          MIN_SCORE: ${{ vars.MIN_SCORE || '40' }}
           STATE_FILE: data/seen_deals.json
         run: |
           python -m freetrialfinder.cli poll
+          if [ "${{ inputs.force_digest }}" = "true" ]; then
+            python -m freetrialfinder.cli digest
+          else
+            python -m freetrialfinder.cli digest --if-due
+          fi
 
-      - name: Commit and Push State (Deduplication Persistence)
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Keep AI traces for 7 days (not committed; the repo is public)
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: agent-traces-${{ github.run_id }}
+          path: data/agent_traces.jsonl
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Commit and push state
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@b863ae1933cb653a53c021fe36dbb774e1fb9403 # v5.2.0
         with:
           commit_message: "Automated: update seen deals deduplication cache [skip ci]"
           file_pattern: "data/seen_deals.json"
