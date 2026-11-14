@@ -18502,5 +18502,32 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-13T21:30:30+00:00",
     "first_alerted_at": "2026-11-14T01:38:22.285282+00:00"
+  },
+  "8bf245dd01f1f6da": {
+    "title": "Is there any reason at all to run Claude outside of terminal?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvtpqe/is_there_any_reason_at_all_to_run_claude_outside/",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T04:56:36+00:00",
+    "first_alerted_at": "2026-11-14T08:46:31.132179+00:00"
+  },
+  "dcf0972a0e5071e8": {
+    "title": "I recreated a pokemon battle scene in game pixel style using Claude",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvx5tf/i_recreated_a_pokemon_battle_scene_in_game_pixel/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T08:17:45+00:00",
+    "first_alerted_at": "2026-11-14T08:46:32.109170+00:00"
+  },
+  "fbe1614fafbd93c8": {
+    "title": "Terrible Claude results with Blender",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvuxuw/terrible_claude_results_with_blender/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T06:05:02+00:00",
+    "first_alerted_at": "2026-11-14T08:46:33.104561+00:00"
   }
 }
