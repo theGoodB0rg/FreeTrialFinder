@@ -7,6 +7,7 @@ Metrics reported:
   accuracy          share of decided deals (keep/reject) that match the label
   false_keep_rate   rejects the agent wrongly kept  (the costly mistake: spam alerts)
   false_reject_rate keeps the agent wrongly rejected (missed real deals)
+  false_urgent      rejects the agent would have pushed to the phone (must be 0)
   unsure_rate       share the agent declined to decide
   avg_tool_calls    cost proxy
 """
@@ -42,7 +43,7 @@ def run_eval(verifier: DealVerifier, rows: List[Dict[str, Any]]) -> Dict[str, An
         )
         verdict = verifier.verify(deal, context=row.get("summary", ""))
         results.append({"title": row["title"], "label": row["label"], "decision": verdict.decision.value,
-                        "flags": verdict.flags, "tool_calls": verdict.tool_calls, "reason": verdict.reason})
+                        "urgent": verdict.urgent, "headline": verdict.headline, "flags": verdict.flags, "tool_calls": verdict.tool_calls, "reason": verdict.reason})
     return {"metrics": score(results), "results": results}
 
 
@@ -65,5 +66,6 @@ def score(results: List[Dict[str, Any]]) -> Dict[str, Any]:
         "false_keep_rate": rate(false_keep, len(label_reject)),
         "false_reject_rate": rate(false_reject, len(label_keep)),
         "unsure_rate": rate(total - len(decided), total),
+        "false_urgent": sum(1 for r in label_reject if r.get("urgent")),
         "avg_tool_calls": round(sum(r["tool_calls"] for r in results) / total, 2) if total else 0.0,
     }

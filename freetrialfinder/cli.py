@@ -5,7 +5,7 @@ from rich.console import Console
 from rich.table import Table
 
 from freetrialfinder.config import settings
-from freetrialfinder.models import DealItem, ConfidenceLevel, DealCategory
+from freetrialfinder.models import DealItem, ConfidenceLevel, DealCategory, Route
 from freetrialfinder.engine import FinderEngine
 from freetrialfinder.notifiers.telegram import TelegramNotifier
 from freetrialfinder.notifiers.discord import DiscordNotifier
@@ -31,25 +31,53 @@ def build_verifier(required: bool = False):
     from freetrialfinder.agent import DealVerifier, JsonlTracer
     from freetrialfinder.agent.llm import OpenAICompatibleClient
 
-    llm = OpenAICompatibleClient(
-        api_key=api_key,
-        model=settings.agent_model,
-        base_url=settings.agent_base_url,
-    )
-    return DealVerifier(llm=llm, tracer=JsonlTracer(settings.agent_trace_file))
+    # An OpenRouter-only setup keeps working now that the default endpoint is Groq.
+    base_url = settings.agent_base_url if settings.agent_api_key else "https://openrouter.ai/api/v1"
+    llm = OpenAICompatibleClient(api_key=api_key, model=settings.agent_model, base_url=base_url)
+    return DealVerifier(llm=llm, tracer=JsonlTracer(settings.agent_trace_file), profile=settings.load_profile())
 
 def handle_poll(args) -> int:
-    notifiers = build_notifiers(include_console=True)
+    from collections import Counter
+
+    console = Console()
+    verifier = build_verifier()
+    console.print(f"AI triage: [cyan]{'on (' + settings.agent_model + ')' if verifier else 'off (heuristic routing)'}[/]")
     engine = FinderEngine(
-        notifiers=notifiers,
+        notifiers=build_notifiers(include_console=True),
         state_file=args.state_file,
         min_score=args.min_score,
-        verifier=build_verifier(),
+        verifier=verifier,
         agent_max_per_run=settings.agent_max_per_run,
     )
-    new_deals = engine.run_cycle()
-    console = Console()
-    console.print(f"[bold green]Poll completed successfully![/] Found [cyan]{len(new_deals)}[/] new qualified deals.")
+    routed = engine.run_cycle()
+    counts = Counter(d.route.value for d in routed)
+    console.print(f"[bold green]Poll complete.[/] Routed {len(routed)} new deals: "
+                  f"now={counts['now']} digest={counts['digest']} drop={counts['drop']}")
+    return 0
+
+def handle_baseline(args) -> int:
+    """Mark everything the sources list right now as seen, without sending or calling the AI.
+    Run once after changing scoring or parsing so old items are not treated as new."""
+    engine = FinderEngine(notifiers=[], state_file=args.state_file, min_score=args.min_score)
+    if args.only:
+        engine.sources = [src for src in engine.sources if getattr(src, "name", "") in args.only]
+    new = engine.state_manager.filter_unseen(engine.evaluate_deals(engine.poll_all_sources()))
+    for deal in new:
+        deal.route = Route.DROP
+        deal.reasons.append("baseline")
+        engine.state_manager.record_deal(deal)
+    Console().print(f"Baseline: marked [cyan]{len(new)}[/] current deals as seen.")
+    return 0
+
+def handle_digest(args) -> int:
+    from datetime import timedelta
+
+    engine = FinderEngine(sources=[], notifiers=build_notifiers(include_console=True), state_file=args.state_file)
+    if args.if_due and not engine.digest_due(timedelta(hours=settings.digest_min_gap_hours)):
+        Console().print("Digest: not due yet.")
+        return 0
+    sent = engine.send_digest(max_items=settings.digest_max_items)
+    Console().print(f"[bold green]Digest:[/] {sent} deals sent." if sent else "Digest: nothing pending (or delivery failed).")
     return 0
 
 def handle_inspect(args) -> int:
@@ -98,7 +126,7 @@ def handle_test_notify(args) -> int:
     sample_deal = DealItem(
         id="test-notification-deal",
         title="Test Notification: Together AI $25 Free API Credits for Claude & Llama",
-        url="https://together.ai",
+        url="https://www.together.ai/",
         source="test_cli",
         provider="Together AI",
         category=DealCategory.API_CREDITS,
@@ -108,10 +136,16 @@ def handle_test_notify(args) -> int:
         promo_code="DEV25",
         estimated_value="$25",
         summary="This is a test notification verifying that your FreeTrialFinder alerts are working!",
+        route=Route.NOW,
+        verified=True,
+        headline="TEST · Together AI: $25 in free API credits",
+        why="Covers a few weeks of Llama and DeepSeek calls from Cline or Aider at no cost.",
+        action="Sign up, open Billing and redeem the code. Then set `OPENAI_BASE_URL=https://api.together.xyz/v1` in your coding agent.",
+        expires="30 Nov 2026",
     )
 
     for n in notifiers:
-        success = n.send(sample_deal)
+        success = n.send_digest([sample_deal]) if args.digest else n.send(sample_deal)
         n_name = n.__class__.__name__
         if success:
             console.print(f"[bold green][+] Successfully sent test alert via {n_name}![/]")
@@ -195,7 +229,16 @@ def main(args: Optional[List[str]] = None) -> int:
     inspect_parser.set_defaults(func=handle_inspect)
 
     test_parser = subparsers.add_parser("test-notify", parents=[parent_parser], help="Send a test notification to configured Telegram/Discord channels")
+    test_parser.add_argument("--digest", action="store_true", help="Preview the digest format instead of a single alert")
     test_parser.set_defaults(func=handle_test_notify)
+
+    digest_parser = subparsers.add_parser("digest", parents=[parent_parser], help="Send the daily digest of pending deals")
+    digest_parser.add_argument("--if-due", action="store_true", help="Only send if the last digest is older than DIGEST_MIN_GAP_HOURS")
+    digest_parser.set_defaults(func=handle_digest)
+
+    baseline_parser = subparsers.add_parser("baseline", parents=[parent_parser], help="Mark all current deals as seen without alerting")
+    baseline_parser.add_argument("--only", nargs="*", help="Limit to these source names (e.g. github_curated)")
+    baseline_parser.set_defaults(func=handle_baseline)
 
     eval_parser = subparsers.add_parser("eval", parents=[parent_parser], help="Score the verification agent against hand-labelled deals")
     eval_parser.add_argument("--labels", default="evals/labelled_deals.jsonl", help="Path to labelled JSONL file")

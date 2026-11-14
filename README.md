@@ -32,25 +32,34 @@ FreeTrialFinder addresses this through automated extraction and heuristic develo
 
 ---
 
-## Alert Dispatch Sample
+## What Reaches Your Phone
 
-When a qualifying deal or credit tier is discovered, an immediate alert is dispatched:
+An AI triage step reads every new candidate and routes it. Silence is the default:
+
+| Route | When | Delivery |
+| --- | --- | --- |
+| **now** | A verified, claimable offer that is new, time-limited or has a code, and matches `profile.md` | Telegram immediately |
+| **digest** | Verified but not urgent, or could not be verified | One daily summary message |
+| **drop** | Discussion posts, showcases, news, expired or paid-only offers | Never sent (remembered as seen) |
+
+Each alert is written by the AI, and promo codes are tap-to-copy (a `📋 Copy` button plus a monospace code):
 
 ```text
-[VERIFIED DEVELOPER/API CREDIT]
-Title: Together AI $25 Free Developer Credits for Claude & Llama
-Provider: Together AI
-Usability Score: 92/100
-Category: api_credits
-Promo Code: DEV25 (tap to copy)
-Value: $25
-Signals: mentions_api_endpoints, mentions_credits_tokens, has_promo_code
+Together AI: $25 in free API credits                      <- links to the source URL
+Covers a few weeks of Llama and DeepSeek calls from Cline or Aider at no cost.
 
-Summary:
-Enter promo code DEV25 at billing to receive $25 in API credits usable with OpenAI-compatible endpoint.
+Code     DEV25
+Value    $25
+Expires  30 Nov 2026
 
-Link: https://together.ai/signup?promo=DEV25
+How to claim
+Sign up, open Billing and redeem the code. Then set OPENAI_BASE_URL=https://api.together.xyz/v1
+
+Together AI · hacker news
+[ 📋 Copy DEV25 ]  [ Open offer ↗ ]
 ```
+
+Tune what counts as "now" by editing [`profile.md`](profile.md). No code changes needed.
 
 ---
 
@@ -149,6 +158,9 @@ python -m freetrialfinder.cli poll --state-file data/seen_deals.json --min-score
 # Verify Telegram / Discord wiring with a sample alert
 python -m freetrialfinder.cli test-notify
 
+# Send the daily digest of pending deals
+python -m freetrialfinder.cli digest
+
 # Build offline browser report from saved state
 python tools/export_html.py --in data/seen_deals.json --out data/report.html
 
@@ -160,43 +172,40 @@ pytest -v
 
 ## Cloud Deployment (GitHub Actions)
 
-The repository includes a ready-to-run scheduled workflow in `.github/workflows/poll.yml`.
+`.github/workflows/poll.yml` runs on a schedule (GitHub fires it a few times a day), runs the tests, polls, triages, alerts, sends the digest when the last one is 20+ hours old, and commits `data/seen_deals.json`.
 
-Because the repository is public, workflow execution incurs **zero cost and utilizes unlimited public runner minutes**.
+**Secrets** (Settings -> Secrets and variables -> Actions -> Secrets):
+- `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`
+- `AGENT_API_KEY`: key for the OpenAI-compatible triage model (default endpoint: Groq's free tier)
+- `DISCORD_WEBHOOK_URL` (optional), `PROFILE` (optional: private replacement for `profile.md`)
 
-### Workflow Configuration:
-1. In the repository settings, navigate to **Settings** -> **Secrets and variables** -> **Actions**.
-2. Add repository secrets:
-   - `TELEGRAM_BOT_TOKEN`: Telegram bot token from BotFather.
-   - `TELEGRAM_CHAT_ID`: Numeric user ID from userinfobot.
-   - `DISCORD_WEBHOOK_URL` (optional): Webhook URL for Discord notifications.
-3. The workflow executes automatically every 30 minutes, runs tests, polls candidate sources, dispatches alerts, and commits updated deduplication state back to `data/seen_deals.json`.
+**Variables** (optional, not secret): `AGENT_BASE_URL`, `AGENT_MODEL`, `AGENT_MAX_PER_RUN`, `MIN_SCORE`.
+
+Security notes: secrets are only exposed to the poll step (never to tests), third-party actions are pinned to commit SHAs, the workflow token is read-only except for the job that commits state, and AI traces are uploaded as a 7-day artifact instead of being committed to this public repo. Run the workflow manually with **force_digest** to get a digest immediately.
 
 ---
 
-## Verification Agent (optional)
+## AI Triage Agent
 
-Keyword heuristics cannot tell a real offer from a Reddit thread that merely mentions "free credits". Deals in the `POTENTIAL` tier (score 40-74) can be handed to a small tool-calling agent that reads the page and decides.
+Keyword heuristics cannot tell a real offer from a Reddit thread that merely mentions "free credits". The scorer is now only a cheap pre-filter; every new candidate goes to a small tool-calling agent that reads the page and decides.
 
 ```text
-POTENTIAL deal --> DealVerifier --(fetch_page)--> page text
-                        |                              |
-                        +<-------- model reads --------+
-                        |
-                  submit_verdict: keep | reject | unsure
-                        |
-     keep -> alert with "Agent check: <reason>"
-     reject -> recorded as seen, no alert
-     unsure -> alert as before (fails open)
+new deal --> DealVerifier --(fetch_page)--> page text
+                  |
+            submit_verdict: keep | reject | unsure  (+ urgent, headline, why, action, code, value, expires)
+                  |
+   keep + urgent -> now      keep -> digest      unsure -> digest ("could not verify")      reject -> drop
 ```
 
 Guardrails (all in `freetrialfinder/agent/`, all unit-tested offline with a scripted fake model):
 
-- **Bounded loop**: at most 5 model turns and 2 page fetches per deal, plus a per-run budget (`AGENT_MAX_PER_RUN`).
+- **Bounded loop**: at most 5 model turns and 2 page fetches per deal, plus a per-run budget (`AGENT_MAX_PER_RUN`). Deals over budget wait for the next run instead of going out unchecked.
 - **Tool allowlist**: only `fetch_page` and `submit_verdict` execute; any other tool name is refused and flagged.
 - **SSRF guard**: `fetch_page` allows only http(s) to public hosts, re-checks after redirects, blocks localhost, private, link-local and cloud metadata addresses, caps size and time, and strips scripts before the model sees the text.
-- **Grounded verdicts**: the verdict's `evidence` must be an exact quote from text the agent actually saw. Invented quotes downgrade the verdict to `unsure`. A `keep` without programmatic access is also downgraded.
-- **Fail open**: API errors, bad JSON or hitting a limit yield `unsure`, so an agent outage never hides a deal.
+- **Grounded verdicts**: `evidence` must be an exact quote from text the agent actually saw, or the verdict becomes `unsure`. A promo code is shown only if it appears verbatim in that text. Only a grounded `keep` can be urgent.
+- **Prompt-injection limits**: page text is treated as data; AI-written text is HTML-escaped and any URL in it is rendered as non-clickable code, so the only link in an alert is the URL from the source.
+- **Outages never spam or lose deals**: on API errors the agent stops after 2 consecutive failures, deals are retried next run, and after 3 days they go to the digest marked unverified.
+- **Delivery-confirmed state**: a "now" deal is only marked seen once Telegram/Discord accepted it.
 
 Observability and evaluation:
 
@@ -206,11 +215,18 @@ python -m freetrialfinder.cli traces --last 10
 
 # Score the agent against hand-labelled real deals (evals/labelled_deals.jsonl)
 python -m freetrialfinder.cli eval
+
+# Preview the alert and digest formats on your phone
+python -m freetrialfinder.cli test-notify
+python -m freetrialfinder.cli test-notify --digest
+
+# After changing a parser or scoring: mark what sources list now as seen, without alerting
+python -m freetrialfinder.cli baseline --only github_curated
 ```
 
-`eval` reports accuracy on decided deals, false-keep rate (spam that would be alerted), false-reject rate (real deals missed), unsure rate, and average tool calls per deal as a cost proxy.
+`eval` reports accuracy on decided deals, false-keep rate (spam that would be alerted), `false_urgent` (spam that would buzz your phone; must be 0), false-reject rate, unsure rate, and average tool calls per deal.
 
-Enable it with `ENABLE_AGENT=true` and `OPENROUTER_API_KEY` in `.env` (any OpenAI-compatible endpoint works via `AGENT_BASE_URL`; free `:free` OpenRouter models cost nothing).
+Locally, set `ENABLE_AGENT=true` and `AGENT_API_KEY` in `.env` (any OpenAI-compatible endpoint works via `AGENT_BASE_URL`).
 
 ---
 
