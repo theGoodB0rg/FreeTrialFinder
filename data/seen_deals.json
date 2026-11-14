@@ -18727,5 +18727,113 @@
     "confidence": "POTENTIAL",
     "discovered_at": "2026-11-14T15:37:46+00:00",
     "first_alerted_at": "2026-11-14T15:40:18.849316+00:00"
+  },
+  "ae3951a02fb08f49": {
+    "title": "Built with Claude Code: one MCP server that gives Claude all your other MCP servers, with way fewer tool-call round trips",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwblhz/built_with_claude_code_one_mcp_server_that_gives/",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-14T19:52:29+00:00",
+    "first_alerted_at": "2026-11-14T20:31:08.025861+00:00"
+  },
+  "784cc90785cb91b2": {
+    "title": "I built CodeRelay, an open-source tool for handing off work between teammates' AI agents",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwarae/i_built_coderelay_an_opensource_tool_for_handing/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T19:17:30+00:00",
+    "first_alerted_at": "2026-11-14T20:31:08.975962+00:00"
+  },
+  "5074a57cbfaeebab": {
+    "title": "I handed my startup's marketing to 6 Claude agents running on my Mac. Here are the real numbers after one week, zeros included.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw9wze/i_handed_my_startups_marketing_to_6_claude_agents/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:43:23+00:00",
+    "first_alerted_at": "2026-11-14T20:31:09.961057+00:00"
+  },
+  "83886038e69e0969": {
+    "title": "Fretbot is a free interactive guitar theory tool built with Claude Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw9hkn/fretbot_is_a_free_interactive_guitar_theory_tool/",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:26:10+00:00",
+    "first_alerted_at": "2026-11-14T20:31:10.956744+00:00"
+  },
+  "c2355f291d0daf4f": {
+    "title": "Show HN: YVD – Generate videos, images, and music in seconds with AI",
+    "url": "https://yvd.io/",
+    "provider": "General AI",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T17:48:35+00:00",
+    "first_alerted_at": "2026-11-14T20:31:11.897912+00:00"
+  },
+  "5ae88b6cb8a3dfc2": {
+    "title": "I built ywza with Claude Code: an MCP server that lets Claude use your PC, from your phone",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwaaff/i_built_ywza_with_claude_code_an_mcp_server_that/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:58:37+00:00",
+    "first_alerted_at": "2026-11-14T20:31:12.959778+00:00"
+  },
+  "d1955c00907ab725": {
+    "title": "I built Not-Everything with Claude Code: a free, open-source Everything-style file search for macOS",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw94nk/i_built_noteverything_with_claude_code_a_free/",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:11:52+00:00",
+    "first_alerted_at": "2026-11-14T20:31:13.940198+00:00"
+  },
+  "c9d6179e93761282": {
+    "title": "Claude vs Captain Obvious: who wins?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw9mp3/claude_vs_captain_obvious_who_wins/",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T18:31:49+00:00",
+    "first_alerted_at": "2026-11-14T20:31:14.888185+00:00"
+  },
+  "83bf5fdbaeedafb2": {
+    "title": "Agnes AI Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-image-2.0-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T20:31:01.602623+00:00",
+    "first_alerted_at": "2026-11-14T20:31:15.844328+00:00"
+  },
+  "1a884ad568856725": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-image-2.1-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T20:31:01.602658+00:00",
+    "first_alerted_at": "2026-11-14T20:31:16.802270+00:00"
+  },
+  "f850f7e1e8ed6c8a": {
+    "title": " Free API / Developer Tier",
+    "url": "https://freellm.net/models/agnes-ai/agnes-2.5-flash/\"",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T20:31:01.602683+00:00",
+    "first_alerted_at": "2026-11-14T20:31:17.802572+00:00"
+  },
+  "ef251abd1d4ca8f5": {
+    "title": "How to manage merge conflicts, when running many (50+) agents in parallel",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw8nhl/how_to_manage_merge_conflicts_when_running_many/",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T17:52:55+00:00",
+    "first_alerted_at": "2026-11-14T20:31:18.752507+00:00"
   }
 }
