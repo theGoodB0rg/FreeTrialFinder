@@ -21708,5 +21708,53 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "459c676a60b3c5cd": {
+    "title": "QA Engineers using Claude AI – Which plugins and tools do you recommend?",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx339p/qa_engineers_using_claude_ai_which_plugins_and/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T18:38:09+00:00",
+    "first_alerted_at": "2026-11-15T20:31:27.071656+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "agent_reject"
+    ]
+  },
+  "e6691d0e7648849b": {
+    "title": "Claude Desktop (Code tab) vs CLI in VS Code",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx5in1/claude_desktop_code_tab_vs_cli_in_vs_code/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T20:14:42+00:00",
+    "first_alerted_at": "2026-11-15T20:31:27.089699+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
