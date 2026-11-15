@@ -21357,5 +21357,54 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "a535483ad64fe691": {
+    "title": "Anthropic has opened up Claude Mythos access to the public.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwguid/anthropic_has_opened_up_claude_mythos_access_to/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-14T23:46:52+00:00",
+    "first_alerted_at": "2026-11-15T00:53:24.298184+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
+  },
+  "6cd0abbce3ad7487": {
+    "title": "Haiku low effort is fire! I asked it to make me a rap version of my dance track. It rewrote the lyrics, controlled Suno and generated visuals for next to no tokens",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwhpsh/haiku_low_effort_is_fire_i_asked_it_to_make_me_a/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T00:27:25+00:00",
+    "first_alerted_at": "2026-11-15T00:53:24.308812+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
