@@ -21854,5 +21854,128 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "115c40df9cd484b9": {
+    "title": "16 weeks of making game with Claude Opus in Godot",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxio78/16_weeks_of_making_game_with_claude_opus_in_godot/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 75,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-16T06:54:18+00:00",
+    "first_alerted_at": "2026-11-16T07:46:31.417527+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "7aedf74c12c3cadb": {
+    "title": "Anthropic published a guide on building always-on agents (Nov 13). It breaks them into 5 parts: inbox, timers, memory, permissions, outbox",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxdzcf/anthropic_published_a_guide_on_building_alwayson/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 55,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T02:35:56+00:00",
+    "first_alerted_at": "2026-11-16T07:46:31.431395+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "298c4ff33b57ff60": {
+    "title": "Title: Has anyone here built a coding harness / AI coding agent like Claude Code or OpenAI Codex? Looking for advice.",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxiq0l/title_has_anyone_here_built_a_coding_harness_ai/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T06:57:29+00:00",
+    "first_alerted_at": "2026-11-16T07:46:31.445315+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "agent_reject"
+    ]
+  },
+  "9535d4926268ce19": {
+    "title": "Opus 5.5 Nerf isn't that simple",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxicrh/opus_55_nerf_isnt_that_simple/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T06:34:25+00:00",
+    "first_alerted_at": "2026-11-16T07:46:31.460450+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
+  },
+  "59e6fe8b2f82c4fa": {
+    "title": "Token usage help",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xxentr/token_usage_help/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-16T03:10:21+00:00",
+    "first_alerted_at": "2026-11-16T07:46:31.474369+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_unsure"
+    ]
   }
 }
