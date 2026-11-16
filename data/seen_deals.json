@@ -21756,5 +21756,103 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "e7048edc779f2ef8": {
+    "title": "OpenAI Gives Pro and Business Subscribers Free API Credits Worth Up to $500 a Month - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KR1dScXJMdVVQMlowZjh4T19BeFJkX1Z2WC1lc241Nk5rZkZnZTZYZlA4TVpIOUZQdGg1WFdWQU5tSlRET2p0OGQ2Uy1GNG8welhfUnFoMHF1cC1rQVFaZUhTREh1ZWp4UFI1Wld5cm8tRmRUbnc?oc=5",
+    "source": "google_news",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T08:25:00+00:00",
+    "first_alerted_at": "2026-11-16T00:53:12.207291+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$500",
+    "reasons": [
+      "mentions_openai",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "ai_unavailable"
+    ]
+  },
+  "7a83d53f927e17af": {
+    "title": "I forked the 97 KB underwater world from this sub and built the Titanic wreck in it: still one HTML file, 96 KB",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx9s8l/i_forked_the_97_kb_underwater_world_from_this_sub/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T23:16:43+00:00",
+    "first_alerted_at": "2026-11-16T00:53:12.219032+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "9ebe69180eb9b11b": {
+    "title": "I made a little Claude that lives on my taskbar and shows what Claude Code is doing",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx9ig2/i_made_a_little_claude_that_lives_on_my_taskbar/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T23:04:37+00:00",
+    "first_alerted_at": "2026-11-16T00:53:12.230555+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
+  },
+  "d7bbc1a6349d07bc": {
+    "title": "Great use of tokens on a pull request",
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx7162/great_use_of_tokens_on_a_pull_request/",
+    "source": "reddit/r/ClaudeAI",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-15T21:17:33+00:00",
+    "first_alerted_at": "2026-11-16T00:53:12.241940+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
