@@ -22698,5 +22698,29 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "f29386daf5a72784": {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://news.ycombinator.com/item?id=50536468",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-17T19:01:43+00:00",
+    "first_alerted_at": "2026-11-18T10:33:01.217632+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$1,000",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
