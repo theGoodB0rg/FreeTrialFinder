@@ -22722,5 +22722,79 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "5b7aa0bb5c01f6cb": {
+    "title": "Show HN: Klistra – A complete studio for spec-driven AI motion design and video",
+    "url": "https://klistra.ai/",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-18T16:58:53+00:00",
+    "first_alerted_at": "2026-11-18T19:17:16.067411+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$25",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "mentions_promo_or_trial",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "5c814c91128b7ef3": {
+    "title": "ChatGPT Pricing, Plans, API and Business Seats - Meteora Web",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXVmYkVNTDdtTWRBeXh5TDJVSEtiejVoVGp1bC16OGd4T0lGNVFXM2lCMVZHazJCakFOcDZEU1RMT3dRWG5oMjFITmtxVVFUaVlFdXNVTmQ0QXN5YlRaSFdiV2ZPSUpaOS0wamVQMEhWWThHNHN2dmpNTzZrVG1GZTRXLUFWNnFZMHJ3eV9hbzY4QlB1Z01uQ2d4SzIxMnJvYUdmVUZxRFJxNWo3V2NXZWhYd2dLOC1EOWktTW9kVzZFNW8?oc=5",
+    "source": "google_news",
+    "provider": "OpenAI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-18T10:12:49+00:00",
+    "first_alerted_at": "2026-11-18T19:17:16.087100+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_openai",
+      "mentions_api_endpoints",
+      "agent_reject"
+    ]
+  },
+  "26f3860d4cc7bac8": {
+    "title": "Show HN: Terminess, a harness that runs the official Claude Code and Codex CLIs",
+    "url": "https://github.com/Terminess/terminess",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-18T15:09:12+00:00",
+    "first_alerted_at": "2026-11-18T19:17:16.107566+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "9 months",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
