@@ -65,7 +65,14 @@ class OpenAICompatibleClient:
                 resp = httpx.post(f"{self.base_url}/chat/completions", json=payload, headers=headers, timeout=self.timeout)
             except httpx.HTTPError as exc:
                 raise LLMError(f"request failed: {exc}") from exc
-            if resp.status_code not in (429, 503) or attempt == self.max_retries:
+            if attempt == self.max_retries:
+                break
+            if resp.status_code == 400 and "tool_use_failed" in resp.text:
+                # The model produced a malformed tool call (Groq validates them server side).
+                # That is a one-off slip, not an outage: ask again straight away.
+                self.retries_used += 1
+                continue
+            if resp.status_code not in (429, 503):
                 break
             wait = self._retry_after(resp)
             if wait is None or wait > self.max_wait:

@@ -82,6 +82,22 @@ def test_reject_is_kept_when_grounded():
     assert DealVerifier(llm, fetcher=fetcher).verify(deal()).decision == Decision.REJECT
 
 
+def test_reject_with_short_title_stays_rejected():
+    # A 3-word title can never pass the 4-word grounding rule; that used to turn a correct
+    # reject into "unsure" and put Reddit questions in the digest.
+    llm = ScriptedLLM([verdict_call(decision="reject", usable=False, evidence="Token usage help")])
+    v = DealVerifier(llm, fetcher=fetcher).verify(deal(title="Token usage help"))
+    assert v.decision == Decision.REJECT
+    assert "evidence_not_found" in v.flags
+
+
+def test_verdict_without_usable_from_code_is_accepted():
+    llm = ScriptedLLM([{"content": "", "tool_calls": [call("submit_verdict", {
+        "decision": "reject", "reason": "Just a discussion.", "evidence": "Use the OpenAI-compatible endpoint from any IDE"})]}])
+    v = DealVerifier(llm, fetcher=fetcher).verify(deal(summary=PAGE))
+    assert v.decision == Decision.REJECT and v.usable_from_code is False
+
+
 def test_turn_limit_fails_open():
     llm = ScriptedLLM([{"content": "thinking..."}] * 3)
     v = DealVerifier(llm, fetcher=fetcher, max_turns=3).verify(deal())
@@ -384,3 +400,10 @@ def test_profile_is_added_to_system_prompt():
     llm = ScriptedLLM([verdict_call()])
     DealVerifier(llm, fetcher=fetcher, profile="I only use Groq.").verify(deal())
     assert "I only use Groq." in llm.seen[0][0]["content"]
+
+
+def test_llm_retries_malformed_tool_call(monkeypatch):
+    bad = httpx.Response(400, text='{"error":{"message":"Tool call validation failed","code":"tool_use_failed"}}')
+    client, waits = _client([bad, httpx.Response(200, json=OK_BODY)], monkeypatch)
+    assert client.chat([], [])["content"] == "hi"
+    assert waits == []

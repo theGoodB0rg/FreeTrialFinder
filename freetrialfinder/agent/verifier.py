@@ -58,7 +58,7 @@ _LIMITS = {"reason": 400, "evidence": 400, "headline": 90, "why": 240, "action":
 
 class _VerdictArgs(BaseModel):
     decision: Decision
-    usable_from_code: bool
+    usable_from_code: bool = False
     urgent: bool = False
     reason: str = Field(min_length=3)
     evidence: str = ""
@@ -134,7 +134,7 @@ TOOLS: List[Dict[str, Any]] = [
                     "value": {"type": "string", "description": "e.g. '$25 API credits', or empty."},
                     "expires": {"type": "string", "description": "Deadline as written, or empty."},
                 },
-                "required": ["decision", "usable_from_code", "reason", "evidence"],
+                "required": ["decision", "reason", "evidence"],
             },
         },
     },
@@ -292,10 +292,12 @@ class DealVerifier:
             verdict.flags.append("code_not_found")
             verdict.promo_code = ""
 
-        # Grounding guard: a KEEP or REJECT must quote something the agent actually saw.
-        if verdict.decision != Decision.UNSURE:
-            if not evidence_is_grounded(parsed.evidence, " ".join(seen_text)):
-                verdict.flags.append("evidence_not_found")
+        # Grounding guard: a KEEP must quote something the agent actually saw. A REJECT is
+        # not downgraded: dropping is the safe direction, and short titles ("Token usage
+        # help") can never satisfy the 4-word quote rule, which sent noise to the digest.
+        if not evidence_is_grounded(parsed.evidence, " ".join(seen_text)):
+            verdict.flags.append("evidence_not_found")
+            if verdict.decision == Decision.KEEP:
                 verdict.decision = Decision.UNSURE
                 verdict.reason = f"downgraded: evidence quote not found in fetched text. Model said: {parsed.reason}"
 
