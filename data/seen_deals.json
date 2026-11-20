@@ -22796,5 +22796,30 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "5024e187abc012fb": {
+    "title": "ChatGPT Pro and Business Now Include Up to $500 a Month in Free API Credits - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTRGOUhsdVdqMmFmM3RPQUJORTU5NGlGcElnUFRETjVMVjhhNG92bW05SXFsS2VuVEhuSnlxZHdyVUlvTmp6VnBlMmhiOUlObThFMWNWUkcxQ2RWM2U1RFdhMGJVejZ6XzE1RGxkVFQtdjFaeVQtRDdfVW1DSk8yVWJ4VElSeXpweWxFaUR1dHR4SEdoSVg3SncyeXhubWJydjMtOU1mNklQelQxQWc0?oc=5",
+    "source": "google_news",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-29T07:00:00+00:00",
+    "first_alerted_at": "2026-11-20T08:59:13.514955+00:00",
+    "route": "digest",
+    "sent_at": "2026-11-20T08:59:14.282100+00:00",
+    "verified": false,
+    "headline": "",
+    "why": "Free API credits could offset usage costs for developers.",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$500 per month free API credits",
+    "reasons": [
+      "mentions_openai",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "agent_unsure"
+    ]
   }
 }
