@@ -22821,5 +22821,80 @@
       "mentions_credits_tokens",
       "agent_unsure"
     ]
+  },
+  "00f5ed451b171873": {
+    "title": "Show HN: Prediction market competition where only agents can trade",
+    "url": "https://www.vaticin.ai",
+    "source": "hacker_news",
+    "provider": "General AI",
+    "score": 70,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-20T13:27:15+00:00",
+    "first_alerted_at": "2026-11-20T17:43:42.982418+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_general_ai",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "69ab3a411e6a3ecc": {
+    "title": "Claude Max & Team API Credits: $100-$500/Month, How to Claim - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQODdlaVhkV29EWWhJcVJwSVlqckFzNmNLOU4zTVh0WHhBSWF0bHhJdktCNno3aEFlZS1RTXhIR3NveWc4MnY3d0pQNHByLUxldkFLenZrLWw5dU9maVFRdlh2dTQ2SWdDUXZkcGZHMEstRTRMejVTOHo3NzNTWlBZcUhTdjdINzltQ0VDcE44Zw?oc=5",
+    "source": "google_news",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-08T07:00:00+00:00",
+    "first_alerted_at": "2026-11-20T17:43:42.993788+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$100",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "agent_unsure"
+    ]
+  },
+  "ef2b2602ee58329c": {
+    "title": "Anthropic Expands AI for Science: 20 Foundations and Institutions Get Claude Credits - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjJiRGlJendVWV82TWxJbWJfa3RsYzU5VDlOR2JOR2pvUlhNU2dEbUJKakFvRVYwX2pxQ1QxY0Z2dlFMMHJRVUd0N1ZwUGRBZlJaeWI3SjdfLWQzb29NdnIyMzBua0xhRlBOb2tvZ0t2OWY4WFpJUi1fdXdkTzljeGQtMTZsNkt5SzJnekFkSHR3d05IbEhCQUVkVHVyaWVEVmJEVUJLZW8?oc=5",
+    "source": "google_news",
+    "provider": "Anthropic",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T07:00:00+00:00",
+    "first_alerted_at": "2026-11-20T17:43:43.005165+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
