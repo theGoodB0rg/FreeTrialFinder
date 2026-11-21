@@ -22896,5 +22896,102 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "ea7b3000c7cde66b": {
+    "title": "Show HN: Accounting built like Git, with files in your own storage",
+    "url": "https://github.com/spooky6G/bobalice_books",
+    "source": "hacker_news",
+    "provider": "General AI",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-21T13:52:43+00:00",
+    "first_alerted_at": "2026-11-21T14:54:23.937176+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_general_ai",
+      "mentions_credits_tokens",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "909b33a61d79ecbf": {
+    "title": "OpenRouter's Fusion API bets the future of AI belongs to panels, not single frontier models - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlJ2V0o2eE5VSGlaU0xZRXVNTEpDLUx2dFllaVVEeG52dXY5UURwZ1NzdkhFT2hNcEFxX3l1TUV5MGROXzJoeUVfNm44bU5VT18tbGJid0pPZWNmT3VNV0VhX1NfNm9ZSXRscWlfc1pxeWg3Mmtpcld3c1hUX2RKSWYteGRLeU04bUpuR09qdGFUdEdXdGhFSS1neHdycmk4Qm42eTJCMkxKZUIxeE9SZElibHNiZlJE?oc=5",
+    "source": "google_news",
+    "provider": "OpenRouter",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-06-20T07:00:00+00:00",
+    "first_alerted_at": "2026-11-21T14:54:23.948281+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_openrouter",
+      "mentions_api_endpoints",
+      "agent_reject"
+    ]
+  },
+  "3293aec8ccd45d37": {
+    "title": "pplx-decider v1.3: Locate Extraction API (2026) - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlRWRFFMbHVmTzIyb09lT19tZlp5MHMzQVVtT1ZiWkw2LTBLWkZtZ201bktKV2ltWmtKbm5QRmVSVmZBR1NsaXBqTU5nZFFmTzlTc0VYNFp1SzEwblgzdDZaZEhuZjItQ0NIMndobnJTcnBkMTg2NmNPLU9keG1YSG1VSmM5b3hFV2Y0UUlR?oc=5",
+    "source": "google_news",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-12T00:00:00+00:00",
+    "first_alerted_at": "2026-11-21T14:54:23.959035+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_general_ai",
+      "mentions_api_endpoints",
+      "ai_unavailable"
+    ]
+  },
+  "62469c85e3cee4ea": {
+    "title": "Tencent Hy3: 295B Open-Source MoE Model for Agentic Coding — Apache 2.0, Free API, 256K Context - explainx.ai",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUZkd3R1S3pfanNvdnQ1cFU4RFVneS0zTFdGQWJ4ZHh1bXNmQTFLdkFoSHVqZmQtRkliSFRQSi1qWWJfTzlzaFFLWGlpY1R2TGpzT1k0cUZJS3pKN1hsdWREeWNUT2lGWlJqZ3pEZW5FY0RBQkQ5d3hhRnJ3ZzFoRnZB?oc=5",
+    "source": "google_news",
+    "provider": "General AI",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-07-07T07:00:00+00:00",
+    "first_alerted_at": "2026-11-21T14:54:23.969646+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_general_ai",
+      "mentions_api_endpoints",
+      "ai_unavailable"
+    ]
   }
 }
