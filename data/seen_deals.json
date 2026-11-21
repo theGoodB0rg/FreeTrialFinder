@@ -22993,5 +22993,31 @@
       "mentions_api_endpoints",
       "ai_unavailable"
     ]
+  },
+  "c8b955ca58f3296f": {
+    "title": "Show HN: Klistra – Make launch videos and product demos, all in one AI studio",
+    "url": "https://klistra.ai",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-21T15:06:53+00:00",
+    "first_alerted_at": "2026-11-21T20:50:17.046557+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$25",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "mentions_promo_or_trial",
+      "has_promo_code",
+      "agent_reject"
+    ]
   }
 }
