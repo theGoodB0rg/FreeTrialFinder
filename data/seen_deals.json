@@ -22956,7 +22956,7 @@
     "discovered_at": "2026-11-12T00:00:00+00:00",
     "first_alerted_at": "2026-11-21T14:54:23.959035+00:00",
     "route": "digest",
-    "sent_at": null,
+    "sent_at": "2026-11-22T08:39:04.507282+00:00",
     "verified": false,
     "headline": "",
     "why": "",
@@ -22980,7 +22980,7 @@
     "discovered_at": "2026-07-07T07:00:00+00:00",
     "first_alerted_at": "2026-11-21T14:54:23.969646+00:00",
     "route": "digest",
-    "sent_at": null,
+    "sent_at": "2026-11-22T08:39:04.507282+00:00",
     "verified": false,
     "headline": "",
     "why": "",
@@ -23018,6 +23018,31 @@
       "mentions_promo_or_trial",
       "has_promo_code",
       "agent_reject"
+    ]
+  },
+  "f484ca85c455436f": {
+    "title": "OpenAI adds up to $500 in monthly API credits to eligible ChatGPT subscriptions - Superpower Daily",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0xlQmZkREhpT2NUa3ZJXzVPcjBneFZYRnQ4V3VOSUNybkxCRGg1TGFiMk5JaUdleFU1T1MyV2pqWGJWbmVTQUhQS2tmNjVxRGFJVlo1Qi1qeUxfdUlfMUNlUVpQamRRWmNYalk1OThHS0NhTVBld0xHeUJpTTRfdThDUTFiWGVIclZxWG1OS29Yb1dzVDdMZ0lEd2stdWpFMkE0c2lBV3UycnZNdVNlb1Vn?oc=5",
+    "source": "google_news",
+    "provider": "OpenAI",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-28T07:00:00+00:00",
+    "first_alerted_at": "2026-11-22T08:39:03.683937+00:00",
+    "route": "digest",
+    "sent_at": "2026-11-22T08:39:04.507282+00:00",
+    "verified": false,
+    "headline": "OpenAI: up to $500 monthly API credits for ChatGPT subscribers",
+    "why": "Free API credits could offset usage costs for developers with a ChatGPT subscription.",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$500 monthly API credits",
+    "reasons": [
+      "mentions_openai",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "agent_unsure"
     ]
   }
 }
