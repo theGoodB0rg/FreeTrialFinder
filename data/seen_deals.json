@@ -24033,5 +24033,107 @@
       "mentions_credits_tokens",
       "agent_keep"
     ]
+  },
+  "a328b7c17a4953ad": {
+    "title": "Show HN: Aisma – edit footage you shot from a text brief, via REST API or MCP",
+    "url": "https://aisma.ai/developers",
+    "source": "hacker_news",
+    "provider": "OpenAI",
+    "score": 90,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-24T13:07:11+00:00",
+    "first_alerted_at": "2026-11-24T20:48:54.780047+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_openai",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "mentions_promo_or_trial",
+      "has_promo_code",
+      "agent_reject"
+    ]
+  },
+  "502bec4b9f38b50e": {
+    "title": "z-ai/glm-5.3-flash Free API / Developer Tier",
+    "url": "https://freellm.net/models/nvidia-nim/z-ai-glm-5-3-flash/",
+    "source": "github_curated",
+    "provider": "General AI",
+    "score": 60,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T20:47:32.842230+00:00",
+    "first_alerted_at": "2026-11-24T20:48:54.800461+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "NVIDIA NIM: free API tier for z-ai/glm-5.3-flash",
+    "why": "Provides OpenAI‑compatible free API access to a 1 M token context model useful for coding agents.",
+    "action": "Create a NVIDIA NIM account; obtain an API key from the dashboard; set base URL to `https://integrate.api.nvidia.com/v1`; use model ID `z-ai/glm-5.3-flash` in your client.",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "Free tier up to 40 RPM",
+    "reasons": [
+      "mentions_general_ai",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "agent_unsure"
+    ]
+  },
+  "9b5f10077b8c8237": {
+    "title": "Kilo Code: xingchen-agi/xing4.0-29b-a4b:free Free API / Developer Tier",
+    "url": "https://freellm.net/models/kilo-code/xingchen-agi-xing4-0-29b-a4b-free/",
+    "source": "github_curated",
+    "provider": "General AI",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T20:47:32.839404+00:00",
+    "first_alerted_at": "2026-11-24T20:48:54.820501+00:00",
+    "route": "digest",
+    "sent_at": null,
+    "verified": false,
+    "headline": "Kilo Code: free API for xing4.0-29b-a4b model",
+    "why": "Provides OpenAI‑compatible free access to a 262K‑context model for evaluation or light production.",
+    "action": "Sign up on Kilo Code, copy the API key, then call the endpoint `https://api.kilo.ai/api/gateway` with model ID `xingchen-agi/xing4.0-29b-a4b:free`.",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "Free tier, 200 req/hr",
+    "reasons": [
+      "mentions_general_ai",
+      "mentions_api_endpoints",
+      "has_promo_code",
+      "agent_unsure"
+    ]
+  },
+  "a9150f8ae76b04c0": {
+    "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+    "url": "https://news.ycombinator.com/item?id=50633601",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 50,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T19:51:01+00:00",
+    "first_alerted_at": "2026-11-24T20:48:54.840107+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "2 days",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_credits_tokens",
+      "has_promo_code",
+      "agent_reject"
+    ]
   }
 }
