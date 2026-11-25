@@ -24135,5 +24135,31 @@
       "has_promo_code",
       "agent_reject"
     ]
+  },
+  "ad6a5764295989f2": {
+    "title": "Four C/C++ libraries ported to pure managed .NET on a $20 plan",
+    "url": "https://news.ycombinator.com/item?id=50635452",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 45,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-24T22:05:34+00:00",
+    "first_alerted_at": "2026-11-25T04:00:59.581885+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "$20",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "penalty_chatbot_wrapper",
+      "agent_reject"
+    ]
   }
 }
