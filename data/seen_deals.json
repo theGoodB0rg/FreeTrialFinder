@@ -24305,5 +24305,30 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "5a731eb9d970ade4": {
+    "title": "Show HN: HeyCube – The personalized feed for your always-on AI agents",
+    "url": "https://inxpanse.com/heycube",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 65,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-11-25T19:47:37+00:00",
+    "first_alerted_at": "2026-11-25T23:30:30.853840+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
