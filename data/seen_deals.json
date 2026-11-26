@@ -24330,5 +24330,29 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "1358d773fe0664e4": {
+    "title": "OpenRouter reportedly crosses a 10 quadrillion-token annual run rate - Digg",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Kb0xzOWVFSkwwRE4tbjk0VlBEZVptNG93WXB2RjhjNURpWV9namdLOGVSVFJtaU5RVEt3VnRxdEhBZw?oc=5",
+    "source": "google_news",
+    "provider": "OpenRouter",
+    "score": 40,
+    "confidence": "POTENTIAL",
+    "discovered_at": "2026-10-11T07:00:00+00:00",
+    "first_alerted_at": "2026-11-26T05:24:04.652637+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": null,
+    "reasons": [
+      "mentions_openrouter",
+      "mentions_credits_tokens",
+      "agent_reject"
+    ]
   }
 }
