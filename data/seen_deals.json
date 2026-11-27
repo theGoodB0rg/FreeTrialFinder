@@ -24354,5 +24354,31 @@
       "mentions_credits_tokens",
       "agent_reject"
     ]
+  },
+  "a36e3c77606a2410": {
+    "title": "Show HN: Neui – Go web apps with a built-in AI agent",
+    "url": "https://github.com/doors-dev/neui",
+    "source": "hacker_news",
+    "provider": "Anthropic",
+    "score": 85,
+    "confidence": "DIRECT_IDE",
+    "discovered_at": "2026-11-26T16:09:36+00:00",
+    "first_alerted_at": "2026-11-27T00:26:29.765421+00:00",
+    "route": "drop",
+    "sent_at": null,
+    "verified": false,
+    "headline": "",
+    "why": "",
+    "action": "",
+    "expires": "",
+    "promo_code": null,
+    "estimated_value": "3 months",
+    "reasons": [
+      "mentions_anthropic",
+      "mentions_api_endpoints",
+      "mentions_openai_compatible",
+      "has_promo_code",
+      "agent_reject"
+    ]
   }
 }
